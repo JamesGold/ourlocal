@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+	  <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+	
+	  <title>Your Local: {{ layout.title }}</title>
+	  <meta name="description" content="The Content">
+	  <meta name="author" content="The Author">
+
+	  <link href="https://fonts.googleapis.com/css?family=Lobster|PT+Sans|Rokkitt:200,300,400" rel="stylesheet">
+	  <link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}">      <!-- was: {{ site.baseurl }}/assets/style.css -->
+	  <link rel="apple-touch-icon-precomposed" href="{{ '/apple-touch-icon-precomposed.png' | relative_url }}">    <!-- {{ site.baseurl }}/apple-touch-icon-precomposed.png -->
+	
+	  <!--[if lt IE 9]>
+	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	  <![endif]-->
+	</head>
+	<body>
+		<script src="{{ '/assets/js/scripts.js' | relative_url }}"></script> 
+			{% include header.html %}
+				<div class="container">{{ content }}</div><!--eof container -->			
+			{% include footer.html %}
+	</body>
+</html>
+ 
+
+
+

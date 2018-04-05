@@ -1,0 +1,73 @@
+// Buttons
+	
+
+		
+	
+@mixin buttonstyles {
+		font-family:  $utility-font;
+		font-size: 1.3rem;
+		font-weight: 200;
+		background: #000000;
+		padding:.25em .5em;
+		border:none;
+		border-radius: 0.25rem;
+		text-decoration: none;
+		color: #fff;
+		transition: background-color .6s ease-out;
+		display: inline-block;
+		margin: .625em;
+	
+		&:hover{
+			background: #555;
+			transition: background-color .2s ease-out;
+			}
+		
+		&:active{
+			background: #777;
+			transition: background-color .1s ease-in;
+			}		
+}	
+
+
+@mixin buttoncta {
+		background: #c03030;
+		color: #fff;
+	
+		&:hover{
+			background: #d06b27;
+			}
+		
+		&:active{
+			background: #ff6700;
+			}		
+}	
+
+
+@mixin buttonlight {
+		background: rgba(255, 255, 255, 0.8);
+		color: #444;
+	
+		&:hover{
+			background: rgba(255, 255, 255, 0.5);
+			}
+		
+		&:active{
+			background: rgba(255, 255, 255, 1);
+			}		
+}		
+
+
+.button, button, {
+  	@include buttonstyles;
+	}
+
+.button.buttoncta, button.buttoncta, input[type="submit"] {
+  	@include buttonstyles;
+  	@include buttoncta;
+  	}
+
+
+.button.light, button.light,  {
+	 @include buttonstyles;
+	 @include buttonlight;	 
+	}

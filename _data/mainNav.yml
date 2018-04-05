@@ -1,0 +1,14 @@
+- title: Home
+  url: /
+
+- title: Locations  
+  url: /locations
+  
+- title: About
+  url: /about
+  
+- title: Latest News
+  url: /news 
+  
+- title: Food &amp; Drink 
+  url: /food-and-drink
