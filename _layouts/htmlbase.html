@@ -18,10 +18,10 @@
 	  <![endif]-->
 	</head>
 	<body>
-		<script src="{{ '/assets/js/scripts.js' | relative_url }}"></script> 
+		<script src="{{ '/assets/js/scripts-min.js' | relative_url }}"></script> 
 			{% include header.html %}
-				<div class="container">{{ content }}</div><!--eof container -->			
-			{% include footer.html %}
+				{{ content }}
+				{% include footer.html %}
 	</body>
 </html>
  

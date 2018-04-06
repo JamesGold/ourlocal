@@ -86,6 +86,13 @@
 		"oAP": "\/_includes\/mainnav.html",
 		"oF": 0
 		},
+	"\/_includes\/promo-block-1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/promo-block-1.html",
+		"oF": 0
+		},
 	"\/_layouts\/home.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -146,6 +153,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/dessert.jpg": {
+		"ft": 16384,
+		"iS": 40147,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/dessert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/Feel-at-Home.png": {
 		"ft": 32768,
 		"iS": 13456,
@@ -166,6 +183,46 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_site\/assets\/img\/placeholder2.jpg": {
+		"ft": 16384,
+		"iS": 105382,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/placeholder2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/js\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/assets\/js\/scripts.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/scripts-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/_site\/assets\/scss\/style.css": {
 		"aP": 1,
@@ -196,6 +253,44 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/_site\/assets\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/_site\/assets\/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/style.css.map",
+		"oF": 0
+		},
+	"\/_site\/assets\/video\/dessert.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/video\/dessert.mp4",
+		"oF": 0
+		},
+	"\/_site\/assets\/video\/dessert.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/video\/dessert.ogv",
+		"oF": 0
+		},
+	"\/_site\/assets\/video\/dessert.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/video\/dessert.webm",
+		"oF": 0
 		},
 	"\/_site\/favicon.png": {
 		"ft": 32768,
@@ -257,24 +352,6 @@
 		"oAP": "\/_site\/TestGrids.html",
 		"oF": 0
 		},
-	"\/about.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/about.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/about\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -291,6 +368,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/dessert.jpg": {
+		"ft": 16384,
+		"iS": 199218,
+		"oA": 0,
+		"oAP": "\/assets\/img\/dessert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/Feel-at-Home.png": {
@@ -313,6 +400,46 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/assets\/img\/placeholder2.jpg": {
+		"ft": 16384,
+		"iS": 105382,
+		"oA": 0,
+		"oAP": "\/assets\/img\/placeholder2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"oA": 0,
+		"oAP": "\/assets\/img\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/js\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/scripts.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/scripts-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/assets\/scss\/_elements.scss": {
 		"aP": 0,
@@ -539,6 +666,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/scss\/widgets\/_promoblock.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/scss\/widgets\/_promoblock.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/scss\/widgets\/_tables.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -567,6 +707,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/style.css.map",
+		"oF": 0
+		},
+	"\/assets\/video\/dessert.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/video\/dessert.mp4",
+		"oF": 0
+		},
+	"\/assets\/video\/dessert.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/video\/dessert.ogv",
+		"oF": 0
+		},
+	"\/assets\/video\/dessert.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/video\/dessert.webm",
 		"oF": 0
 		},
 	"\/favicon.png": {

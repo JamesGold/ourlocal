@@ -6,7 +6,7 @@
 
 
 header {
-	background: url(/assets/img/placeholder.jpg) center center no-repeat ;
+	background: url(/assets/img/placeholder3.jpg) center center no-repeat ;
 	background-size:cover;
 	background-attachment: fixed;
 	width:100%;
@@ -18,10 +18,10 @@ header {
 	align-items: center;
 	justify-content: center;
 	margin-top:5rem;
-	@include breakpoint(break1) {height:14rem;}
-	@include breakpoint(break2) {height:18rem;}
-	@include breakpoint(break3) {height:22rem;}
-	@include breakpoint(break4) {height:26rem;}
+	@include breakpoint(break1) {height:24rem;}
+	@include breakpoint(break2) {height:28rem;}
+	@include breakpoint(break3) {height:32rem;}
+	@include breakpoint(break4) {height:36rem;}
 	
 	}	
 	

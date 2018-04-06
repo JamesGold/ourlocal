@@ -818,7 +818,7 @@ html {
   transition: all .8s;
 }
 
-/* line 19, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 18, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 body {
   font-size: 16px;
   /* 450px / 16px = 28.125em */
@@ -829,44 +829,44 @@ body {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 19, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 18, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   body {
     font-size: 1.1rem;
   }
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 19, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 18, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   body {
     font-size: 1.2rem;
   }
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 19, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 18, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   body {
     font-size: 1.25rem;
   }
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 19, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 18, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   body {
     font-size: 1.3rem;
   }
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 19, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 18, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   body {
     font-size: 1.4rem;
   }
 }
 
-/* line 28, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-.container, .headergroup, .footercontent {
+/* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+.container, .headergroup, .footercontent, .promo-block {
   max-width: 96%;
-  margin: 0 auto;
+  margin: 1em auto;
   /* 450px / 16px = 28.125em */
   /* 560px / 16px = 35em */
   /* 768px / 16px = 48em */
@@ -875,58 +875,82 @@ body {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 28, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent {
+  /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  .container, .headergroup, .footercontent, .promo-block {
     max-width: 96%;
   }
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 28, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent {
+  /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  .container, .headergroup, .footercontent, .promo-block {
     max-width: 90%;
   }
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 28, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent {
+  /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  .container, .headergroup, .footercontent, .promo-block {
     max-width: 85%;
   }
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 28, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent {
+  /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  .container, .headergroup, .footercontent, .promo-block {
     max-width: 85%;
   }
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 28, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent {
+  /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  .container, .headergroup, .footercontent, .promo-block {
     max-width: 85%;
   }
 }
 
-/* line 42, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 45, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .headergroup {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: .625em;
 }
 
-/* line 48, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 51, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 nav {
   grid-column: 2 / 4;
 }
 
-/* line 49, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 52, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .badge {
   grid-column: 1 / 2;
 }
 
-/* line 57, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 56, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: .625em;
+}
+
+/* line 64, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+.promo-block {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-column-gap: .625em;
+}
+
+/* line 76, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+.fullbg {
+  width: 100%;
+}
+
+/* line 79, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+.fullbg.bggreen {
+  background: #8fb090;
+}
+
+/* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .sizes:before {
   content: "Breakpoint: 0";
   color: #222;
@@ -942,7 +966,7 @@ nav {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 57, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #ffe8e8;
     content: "Breakpoint: 1";
@@ -950,7 +974,7 @@ nav {
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 57, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #e4c6f8;
     content: "Breakpoint: 2";
@@ -958,7 +982,7 @@ nav {
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 57, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c6cef8;
     content: "Breakpoint: 3";
@@ -966,7 +990,7 @@ nav {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 57, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c3ffd9;
     content: "Breakpoint: 4";
@@ -974,7 +998,7 @@ nav {
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 57, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #cfff21;
     content: "Breakpoint: 5";
@@ -1018,7 +1042,7 @@ footer p small {
 
 /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header {
-  background: url(/assets/img/placeholder.jpg) center center no-repeat;
+  background: url(/assets/img/placeholder3.jpg) center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
@@ -1037,28 +1061,28 @@ header {
 @media only screen and (min-width: 28.125em) {
   /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header {
-    height: 14rem;
+    height: 24rem;
   }
 }
 
 @media only screen and (min-width: 35em) {
   /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header {
-    height: 18rem;
+    height: 28rem;
   }
 }
 
 @media only screen and (min-width: 48em) {
   /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header {
-    height: 22rem;
+    height: 32rem;
   }
 }
 
 @media only screen and (min-width: 56em) {
   /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header {
-    height: 26rem;
+    height: 36rem;
   }
 }
 
@@ -1149,7 +1173,7 @@ nav {
 /* line 7, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 nav ul {
   list-style: none;
-  padding: 1em 0;
+  padding: 0em 0;
   margin-top: -4rem;
   display: flex;
   justify-content: space-between;
@@ -1158,12 +1182,12 @@ nav ul {
 /* line 16, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 nav ul li {
   margin: 0;
-  padding: .325em .623em;
+  padding: .325em .323em .125em;
 }
 
 /* line 20, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 nav ul li.active {
-  background: rgba(251, 231, 154, 0.82);
+  border-bottom: 2px solid #666;
 }
 
 /* line 22, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
@@ -1188,7 +1212,7 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
-/* line 35, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 34, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .subnav {
   list-style: none;
   padding: 0;
@@ -1349,6 +1373,40 @@ table th {
   display: block;
   font-weight: bold;
   font-size: 1.2em;
+}
+
+/* line 7, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.promo-block .bgimg {
+  background: url(/assets/img/dessert.jpg) center center no-repeat;
+  background-size: cover;
+  min-height: 12em;
+}
+
+/* line 13, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.promo-block .textarea {
+  padding: 1em;
+  color: #fff;
+  margin: auto 0;
+}
+
+/* line 17, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.promo-block h2 {
+  font-family: "Lobster", cursive;
+  font-size: 4rem;
+  font-weight: 200;
+  line-height: 1em;
+  padding: 0;
+  margin: 0 0 .325em;
+}
+
+/* line 26, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.promo-block p {
+  margin: 0 0 .625rem;
+}
+
+/* line 27, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.promo-block p:last-of-type {
+  margin-bottom: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
