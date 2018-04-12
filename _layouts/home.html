@@ -4,25 +4,10 @@ author: "James"
 title: Our Local
 pagetitle: "Home"
 ---
-<div class="container">
-	<div class="card">
-		<h3>Locations</h3>
-		<p>Find the best local pub near you</p>
-	</div><!-- eof card -->	
-	
-	<div class="card">
-		<h3>Our Food & Drink</h3>
-		<p>What are we serving up today</p>
-	</div><!-- eof card -->	
-	
-	<div class="card">
-		<h3>Latest News</h3>
-		<p>See what happening at Our Local</p>
-	</div><!-- eof card -->	
-	</div>
-</div><!--eof container -  -->
+{% include featurecard-block.html %}
+
 {% include promo-block-1.html %}
 
-<!-- social feed area -->
+{% include socialwall-block.html %}
 
-<a href="https://api.instagram.com/oauth/authorize/?client_id=722424a5285e48ee866b821c964cbe89&redirect_uri=https://design.pbcdev.co.uk/&response_type=token" class="button">integrate Instagram</a>
+	

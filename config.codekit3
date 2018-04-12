@@ -65,6 +65,13 @@
 		"oAP": "\/_data\/mainNav.yml",
 		"oF": 0
 		},
+	"\/_includes\/featurecard-block.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/featurecard-block.html",
+		"oF": 0
+		},
 	"\/_includes\/footer.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -91,6 +98,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/promo-block-1.html",
+		"oF": 0
+		},
+	"\/_includes\/socialwall-block.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/socialwall-block.html",
 		"oF": 0
 		},
 	"\/_layouts\/home.html": {
@@ -133,48 +147,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_posts\/2018-04-05-welcome-to-jekyll.markdown",
-		"oF": 0
-		},
-	"\/_site\/2222_plugins\/social_wall\/social_networks\/credentials.env": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/credentials.env",
-		"oF": 0
-		},
-	"\/_site\/2222_plugins\/social_wall\/social_networks\/facebook.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/facebook.rb",
-		"oF": 0
-		},
-	"\/_site\/2222_plugins\/social_wall\/social_networks\/instagram.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/instagram.rb",
-		"oF": 0
-		},
-	"\/_site\/2222_plugins\/social_wall\/social_networks\/shared_methods.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/shared_methods.rb",
-		"oF": 0
-		},
-	"\/_site\/2222_plugins\/social_wall\/social_networks\/twitter.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/twitter.rb",
-		"oF": 0
-		},
-	"\/_site\/2222_plugins\/social_wall\/social_wall.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/2222_plugins\/social_wall\/social_wall.rb",
 		"oF": 0
 		},
 	"\/_site\/404.html": {
@@ -222,6 +194,50 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/map.jpg": {
+		"ft": 16384,
+		"iS": 186884,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/mappin.png": {
+		"ft": 32768,
+		"iS": 5897,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/mappin.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/news.jpg": {
+		"ft": 16384,
+		"iS": 64454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/news.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/pie.jpg": {
+		"ft": 16384,
+		"iS": 29077,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/pie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_site\/assets\/img\/placeholder.jpg": {
@@ -286,6 +302,20 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/_site\/assets\/raw\/map.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/raw\/map.psd",
+		"oF": 0
+		},
+	"\/_site\/assets\/raw\/mappin.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/raw\/mappin.psd",
+		"oF": 0
 		},
 	"\/_site\/assets\/scss\/style.css": {
 		"aP": 1,
@@ -463,6 +493,50 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/map.jpg": {
+		"ft": 16384,
+		"iS": 186588,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mappin.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mappin.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/news.jpg": {
+		"ft": 16384,
+		"iS": 22193,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/news.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/pie.jpg": {
+		"ft": 16384,
+		"iS": 52920,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/pie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/assets\/img\/placeholder.jpg": {
 		"ft": 16384,
 		"iS": 65463,
@@ -525,6 +599,20 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/assets\/raw\/map.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/map.psd",
+		"oF": 0
+		},
+	"\/assets\/raw\/mappin.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/mappin.psd",
+		"oF": 0
 		},
 	"\/assets\/scss\/_elements.scss": {
 		"aP": 0,
@@ -760,6 +848,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/scss\/widgets\/_promoblock.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/scss\/widgets\/_socialblock.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/scss\/widgets\/_socialblock.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

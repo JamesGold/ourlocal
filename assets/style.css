@@ -522,7 +522,7 @@ h1 {
 
 /* line 29, Users/james/Development/ourlocal/assets/scss/elements/_type.scss */
 h2 {
-  font-family: "Rokkitt", serif;
+  font-family: "Lobster", cursive;
   font-weight: 200;
   line-height: 1.8rem;
 }
@@ -866,7 +866,7 @@ body {
 /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .container, .headergroup, .footercontent, .promo-block, .socialcontainer {
   max-width: 96%;
-  margin: 1em auto;
+  margin: 3em auto;
   /* 450px / 16px = 28.125em */
   /* 560px / 16px = 35em */
   /* 768px / 16px = 48em */
@@ -940,7 +940,7 @@ nav {
   grid-column-gap: .625em;
 }
 
-/* line 76, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 75, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg {
   width: 100%;
 }
@@ -955,7 +955,7 @@ nav {
   background: rgba(31, 60, 74, 0.98);
 }
 
-/* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .sizes:before {
   content: "Breakpoint: 0";
   color: #222;
@@ -971,7 +971,7 @@ nav {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #ffe8e8;
     content: "Breakpoint: 1";
@@ -979,7 +979,7 @@ nav {
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #e4c6f8;
     content: "Breakpoint: 2";
@@ -987,7 +987,7 @@ nav {
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c6cef8;
     content: "Breakpoint: 3";
@@ -995,7 +995,7 @@ nav {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c3ffd9;
     content: "Breakpoint: 4";
@@ -1003,7 +1003,7 @@ nav {
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #cfff21;
     content: "Breakpoint: 5";
@@ -1181,7 +1181,7 @@ nav ul {
   padding: 0em 0;
   margin-top: -4rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 /* line 16, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
@@ -1338,7 +1338,7 @@ table th {
   font-weight: 400;
   font-size: 1rem;
   padding: 2em;
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0);
 }
 
 /* line 11, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
@@ -1380,6 +1380,55 @@ table th {
   font-size: 1.2em;
 }
 
+/* line 43, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+.card.featuredcard {
+  border: solid rgba(31, 60, 74, 0.2) 0.125em;
+  min-height: 15em;
+}
+
+/* line 47, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+.card.featuredcard.locationcard {
+  background: url(/assets/img/mappin.png) left 0.4em bottom no-repeat, url(/assets/img/map.jpg) top left repeat;
+  background-attachment: scroll, fixed;
+}
+
+/* line 52, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+.card.featuredcard.foodcard {
+  background: url(/assets/img/pie.jpg) center 10% no-repeat;
+  background-attachment: fixed;
+  background-origin: border-box;
+  background-size: contain;
+}
+
+/* line 58, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+.card.featuredcard.newscard {
+  background: url(/assets/img/news.jpg) bottom center no-repeat;
+  background-attachment: fixed;
+  background-origin: padding-box;
+  background-size: contain;
+}
+
+/* line 64, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+.card .featureheader {
+  background: rgba(31, 60, 74, 0.98);
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1em 0.6em 0.6em;
+  margin: 0 2em;
+}
+
+/* line 65, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+.card .featureheader h3 {
+  font-size: 2rem;
+  font-weight: 200;
+}
+
+/* line 66, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+.card .featureheader p {
+  background: rgba(31, 60, 74, 0.9);
+  padding: .6em;
+  color: #fff;
+}
+
 /* line 7, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .promo-block .bgimg {
   background: url(/assets/img/dessert.jpg) center center no-repeat;
@@ -1389,7 +1438,7 @@ table th {
 
 /* line 13, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .promo-block .textarea {
-  padding: 1em;
+  padding: 2em 0;
   color: #fff;
   margin: auto 0;
 }
@@ -1412,6 +1461,17 @@ table th {
 /* line 27, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .promo-block p:last-of-type {
   margin-bottom: 0;
+}
+
+/* line 3, Users/james/Development/ourlocal/assets/scss/widgets/_socialblock.scss */
+.socialcontainer h2 {
+  font-family: "Lobster", cursive;
+  font-size: 4rem;
+  font-weight: 200;
+  line-height: 1em;
+  padding: 1em 0 0;
+  margin: 0 0 .325em;
+  color: #fff;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -5,7 +5,7 @@
 	font-weight: 400;
 	font-size: 1rem;
 	padding: 2em;
-	background: rgba(255, 255, 255, 0.8);
+	background: rgba(255, 255, 255, 0.0);
 
 	
 	h3 {
@@ -35,6 +35,34 @@
 		
 		
 		}
-	.price {display: block; font-weight: bold; font-size: 1.2em}		
-
+	.price {display: block; font-weight: bold; font-size: 1.2em
+		
+	}
+	
+	
+	&.featuredcard {
+		border: solid rgba(31, 60, 74, 0.2) 0.125em;
+		min-height: 15em;
+		
+	&.locationcard{
+	background: url(/assets/img/mappin.png) left .4em bottom no-repeat, 
+	url(/assets/img/map.jpg) top left repeat;
+	background-attachment:scroll, fixed;
+	}
+	&.foodcard{
+	background: url(/assets/img/pie.jpg) center 10% no-repeat;
+	background-attachment:fixed;
+	background-origin: border-box;	
+	background-size: contain;
+	}
+	&.newscard{
+	background: url(/assets/img/news.jpg) bottom center no-repeat;
+	background-attachment:fixed;
+	background-origin: padding-box;	
+	background-size: contain;}	
+	}		
+	.featureheader {background: rgba(31, 60, 74, 0.98); background: rgba(255, 255, 255, 0.8); padding: 1em 0.6em 0.6em;margin: 0 2em;
+		h3 {font-size: 2rem;font-weight: 200;}
+		p{ background: rgba(31, 60, 74, 0.9); padding: .6em; color: #fff; }
+	}
 }

@@ -26,7 +26,7 @@ body{
 
 .container, .headergroup, .footercontent, .promo-block, .socialcontainer {
 	max-width: 96%;
-	margin: 1em auto;
+	margin: 3em auto;
 	//border: 1px solid #eee; //for testing
 	
 	@include breakpoint(break1) {max-width:96%;}
@@ -70,30 +70,17 @@ nav {grid-column: 2 / 4;}
 
 
 
-
 //// backgrounds
 
 .fullbg{ 
 	width: 100%;
+	
 		
 	&.bggreen {background: #8fb090;}
-	&.bgblue {background: rgba(31, 60, 74, 0.98);}
+	&.bgblue {background: rgba(31, 60, 74, 0.98); }
+	
 	}
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	
+		
 	
 // testing breakpoint sizes for dev
 
