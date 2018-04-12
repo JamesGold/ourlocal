@@ -7,7 +7,7 @@
 		"uuidString": "A12AF89E-1879-4AD4-850B-97C503818077"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -121,11 +121,60 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
+	"\/_layouts\/social_wall.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/social_wall.html",
+		"oF": 0
+		},
 	"\/_posts\/2018-04-05-welcome-to-jekyll.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_posts\/2018-04-05-welcome-to-jekyll.markdown",
+		"oF": 0
+		},
+	"\/_site\/2222_plugins\/social_wall\/social_networks\/credentials.env": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/credentials.env",
+		"oF": 0
+		},
+	"\/_site\/2222_plugins\/social_wall\/social_networks\/facebook.rb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/facebook.rb",
+		"oF": 0
+		},
+	"\/_site\/2222_plugins\/social_wall\/social_networks\/instagram.rb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/instagram.rb",
+		"oF": 0
+		},
+	"\/_site\/2222_plugins\/social_wall\/social_networks\/shared_methods.rb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/shared_methods.rb",
+		"oF": 0
+		},
+	"\/_site\/2222_plugins\/social_wall\/social_networks\/twitter.rb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2222_plugins\/social_wall\/social_networks\/twitter.rb",
+		"oF": 0
+		},
+	"\/_site\/2222_plugins\/social_wall\/social_wall.rb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2222_plugins\/social_wall\/social_wall.rb",
 		"oF": 0
 		},
 	"\/_site\/404.html": {
@@ -156,6 +205,7 @@
 	"\/_site\/assets\/img\/dessert.jpg": {
 		"ft": 16384,
 		"iS": 40147,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/dessert.jpg",
 		"oF": 0,
@@ -177,6 +227,7 @@
 	"\/_site\/assets\/img\/placeholder.jpg": {
 		"ft": 16384,
 		"iS": 65463,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/placeholder.jpg",
 		"oF": 0,
@@ -187,6 +238,7 @@
 	"\/_site\/assets\/img\/placeholder2.jpg": {
 		"ft": 16384,
 		"iS": 105382,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/placeholder2.jpg",
 		"oF": 0,
@@ -197,12 +249,23 @@
 	"\/_site\/assets\/img\/placeholder3.jpg": {
 		"ft": 16384,
 		"iS": 74668,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/placeholder3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_site\/assets\/js\/jquery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/_site\/assets\/js\/scripts-min.js": {
 		"ft": 64,
@@ -292,6 +355,14 @@
 		"oAP": "\/_site\/assets\/video\/dessert.webm",
 		"oF": 0
 		},
+	"\/_site\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/_site\/favicon.png": {
 		"ft": 32768,
 		"iS": 147,
@@ -373,6 +444,7 @@
 	"\/assets\/img\/dessert.jpg": {
 		"ft": 16384,
 		"iS": 199218,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/dessert.jpg",
 		"oF": 0,
@@ -394,6 +466,7 @@
 	"\/assets\/img\/placeholder.jpg": {
 		"ft": 16384,
 		"iS": 65463,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/placeholder.jpg",
 		"oF": 0,
@@ -404,6 +477,7 @@
 	"\/assets\/img\/placeholder2.jpg": {
 		"ft": 16384,
 		"iS": 105382,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/placeholder2.jpg",
 		"oF": 0,
@@ -414,12 +488,23 @@
 	"\/assets\/img\/placeholder3.jpg": {
 		"ft": 16384,
 		"iS": 74668,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/placeholder3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/assets\/js\/jquery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/assets\/js\/scripts-min.js": {
 		"ft": 64,
@@ -730,6 +815,14 @@
 		"oAP": "\/assets\/video\/dessert.webm",
 		"oF": 0
 		},
+	"\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 147,
@@ -810,7 +903,8 @@
 	"creationDate": 544632308,
 	"displayValue": "ourlocal",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-greg"
+	"iconImageName": "\/apple-touch-icon-precomposed.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2613,6 +2707,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

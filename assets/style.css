@@ -864,7 +864,7 @@ body {
 }
 
 /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-.container, .headergroup, .footercontent, .promo-block {
+.container, .headergroup, .footercontent, .promo-block, .socialcontainer {
   max-width: 96%;
   margin: 1em auto;
   /* 450px / 16px = 28.125em */
@@ -876,35 +876,35 @@ body {
 
 @media only screen and (min-width: 28.125em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent, .promo-block {
+  .container, .headergroup, .footercontent, .promo-block, .socialcontainer {
     max-width: 96%;
   }
 }
 
 @media only screen and (min-width: 35em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent, .promo-block {
+  .container, .headergroup, .footercontent, .promo-block, .socialcontainer {
     max-width: 90%;
   }
 }
 
 @media only screen and (min-width: 48em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent, .promo-block {
+  .container, .headergroup, .footercontent, .promo-block, .socialcontainer {
     max-width: 85%;
   }
 }
 
 @media only screen and (min-width: 56em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent, .promo-block {
+  .container, .headergroup, .footercontent, .promo-block, .socialcontainer {
     max-width: 85%;
   }
 }
 
 @media only screen and (min-width: 76.5em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .headergroup, .footercontent, .promo-block {
+  .container, .headergroup, .footercontent, .promo-block, .socialcontainer {
     max-width: 85%;
   }
 }
@@ -950,7 +950,12 @@ nav {
   background: #8fb090;
 }
 
-/* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 80, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+.fullbg.bgblue {
+  background: rgba(31, 60, 74, 0.98);
+}
+
+/* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .sizes:before {
   content: "Breakpoint: 0";
   color: #222;
@@ -966,7 +971,7 @@ nav {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #ffe8e8;
     content: "Breakpoint: 1";
@@ -974,7 +979,7 @@ nav {
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #e4c6f8;
     content: "Breakpoint: 2";
@@ -982,7 +987,7 @@ nav {
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c6cef8;
     content: "Breakpoint: 3";
@@ -990,7 +995,7 @@ nav {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c3ffd9;
     content: "Breakpoint: 4";
@@ -998,7 +1003,7 @@ nav {
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 101, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #cfff21;
     content: "Breakpoint: 5";

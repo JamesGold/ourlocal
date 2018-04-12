@@ -24,7 +24,7 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .headergroup, .footercontent, .promo-block {
+.container, .headergroup, .footercontent, .promo-block, .socialcontainer {
 	max-width: 96%;
 	margin: 1em auto;
 	//border: 1px solid #eee; //for testing
@@ -77,6 +77,7 @@ nav {grid-column: 2 / 4;}
 	width: 100%;
 		
 	&.bggreen {background: #8fb090;}
+	&.bgblue {background: rgba(31, 60, 74, 0.98);}
 	}
 	
 	

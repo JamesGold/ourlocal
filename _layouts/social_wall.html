@@ -1,0 +1,95 @@
+{% assign type = "text" %}{% assign media = "" %} 
+{% if photo %}{% assign type = "photo" %}{% endif %}
+{% if video %}{% assign type = "video" %}{% endif %} 
+{% if int_quote %}{% assign type = "int_quote" %} {% unless int_quote.picture %}{% assign media = "no_media" %}{% endunless %} {% endif %}
+{% if ext_quote %} {% assign type = "ext_quote" %} {% unless ext_quote.picture %}{% assign media = "no_media" %}{% endunless
+%} {% endif %} 
+
+<div class='col-sm-6 col-md-4 item {{ social_network }}_status {{ type }} {{ media }}'>
+  <div class="wrap_item">
+    <div class='wrap_media'>
+
+      {% if photo %}
+
+        <a data-featherlight="image" href="{{ photo.src_full }}">
+          <img src="{{ photo.src }}" class="grow {{ photo.format }}" width="{{ photo.width }}" height="{{ photo.height }}" />
+        </a>
+
+      {% endif %} 
+      
+      {% if video %} 
+      
+        {% if video.provider == "facebook" or video.provider == "twitter" or video.provider == "instagram" %}
+
+          <video preload="auto" poster="{{ video.picture }}" controlsList="nodownload">
+            <source src="{{ video.source}}" type="video/mp4"> Your browser does not support the video tag.
+          </video>
+
+        {% else %}
+
+          <iframe src="{{ video.source }}" autoplay="0" frameborder="0" badge="0" portrait="0" byline="0" webkitallowfullscreen mozallowfullscreen
+            allowfullscreen></iframe>
+
+        {% endif %} 
+
+      {% endif %}
+      
+      {% if int_quote %} 
+      
+        {% if int_quote.picture %}
+
+        <a href="{{ int_quote.link }}">
+          <img class="grow" src="{{ int_quote.picture }}">
+        </a>
+
+        {% endif %}
+
+        <blockquote cite="{{ int_quote.link }}">
+          <h1><a href="{{ int_quote.link }}">{{ int_quote.title }}</a></h1>
+          <p class="desc">{{ int_quote.description }}</p>
+        </blockquote>
+
+      {% endif %} 
+      
+      {% if ext_quote %} 
+      
+        {% if ext_quote.picture %}
+
+          <a href="{{ ext_quote.link }}">
+            <img class="grow" src="{{ ext_quote.picture }}">
+          </a>
+
+        {% endif %}
+
+        <blockquote cite="{{ ext_quote.link }}">
+          <cite>{{ ext_quote.source }}</cite>
+          <h1><a href="{{ ext_quote.link }}">{{ ext_quote.title }}</a></h1>
+          <p class="desc">{{ ext_quote.description }}</p>
+        </blockquote>
+
+      {% endif %}
+
+    </div>
+
+    <div class="user_info row">
+      <p class="profile_image col-xs-3">
+        <a href="{{ user.url }}"><img src="{{ user.profile_image }}" /></a>
+      </p>
+      <div class="wrap_user_name col-xs-8">
+        <h1 class="user"><a href="{{ user.url }}">{{ user.name }}</a></h1>
+        <h2 class="username"><a href="{{ user.url }}">@{{ user.username }}</a></h2>
+      </div>
+
+    </div>
+
+    <p class="status">{{ message }}</p>
+
+  </div>
+
+  <p class="meta_info">
+    <time pubdate datetime="{{ meta.created_time }}" title="{{meta.created_time | date: '%d.%m'}}">{{ meta.created_time | date: "%d.%m.%Y" }}</time>
+    <span class="icon_social">
+          <a href="{{ meta.permalink }}"><span class="icon-{{ social_network }}"></span></a>
+    </span>
+  </p>
+</div>
