@@ -229,6 +229,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/patternBlue.png": {
+		"ft": 32768,
+		"iS": 60872,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/patternBlue.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/pie.jpg": {
 		"ft": 16384,
 		"iS": 29077,
@@ -317,6 +328,13 @@
 		"oAP": "\/_site\/assets\/raw\/mappin.psd",
 		"oF": 0
 		},
+	"\/_site\/assets\/raw\/pattern.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/raw\/pattern.psd",
+		"oF": 0
+		},
 	"\/_site\/assets\/scss\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -346,23 +364,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/_site\/assets\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/assets\/style.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/style.css.map",
-		"oF": 0
 		},
 	"\/_site\/assets\/video\/dessert.mp4": {
 		"cB": 0,
@@ -526,6 +527,28 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/img\/pattern-bw.png": {
+		"ft": 32768,
+		"iS": 43462,
+		"oA": 0,
+		"oAP": "\/assets\/img\/pattern-bw.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/patternBlue.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/patternBlue.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/pie.jpg": {
 		"ft": 16384,
 		"iS": 52920,
@@ -612,6 +635,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/raw\/mappin.psd",
+		"oF": 0
+		},
+	"\/assets\/raw\/pattern.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/pattern.psd",
 		"oF": 0
 		},
 	"\/assets\/scss\/_elements.scss": {

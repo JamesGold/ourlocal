@@ -7,7 +7,7 @@ nav{
 	ul{
 		list-style: none;
 		padding: 0em 0;
-		margin-top: -4rem; 
+		//margin-top: -4rem; 
 		display: flex;
 		justify-content: space-around;
 
@@ -39,6 +39,51 @@ nav{
 		flex-wrap: wrap;
 		justify-content: flex-start;
 			li {
-				
+				}
 			}
-}
+
+
+.badge { 
+		background: url(/assets/img/patternBlue.png);			
+		margin-bottom: 7rem;		
+		h1 {
+			font-size: 2rem;
+			color: #fff;	
+		}
+		img { width: 4em;}
+/*
+	
+	h1 {
+		font-size: 4rem;
+		margin: 0 0 5%;
+		padding: 0 0 1.8rem;
+		color: rgba(255, 255, 255, 0.8);
+		display: inline-block;
+	@include breakpoint(break1) {font-size: 5rem; }
+	@include breakpoint(break2) {font-size: 7rem; padding: 0 0 3rem;}			
+	@include breakpoint(break3) {font-size: 9rem; padding: 0 0 4rem;}
+	@include breakpoint(break4) {font-size: 12rem; padding: 0 0 6rem;}
+	
+	}
+*/}
+
+
+
+
+.navcontainer {
+	max-width: 96%;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: .625em;
+	@include breakpoint(break1) {max-width:96%;}
+	@include breakpoint(break2) {max-width:90%;}
+	@include breakpoint(break3) {max-width:85%;}
+	@include breakpoint(break4) {max-width:85%;}
+	@include breakpoint(break5) {max-width:85%;}	
+	
+	}
+
+nav {grid-column: 2 / 4;}
+.badge {grid-column: 1 / 2;}
+

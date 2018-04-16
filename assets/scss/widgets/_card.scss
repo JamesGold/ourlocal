@@ -41,25 +41,25 @@
 	
 	
 	&.featuredcard {
-		border: solid rgba(31, 60, 74, 0.2) 0.125em;
-		min-height: 15em;
-		
+	border: solid rgba(31, 60, 74, 0.2) 0.125em;
+	min-height: 15em;		
 	&.locationcard{
 	background: url(/assets/img/mappin.png) left .4em bottom no-repeat, 
 	url(/assets/img/map.jpg) top left repeat;
 	background-attachment:scroll, fixed;
 	}
 	&.foodcard{
-	background: url(/assets/img/pie.jpg) center 10% no-repeat;
+	background: url(/assets/img/pie.jpg) left bottom no-repeat;
 	background-attachment:fixed;
 	background-origin: border-box;	
-	background-size: contain;
+	background-size: cover;
 	}
 	&.newscard{
-	background: url(/assets/img/news.jpg) bottom center no-repeat;
+	background: url(/assets/img/news.jpg) right bottom no-repeat;
 	background-attachment:fixed;
 	background-origin: padding-box;	
-	background-size: contain;}	
+	background-size: cover;
+		}	
 	}		
 	.featureheader {background: rgba(31, 60, 74, 0.98); background: rgba(255, 255, 255, 0.8); padding: 1em 0.6em 0.6em;margin: 0 2em;
 		h3 {font-size: 2rem;font-weight: 200;}
