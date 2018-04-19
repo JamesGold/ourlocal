@@ -79,11 +79,11 @@
 		"oAP": "\/_includes\/footer.html",
 		"oF": 0
 		},
-	"\/_includes\/header.html": {
+	"\/_includes\/hero.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_includes\/header.html",
+		"oAP": "\/_includes\/hero.html",
 		"oF": 0
 		},
 	"\/_includes\/mainnav.html": {
@@ -229,6 +229,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/pattern-bw.png": {
+		"ft": 32768,
+		"iS": 681585,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/pattern-bw.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/patternBlue.png": {
 		"ft": 32768,
 		"iS": 60872,
@@ -290,26 +301,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/js\/jquery-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/assets\/js\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/assets\/js\/scripts.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -438,6 +429,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/locations\/index.html",
+		"oF": 0
+		},
+	"\/_site\/navtest.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/navtest.html",
 		"oF": 0
 		},
 	"\/_site\/news\/index.html": {
@@ -1009,6 +1007,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/locations\/index.html",
+		"oF": 0
+		},
+	"\/navtest.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/navtest.html",
 		"oF": 0
 		},
 	"\/news\/index.html": {

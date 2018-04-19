@@ -1035,9 +1035,6 @@ footer p small {
 
 /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header {
-  background: linear-gradient(#8fb090 20%, rgba(143, 176, 144, 0.05), #8fb090 90%), url(/assets/img/placeholder2.jpg) center center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
   width: 100%;
   transition: all .5s;
   z-index: 0;
@@ -1080,7 +1077,14 @@ header {
   }
 }
 
-/* line 31, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+/* line 22, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+header.hero {
+  background: linear-gradient(#8fb090 20%, rgba(143, 176, 144, 0.05), #8fb090 90%), url(/assets/img/placeholder2.jpg) center center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header h2 {
   max-width: 80%;
   margin: 0 auto;
@@ -1097,21 +1101,21 @@ header h2 {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 31, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
     font-size: 2rem;
   }
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 31, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
     font-size: 1.4rem;
   }
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 31, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
     font-size: 4rem;
     line-height: 4rem;
@@ -1119,165 +1123,204 @@ header h2 {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 31, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
     font-size: 7rem;
     line-height: 7rem;
   }
 }
 
-/* line 45, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+/* line 46, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header h2 span.highlight {
   font-size: calc(100% + 50%);
 }
 
 /* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav {
+.navcontainer {
   width: 100%;
-  padding: 0;
-  color: #eee;
-}
-
-/* line 7, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav ul {
-  list-style: none;
-  padding: 0em 0;
-  display: flex;
-  justify-content: space-around;
-}
-
-/* line 16, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav ul li {
+  max-width: 100%;
   margin: 0;
-  padding: .325em .323em .125em;
-}
-
-/* line 20, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav ul li.active {
-  border-bottom: 2px solid #666;
-}
-
-/* line 22, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav ul li a {
-  color: #666;
-  text-decoration: none;
-}
-
-/* line 25, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav ul li a:visited {
-  color: #666;
-}
-
-/* line 26, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav ul li a:active {
-  color: #666;
-}
-
-/* line 27, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav ul li a:hover {
-  color: #666;
-  text-decoration: underline;
-}
-
-/* line 34, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-.subnav {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-
-/* line 46, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-.badge {
-  background: url(/assets/img/patternBlue.png);
-  margin-bottom: 7rem;
+  background: #fff;
   /*
+	@include breakpoint(break1) {max-width:96%;}
+	@include breakpoint(break2) {max-width:90%;}
+	@include breakpoint(break3) {max-width:85%;}
+	@include breakpoint(break4) {max-width:85%;}
+*/
+  /* 1224px / 16px = 76.5em */
+  /*
+	@include breakpoint(break5) {	
+		padding: 0;
+		color: #eee;
+		ul{
+			list-style: none;
+			padding: 0em 0;
+			//margin-top: -4rem; 
+			display: flex;
+			justify-content: space-around;
 	
-	h1 {
-		font-size: 4rem;
-		margin: 0 0 5%;
-		padding: 0 0 1.8rem;
-		color: rgba(255, 255, 255, 0.8);
-		display: inline-block;
-	@include breakpoint(break1) {font-size: 5rem; }
-	@include breakpoint(break2) {font-size: 7rem; padding: 0 0 3rem;}			
-	@include breakpoint(break3) {font-size: 9rem; padding: 0 0 4rem;}
-	@include breakpoint(break4) {font-size: 12rem; padding: 0 0 6rem;}
+			li{
+			margin: 0;
+			padding: .325em .323em .125em;
+				
+				&.active{ border-bottom: 2px solid #666;}
 	
+				a {
+					color: #666;
+					text-decoration: none;
+					&:visited { color: #666;}
+					&:active { color: #666;}
+					&:hover { color: #666; text-decoration: underline;}
+				}
+		
+			}
+		} 
 	}
 */
 }
 
-/* line 49, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-.badge h1 {
-  font-size: 2rem;
-  color: #fff;
+@media only screen and (min-width: 76.5em) {
+  /* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  .navcontainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: .625em;
+    max-width: 85%;
+  }
 }
 
-/* line 53, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-.badge img {
-  width: 4em;
-}
-
-/* line 73, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-.navcontainer {
-  max-width: 96%;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-column-gap: .625em;
-  /* 450px / 16px = 28.125em */
-  /* 560px / 16px = 35em */
-  /* 768px / 16px = 48em */
-  /* 896px  / 16px = 56em */
+/* line 21, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav {
   /* 1224px / 16px = 76.5em */
 }
 
-@media only screen and (min-width: 28.125em) {
-  /* line 73, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-  .navcontainer {
-    max-width: 96%;
+@media only screen and (min-width: 76.5em) {
+  /* line 21, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  .navcontainer nav {
+    grid-column: 2 / 4;
   }
 }
 
-@media only screen and (min-width: 35em) {
-  /* line 73, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-  .navcontainer {
-    max-width: 90%;
-  }
+/* line 24, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav ul {
+  display: none;
+  padding: 2em;
+  margin: 0;
 }
 
-@media only screen and (min-width: 48em) {
-  /* line 73, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-  .navcontainer {
-    max-width: 85%;
-  }
+/* line 29, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav ul.show {
+  display: block;
 }
 
-@media only screen and (min-width: 56em) {
-  /* line 73, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-  .navcontainer {
-    max-width: 85%;
-  }
+/* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav ul li {
+  color: #666;
+  text-align: center;
+  padding: 1rem;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+/* line 38, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav ul li a {
+  text-decoration: none;
+}
+
+/* line 39, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* line 40, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav ul li a:visited {
+  color: #666;
+}
+
+/* line 43, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer nav ul li.active {
+  text-decoration: underline;
+}
+
+/* line 48, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge {
+  background: url(/assets/img/patternBlue.png);
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* 1224px / 16px = 76.5em */
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 73, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-  .navcontainer {
-    max-width: 85%;
+  /* line 48, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  .navcontainer .badge {
+    grid-column: 1 / 2;
   }
 }
 
-/* line 87, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-nav {
-  grid-column: 2 / 4;
+/* line 57, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge h1 {
+  font-size: 3em;
+  color: #fff;
+}
+
+/* line 62, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge .iconcontain {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+
+/* line 67, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge .iconcontain .hamicon {
+  position: absolute;
+  top: 29px;
+  right: 10px;
+  width: 40px;
+  height: 2px;
+  background: #fff;
+  display: block;
+  transform-origin: center;
+  transition: .5s ease-in-out;
+}
+
+/* line 77, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge .iconcontain .hamicon:after, .navcontainer .badge .iconcontain .hamicon:before {
+  position: absolute;
+  transition: .5s ease-in-out;
+  content: "";
+  display: block;
+  width: 40px;
+  height: 2px;
+  background: #fff;
 }
 
 /* line 88, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
-.badge {
-  grid-column: 1 / 2;
+.navcontainer .badge .iconcontain .hamicon:before {
+  top: -12px;
+}
+
+/* line 91, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge .iconcontain .hamicon:after {
+  bottom: -12px;
+}
+
+/* line 95, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge .iconcontain .hamicon.open {
+  transform: rotate(45deg);
+}
+
+/* line 97, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge .iconcontain .hamicon.open:after {
+  transform: rotate(90deg);
+  bottom: 0;
+}
+
+/* line 101, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+.navcontainer .badge .iconcontain .hamicon.open:before {
+  transform: rotate(90deg);
+  top: 0;
 }
 
 /* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_tables.scss */

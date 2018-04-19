@@ -1,0 +1,1 @@
+$(function(){$("#mainNavList").removeClass("show"),$("#hamIcon").removeClass("open")}),$(function(){$("#iconContain").click(function(){$("#hamIcon").toggleClass("open"),$("#mainNavList").slideToggle("show")})});
