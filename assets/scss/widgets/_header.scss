@@ -14,10 +14,12 @@ header {
 	align-items: center;
 	justify-content: center;
 	height:12rem;
+	//margin-top: 4em;
 		@include breakpoint(break1) {height:20rem;}
 		@include breakpoint(break2) {height:24rem;}
 		@include breakpoint(break3) {height:28rem;}
 		@include breakpoint(break4) {height:32rem;}
+		@include breakpoint(break5) {margin-top: -2em;}
 		
 	&.hero {
 		background:linear-gradient(
@@ -26,24 +28,28 @@ header {
 		rgba(143, 176, 144, 1) 90%    
 		),
 		url(/assets/img/placeholder2.jpg) center center no-repeat;
+		
+		
+		background: rgba(143, 176, 144, 1);  //playing with BG
 		background-size:cover;
 		background-attachment: fixed;}	
 		
 	h2 {
-		max-width: 80%;
+		max-width: 90%;
 		margin: 0 auto; 
 		padding: .6rem;
 		text-shadow: none;
-		border-radius: .025rem;
 		vertical-align: middle;
 		color: #fff;
 		text-align: center;
-		@include breakpoint(break1) {font-size: 2rem;}
-		@include breakpoint(break2) {font-size: 1.4rem;}
+		font-size: 2rem;
+		@include breakpoint(break1) {font-size: 2.6rem;line-height: calc(100% + 20%);}
+		@include breakpoint(break2) {font-size: 3rem;}
 		@include breakpoint(break3) {font-size: 4rem; line-height: 4rem;}
-		@include breakpoint(break4) {font-size: 7rem; line-height: 7rem;}
+		@include breakpoint(break4) {font-size: 5rem; line-height: 4rem;}
+		@include breakpoint(break5) {font-size: 7rem; line-height: 5rem;}
 		
-		span.highlight {font-size: calc(100% + 50%);}
+		span.highlight {font-size: calc(100% + 50%); line-height: calc(100% + 30%);}
 	}
 	
 	
