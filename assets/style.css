@@ -1061,34 +1061,6 @@ header {
   /* 1224px / 16px = 76.5em */
 }
 
-@media only screen and (min-width: 28.125em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 20rem;
-  }
-}
-
-@media only screen and (min-width: 35em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 24rem;
-  }
-}
-
-@media only screen and (min-width: 48em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 28rem;
-  }
-}
-
-@media only screen and (min-width: 56em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 32rem;
-  }
-}
-
 @media only screen and (min-width: 76.5em) {
   /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header {
@@ -1098,8 +1070,7 @@ header {
 
 /* line 25, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header.hero {
-  background: linear-gradient(#8fb090 20%, rgba(143, 176, 144, 0.05), #8fb090 90%), url(/assets/img/placeholder2.jpg) center center no-repeat;
-  background: #8fb090;
+  background: linear-gradient(#8fb090 0%, rgba(143, 176, 144, 0.05) 50%, #8fb090 1000%), url(/assets/img/placeholder3.jpg) center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -1139,15 +1110,14 @@ header h2 {
 @media only screen and (min-width: 48em) {
   /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 4rem;
-    line-height: 4rem;
+    font-size: 3rem;
   }
 }
 
 @media only screen and (min-width: 56em) {
   /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 4rem;
   }
 }
@@ -1155,8 +1125,8 @@ header h2 {
 @media only screen and (min-width: 76.5em) {
   /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 7rem;
-    line-height: 5rem;
+    font-size: 5rem;
+    line-height: 4rem;
   }
 }
 
