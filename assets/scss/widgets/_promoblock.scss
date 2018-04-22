@@ -4,10 +4,21 @@
 		margin: 0 0 0 0em;
 		background: rgba(255, 255, 255, 0.62);
 		background: #8fb090;
-		width: 32%;
-		margin-top: 500px;
+		width: 100%;
+		margin-top: 10em;
 		padding: 2em;
 		font-size: 1.4em;		
+		
+		
+	@include breakpoint(break1) {}
+	@include breakpoint(break2) {}
+	@include breakpoint(break3) {}
+	@include breakpoint(break4) {}
+	@include breakpoint(break5) {background: #8fb090;width: 66%;}
+	@include breakpoint(break6) {background: #8fb090;width: 32%;}
+		
+		
+		
 	
 	h2{ 
 	font-family: $display-font;
@@ -26,7 +37,7 @@
 
 .promo-block{
 	z-index: 100;
-	bottom: 1vh;
+	//bottom: 1vh;
 	top: auto;
 	width: 100%;
 	overflow: hidden;
@@ -44,36 +55,41 @@
 
 .parallax {
 	perspective: 1px;
-	height: 70vh;
+	height: 100vh;
 	overflow-x: hidden;
 	overflow-y: auto;
 	}
 	
   
-.parallax__layer {
-	position: absolute;
+.parallax-layer {
+	position: relative;
 	top: 0;
 	right: 0;
 	bottom: 0;
 	left: 0;
-	padding: 40vh 0 ;
+	padding: 60vh 0 ;
 	}	
 
 
-.parallax__layer--top {
+.parallax-layer-top {
 	transform: translateZ(0px); //scale(2);
 	position:absolute;
-	top: -4em;
+	width: 85%;
+	margin-top: 0;
+	margin-bottom: 0em;
+	margin-left: auto;
+	margin-right: auto; 
+
+	//top: 4em;
 	}
 
 
 
-.parallax__layer--back {
+.parallax-layer-bottom{
 		transform: translateZ(-1px) scale(2);
-		background:	 url(/assets/img/dessert.jpg) center center repeat-y;
+		background:	 url(/assets/img/dessert-LG.jpg) center center no-repeat;
 		background-size: cover;
-		padding-top: 20em;
-		background-clip: padding-box;	
+		//margin-top: 18em;
 	}
 
 

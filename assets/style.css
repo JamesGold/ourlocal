@@ -864,7 +864,7 @@ body {
 }
 
 /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-.container, .footercontent, .promo-block, .socialcontainer {
+.container, .footercontent, .socialcontainer {
   max-width: 96%;
   margin: 3em auto;
   /* 450px / 16px = 28.125em */
@@ -876,35 +876,35 @@ body {
 
 @media only screen and (min-width: 28.125em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .footercontent, .promo-block, .socialcontainer {
+  .container, .footercontent, .socialcontainer {
     max-width: 96%;
   }
 }
 
 @media only screen and (min-width: 35em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .footercontent, .promo-block, .socialcontainer {
+  .container, .footercontent, .socialcontainer {
     max-width: 90%;
   }
 }
 
 @media only screen and (min-width: 48em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .footercontent, .promo-block, .socialcontainer {
+  .container, .footercontent, .socialcontainer {
     max-width: 85%;
   }
 }
 
 @media only screen and (min-width: 56em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .footercontent, .promo-block, .socialcontainer {
+  .container, .footercontent, .socialcontainer {
     max-width: 85%;
   }
 }
 
 @media only screen and (min-width: 76.5em) {
   /* line 27, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-  .container, .footercontent, .promo-block, .socialcontainer {
+  .container, .footercontent, .socialcontainer {
     max-width: 85%;
   }
 }
@@ -1614,13 +1614,35 @@ table th {
   margin: 0 0 0 0em;
   background: rgba(255, 255, 255, 0.62);
   background: #8fb090;
-  width: 32%;
-  margin-top: 500px;
+  width: 100%;
+  margin-top: 10em;
   padding: 2em;
   font-size: 1.4em;
+  /* 450px / 16px = 28.125em */
+  /* 560px / 16px = 35em */
+  /* 768px / 16px = 48em */
+  /* 896px  / 16px = 56em */
+  /* 1224px / 16px = 76.5em */
+  /* 1600px / 16px = 125em */
 }
 
-/* line 12, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+@media only screen and (min-width: 76.5em) {
+  /* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+  .textarea {
+    background: #8fb090;
+    width: 66%;
+  }
+}
+
+@media only screen and (min-width: 100em) {
+  /* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+  .textarea {
+    background: #8fb090;
+    width: 32%;
+  }
+}
+
+/* line 23, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .textarea h2 {
   font-family: "Lobster", cursive;
   font-weight: 200;
@@ -1629,20 +1651,19 @@ table th {
   margin: 0 0 .325em;
 }
 
-/* line 21, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+/* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .textarea p {
   margin: 0 0 .625rem;
 }
 
-/* line 22, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+/* line 33, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .textarea p:last-of-type {
   margin-bottom: 0;
 }
 
-/* line 27, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+/* line 38, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .promo-block {
   z-index: 100;
-  bottom: 1vh;
   top: auto;
   width: 100%;
   overflow: hidden;
@@ -1655,38 +1676,40 @@ table th {
 	transform-style: preserve-3d;
 	}	
 */
-/* line 45, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+/* line 56, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .parallax {
   perspective: 1px;
-  height: 70vh;
+  height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
 }
 
-/* line 53, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.parallax__layer {
-  position: absolute;
+/* line 64, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.parallax-layer {
+  position: relative;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 40vh 0;
+  padding: 60vh 0;
 }
 
-/* line 63, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.parallax__layer--top {
+/* line 74, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.parallax-layer-top {
   transform: translateZ(0px);
   position: absolute;
-  top: -4em;
+  width: 85%;
+  margin-top: 0;
+  margin-bottom: 0em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* line 71, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.parallax__layer--back {
+/* line 88, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.parallax-layer-bottom {
   transform: translateZ(-1px) scale(2);
-  background: url(/assets/img/dessert.jpg) center center repeat-y;
+  background: url(/assets/img/dessert-LG.jpg) center center no-repeat;
   background-size: cover;
-  padding-top: 20em;
-  background-clip: padding-box;
 }
 
 /*

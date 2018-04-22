@@ -24,7 +24,7 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, .promo-block, .socialcontainer {
+.container, .footercontent, /* .promo-block, */ .socialcontainer {
 	max-width: 96%;
 	margin: 3em auto;
 	//border: 1px solid #eee; //for testing
