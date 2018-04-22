@@ -1,5 +1,86 @@
+.textarea {
+		color: #222;
+		color: #fff;
+		margin: 0 0 0 0em;
+		background: rgba(255, 255, 255, 0.62);
+		background: #8fb090;
+		width: 32%;
+		margin-top: 500px;
+		padding: 2em;
+		font-size: 1.4em;		
+	
+	h2{ 
+	font-family: $display-font;
+	//font-size: 4rem;
+	font-weight: 200;	
+	line-height:1em;
+	padding: 0;
+	margin:0 0 .325em;
+	}
+	
+	p{margin: 0 0 .625rem;
+		&:last-of-type {margin-bottom: 0;}
+	}
+}	
+	
+
+.promo-block{
+	z-index: 100;
+	bottom: 1vh;
+	top: auto;
+	width: 100%;
+	overflow: hidden;
+	}
+	
+
+/*
+.parallax__group {
+	position: relative;
+	height: 100vh;
+	transform-style: preserve-3d;
+	}	
+*/
+	
+
+.parallax {
+	perspective: 1px;
+	height: 70vh;
+	overflow-x: hidden;
+	overflow-y: auto;
+	}
+	
+  
+.parallax__layer {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 40vh 0 ;
+	}	
 
 
+.parallax__layer--top {
+	transform: translateZ(0px); //scale(2);
+	position:absolute;
+	top: -4em;
+	}
+
+
+
+.parallax__layer--back {
+		transform: translateZ(-1px) scale(2);
+		background:	 url(/assets/img/dessert.jpg) center center repeat-y;
+		background-size: cover;
+		padding-top: 20em;
+		background-clip: padding-box;	
+	}
+
+
+
+
+
+/*
 
 .promo-block{
 	
@@ -28,3 +109,4 @@
 	}
 	
 	}
+*/

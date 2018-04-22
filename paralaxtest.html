@@ -1,0 +1,122 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+
+
+
+<style>
+	
+.demo{
+position: absolute;
+z-index: 100;
+/bottom: 1vh;
+top: auto;
+font-size: 80%;
+text-align: center;
+width: 100%;
+overflow: hidden;
+border: 1px solid red;	}
+	
+.parallax {
+  perspective: 2px;
+  height: 90vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  
+  font-size: 200%;
+  
+  
+  
+}
+.parallax__layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+padding: 200vh 0;
+
+
+}
+
+
+.parallax__layer--foreground {
+  transform: translateZ(0px);
+  background: -webkit-linear-gradient(rgba(92,51,217,0.5) 0%, rgba(15,211,255,0.55) 100%);
+  width: 33%;
+  border: 1px solid #111;
+
+
+
+
+}
+.parallax__layer--back {
+  transform: translateZ(-2px);
+background: url(/assets/img/patternBlue.png);  
+  width: 70%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 100%;
+  border: 1px solid #111;
+
+}
+
+
+.parallax__layer--mid {
+  transform: translateZ(-1px);
+  background: -webkit-linear-gradient(rgba(92,51,217,0.5) 0%, rgba(15,211,255,0.55) 100%);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 25%;
+  border: 1px solid #111;
+}
+
+
+
+
+</style>
+
+
+
+
+ </head>
+
+<body>
+
+
+
+
+
+
+
+<div class="demo">
+
+
+
+<div class="parallax">
+  <div class="parallax__layer parallax__layer--back">
+   <h1>Layer 1</h1>
+      <img src="assets/img/dessert.jpg" alt="dessert" width="1280" height="720">
+
+  </div>
+  
+   <div class="parallax__layer parallax__layer--mid">
+   <h1>Layer mid</h1>
+   <img src="assets/img/dessert.jpg" alt="dessert" width="1280" height="720">
+  </div> 
+  <div class="parallax__layer parallax__layer--foreground">
+   <h1>Layer 2</h1>
+   
+  </div>
+</div>
+
+
+</div>
+
+</body>
+</html>

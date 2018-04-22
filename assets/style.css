@@ -932,34 +932,34 @@ body {
   }
 }
 
-/* line 59, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-.promo-block {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-column-gap: 1.5em;
+/*
+.promo-block{	
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-column-gap: 1.5em;		
 }
-
-/* line 70, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+*/
+/* line 73, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg {
   width: 100%;
 }
 
-/* line 74, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 77, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg.bggreen {
   background: #8fb090;
 }
 
-/* line 75, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg.bgblue {
   background: rgba(31, 60, 74, 0.98);
 }
 
-/* line 76, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 79, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg.bluepattern {
   background: url(/assets/img/patternBlue.png);
 }
 
-/* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .sizes:before {
   content: "Breakpoint: 0";
   background: #eee;
@@ -977,7 +977,7 @@ body {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #ffe8e8;
     content: "Breakpoint: 1";
@@ -985,7 +985,7 @@ body {
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #e4c6f8;
     content: "Breakpoint: 2";
@@ -993,7 +993,7 @@ body {
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c6cef8;
     content: "Breakpoint: 3";
@@ -1001,7 +1001,7 @@ body {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c3ffd9;
     content: "Breakpoint: 4";
@@ -1009,7 +1009,7 @@ body {
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #cfff21;
     content: "Breakpoint: 5";
@@ -1017,7 +1017,7 @@ body {
 }
 
 @media only screen and (min-width: 100em) {
-  /* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #ff00e1;
     content: "Breakpoint: 6";
@@ -1607,40 +1607,118 @@ table th {
 }
 
 /* 1224px / 16px = 76.5em */
-/* line 7, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.promo-block .bgimg {
-  background: url(/assets/img/dessert.jpg) center center no-repeat;
-  background-size: cover;
-  min-height: 12em;
-}
-
-/* line 13, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.promo-block .textarea {
-  padding: 2em 0;
+/* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.textarea {
+  color: #222;
   color: #fff;
-  margin: auto 0;
+  margin: 0 0 0 0em;
+  background: rgba(255, 255, 255, 0.62);
+  background: #8fb090;
+  width: 32%;
+  margin-top: 500px;
+  padding: 2em;
+  font-size: 1.4em;
 }
 
-/* line 17, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.promo-block h2 {
+/* line 12, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.textarea h2 {
   font-family: "Lobster", cursive;
-  font-size: 4rem;
   font-weight: 200;
   line-height: 1em;
   padding: 0;
   margin: 0 0 .325em;
 }
 
-/* line 26, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.promo-block p {
+/* line 21, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.textarea p {
   margin: 0 0 .625rem;
 }
 
-/* line 27, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
-.promo-block p:last-of-type {
+/* line 22, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.textarea p:last-of-type {
   margin-bottom: 0;
 }
 
+/* line 27, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.promo-block {
+  z-index: 100;
+  bottom: 1vh;
+  top: auto;
+  width: 100%;
+  overflow: hidden;
+}
+
+/*
+.parallax__group {
+	position: relative;
+	height: 100vh;
+	transform-style: preserve-3d;
+	}	
+*/
+/* line 45, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.parallax {
+  perspective: 1px;
+  height: 70vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+/* line 53, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.parallax__layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 40vh 0;
+}
+
+/* line 63, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.parallax__layer--top {
+  transform: translateZ(0px);
+  position: absolute;
+  top: -4em;
+}
+
+/* line 71, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
+.parallax__layer--back {
+  transform: translateZ(-1px) scale(2);
+  background: url(/assets/img/dessert.jpg) center center repeat-y;
+  background-size: cover;
+  padding-top: 20em;
+  background-clip: padding-box;
+}
+
+/*
+
+.promo-block{
+	
+	
+	.bgimg {
+	background: url(/assets/img/dessert.jpg) center center no-repeat ;
+	background-size:cover;
+	min-height: 12em;
+	}
+	
+	.textarea {padding: 2em 0; color: #fff;margin: auto 0;
+		
+	}
+	
+	h2{ 
+	font-family: $display-font;
+	font-size: 4rem;
+	font-weight: 200;	
+	line-height:1em;
+	padding: 0;
+	margin:0 0 .325em;
+	}
+	
+	p{margin: 0 0 .625rem;
+		&:last-of-type {margin-bottom: 0;}
+	}
+	
+	}
+*/
 /* line 3, Users/james/Development/ourlocal/assets/scss/widgets/_socialblock.scss */
 .socialcontainer h2 {
   font-family: "Lobster", cursive;
