@@ -1148,8 +1148,8 @@ header h2 {
 @media only screen and (min-width: 100em) {
   /* line 37, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 9rem;
-    line-height: 7rem;
+    font-size: 8rem;
+    line-height: 6rem;
   }
 }
 
@@ -1518,11 +1518,11 @@ table th {
 
 /* line 54, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
 .featuredcard.locationcard {
-  background: url(/assets/img/mappin.png) left 8% bottom 3% no-repeat, url(/assets/img/mappin.png) right -2% bottom 70% no-repeat, url(/assets/img/mappin.png) right 50% top 3% no-repeat, url(/assets/img/mappin.png) 1% 3% no-repeat, linear-gradient(rgba(199, 0, 0, 0.6), rgba(199, 0, 0, 0.6)), url(/assets/img/map.jpg) top left repeat;
-  background-attachment: fixed,fixed,fixed,fixed,fixed,fixed;
+  background: url(/assets/img/mappin.png) left 8% bottom 3% no-repeat, url(/assets/img/mappin.png) right -2% bottom 70% no-repeat, url(/assets/img/mappin.png) right 50% top 3% no-repeat, url(/assets/img/mappin.png) 1% 3% no-repeat, url(/assets/img/mappin.png) 90% 90% no-repeat, url(/assets/img/mappin.png) 10% 10% no-repeat, linear-gradient(rgba(199, 0, 0, 0.6), rgba(199, 0, 0, 0.6)), url(/assets/img/map.jpg) top left repeat;
+  background-attachment: fixed,fixed,fixed,fixed,scroll,scroll,fixed,fixed;
 }
 
-/* line 67, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+/* line 68, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
 .featuredcard.foodcard {
   background: linear-gradient(rgba(255, 167, 0, 0.4), rgba(255, 167, 0, 0.6)), url(/assets/img/pie.jpg) left bottom no-repeat;
   background-attachment: fixed;
@@ -1530,7 +1530,7 @@ table th {
   background-size: cover;
 }
 
-/* line 76, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+/* line 77, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
 .featuredcard.newscard {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/assets/img/news.jpg) right bottom no-repeat;
   background-attachment: fixed;
@@ -1538,18 +1538,18 @@ table th {
   background-size: cover;
 }
 
-/* line 85, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+/* line 86, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
 .featuredcard .featureheader {
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-content: center;
-  margin-left: .325em;
-  margin-right: .325em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
-/* line 93, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+/* line 94, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
 .featuredcard .featureheader h3 {
   font-size: 3em;
   padding: .5em 0 .3em;
@@ -1559,7 +1559,7 @@ table th {
   background: rgba(255, 255, 255, 0.9);
 }
 
-/* line 101, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+/* line 102, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
 .featuredcard .featureheader p {
   background: rgba(31, 60, 74, 0.9);
   padding: .6em;
@@ -1568,18 +1568,18 @@ table th {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 111, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 112, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .locationcard {
     width: 100%;
     margin-bottom: 2em;
   }
-  /* line 112, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 113, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .foodcard {
     width: calc(50% - 1em);
     margin-right: 2em;
     margin-bottom: 0;
   }
-  /* line 113, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 114, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .newscard {
     width: calc(50% - 1em);
     margin-right: 0em;
@@ -1589,17 +1589,17 @@ table th {
 
 /* 896px  / 16px = 56em */
 @media only screen and (min-width: 76.5em) {
-  /* line 116, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 117, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .locationcard {
     width: auto;
     margin: 0;
   }
-  /* line 117, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 118, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .foodcard {
     width: auto;
     margin: 0;
   }
-  /* line 118, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 119, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .newscard {
     width: auto;
     margin: 0;
