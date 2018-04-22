@@ -3,91 +3,59 @@
 	max-width: 100%;
 	margin: 0;
 	background: #fff;
-<<<<<<< HEAD
-	
-=======
 	position:relative;
 	z-index: 200;
->>>>>>> parent of 0cf9c48... When everything went wrong
-
-/*
-	@include breakpoint(break1) {max-width:96%;}
-	@include breakpoint(break2) {max-width:90%;}
-	@include breakpoint(break3) {max-width:85%;}
-	@include breakpoint(break4) {max-width:85%;}
-*/
+	
 	@include breakpoint(break5) {
-<<<<<<< HEAD
+		position: inherit;
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr  1fr 1fr 1fr;
 		grid-column-gap: .625em;
-		max-width:85%;		
-		}	
-
-		nav{
-			@include breakpoint(break5) {grid-column: 2 / 4;}
-=======
-		margin: 0 auto;
 		max-width:85%;
 		width: 85%;
-		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-		grid-column-gap: .625em;
-		position: inherit;
-							align-items: center;
-
-				
+		align-items: center;		
 		}	
 
-		nav{
-			@include breakpoint(break5) {grid-column: 2 / 7;}
->>>>>>> parent of 0cf9c48... When everything went wrong
-			
-			ul {			
-				display: none;
-				padding: 2em;
-				margin: 0;
-<<<<<<< HEAD
-=======
-				
-				
-				@include breakpoint(break5) {
-					display: flex;
-					justify-content: space-around;
-					align-items: center;
-					
-					}
 
->>>>>>> parent of 0cf9c48... When everything went wrong
+	nav{
+		@include breakpoint(break5) {grid-column: 2 / 7;}
 		
-				&.show{
-				display: block;
+		ul {			
+			display: none;
+			padding: 2em;
+			margin: 0;
+					
+			@include breakpoint(break5) {
+				display: flex;
+				justify-content: space-around;
+				align-items: center;					
 				}
-				li{
-				color: #666;	
-				text-align: center;	
-				padding: 1rem;
-<<<<<<< HEAD
-				font-size: 2em;
-				text-decoration: none;
-=======
-				font-size: 1.4em;
-				text-decoration: none;
-				  
-				@include breakpoint(break5) {
-					line-height: 1em;
-				}
-				
->>>>>>> parent of 0cf9c48... When everything went wrong
-				a {text-decoration: none;
-					&:hover {text-decoration:underline;}
-					&:visited {color: #666;}
-				}
-				
-					&.active{text-decoration: underline;}
-				}
+	
+			&.show{
+			display: block;
 			}
-		}		
+			li{
+			color: #666;	
+			text-align: center;	
+			padding: 1rem;
+			font-size: 2em;
+			text-decoration: none;
+			font-size: 1.4em;
+			text-decoration: none;
+			  
+			@include breakpoint(break5) {
+				line-height: 1em;
+			}
+			
+			a {text-decoration: none;
+				&:hover {text-decoration:underline;}
+				&:visited {color: #666;}
+				}
+			
+				&.active{text-decoration: underline;}
+				}
+		}
+	}		
 
 .badge {
 		background: url(/assets/img/patternBlue.png);	
@@ -96,17 +64,8 @@
 		justify-content: space-between;	
 		align-items: center;	
 	
-<<<<<<< HEAD
 		@include breakpoint(break5) {grid-column: 1 / 2;}
 
-		h1 {
-			font-size: 3em;
-			color: #fff;	
-=======
-		@include breakpoint(break5) {
-		justify-content:center;	
-
-			}
 
 		h1 {
 			font-size: 2.4em;
@@ -118,7 +77,6 @@
 				width: 100%;
 				}
 	
->>>>>>> parent of 0cf9c48... When everything went wrong
 			}
 			
 		.iconcontain{
@@ -126,12 +84,9 @@
 			position: relative;	
 			width: 60px;
 			height: 60px;
-<<<<<<< HEAD
-=======
+
 			@include breakpoint(break5) {display:none;}
 
-			
->>>>>>> parent of 0cf9c48... When everything went wrong
 		.hamicon {
 				position: absolute;
 				top:29px;
@@ -176,38 +131,6 @@
 			
 	}	
 
-<<<<<<< HEAD
-/*
-	@include breakpoint(break5) {	
-		padding: 0;
-		color: #eee;
-		ul{
-			list-style: none;
-			padding: 0em 0;
-			//margin-top: -4rem; 
-			display: flex;
-			justify-content: space-around;
-	
-			li{
-			margin: 0;
-			padding: .325em .323em .125em;
-				
-				&.active{ border-bottom: 2px solid #666;}
-	
-				a {
-					color: #666;
-					text-decoration: none;
-					&:visited { color: #666;}
-					&:active { color: #666;}
-					&:hover { color: #666; text-decoration: underline;}
-				}
-		
-			}
-		} 
-	}
-*/
-=======
->>>>>>> parent of 0cf9c48... When everything went wrong
 }	
 	
 

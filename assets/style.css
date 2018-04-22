@@ -911,7 +911,9 @@ body {
 
 /* line 44, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .container {
-<<<<<<< HEAD
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: .625em;
   /* 1224px / 16px = 76.5em */
 }
 
@@ -924,88 +926,37 @@ body {
   }
 }
 
-<<<<<<< HEAD
-/* line 55, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-column-gap: .625em;
-}
-
-/* line 52, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
 /* line 57, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
 .promo-block {
   display: grid;
   grid-template-columns: 2fr 1fr;
   grid-column-gap: .625em;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* line 66, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-/* line 63, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
 /* line 68, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
 .fullbg {
   width: 100%;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* line 70, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-/* line 67, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
 /* line 72, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
 .fullbg.bggreen {
   background: #8fb090;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* line 71, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-/* line 68, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
 /* line 73, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
 .fullbg.bgblue {
   background: rgba(31, 60, 74, 0.98);
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* line 72, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-/* line 69, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
 /* line 74, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
 .fullbg.bluepattern {
   background: url(/assets/img/patternBlue.png);
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* line 81, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-/* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
 /* line 83, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
 .sizes:before {
   content: "Breakpoint: 0";
+  background: #eee;
   color: #222;
   border: 1px solid #111;
   border-radius: 5px;
@@ -1019,15 +970,7 @@ body {
 }
 
 @media only screen and (min-width: 28.125em) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  /* line 81, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-  /* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
   /* line 83, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
   .sizes:before {
     background: #ffe8e8;
     content: "Breakpoint: 1";
@@ -1035,15 +978,7 @@ body {
 }
 
 @media only screen and (min-width: 35em) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  /* line 81, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-  /* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
   /* line 83, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
   .sizes:before {
     background: #e4c6f8;
     content: "Breakpoint: 2";
@@ -1051,15 +986,7 @@ body {
 }
 
 @media only screen and (min-width: 48em) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  /* line 81, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-  /* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
   /* line 83, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
   .sizes:before {
     background: #c6cef8;
     content: "Breakpoint: 3";
@@ -1067,15 +994,7 @@ body {
 }
 
 @media only screen and (min-width: 56em) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  /* line 81, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-  /* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
   /* line 83, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
   .sizes:before {
     background: #c3ffd9;
     content: "Breakpoint: 4";
@@ -1083,15 +1002,7 @@ body {
 }
 
 @media only screen and (min-width: 76.5em) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  /* line 81, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
-=======
-  /* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
   /* line 83, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
->>>>>>> parent of 0cf9c48... When everything went wrong
   .sizes:before {
     background: #cfff21;
     content: "Breakpoint: 5";
@@ -1142,16 +1053,11 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
   height: 80vh;
-=======
-  height: 12rem;
   /* 450px / 16px = 28.125em */
   /* 560px / 16px = 35em */
   /* 768px / 16px = 48em */
   /* 896px  / 16px = 56em */
->>>>>>> parent of 0cf9c48... When everything went wrong
   /* 1224px / 16px = 76.5em */
 }
 
@@ -1190,90 +1096,48 @@ header {
   }
 }
 
-/* line 24, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+/* line 25, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header.hero {
-<<<<<<< HEAD
-  background: linear-gradient(#8fb090 0%, rgba(143, 176, 144, 0.05) 50%, #8fb090 1000%), url(/assets/img/placeholder3.jpg) center center no-repeat;
-=======
-  height: 12rem;
-  /* 450px / 16px = 28.125em */
-  /* 560px / 16px = 35em */
-  /* 768px / 16px = 48em */
-  /* 896px  / 16px = 56em */
-}
-
-@media only screen and (min-width: 28.125em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 20rem;
-  }
-}
-
-@media only screen and (min-width: 35em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 24rem;
-  }
-}
-
-@media only screen and (min-width: 48em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 28rem;
-  }
-}
-
-@media only screen and (min-width: 56em) {
-  /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-  header {
-    height: 32rem;
-  }
-}
-
-/* line 22, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
-header.hero {
-  background: linear-gradient(#8fb090 20%, rgba(143, 176, 144, 0.05), #8fb090 90%), url(/assets/img/placeholder2.jpg) center center no-repeat;
->>>>>>> parent of 5de55b8... End of day save - in menu tweaks
-=======
   background: linear-gradient(#8fb090 20%, rgba(143, 176, 144, 0.05), #8fb090 90%), url(/assets/img/placeholder2.jpg) center center no-repeat;
   background: #8fb090;
->>>>>>> parent of 0cf9c48... When everything went wrong
   background-size: cover;
   background-attachment: fixed;
 }
 
-/* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+/* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header h2 {
-  max-width: 80%;
+  max-width: 90%;
   margin: 0 auto;
   padding: .6rem;
   text-shadow: none;
-  border-radius: .025rem;
   vertical-align: middle;
   color: #fff;
   text-align: center;
+  font-size: 2rem;
   /* 450px / 16px = 28.125em */
   /* 560px / 16px = 35em */
   /* 768px / 16px = 48em */
   /* 896px  / 16px = 56em */
+  /* 1224px / 16px = 76.5em */
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 2rem;
+    font-size: 2.6rem;
+    line-height: calc(100% + 20%);
   }
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 1.4rem;
+    font-size: 3rem;
   }
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
     font-size: 4rem;
     line-height: 4rem;
@@ -1281,16 +1145,25 @@ header h2 {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 7rem;
-    line-height: 7rem;
+    font-size: 5rem;
+    line-height: 4rem;
   }
 }
 
-/* line 46, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+@media only screen and (min-width: 76.5em) {
+  /* line 36, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
+  header h2 {
+    font-size: 7rem;
+    line-height: 5rem;
+  }
+}
+
+/* line 51, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
 header h2 span.highlight {
   font-size: calc(100% + 50%);
+  line-height: calc(100% + 30%);
 }
 
 /* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
@@ -1299,108 +1172,98 @@ header h2 span.highlight {
   max-width: 100%;
   margin: 0;
   background: #fff;
-  /*
-	@include breakpoint(break1) {max-width:96%;}
-	@include breakpoint(break2) {max-width:90%;}
-	@include breakpoint(break3) {max-width:85%;}
-	@include breakpoint(break4) {max-width:85%;}
-*/
+  position: relative;
+  z-index: 200;
   /* 1224px / 16px = 76.5em */
-  /*
-	@include breakpoint(break5) {	
-		padding: 0;
-		color: #eee;
-		ul{
-			list-style: none;
-			padding: 0em 0;
-			//margin-top: -4rem; 
-			display: flex;
-			justify-content: space-around;
-	
-			li{
-			margin: 0;
-			padding: .325em .323em .125em;
-				
-				&.active{ border-bottom: 2px solid #666;}
-	
-				a {
-					color: #666;
-					text-decoration: none;
-					&:visited { color: #666;}
-					&:active { color: #666;}
-					&:hover { color: #666; text-decoration: underline;}
-				}
-		
-			}
-		} 
-	}
-*/
 }
 
 @media only screen and (min-width: 76.5em) {
   /* line 1, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
   .navcontainer {
+    position: inherit;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr  1fr 1fr 1fr;
     grid-column-gap: .625em;
     max-width: 85%;
+    width: 85%;
+    align-items: center;
   }
 }
 
-/* line 21, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 20, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav {
   /* 1224px / 16px = 76.5em */
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 21, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  /* line 20, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
   .navcontainer nav {
-    grid-column: 2 / 4;
+    grid-column: 2 / 7;
   }
 }
 
-/* line 24, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 23, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav ul {
   display: none;
   padding: 2em;
   margin: 0;
+  /* 1224px / 16px = 76.5em */
 }
 
-/* line 29, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+@media only screen and (min-width: 76.5em) {
+  /* line 23, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  .navcontainer nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+
+/* line 34, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav ul.show {
   display: block;
 }
 
-/* line 32, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 37, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav ul li {
   color: #666;
   text-align: center;
   padding: 1rem;
   font-size: 2em;
   text-decoration: none;
+  font-size: 1.4em;
+  text-decoration: none;
+  /* 1224px / 16px = 76.5em */
 }
 
-/* line 38, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+@media only screen and (min-width: 76.5em) {
+  /* line 37, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  .navcontainer nav ul li {
+    line-height: 1em;
+  }
+}
+
+/* line 50, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav ul li a {
   text-decoration: none;
 }
 
-/* line 39, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 51, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav ul li a:hover {
   text-decoration: underline;
 }
 
-/* line 40, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 52, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav ul li a:visited {
   color: #666;
 }
 
-/* line 43, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 55, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer nav ul li.active {
   text-decoration: underline;
 }
 
-/* line 48, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 60, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge {
   background: url(/assets/img/patternBlue.png);
   padding: 2rem;
@@ -1411,26 +1274,44 @@ header h2 span.highlight {
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 48, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  /* line 60, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
   .navcontainer .badge {
     grid-column: 1 / 2;
   }
 }
 
-/* line 57, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 70, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge h1 {
-  font-size: 3em;
+  font-size: 2.4em;
   color: #fff;
+  /* 1224px / 16px = 76.5em */
 }
 
-/* line 62, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+@media only screen and (min-width: 76.5em) {
+  /* line 70, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  .navcontainer .badge h1 {
+    text-align: center;
+    margin: 1em auto;
+    width: 100%;
+  }
+}
+
+/* line 82, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain {
   position: relative;
   width: 60px;
   height: 60px;
+  /* 1224px / 16px = 76.5em */
 }
 
-/* line 67, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+@media only screen and (min-width: 76.5em) {
+  /* line 82, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+  .navcontainer .badge .iconcontain {
+    display: none;
+  }
+}
+
+/* line 90, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain .hamicon {
   position: absolute;
   top: 29px;
@@ -1443,7 +1324,7 @@ header h2 span.highlight {
   transition: .5s ease-in-out;
 }
 
-/* line 77, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 100, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain .hamicon:after, .navcontainer .badge .iconcontain .hamicon:before {
   position: absolute;
   transition: .5s ease-in-out;
@@ -1454,28 +1335,28 @@ header h2 span.highlight {
   background: #fff;
 }
 
-/* line 88, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 111, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain .hamicon:before {
   top: -12px;
 }
 
-/* line 91, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 114, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain .hamicon:after {
   bottom: -12px;
 }
 
-/* line 95, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 118, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain .hamicon.open {
   transform: rotate(45deg);
 }
 
-/* line 97, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 120, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain .hamicon.open:after {
   transform: rotate(90deg);
   bottom: 0;
 }
 
-/* line 101, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
+/* line 124, Users/james/Development/ourlocal/assets/scss/widgets/_nav.scss */
 .navcontainer .badge .iconcontain .hamicon.open:before {
   transform: rotate(90deg);
   top: 0;
@@ -1591,7 +1472,7 @@ table th {
   text-align: center;
   font-weight: 400;
   font-size: 1rem;
-  padding: 2em;
+  padding: 2em 0;
   background: rgba(255, 255, 255, 0);
 }
 

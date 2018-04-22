@@ -376,23 +376,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_site\/assets\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/assets\/style.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/style.css.map",
-		"oF": 0
-		},
 	"\/_site\/assets\/video\/dessert.mp4": {
 		"cB": 0,
 		"ft": 8192,
