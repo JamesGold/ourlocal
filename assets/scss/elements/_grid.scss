@@ -1,0 +1,97 @@
+//test breakpoint scss
+
+//$break-1: 28.125em; /* 450px / 16px = 28.125em */
+//$break-2: 35em; /* 560px / 16px = 35em */
+//$break-3: 48em; /* 768px / 16px = 48em */
+//$break-4: 56em; /* 896px  / 16px = 56em */
+//$break-5: 76.5em; /* 1224px / 16px = 76.5em */
+
+
+html{	
+	box-sizing: border-box;
+	word-break: normal;
+	transition: all .5s;
+	font-size:100%;
+	transition: all .8s;
+	}
+
+body{ 
+	font-size:16px;
+	@include breakpoint(break1) {font-size:1.1rem;}
+	@include breakpoint(break2) {font-size:1.2rem;}
+	@include breakpoint(break3) {font-size:1.25rem;}
+	@include breakpoint(break4) {font-size:1.3rem;} 
+	@include breakpoint(break5) {font-size:1.4rem;} 
+}
+
+.container, .footercontent, .promo-block, .socialcontainer {
+	max-width: 96%;
+	margin: 3em auto;
+	//border: 1px solid #eee; //for testing
+	
+	@include breakpoint(break1) {max-width:96%;}
+	@include breakpoint(break2) {max-width:90%;}
+	@include breakpoint(break3) {max-width:85%;}
+	@include breakpoint(break4) {max-width:85%;}
+	@include breakpoint(break5) {max-width:85%;}	
+}
+
+	
+
+
+//////// elements with grid refs
+
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: .625em;
+			
+}
+
+
+.promo-block{	
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-column-gap: .625em;		
+}
+
+
+
+
+//// backgrounds
+
+.fullbg{ 
+	width: 100%;
+	
+		
+	&.bggreen {background: #8fb090;}
+	&.bgblue {background: rgba(31, 60, 74, 0.98);}
+	&.bluepattern {background: url(/assets/img/patternBlue.png);}			
+
+	
+	}
+		
+	
+// testing breakpoint sizes for dev
+
+
+	.sizes:before {content: "Breakpoint: 0";
+		color: #222; border: 1px solid #111;border-radius: 5px; padding: 10px;margin: 1em;
+		
+	@include breakpoint(break1) {background: #ffe8e8; content: "Breakpoint: 1"}
+	@include breakpoint(break2) {background: #e4c6f8; content: "Breakpoint: 2"}
+	@include breakpoint(break3) {background: #c6cef8; content: "Breakpoint: 3"}
+	@include breakpoint(break4) {background: #c3ffd9; content: "Breakpoint: 4"}
+	@include breakpoint(break5) {background: #cfff21; content: "Breakpoint: 5"}			
+	}
+	
+
+
+
+	
+	
+
+
+
+		
+

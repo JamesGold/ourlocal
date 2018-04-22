@@ -1,0 +1,150 @@
+.navcontainer {
+	width: 100%;
+	max-width: 100%;
+	margin: 0;
+	background: #fff;
+	
+
+/*
+	@include breakpoint(break1) {max-width:96%;}
+	@include breakpoint(break2) {max-width:90%;}
+	@include breakpoint(break3) {max-width:85%;}
+	@include breakpoint(break4) {max-width:85%;}
+*/
+	@include breakpoint(break5) {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-column-gap: .625em;
+		max-width:85%;		
+		}	
+
+		nav{
+			@include breakpoint(break5) {grid-column: 2 / 4;}
+			
+			ul {			
+				display: none;
+				padding: 2em;
+				margin: 0;
+		
+				&.show{
+				display: block;
+				}
+				li{
+				color: #666;	
+				text-align: center;	
+				padding: 1rem;
+				font-size: 2em;
+				text-decoration: none;
+				a {text-decoration: none;
+					&:hover {text-decoration:underline;}
+					&:visited {color: #666;}
+				}
+				
+					&.active{text-decoration: underline;}
+				}
+			}
+		}		
+
+.badge {
+		background: url(/assets/img/patternBlue.png);	
+		padding: 2rem;	
+		display: flex;
+		justify-content: space-between;	
+		align-items: center;	
+	
+		@include breakpoint(break5) {grid-column: 1 / 2;}
+
+		h1 {
+			font-size: 3em;
+			color: #fff;	
+			}
+			
+		.iconcontain{
+			
+			position: relative;	
+			width: 60px;
+			height: 60px;
+		.hamicon {
+				position: absolute;
+				top:29px;
+				right:10px;
+			    width: 40px;
+			    height: 2px;
+			    background: #fff;
+			    display: block;
+			    transform-origin: center;
+			    transition: .5s ease-in-out;
+			    &:after,
+			    &:before {
+				    
+				  position: absolute;
+			      transition: .5s ease-in-out;
+			      content: "";
+			      display: block;
+			      width: 40px;
+				  height: 2px;
+			      background: #fff;
+			    }
+			    &:before {
+			      top: -12px;
+			    } 
+			    &:after {
+			      bottom: -12px;
+			    }
+
+			&.open {
+			      transform: rotate(45deg);
+			      &:after {
+			        transform: rotate(90deg);
+			        bottom: 0;
+			      	}
+			      &:before {
+			        transform: rotate(90deg);
+			        top: 0;
+			      }
+			    }
+  			}
+		}		
+			
+	}	
+
+/*
+	@include breakpoint(break5) {	
+		padding: 0;
+		color: #eee;
+		ul{
+			list-style: none;
+			padding: 0em 0;
+			//margin-top: -4rem; 
+			display: flex;
+			justify-content: space-around;
+	
+			li{
+			margin: 0;
+			padding: .325em .323em .125em;
+				
+				&.active{ border-bottom: 2px solid #666;}
+	
+				a {
+					color: #666;
+					text-decoration: none;
+					&:visited { color: #666;}
+					&:active { color: #666;}
+					&:hover { color: #666; text-decoration: underline;}
+				}
+		
+			}
+		} 
+	}
+*/
+}	
+	
+
+
+
+
+
+
+
+
+

@@ -3,15 +3,43 @@
 		<h1>{{ layout.title }}{{ page.title }}</h1>
 		<div class="iconcontain" id="iconContain">
 			<div class="hamicon open" id="hamIcon"></div>
-		</div><!-- eof iconcontain -->		
-	</div>	<!-- eof badge -->
-	<nav class="main-nav" id="mainNav">
-		<ul class="show" id="mainNavList">		
+		</div>		
+
+	</div>	
+	
+
+
+
+
+
+<nav class="main-nav" id="mainNav">
+<!--
+	<label>
+	<input name="navigation-menu" type="checkbox">
+		<span class="menu">
+			<span class="hamicon"></span>
+		</span><!-- eof manu	
+		<ul>		
 			{% for menu in site.data.mainNav %}
-			<li class="{% if page.url == menu.url %}active{% endif %}"><a href="{{ menu.url }}">{{ menu.title }}</a></li>	
+				<li class="{% if page.url == menu.url %}active{% endif %}"><a href="{{ menu.url }}">{{ menu.title }}</a></li>	
 			{% endfor %}
-		</ul>	
-	</nav>		
+		</ul>			
+	</label>
+</nav>	
+-->
+
+
+
+<ul class="show" id="mainNavList">		
+			{% for menu in site.data.mainNav %}
+				<li class="{% if page.url == menu.url %}active{% endif %}"><a href="{{ menu.url }}">{{ menu.title }}</a></li>	
+			{% endfor %}
+		</ul>		
+
+
+
+
+
 </div><!-- eof navcontainer -->
 
 
