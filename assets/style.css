@@ -928,7 +928,7 @@ body {
   .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-column-gap: .625em;
+    grid-column-gap: 1.5em;
   }
 }
 
@@ -936,7 +936,7 @@ body {
 .promo-block {
   display: grid;
   grid-template-columns: 2fr 1fr;
-  grid-column-gap: .625em;
+  grid-column-gap: 1.5em;
 }
 
 /* line 70, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
@@ -1148,8 +1148,8 @@ header h2 {
 @media only screen and (min-width: 100em) {
   /* line 37, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */
   header h2 {
-    font-size: 10rem;
-    line-height: 8rem;
+    font-size: 9rem;
+    line-height: 7rem;
   }
 }
 
@@ -1552,10 +1552,10 @@ table th {
 /* line 93, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
 .featuredcard .featureheader h3 {
   font-size: 3em;
-  padding: .5em 0 0;
+  padding: .5em 0 .3em;
   margin: 0;
   font-weight: 200;
-  line-height: normal;
+  line-height: 80%;
   background: rgba(255, 255, 255, 0.9);
 }
 
@@ -1564,23 +1564,24 @@ table th {
   background: rgba(31, 60, 74, 0.9);
   padding: .6em;
   color: #fff;
+  font-size: 1.6em;
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 110, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 111, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .locationcard {
     width: 100%;
-    margin-bottom: 3em;
-  }
-  /* line 111, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
-  .foodcard {
-    width: calc(50% - 0.325em);
-    margin-right: .650em;
-    margin-bottom: 0;
+    margin-bottom: 2em;
   }
   /* line 112, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  .foodcard {
+    width: calc(50% - 1em);
+    margin-right: 2em;
+    margin-bottom: 0;
+  }
+  /* line 113, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .newscard {
-    width: calc(50% - 0.325em);
+    width: calc(50% - 1em);
     margin-right: 0em;
     margin-bottom: 0;
   }
@@ -1588,20 +1589,20 @@ table th {
 
 /* 896px  / 16px = 56em */
 @media only screen and (min-width: 76.5em) {
-  /* line 115, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  /* line 116, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .locationcard {
     width: auto;
-    margin-bottom: 0;
-  }
-  /* line 116, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
-  .foodcard {
-    width: auto;
-    margin-bottom: 0;
+    margin: 0;
   }
   /* line 117, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
+  .foodcard {
+    width: auto;
+    margin: 0;
+  }
+  /* line 118, Users/james/Development/ourlocal/assets/scss/widgets/_card.scss */
   .newscard {
     width: auto;
-    margin-bottom: 0;
+    margin: 0;
   }
 }
 
