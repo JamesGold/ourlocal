@@ -42,9 +42,11 @@ body{
 //////// elements with grid refs
 
 .container{
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-column-gap: .625em;
+
+	@include breakpoint(break4) {
+		display: flex;
+		flex-wrap: wrap;
+		}
 
 	@include breakpoint(break5) {
 		display: grid;
@@ -88,6 +90,7 @@ body{
 	@include breakpoint(break3) {background: #c6cef8; content: "Breakpoint: 3"}
 	@include breakpoint(break4) {background: #c3ffd9; content: "Breakpoint: 4"}
 	@include breakpoint(break5) {background: #cfff21; content: "Breakpoint: 5"}			
+	@include breakpoint(break6) {background: #ff00e1; content: "Breakpoint: 6"}			
 	}
 	
 

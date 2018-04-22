@@ -33,6 +33,10 @@ $jg-lightest: #eaeff0;
     	@media only screen and (min-width : 76.5em)  { @content; } /* 1224px / 16px = 76.5em */
   		}
   		
+  	  @else if $break == break6 {
+    	@media only screen and (min-width : 100em)  { @content; } /* 1600px / 16px = 125em */
+  		}	
+  		
 }
 
 
