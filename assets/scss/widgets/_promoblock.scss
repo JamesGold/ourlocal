@@ -37,10 +37,10 @@
 
 .promo-block{
 	z-index: 100;
-	//bottom: 1vh;
 	top: auto;
 	width: 100%;
 	overflow: hidden;
+	top:0;
 	}
 	
 
@@ -55,7 +55,7 @@
 
 .parallax {
 	perspective: 1px;
-	height: 100vh;
+	height: 80vh;
 	overflow-x: hidden;
 	overflow-y: auto;
 	}
@@ -67,7 +67,7 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	padding: 60vh 0 ;
+	padding: 110vh 0 ;
 	}	
 
 
@@ -86,6 +86,8 @@
 
 
 .parallax-layer-bottom{
+		position:absolute;
+
 		transform: translateZ(-1px) scale(2);
 		background:	 url(/assets/img/dessert-LG.jpg) center center no-repeat;
 		background-size: cover;

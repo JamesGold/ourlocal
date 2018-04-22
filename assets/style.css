@@ -1667,6 +1667,7 @@ table th {
   top: auto;
   width: 100%;
   overflow: hidden;
+  top: 0;
 }
 
 /*
@@ -1679,7 +1680,7 @@ table th {
 /* line 56, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .parallax {
   perspective: 1px;
-  height: 100vh;
+  height: 80vh;
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -1691,7 +1692,7 @@ table th {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 60vh 0;
+  padding: 110vh 0;
 }
 
 /* line 74, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
@@ -1707,6 +1708,7 @@ table th {
 
 /* line 88, Users/james/Development/ourlocal/assets/scss/widgets/_promoblock.scss */
 .parallax-layer-bottom {
+  position: absolute;
   transform: translateZ(-1px) scale(2);
   background: url(/assets/img/dessert-LG.jpg) center center no-repeat;
   background-size: cover;
