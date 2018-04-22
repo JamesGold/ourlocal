@@ -1,0 +1,15 @@
+footer{
+	@include clearfix;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.87);
+	color: #fff;
+	text-align: center;
+	
+	p {font-size: 1rem; margin: 3rem 0;
+		small { color: rgba(255, 255, 255, 0.5)}
+		
+	}
+	
+}	
+
+

@@ -42,9 +42,20 @@ body{
 //////// elements with grid refs
 
 .container{
+<<<<<<< HEAD
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-column-gap: .625em;
+=======
+
+
+
+	@include breakpoint(break5) {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: .625em;
+	}		
+>>>>>>> parent of 0cf9c48... When everything went wrong
 			
 }
 
@@ -75,7 +86,11 @@ body{
 // testing breakpoint sizes for dev
 
 
+<<<<<<< HEAD
 	.sizes:before {content: "Breakpoint: 0";
+=======
+	.sizes:before {content: "Breakpoint: 0"; background: #eee;
+>>>>>>> parent of 0cf9c48... When everything went wrong
 		color: #222; border: 1px solid #111;border-radius: 5px; padding: 10px;margin: 1em;
 		
 	@include breakpoint(break1) {background: #ffe8e8; content: "Breakpoint: 1"}

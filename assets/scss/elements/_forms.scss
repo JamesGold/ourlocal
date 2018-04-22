@@ -1,0 +1,49 @@
+// All form css. For buttons see '_buttons'
+
+form {
+	font-family: $utility-font;
+	font-weight: 200;
+	background: rgba(255, 255, 255, 0.5);
+	padding: 1.6em;	
+	font-weight: 100;
+	font-size: 1em;
+	margin: 1em 0;
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	
+		
+	fieldset{
+		background: none;
+		padding: 0;
+		margin: 0;
+		border: none;
+		}
+	
+	legend {
+		padding: .625em;
+		}
+	
+	label{
+		}
+	
+	input[type="submit"] {
+		margin: 0;
+		}
+		
+	input[type="text"], input[type="number"], input[type="email"], textarea {
+		display: inline-block;
+		margin-bottom: 2em;
+		background: none;
+		border: 0;
+		border-bottom: .0325em solid #fff;
+		flex-basis: 100%;
+			&:last-child {margin-bottom: 0;}	
+		}
+		
+}
+
+
+
+
+

@@ -1,0 +1,54 @@
+.menusection{
+	background-image: url(../../assets/img/menutexture.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	overflow: hidden;
+	text-align: center;
+	padding: 1rem;
+	
+	.menuitems {
+
+	display: grid;
+	grid-template-columns:   1fr;
+	@include breakpoint(break1) {grid-template-columns: 1fr 1fr; grid-gap:1em; text-align: left;}
+	@include breakpoint(break2) {grid-template-columns: 1fr 1fr;}
+	@include breakpoint(break3) {grid-template-columns: 1fr 1fr 1fr; }
+	@include breakpoint(break4) {grid-template-columns: 1fr 1fr 1fr; }
+	@include breakpoint(break5) {}				
+	}
+
+	
+	h2 {
+		font-family: $body-font;
+		text-transform: uppercase;
+		font-size: 1.6rem
+		
+	}
+	
+	h3 {
+		font-family: $body-font;
+		text-transform: uppercase;
+		font-size: 1rem;
+		font-weight: 600;
+		margin: 0;
+		line-height: 1.4rem;
+		padding-bottom: .3em;
+	}	
+	
+	p {
+		font-family: $utility-font;
+		font-size: .8rem;
+		font-weight: 100;
+
+		
+		
+		.price {
+			font-family: $body-font;
+			text-transform: uppercase;
+			font-weight: 600;
+			display: block;
+			padding-top: .325em;
+		}
+	}
+	
+}
