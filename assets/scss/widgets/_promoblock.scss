@@ -1,130 +1,64 @@
-.textarea {
-		color: #222;
-		color: #fff;
-		margin: 0 0 0 0em;
-		background: rgba(255, 255, 255, 0.62);
-		background: #8fb090;
-		width: 100%;
-		margin-top: 10em;
-		padding: 2em;
-		font-size: 1.4em;		
-		
-		
-	@include breakpoint(break1) {}
-	@include breakpoint(break2) {}
-	@include breakpoint(break3) {}
-	@include breakpoint(break4) {}
-	@include breakpoint(break5) {background: #8fb090;width: 66%;}
-	@include breakpoint(break6) {background: #8fb090;width: 32%;}
-		
-		
-		
-	
-	h2{ 
-	font-family: $display-font;
-	//font-size: 4rem;
-	font-weight: 200;	
-	line-height:1em;
-	padding: 0;
-	margin:0 0 .325em;
-	}
-	
-	p{margin: 0 0 .625rem;
-		&:last-of-type {margin-bottom: 0;}
-	}
-}	
-	
-
-.promo-block{
-	z-index: 100;
-	top: auto;
-	width: 100%;
-	overflow: hidden;
-	top:0;
-	}
-	
-
-/*
-.parallax__group {
-	position: relative;
-	height: 100vh;
-	transform-style: preserve-3d;
-	}	
-*/
-	
-
-.parallax {
-	perspective: 1px;
-	height: 80vh;
-	overflow-x: hidden;
-	overflow-y: auto;
-	}
-	
-  
-.parallax-layer {
-	position: relative;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	padding: 110vh 0 ;
-	}	
-
-
-.parallax-layer-top {
-	transform: translateZ(0px); //scale(2);
-	position:absolute;
-	width: 85%;
-	margin-top: 0;
-	margin-bottom: 0em;
-	margin-left: auto;
-	margin-right: auto; 
-
-	//top: 4em;
-	}
-
-
-
-.parallax-layer-bottom{
-		position:absolute;
-
-		transform: translateZ(-1px) scale(2);
-		background:	 url(/assets/img/dessert-LG.jpg) center center no-repeat;
-		background-size: cover;
-		//margin-top: 18em;
-	}
-
-
-
-
-
-/*
-
 .promo-block{
 	
+			display: flex;
+			flex-wrap: nowrap;
+
+
+		@include breakpoint(break1) {}
+		@include breakpoint(break2) {}
+		@include breakpoint(break3) {}
+		@include breakpoint(break4) {
+			flex-wrap: nowrap;
+			}
+		@include breakpoint(break5) {}
+		@include breakpoint(break6) {}
+		
+		
+	
+	.textarea {
+			color: #fff;
+			margin: 0 0 0 0em;
+			padding: 1em;
+			font-size: 1.4em;
+			max-width: calc(70% - 2em);
+				
+		@include breakpoint(break1) {}
+		@include breakpoint(break2) {}
+		@include breakpoint(break3) {}
+		@include breakpoint(break4) {}
+		@include breakpoint(break5) {
+			max-width:calc(50% - 2em);
+			}
+		@include breakpoint(break6) {}
+
+		
+		h2{ 
+			font-family: $display-font;
+			font-size: 4rem;
+			font-weight: 200;	
+			line-height:1em;
+			padding: 0;
+			margin:0 0 .325em;
+			}
+		
+		p{margin: 0 0 .625rem;
+			&:last-of-type {margin-bottom: 0;}
+		}
+	}	
 	
 	.bgimg {
-	background: url(/assets/img/dessert.jpg) center center no-repeat ;
-	background-size:cover;
-	min-height: 12em;
-	}
-	
-	.textarea {padding: 2em 0; color: #fff;margin: auto 0;
+		overflow:hidden;
+		width:30%;
+		max-width:30%;
+		background: url(/assets/img/dessert.jpg) center center;
+		background-size: cover;
+		background-attachment: fixed;
 		
+		@include breakpoint(break5) {
+			width:50%;
+						max-width:50%;
+			}
 	}
+}	
+
 	
-	h2{ 
-	font-family: $display-font;
-	font-size: 4rem;
-	font-weight: 200;	
-	line-height:1em;
-	padding: 0;
-	margin:0 0 .325em;
-	}
-	
-	p{margin: 0 0 .625rem;
-		&:last-of-type {margin-bottom: 0;}
-	}
-	
-	}
-*/

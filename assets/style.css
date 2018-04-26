@@ -932,6 +932,20 @@ body {
   }
 }
 
+/* line 60, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+.footercontent {
+  /* 896px  / 16px = 56em */
+}
+
+@media only screen and (min-width: 56em) {
+  /* line 60, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  .footercontent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1.5em;
+  }
+}
+
 /*
 .promo-block{	
 	display: grid;
@@ -939,27 +953,27 @@ body {
 	grid-column-gap: 1.5em;		
 }
 */
-/* line 73, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 85, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg {
   width: 100%;
 }
 
-/* line 77, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 89, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg.bggreen {
   background: #8fb090;
 }
 
-/* line 78, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 90, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg.bgblue {
   background: rgba(31, 60, 74, 0.98);
 }
 
-/* line 79, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 91, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .fullbg.bluepattern {
   background: url(/assets/img/patternBlue.png);
 }
 
-/* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+/* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
 .sizes:before {
   content: "Breakpoint: 0";
   background: #eee;
@@ -977,7 +991,7 @@ body {
 }
 
 @media only screen and (min-width: 28.125em) {
-  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #ffe8e8;
     content: "Breakpoint: 1";
@@ -985,7 +999,7 @@ body {
 }
 
 @media only screen and (min-width: 35em) {
-  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #e4c6f8;
     content: "Breakpoint: 2";
@@ -993,7 +1007,7 @@ body {
 }
 
 @media only screen and (min-width: 48em) {
-  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c6cef8;
     content: "Breakpoint: 3";
@@ -1001,7 +1015,7 @@ body {
 }
 
 @media only screen and (min-width: 56em) {
-  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #c3ffd9;
     content: "Breakpoint: 4";
@@ -1009,7 +1023,7 @@ body {
 }
 
 @media only screen and (min-width: 76.5em) {
-  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #cfff21;
     content: "Breakpoint: 5";
@@ -1017,7 +1031,7 @@ body {
 }
 
 @media only screen and (min-width: 100em) {
-  /* line 88, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
+  /* line 100, Users/james/Development/ourlocal/assets/scss/elements/_grid.scss */
   .sizes:before {
     background: #ff00e1;
     content: "Breakpoint: 6";
@@ -1057,6 +1071,24 @@ footer p {
 /* line 9, Users/james/Development/ourlocal/assets/scss/widgets/_footer.scss */
 footer p small {
   color: rgba(255, 255, 255, 0.5);
+}
+
+/* line 16, Users/james/Development/ourlocal/assets/scss/widgets/_footer.scss */
+.cookienotes {
+  position: static;
+  padding: 1em 3em 2em 1em;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/* line 20, Users/james/Development/ourlocal/assets/scss/widgets/_footer.scss */
+.cookienotes p {
+  color: #fff;
+  margin-bottom: 0;
+}
+
+/* line 21, Users/james/Development/ourlocal/assets/scss/widgets/_footer.scss */
+.cookienotes button {
+  float: right;
 }
 
 /* line 8, Users/james/Development/ourlocal/assets/scss/widgets/_header.scss */

@@ -209,6 +209,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/dessert-LG.jpg": {
+		"ft": 16384,
+		"iS": 128027,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/dessert-LG.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/dessert.jpg": {
 		"ft": 16384,
 		"iS": 40147,
@@ -430,6 +441,23 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/_site\/assets\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/_site\/assets\/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/style.css.map",
+		"oF": 0
 		},
 	"\/_site\/assets\/video\/dessert.mp4": {
 		"cB": 0,
@@ -883,15 +911,15 @@
 		"oF": 0
 		},
 	"\/assets\/scss\/style.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 2,
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/assets\/style.css",
-		"oF": 2,
+		"oAP": "\/_site\/assets\/style.css",
+		"oF": 3,
 		"oS": 1,
 		"uL": 1
 		},
@@ -1005,8 +1033,8 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/style-min.css",
-		"oF": 0,
+		"oAP": "\/_site\/assets\/style-min.css",
+		"oF": 2,
 		"oS": 3
 		},
 	"\/assets\/style.css.map": {

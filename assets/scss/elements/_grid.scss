@@ -24,9 +24,9 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, /* .promo-block, */ .socialcontainer {
+.container, .footercontent, .promo-block, .socialcontainer {
 	max-width: 96%;
-	margin: 3em auto;
+	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing
 	
 	@include breakpoint(break1) {max-width:96%;}
@@ -54,15 +54,18 @@ body{
 		grid-column-gap: 1.5em;
 		}						
 }
-
-
-/*
-.promo-block{	
-	display: grid;
-	grid-template-columns: 2fr 1fr;
-	grid-column-gap: 1.5em;		
+.footercontent {
+		
+			@include breakpoint(break4) {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr;
+			grid-column-gap: 1.5em;
+			}						
 }
-*/
+
+
+
+
 
 
 

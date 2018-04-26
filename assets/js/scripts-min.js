@@ -1,1 +1,1 @@
-$(function(){$("#mainNavList").removeClass("show"),$("#hamIcon").removeClass("open")}),$(function(){$("#iconContain").click(function(){$("#hamIcon").toggleClass("open"),$("#mainNavList").slideToggle("show")})});
+$(function(){$("#mainNavList").removeClass("show"),$("#hamIcon").removeClass("open")}),$(function(){$("#iconContain").click(function(){$("#hamIcon").toggleClass("open"),$("#mainNavList").slideToggle("show")})}),$(function(){$("#cookieClose").click(function(){$("#cookieNotes").fadeOut(500)})});

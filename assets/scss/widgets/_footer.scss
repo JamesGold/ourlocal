@@ -5,6 +5,12 @@ footer{
 	color: #fff;
 	text-align: center;
 	
+	li a{ color: #fff; text-decoration: none;
+			&:hover {text-decoration: underline;}
+			&:active {background: rgba(255, 255, 255, 0.3);}
+			&:visited{color: #fff;}		
+		}
+		
 	p {font-size: 1rem; margin: 3rem 0;
 		small { color: rgba(255, 255, 255, 0.5)}
 		
@@ -12,4 +18,14 @@ footer{
 	
 }	
 
+
+.cookie-notes {
+position: fixed;
+bottom:0;
+	padding: 1.4em 1.4em 1em 1.4em;
+	background: rgba(0,0,0,0.8);
+	p {color: #fff; margin-bottom: 0;}
+	button {float: right;}	
+	
+}
 

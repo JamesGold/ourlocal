@@ -48,12 +48,12 @@
 				line-height: 1em;
 			}
 			
-			a {text-decoration: none;
-				&:hover {text-decoration:underline;}
+			a {text-decoration: none; color: #666;
+				&:hover {color: #666; text-decoration:underline;}
 				&:visited {color: #666;}
 				}
 			
-				&.active{text-decoration: underline;}
+				&.active{color: #666; text-decoration: underline;}
 				}
 		}
 	}		

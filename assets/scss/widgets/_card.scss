@@ -53,6 +53,7 @@
 		
 	&.locationcard{
 		background:
+		linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
 		url(/assets/img/mappin.png) left 8% bottom 3% no-repeat, 
 		url(/assets/img/mappin.png) right -2% bottom 70% no-repeat, 
 		url(/assets/img/mappin.png) right 50% top 3% no-repeat, 
@@ -61,26 +62,59 @@
 		url(/assets/img/mappin.png) 10% 10% no-repeat, 
 		linear-gradient(rgba(199, 0, 0, 0.6), rgba(199, 0, 0, 0.6)), 
 		url(/assets/img/map.jpg) top left repeat;
-		background-attachment: fixed,fixed,fixed,fixed,scroll,scroll,fixed,fixed;
+		background-attachment: fixed,fixed,fixed,fixed,scroll,scroll,fixed,fixed,fixed;
+	
+			&:hover{
+			background:
+			url(/assets/img/mappin.png) left 8% bottom 3% no-repeat, 
+			url(/assets/img/mappin.png) right -2% bottom 70% no-repeat, 
+			url(/assets/img/mappin.png) right 50% top 3% no-repeat, 
+			url(/assets/img/mappin.png) 1% 3% no-repeat,
+			url(/assets/img/mappin.png) 90% 90% no-repeat, 
+			url(/assets/img/mappin.png) 10% 10% no-repeat, 
+			linear-gradient(rgba(199, 0, 0, 0.6), rgba(199, 0, 0, 0.6)), 
+			url(/assets/img/map.jpg) top left repeat;
+			background-attachment: fixed,fixed,fixed,fixed,scroll,scroll,fixed,fixed,fixed;
+			}
 		
 		}
 		
 	&.foodcard{
 		background:
-		linear-gradient(rgba(255, 167, 0, 0.4),
-		rgba(255, 167, 0, 0.6)), url(/assets/img/pie.jpg) left bottom no-repeat;
+		linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+		linear-gradient(rgba(255, 167, 0, 0.4),rgba(255, 167, 0, 0.6)), 
+		url(/assets/img/pie.jpg) left bottom no-repeat;
 		background-attachment: fixed;
 		background-origin: border-box;
 		background-size: cover;
+			
+			&:hover{
+			background:
+			linear-gradient(rgba(255, 167, 0, 0.4),
+			rgba(255, 167, 0, 0.6)), url(/assets/img/pie.jpg) left bottom no-repeat;
+			background-attachment: fixed;
+			background-origin: border-box;
+			background-size: cover;
+			}
+		
 		}
 		
 	&.newscard{
 		background:
-		linear-gradient(rgba(0, 0, 0, 0.4),
-		rgba(0, 0, 0, 0.4)), url(/assets/img/news.jpg) right bottom no-repeat;
+		linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), 
+		url(/assets/img/news.jpg) right bottom no-repeat;
 		background-attachment: fixed;
 		background-origin: padding-box;
 		background-size: cover;
+			
+			&:hover{
+			background:
+			linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), 
+			url(/assets/img/news.jpg) right bottom no-repeat;
+			background-attachment: fixed;
+			background-origin: padding-box;
+			background-size: cover;
+			}
 		}	
 			
 	.featureheader {

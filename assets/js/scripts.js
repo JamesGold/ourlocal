@@ -16,3 +16,10 @@ $("#iconContain").click (function(){ //open and close the widget
 	
 	});
 });	
+
+
+$(function() {
+$("#cookieClose").click (function(){ //open and close the widget
+	$("#cookieNotes").fadeOut(500);
+		});
+});	
