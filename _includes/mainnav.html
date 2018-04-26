@@ -7,13 +7,13 @@
 
 	</div>	
 	
-<nav class="main-nav" id="mainNav">
-
-<ul class="show" id="mainNavList">		
+	<nav class="main-nav" id="mainNav">
+		<ul class="show" id="mainNavList">		
 			{% for menu in site.data.mainNav %}
 				<li class="{% if page.url == menu.url %}active{% endif %}"><a href="{{ menu.url }}">{{ menu.title }}</a></li>	
 			{% endfor %}
-		</ul>		
+		</ul>
+	</nav>			
 </div><!-- eof navcontainer -->
 
 
