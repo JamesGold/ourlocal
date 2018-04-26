@@ -24,7 +24,7 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, .promo-block, .socialcontainer {
+.container, .footercontent, .promo-block, .socialcontainer, .text-container {
 	max-width: 96%;
 	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing
@@ -36,6 +36,9 @@ body{
 	@include breakpoint(break5) {max-width:85%;}	
 }
 
+img {max-width: 100%;
+	.content-img {height: 10vh;} 
+}
 	
 
 
@@ -64,6 +67,18 @@ body{
 }
 
 
+ .text-container {
+	margin-bottom: 3em;
+	@include breakpoint(break3) {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-auto-flow: dense;
+			grid-column-gap: 1.5em;
+
+		}
+
+	 
+ }
 
 
 

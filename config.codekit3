@@ -156,6 +156,13 @@
 		"oAP": "\/_layouts\/htmlbase.html",
 		"oF": 0
 		},
+	"\/_layouts\/htmlbasemain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/htmlbasemain.html",
+		"oF": 0
+		},
 	"\/_layouts\/page.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -240,6 +247,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/lilDog.jpg": {
+		"ft": 16384,
+		"iS": 100968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/lilDog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_site\/assets\/img\/map.jpg": {
@@ -611,6 +629,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/lilDog.jpg": {
+		"ft": 16384,
+		"iS": 100968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/lilDog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/map.jpg": {
