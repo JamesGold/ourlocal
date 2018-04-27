@@ -41,11 +41,14 @@
 }	
 	
 	
+	
+	
 .featuredcard {
 	display: flex;
 	justify-content: center;
 	height: 22em;
 	margin-bottom: 3em;
+	text-decoration: none;
 	
 	
 	
@@ -141,7 +144,7 @@
 				}
 	}
 	
-		
+			
 	&.menu1{
 		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
 				url(/assets/img/breakfast.jpg) right bottom no-repeat;
@@ -194,7 +197,7 @@
 
 	&.menucard{}
 }
-
+	
 	@include breakpoint(break4) {
 		.locationcard{width: 100%; margin-bottom: 2em;}
 		.foodcard{width: calc(50% - 1em);margin-right: 2em;margin-bottom: 0;}

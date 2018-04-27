@@ -24,7 +24,7 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, .promo-block, .socialcontainer, .text-container {
+.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container{
 	max-width: 96%;
 	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing
@@ -63,28 +63,56 @@ img {max-width: 100%;
 }
 .footercontent {
 		
-			@include breakpoint(break4) {
-			display: grid;
-			grid-template-columns: 1fr 1fr 1fr;
-			grid-column-gap: 1.5em;
-			}						
+	@include breakpoint(break4) {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-column-gap: 1.5em;
+		}						
 }
 
 
  .text-container {
 	margin-bottom: 3em;
+
 	@include breakpoint(break3) {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-auto-flow: dense;
-	grid-column-gap: 1.5em;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-auto-flow: dense;
+		grid-column-gap: 1.5em;
 
-		}
-
-	 
+		}	 
  }
 
 
+.menu-header {
+	
+		@include breakpoint(break4) {
+		display: flex;
+		flex-wrap: wrap;
+		}
+
+	@include breakpoint(break5) {
+		display: grid;
+		grid-template-columns: 2fr 1fr;
+		grid-column-gap: 2em;
+		}						
+}
+
+.menu-container{
+
+	@include breakpoint(break4) {
+		display: flex;
+		flex-wrap: wrap;
+		}
+
+/*
+	@include breakpoint(break5) {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-column-gap: 1.5em;
+		}	
+*/					
+}
 
 
 
@@ -98,11 +126,14 @@ img {max-width: 100%;
 		
 	&.bggreen {background: #8fb090;}
 	&.bgblue {background: rgba(31, 60, 74, 0.98);}
-	&.bluepattern {background: url(/assets/img/patternBlue.png);}			
-
-	
+	&.bluepattern {background: url(/assets/img/patternBlue.png);}	
+	&.menusection{
+		background-image: url(/assets/img/menutexture-dk.jpg);
+		background-attachment: fixed;
+		background-size: cover;
+		overflow: hidden;		
 	}
-		
+}		
 	
 // testing breakpoint sizes for dev
 
