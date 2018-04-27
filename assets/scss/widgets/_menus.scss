@@ -1,4 +1,4 @@
-.menusection{
+.menu-section{
 	.menu-image {display: none;
 			@include breakpoint(break5) {display: block; width:100%;}				
 	}
@@ -8,7 +8,7 @@
 
 	display: grid;
 	grid-template-columns:   1fr;
-	@include breakpoint(break1) {grid-template-columns: 1fr 1fr; grid-gap:2em; text-align: left;}
+	@include breakpoint(break1) {grid-template-columns: 1fr 1fr; grid-gap:1em; text-align: left;}
 	@include breakpoint(break2) {grid-template-columns: 1fr 1fr;}
 	@include breakpoint(break3) {grid-template-columns: 1fr 1fr 1fr; }
 	@include breakpoint(break4) {grid-template-columns: 1fr 1fr 1fr; }
@@ -25,22 +25,22 @@
 	}
 	
 	h3 {
-		font-family: $body-font;
-		//text-transform: uppercase;
-		font-weight: 600;
-				font-size: 2em;
-
+		font-family: $display-font;
+		font-size: 4em;
 		margin: 0;
 		line-height: 1.4rem;
 		padding-bottom: .3em;
-	}	
+		color: #8fb090;
+		}	
 	
 	p {
 		font-family: $utility-font;
 		font-weight: 100;
 		
 		.dishhead{
-			font-weight: 600;		
+			font-weight: 600;
+			text-transform: uppercase;
+					
 		}
 					
 		
@@ -50,6 +50,14 @@
 			font-weight: 600;
 			display: block;
 			padding-top: .325em;
+		}
+		
+		&.dish-highlight {
+			background: rgba(143, 176, 153, 0.4);
+			padding: .3em;
+			border: 3px #8fb090 dotted; 
+			text-transform: uppercase;
+			
 		}
 	}
 	

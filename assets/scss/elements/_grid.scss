@@ -127,7 +127,7 @@ img {max-width: 100%;
 	&.bggreen {background: #8fb090;}
 	&.bgblue {background: rgba(31, 60, 74, 0.98);}
 	&.bluepattern {background: url(/assets/img/patternBlue.png);}	
-	&.menusection{
+	&.menu-section, &.text-section{
 		background-image: url(/assets/img/menutexture-dk.jpg);
 		background-attachment: fixed;
 		background-size: cover;
