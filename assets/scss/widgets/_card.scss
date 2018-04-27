@@ -127,7 +127,7 @@
 		margin-right: 1em;
 			h3 {
 				font-size: 3em;
-				padding: .5em 0 .3em;;
+				padding: .5em .4em .3em;;
 				margin: 0;
 				font-weight: 200;
 				line-height: 80%;
@@ -140,16 +140,79 @@
 				font-size: 1.6em;
 				}
 	}
+	
+		
+	&.menu1{
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+				url(/assets/img/breakfast.jpg) right bottom no-repeat;
+		&:hover {
+			background:url(/assets/img/breakfast.jpg) right bottom no-repeat;}
+			}
+		
+	&.menu2 {
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+				url(/assets/img/salad.jpg) right bottom no-repeat;
+		&:hover {
+			background:url(/assets/img/salad.jpg) right bottom no-repeat;}
+			}
+	
+	&.menu3 {
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+			url(/assets/img/roastchicken.jpg) center center no-repeat;
+		&:hover {
+			background:url(/assets/img/roastchicken.jpg) center center no-repeat;}
+			}
+				
+	&.menu4 {
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+			url(/assets/img/dessert.jpg) center center no-repeat;
+		&:hover {
+			background:url(/assets/img/dessert.jpg) center center no-repeat;}
+			}
+		
+	&.menu5 {
+		background:linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4) 0%),
+		url(/assets/img/supperclub.jpg) center center no-repeat;
+		&:hover {
+			background:url(/assets/img/supperclub.jpg) center center no-repeat;}
+			}
+		
+	&.menu6 {
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+				url(/assets/img/RoastDinner.jpg) center bottom no-repeat;
+		&:hover {
+			background:url(/assets/img/RoastDinner.jpg) center bottom no-repeat;}
+			}
+		
+	&.menu7{
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+				url(/assets/img/kids.jpg) center center no-repeat;
+		&:hover {
+			background:url(/assets/img/kids.jpg) center center no-repeat;}
+			}
+	
+
+	&.menucard{}
 }
 
 	@include breakpoint(break4) {
 		.locationcard{width: 100%; margin-bottom: 2em;}
 		.foodcard{width: calc(50% - 1em);margin-right: 2em;margin-bottom: 0;}
 		.newscard{width: calc(50% - 1em);margin-right: 0em;margin-bottom: 0;}
+		.menu1{width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
+		.menu2 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
+		.menu3 {width: 100%; margin-right: 0em; margin-bottom: 2em;}
+		.menu4 {width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
+		.menu5 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
+		.menu6 {width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
+		.menu7 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
+
+
+
+		
 	}
 	@include breakpoint(break5) {
-		.locationcard{width: auto; margin: 0;}
-		.foodcard{width: auto; margin: 0;}
-		.newscard{width: auto; margin: 0;}
+		.locationcard, .foodcard, .newscard {width: auto; margin: 0;}
+		.menu1, .menu2, .menu3, .menu4, .menu5, .menu6, .menu7  {width: auto; margin: 0; margin-bottom: 3em;}
 	}
 
