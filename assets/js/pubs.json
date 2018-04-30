@@ -16,7 +16,7 @@
         "description": "A friendly welcome from the heart of the community", 
         "name": "The Bull & Dog Inn", 
         "phone": "01704 895 798",
-        "web": "OurLocal.pub"
+        "web": "<a href=\"locations.html#680268\">View this Pub</a>"
 
       }
     },
@@ -36,7 +36,7 @@
         "description": "A warm welcome, great pint and views over Portsmouth Harbour", 
         "name": "The Jolly Roger, Gosport", 
         "phone": "023 9258 2584",
-        "web": "OurLocal.pub"
+        "web": "<a href=\"http://www.OurLocal.pub\">OurLocal</a>"
 
       }
     }             

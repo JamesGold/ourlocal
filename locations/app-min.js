@@ -1,1 +1,0 @@
-function initMap(){const e=new google.maps.Map(document.getElementsByClassName("map")[0],{zoom:10,center:{lat:51.512457,lng:-.1291657}})}

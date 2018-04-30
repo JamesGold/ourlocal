@@ -24,11 +24,10 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container{
+.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container, .map, .section-header, .pub-card{
 	max-width: 96%;
 	margin: 3em auto 0;
-	//border: 1px solid #eee; //for testing
-	
+	//border: 1px solid #eee; //for testing	
 	@include breakpoint(break1) {max-width:96%;}
 	@include breakpoint(break2) {max-width:90%;}
 	@include breakpoint(break3) {max-width:85%;}
@@ -39,14 +38,9 @@ body{
 img {max-width: 100%;
 	.content-img {height: 10vh;} 
 }
-	
 
 
 //////// elements with grid refs
-
-
-
-
 
 .container{
 
@@ -80,11 +74,12 @@ img {max-width: 100%;
 		grid-auto-flow: dense;
 		grid-column-gap: 1.5em;
 
-		}	 
+		}
+	strong{font-weight: 600;}		 
  }
 
 
-.menu-header {
+.menu-header, .section-header {
 	
 		@include breakpoint(break4) {
 		display: flex;
@@ -98,24 +93,35 @@ img {max-width: 100%;
 		}						
 }
 
+
 .menu-container{
 
 	@include breakpoint(break4) {
 		display: flex;
 		flex-wrap: wrap;
 		}
-
-/*
-	@include breakpoint(break5) {
-		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
-		grid-column-gap: 1.5em;
-		}	
-*/					
 }
 
 
+.section {
+	@include breakpoint(break5) {margin-top: -2em; padding-top: 2em;}
 
+}
+
+
+.pub-card{
+	
+		@include breakpoint(break4) {
+		display: flex;
+		flex-wrap: wrap;
+		}
+
+	@include breakpoint(break5) {
+		display: grid;
+		grid-template-columns: 1fr 5fr;
+		grid-column-gap: 2em;
+		}						
+}
 
 
 //// backgrounds
@@ -127,7 +133,7 @@ img {max-width: 100%;
 	&.bggreen {background: #8fb090;}
 	&.bgblue {background: rgba(31, 60, 74, 0.98);}
 	&.bluepattern {background: url(/assets/img/patternBlue.png);}	
-	&.menu-section, &.text-section{
+	&.section{
 		background-image: url(/assets/img/menutexture-dk.jpg);
 		background-attachment: fixed;
 		background-size: cover;

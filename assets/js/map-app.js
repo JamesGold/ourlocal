@@ -104,10 +104,8 @@ function initMap() {
        });
 
 
-
-
 // Load the stores GeoJSON onto the map.
-  map.data.loadGeoJson('pubs.json');
+  map.data.loadGeoJson('/assets/js/pubs.json');
 
   const infoWindow = new google.maps.InfoWindow();
 
@@ -130,3 +128,22 @@ function initMap() {
     infoWindow.open(map);
   });
 }
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+

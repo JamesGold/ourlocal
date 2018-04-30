@@ -457,6 +457,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/_site\/assets\/js\/map-app.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/map-app-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/_site\/assets\/js\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -626,77 +636,6 @@
 		"oAP": "\/_site\/locations.html",
 		"oF": 0
 		},
-	"\/_site\/locations\/app-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/app-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/locations\/src\/app.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/src\/app-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/locations\/src\/img\/icon_cafe.png": {
-		"ft": 32768,
-		"iS": 2601,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/src\/img\/icon_cafe.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/locations\/src\/img\/icon_patisserie.png": {
-		"ft": 32768,
-		"iS": 3067,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/src\/img\/icon_patisserie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/locations\/src\/img\/logo_cafe.png": {
-		"ft": 32768,
-		"iS": 6448,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/src\/img\/logo_cafe.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/locations\/src\/img\/logo_patisserie.png": {
-		"ft": 32768,
-		"iS": 6850,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/src\/img\/logo_patisserie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/locations\/src\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/src\/index.html",
-		"oF": 0
-		},
 	"\/_site\/navtest.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -755,6 +694,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/680268\/680268.jpg": {
+		"ft": 16384,
+		"iS": 64867,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/680268\/680268.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/breakfast.jpg": {
@@ -997,6 +947,24 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/assets\/js\/map-app.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/map-app-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/pubs.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/js\/pubs-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/assets\/js\/scripts-min.js": {
 		"ft": 64,
@@ -1259,6 +1227,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/scss\/widgets\/_map.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/scss\/widgets\/_map.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/scss\/widgets\/_menus.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1427,109 +1408,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/locations\/app-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/locations\/app-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/locations\/app.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/locations\/app-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/locations\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/locations\/index.html",
 		"oF": 0
-		},
-	"\/locations\/pubs.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/locations\/pubs-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/locations\/src\/app.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/locations\/src\/app-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/locations\/src\/img\/icon_cafe.png": {
-		"ft": 32768,
-		"iS": 2601,
-		"oA": 0,
-		"oAP": "\/locations\/src\/img\/icon_cafe.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/locations\/src\/img\/icon_patisserie.png": {
-		"ft": 32768,
-		"iS": 3067,
-		"oA": 0,
-		"oAP": "\/locations\/src\/img\/icon_patisserie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/locations\/src\/img\/logo_cafe.png": {
-		"ft": 32768,
-		"iS": 6448,
-		"oA": 0,
-		"oAP": "\/locations\/src\/img\/logo_cafe.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/locations\/src\/img\/logo_patisserie.png": {
-		"ft": 32768,
-		"iS": 6850,
-		"oA": 0,
-		"oAP": "\/locations\/src\/img\/logo_patisserie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/locations\/src\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/locations\/src\/index.html",
-		"oF": 0
-		},
-	"\/locations\/src\/stores.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/locations\/src\/stores-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
 		},
 	"\/navtest.html": {
 		"cB": 0,
