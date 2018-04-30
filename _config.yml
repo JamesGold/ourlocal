@@ -37,6 +37,7 @@ exclude:
 - vendor/gems/
 - vendor/ruby/
 - config.codekit3
+- assets/raw
 
 
 # Exclude from processing.
