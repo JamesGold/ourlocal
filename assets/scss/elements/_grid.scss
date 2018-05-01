@@ -24,7 +24,7 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container, .map, .section-header, .pub-card{
+.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container, .map, .section-header, .pubs{
 	max-width: 96%;
 	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing	
@@ -109,20 +109,41 @@ img {max-width: 100%;
 }
 
 
-.pub-card{
-	
+
+.pubs { 
+
+		@include breakpoint(break1) {}
+		@include breakpoint(break2) {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			grid-column-gap: 1.5em;
+			}
+		@include breakpoint(break3) {}
 		@include breakpoint(break4) {
-		display: flex;
-		flex-wrap: wrap;
+			grid-template-columns: 1fr 1fr 1fr;
+			}
+		@include breakpoint(break5) {}		
+
+	.pub-card{
+		
+			@include breakpoint(break4) {
+/*
+			display: flex;
+			flex-wrap: wrap;
+*/
+			}
+	
+		@include breakpoint(break5) {
+/*
+			display: grid;
+			grid-template-columns: 1fr 5fr;
+			grid-column-gap: 2em;
+*/
+			}						
 		}
-
-	@include breakpoint(break5) {
-		display: grid;
-		grid-template-columns: 1fr 5fr;
-		grid-column-gap: 2em;
-		}						
+		
+				
 }
-
 
 //// backgrounds
 

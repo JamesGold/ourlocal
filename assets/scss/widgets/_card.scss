@@ -40,11 +40,23 @@
 	}
 }	
 	
-	
-.pub-card {
-	margin: 2em auto;
-	background: rgba(143, 176, 144, 0.4)	
-}	
+.pubs {	
+	.pub-card {
+		margin: 2em auto;
+		background: rgba(143, 176, 144, 0.4);
+		
+			h1 {
+				font-family: $body-font;
+				font-size:2rem;
+				padding: 1rem 1rem 0;
+			}
+			p {
+				font-family: $utility-font;
+				font-size:1rem;	
+				padding: 1rem;
+			}	
+	}
+}
 	
 .featuredcard {
 	display: flex;

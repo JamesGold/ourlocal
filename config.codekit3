@@ -216,6 +216,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/680268\/680268.jpg": {
+		"ft": 16384,
+		"iS": 64867,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/680268\/680268.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/breakfast.jpg": {
 		"ft": 16384,
 		"iS": 66076,
@@ -467,25 +478,13 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/assets\/js\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/scripts-min-min.js",
+	"\/_site\/assets\/js\/pubs.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/js\/pubs-min.json",
 		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/assets\/js\/scripts.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/scripts-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oO": 0,
+		"oS": 1
 		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,
@@ -583,16 +582,12 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_site\/favicon.png": {
-		"ft": 32768,
-		"iS": 147,
+	"\/_site\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"oAP": "\/_site\/favicon.ico",
+		"oF": 0
 		},
 	"\/_site\/feed.xml": {
 		"cB": 0,
@@ -601,11 +596,11 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
-	"\/_site\/food-and-drink\/index.html": {
+	"\/_site\/food-and-drink.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/food-and-drink\/index.html",
+		"oAP": "\/_site\/food-and-drink.html",
 		"oF": 0
 		},
 	"\/_site\/food-and-drink\/starters.html": {
@@ -634,6 +629,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/locations.html",
+		"oF": 0
+		},
+	"\/_site\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html",
 		"oF": 0
 		},
 	"\/_site\/navtest.html": {
@@ -944,6 +946,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/js.cookie.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/js.cookie-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1351,16 +1363,12 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/favicon.png": {
-		"ft": 32768,
-		"iS": 147,
+	"\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"oAP": "\/favicon.ico",
+		"oF": 0
 		},
 	"\/food-and-drink\/index.html": {
 		"cB": 0,
@@ -1413,6 +1421,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/locations\/index.html",
+		"oF": 0
+		},
+	"\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html",
 		"oF": 0
 		},
 	"\/navtest.html": {

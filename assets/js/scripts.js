@@ -18,8 +18,31 @@ $("#iconContain").click (function(){ //open and close the widget
 });	
 
 
+/*
 $(function() {
 $("#cookieClose").click (function(){ //open and close the widget
 	$("#cookieNotes").fadeOut(500);
+	
 		});
 });	
+*/
+
+/////// experiment
+
+$(function() {
+//if cookienotes exists the hide cookie notice
+
+if( Cookies.get('cookienote') ==="true") {
+	$("#cookieNotes").addClass('hide');
+	};
+	
+	$("#cookieClose").click (function(){ //open and close the widget
+	$("#cookieNotes").fadeOut(500);
+	Cookies.set('cookienote', "true", { expires: 1 });
+	});
+
+});		
+ 
+
+
+
