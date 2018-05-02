@@ -17,12 +17,12 @@
 	.textarea {
 			color: #fff;
 			margin: 0 0 0 0em;
-			padding: 1em;
+			padding: 1em 0em;
 			font-size: 1.4em;
 			max-width: 100%;	
 		@include breakpoint(break1) {}
 		@include breakpoint(break2) {}
-		@include breakpoint(break3) {max-width: calc(60% - 2em);}
+		@include breakpoint(break3) {padding: 1em 1em 1em 0em; max-width: calc(60% - 2em);}
 		@include breakpoint(break4) {}
 		@include breakpoint(break5) {
 			max-width:calc(50% - 2em);
