@@ -133,33 +133,10 @@
 	}	
 
 }	
-	
-/*
-
-@keyframes contractClose {
-        from { transform: scaleY(1) }
-        to { transform: scaleY(0) }
-        }
-        
-        
- @keyframes expandOpen {
-        from { height: scaleY(0) }
-        to { transform: scaleY(1) } 
-        }
 
 
-.navcontainer nav.main-nav {
-
-		&.contract {animation: contractClose 3s ease-out;animation-fill-mode: forwards;}
-		&.expand {animation: expandOpen 3s ease-out;animation-fill-mode: forwards;}
-	
-		@include breakpoint(break5) {
-			&.contract {animation:none;}
-			&.expand {animation:none;}
-		}	
-}		
-*/
-
-
+/// utility for swithcing between word mark and logo.
+.smlscrn {display:block; @include breakpoint(break5) {display:none; } }
+.bgscrn {display:none; @include breakpoint(break5) {display:block; transform: rotate(-7deg);} }
 
 

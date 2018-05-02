@@ -135,6 +135,13 @@
 		"oAP": "\/_includes\/promo-block.html",
 		"oF": 0
 		},
+	"\/_includes\/signup.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/signup.html",
+		"oF": 0
+		},
 	"\/_includes\/socialwall-block.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1310,6 +1317,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/scss\/widgets\/_promoblock.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/scss\/widgets\/_signup.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/scss\/widgets\/_signup.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

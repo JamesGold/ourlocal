@@ -24,7 +24,7 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container, .map, .section-header, .pubs{
+.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container, .map, .section-header, .pubs, .signup-container{
 	max-width: 96%;
 	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing	
