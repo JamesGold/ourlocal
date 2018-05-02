@@ -12,25 +12,33 @@ $(function() {
 $(function() {
 $("#iconContain").click (function(){ //open and close the widget
 	$("#hamIcon").toggleClass('open');
-	$('#mainNavList').slideToggle();
+	$('#mainNavList').slideToggle().toggleClass('contract expand');
 	
 	});
 });	
+
 
 $(function() {
 
 $(window).resize(function() {
 
-if ($(window).width() > 1223){
-	$('#mainNavList').addClass('wide');
+	if ($(window).width() > 1223 ) {
+		$('#mainNavList').css('display','flex');
+		}
+	else if
+	 ($(window).width() < 1223 && $('#mainNavList').hasClass('expand') ) {  
+	$('#mainNavList').css('display','block');
 	}
-else{  
-	$('#mainNavList').removeClass('wide');
-
+	else if
+	 ($(window).width() < 1223 && $('#mainNavList').hasClass('contract') ) {  
+	$('#mainNavList').css('display','none');
 	}
 });
 
 });
+
+
+
 
 
 
@@ -57,3 +65,25 @@ if( Cookies.get('cookienote') ==="true") {
 
 
 
+
+
+
+
+
+///// looking at window size
+
+/*
+$(function() {
+
+$(window).resize(function() {
+
+	if ($(window).width() > 1223 {
+		$('#mainNavList').css('display','flex');
+		}
+	else{  
+	
+		}
+});
+
+});
+*/
