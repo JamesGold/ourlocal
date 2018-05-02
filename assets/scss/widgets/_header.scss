@@ -52,7 +52,11 @@ header {
 		
 			span.highlight {font-size: calc(100% + 50%); line-height: calc(100% + 30%);}
 		}
-	
+		
+	.feelathome-hero {width: 30%; margin: .4em auto;
+		@include breakpoint(break2) {width: 20%;}
+		@include breakpoint(break3) {width: 10%;}
+	}
 }
 
 

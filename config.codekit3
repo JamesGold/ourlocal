@@ -121,18 +121,18 @@
 		"oAP": "\/_includes\/mainnav.html",
 		"oF": 0
 		},
-	"\/_includes\/promo-block-1.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_includes\/promo-block-1.html",
-		"oF": 0
-		},
 	"\/_includes\/promo-block-2.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/promo-block-2.html",
+		"oF": 0
+		},
+	"\/_includes\/promo-block.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/promo-block.html",
 		"oF": 0
 		},
 	"\/_includes\/socialwall-block.html": {
@@ -495,6 +495,26 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/_site\/assets\/js\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/assets\/js\/scripts.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/scripts-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,

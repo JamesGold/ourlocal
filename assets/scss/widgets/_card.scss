@@ -58,16 +58,12 @@
 	}
 }
 	
-.featuredcard {
+.featuredcard, .featuredcard-home {
 	display: flex;
 	justify-content: center;
 	height: 22em;
 	margin-bottom: 3em;
-	text-decoration: none;
-	
-	
-	
-	
+	text-decoration: none;	
 		
 	&.locationcard{
 		background:
@@ -216,19 +212,17 @@
 	@include breakpoint(break4) {
 		.locationcard{width: 100%; margin-bottom: 2em;}
 		.foodcard{width: calc(50% - 1em);margin-right: 2em;margin-bottom: 0;}
-		.newscard{width: calc(50% - 1em);margin-right: 0em;margin-bottom: 0;}
+		.newscard{width: calc(50% - 1em);margin-right: 0em;margin-bottom: 0;}	
 		.menu1{width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
 		.menu2 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
 		.menu3 {width: 100%; margin-right: 0em; margin-bottom: 2em;}
 		.menu4 {width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
 		.menu5 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
 		.menu6 {width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
-		.menu7 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
-
-
+		.menu7 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}		
+	}
 
 		
-	}
 	@include breakpoint(break5) {
 		.locationcard, .foodcard, .newscard {width: auto; margin: 0;}
 		.menu1, .menu2, .menu3, .menu4, .menu5, .menu6, .menu7  {width: auto; margin: 0; margin-bottom: 3em;}

@@ -1,15 +1,14 @@
 .promo-block{
 	
-			display: flex;
-			flex-wrap: nowrap;
-
+		display: flex;
+		flex-direction: column-reverse;
+		flex-wrap: wrap;
+		justify-content: space-between;
 
 		@include breakpoint(break1) {}
 		@include breakpoint(break2) {}
-		@include breakpoint(break3) {}
-		@include breakpoint(break4) {
-			flex-wrap: nowrap;
-			}
+		@include breakpoint(break3) {flex-direction: row;flex-wrap: nowrap;}
+		@include breakpoint(break4) {}
 		@include breakpoint(break5) {}
 		@include breakpoint(break6) {}
 		
@@ -20,11 +19,10 @@
 			margin: 0 0 0 0em;
 			padding: 1em;
 			font-size: 1.4em;
-			max-width: calc(70% - 2em);
-				
+			max-width: 100%;	
 		@include breakpoint(break1) {}
 		@include breakpoint(break2) {}
-		@include breakpoint(break3) {}
+		@include breakpoint(break3) {max-width: calc(60% - 2em);}
 		@include breakpoint(break4) {}
 		@include breakpoint(break5) {
 			max-width:calc(50% - 2em);
@@ -47,17 +45,16 @@
 	}	
 	
 	.bgimg {
-		overflow:hidden;
-		width:30%;
-		max-width:30%;
+		//overflow:hidden;
 		background: url(/assets/img/dessert.jpg) center center;
-		background-size: cover;
-		background-attachment: fixed;
+		background-size:cover;
+		width:100%;
+		height: 12em;
 		
-		@include breakpoint(break5) {
-			width:50%;
-						max-width:50%;
-			}
+		@include breakpoint(break3) {
+		height: auto;
+			
+		}
 	}
 }	
 
