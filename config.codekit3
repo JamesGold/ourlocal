@@ -468,6 +468,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/_site\/assets\/js\/js.cookie.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/js.cookie-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/_site\/assets\/js\/map-app.js": {
 		"ft": 64,
 		"ma": 0,
@@ -551,27 +561,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/style.css.map",
-		"oF": 0
-		},
-	"\/_site\/assets\/video\/dessert.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/video\/dessert.mp4",
-		"oF": 0
-		},
-	"\/_site\/assets\/video\/dessert.ogv": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/video\/dessert.ogv",
-		"oF": 0
-		},
-	"\/_site\/assets\/video\/dessert.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/video\/dessert.webm",
 		"oF": 0
 		},
 	"\/_site\/bower.json": {
@@ -1019,6 +1008,13 @@
 		"oAP": "\/assets\/raw\/mappin.psd",
 		"oF": 0
 		},
+	"\/assets\/raw\/Our Local News Bull and Dog.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/Our Local News Bull and Dog.docx",
+		"oF": 0
+		},
 	"\/assets\/raw\/pattern.psd": {
 		"cB": 0,
 		"ft": 8192,
@@ -1031,6 +1027,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/raw\/PU26888-16_202507_Bull & Dog_POST07_A1-Encaps-Posters-menu-_2.pdf.pdf",
+		"oF": 0
+		},
+	"\/assets\/raw\/Pub and Publicans.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/Pub and Publicans.docx",
 		"oF": 0
 		},
 	"\/assets\/raw\/supperclub.psd": {
@@ -1332,27 +1335,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/style.css.map",
-		"oF": 0
-		},
-	"\/assets\/video\/dessert.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/video\/dessert.mp4",
-		"oF": 0
-		},
-	"\/assets\/video\/dessert.ogv": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/video\/dessert.ogv",
-		"oF": 0
-		},
-	"\/assets\/video\/dessert.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/video\/dessert.webm",
 		"oF": 0
 		},
 	"\/bower.json": {
