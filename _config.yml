@@ -13,18 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Feel at home at your local pub
+title: Feel at home in your local pub
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Your local pub is the perfect place to meet friends, dine with the family or just a home from home with great beers
+description:  Your local is about proper pubs, the perfect place to meet friends, dine with the family or just a home from home with great beers. 
+author:  Design & Develpment by James Goldsworthy for Punch
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ourlocal.pub" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: OurLocalPub
+instagram_username: OurLocalPub
+
+
 
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: pretty
 plugins:
   - jekyll-feed
   

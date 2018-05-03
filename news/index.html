@@ -1,10 +1,19 @@
 ---
-layout: "htmlbase"
-author: "James"
-title: Our Local
-pagetitle: "Social"
-heromain: "Our Local"
-herosub: What's happening
+layout: htmlbase
+title: Food &amp; Drink
+permalink: /news.html
+pagetitle: "News &amp; Offers"
 ---
 
-{% include socialwall-block.html %}
+
+NEWS!
+
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">
+      <h2>{{ post.title }}</h2>
+    </a>
+  </li>
+{% endfor %}
+</ul>
