@@ -16,15 +16,17 @@
 	  <!--[if lt IE 9]>
 	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	  <![endif]-->
+	  
+	 	<script src="{{ '/assets/js/jquery.js' | relative_url }}"></script> 
+		<script src="{{ '/assets/js/js.cookie.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/scripts-min.js' | relative_url }}"></script>  
+	  
 	</head>
 	<body>
-
 			{% include mainnav.html %}
 				{{ content }}
 			{% include footer.html %}
-		<script src="{{ '/assets/js/jquery.js' | relative_url }}"></script> 
-		<script src="{{ '/assets/js/js.cookie.js' | relative_url }}"></script>
-		<script src="{{ '/assets/js/scripts-min.js' | relative_url }}"></script> 
+
 	</body>
 </html>
  

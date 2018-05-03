@@ -60,9 +60,22 @@ header {
 }
 
 
+// Section headers
+
+.section{
+	
+	
+	h1 {
+		color: rgba(143, 176, 144, 1);
+		font-size: 4em;
+		margin: 1em 0 0;
+		}
+		.supp-image {display: none;
+			@include breakpoint(break5) {display: block; width:100%;}				
+	} //only show supplementary images where it makes sense
 
 
-
+}
 
 
 

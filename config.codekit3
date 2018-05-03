@@ -223,6 +223,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/680268-2.jpg": {
+		"ft": 16384,
+		"iS": 44181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/680268-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/680268\/680268.jpg": {
 		"ft": 16384,
 		"iS": 64867,
@@ -300,6 +311,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/assets\/img\/map-with-pins.jpg": {
+		"ft": 16384,
+		"iS": 162510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/map-with-pins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/assets\/img\/map.jpg": {
 		"ft": 16384,
 		"iS": 186884,
@@ -309,6 +331,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/map_with_pins.png": {
+		"ft": 32768,
+		"iS": 610690,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/map_with_pins.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_site\/assets\/img\/mappin.png": {
@@ -523,16 +556,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/assets\/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/main-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -552,6 +575,13 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/_site\/assets\/scss\/map-with-pins.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/scss\/map-with-pins.psd",
+		"oF": 0
 		},
 	"\/_site\/assets\/scss\/style.css": {
 		"aP": 1,
@@ -706,6 +736,13 @@
 		"oAP": "\/_site\/TestGrids.html",
 		"oF": 0
 		},
+	"\/_site\/web.config": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/web.config",
+		"oF": 0
+		},
 	"\/about\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -722,6 +759,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/680268\/680268-2.jpg": {
+		"ft": 16384,
+		"iS": 44181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/680268\/680268-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/680268\/680268.jpg": {
@@ -801,6 +849,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/img\/map-with-pins.jpg": {
+		"ft": 16384,
+		"iS": 162510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/map-with-pins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/map.jpg": {
 		"ft": 16384,
 		"iS": 186588,
@@ -810,6 +869,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/map_with_pins.png": {
+		"ft": 32768,
+		"iS": 610690,
+		"oA": 0,
+		"oAP": "\/assets\/img\/map_with_pins.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/img\/mappin.png": {
@@ -1209,6 +1279,13 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/assets\/scss\/map-with-pins.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/scss\/map-with-pins.psd",
+		"oF": 0
 		},
 	"\/assets\/scss\/style.css": {
 		"aP": 1,
