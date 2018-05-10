@@ -31,7 +31,20 @@ header {
 		url(/assets/img/placeholder3.jpg) center center no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
-		}		
+		}
+		
+		
+		&.outlet680268 {
+		background: linear-gradient(
+		rgba(143, 176, 144, 1) 0%, 
+		rgba(143, 176, 144, 0.05) 50%,
+		rgba(143, 176, 144, 1) 1000%,
+		),
+		url(/assets/img/680268/bullanddogbar.jpg) center center no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		}	
+				
 		
 	h2 {		
 		max-width: 90%;

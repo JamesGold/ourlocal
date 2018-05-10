@@ -2,6 +2,7 @@
 layout: post
 title:  "Bull & Dog readies for opening day"
 date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
 categories:
 author: Jake 
 
@@ -20,7 +21,7 @@ img-alt4:
 
 
 The first of the Our Local sites opens this Friday (4th May) in the north west of England, and we can’t wait! 
-Located on Liverpool Road in Burscough, the Bull & Dog has undergone a significant refurbishment to make it a home from home – a proper local pub.
+Located on Liverpool Road in Burscough, the Bull & Dog has undergone a significant refurbishment to make it a home from home – a proper<!--more--> local pub.
 
 The refurbishment includes furniture being replaced, the outside of the pub being re-painted, and a new play area being constructed!
 New publicans Sabrina and Richie have lived in nearby Ormskirk for over 20 years and have a wide background in the local area – including running a plumbing and heating business.

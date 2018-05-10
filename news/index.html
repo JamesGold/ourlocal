@@ -30,14 +30,12 @@ pagination:
     {% for post in paginator.posts %}
     
       <li>
-	  <hr />
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br />
-        <img class="article-list-image" src="{{ site.url }}/postimages/{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+         <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
-        <p>{{ page.excerpt }}</p>
+        <img class="article-list-image" src="{{ site.url }}/postimages/{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
+        <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
         
         </li>
     {% endfor %}

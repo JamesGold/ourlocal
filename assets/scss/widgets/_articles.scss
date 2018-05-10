@@ -42,6 +42,32 @@
 
 .article-list {
 	
+	.news-container {
+		
+	.post-list{
+		margin: 0em auto 2em;
+		display: flex;
+		flex-direction: column;
+		align-content: space-between;
+		
+		@include breakpoint(break2) {display: grid;grid-template-columns: 1fr 1fr; grid-column-gap: 1.5em;}
+		@include breakpoint(break3) {}
+		@include breakpoint(break4) {grid-template-columns: 1fr 1fr 1fr;}
+		@include breakpoint(break5) {}	
+		}
+		
+		li {background: #fff;}
+		
+		a {text-decoration: none; color: rgba(143, 176, 144, 1);
+			&:hover {text-decoration:underline;}
+		}
+
+		h2 {font-size: 2rem;text-decoration:none; color: rgba(143, 176, 144, 1); margin: 0 0 .4em; padding: 0 .4rem;font-size: 2rem;line-height: 1.6rem;}
+		.linktoarticle a {color: #666; margin: 0; padding: 0 .4rem;}
+		.post-meta {color: #ccc; margin: 0; padding: 0 .4rem;}
+ 	}
+
+	
 }
 
 

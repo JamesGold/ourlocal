@@ -254,6 +254,13 @@
 		"oAP": "\/_site\/2018\/04\/welcome-to-jekyll.html",
 		"oF": 0
 		},
+	"\/_site\/2018\/05\/Bull-&-Dog-readies-for-openning-day.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2018\/05\/Bull-&-Dog-readies-for-openning-day.html",
+		"oF": 0
+		},
 	"\/_site\/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -296,6 +303,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/680268\/680268.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/680268\/bullanddogbar.jpg": {
+		"ft": 16384,
+		"iS": 198717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/680268\/bullanddogbar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/680268\/bullanddogfrontage.jpg": {
+		"ft": 16384,
+		"iS": 141154,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/680268\/bullanddogfrontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/assets\/img\/680268\/bullanddogteam.jpg": {
+		"ft": 16384,
+		"iS": 115180,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/680268\/bullanddogteam.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -730,6 +770,13 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
+	"\/_site\/find-us.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/find-us.html",
+		"oF": 0
+		},
 	"\/_site\/food-and-drink.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -756,13 +803,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/locations.html",
-		"oF": 0
-		},
-	"\/_site\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html",
 		"oF": 0
 		},
 	"\/_site\/navtest.html": {
@@ -829,6 +869,20 @@
 		"oAP": "\/_site\/TestGrids.html",
 		"oF": 0
 		},
+	"\/_site\/the-bull-and-dog-ormskirk.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/the-bull-and-dog-ormskirk.html",
+		"oF": 0
+		},
+	"\/_site\/the-bull-and-dog\/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/the-bull-and-dog\/about.html",
+		"oF": 0
+		},
 	"\/_site\/web.config": {
 		"cB": 0,
 		"ft": 8192,
@@ -871,6 +925,50 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/680268\/680268.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/680268\/bullanddogbar.jpg": {
+		"ft": 16384,
+		"iS": 198717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/680268\/bullanddogbar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/680268\/bullanddogfrontage.jpg": {
+		"ft": 16384,
+		"iS": 141154,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/680268\/bullanddogfrontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/680268\/bullanddoghistory.jpg": {
+		"ft": 16384,
+		"iS": 172815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/680268\/bullanddoghistory.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/680268\/bullanddogteam.jpg": {
+		"ft": 16384,
+		"iS": 115180,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/680268\/bullanddogteam.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1215,6 +1313,72 @@
 		"oA": 0,
 		"oAP": "\/assets\/raw\/breakfast.psd",
 		"oF": 0
+		},
+	"\/assets\/raw\/bulldog\/DSCF1181-RETOUCH-CROP.jpg": {
+		"ft": 16384,
+		"iS": 616540,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/bulldog\/DSCF1181-RETOUCH-CROP.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/raw\/bulldog\/DSCF1181-RETOUCH.jpg": {
+		"ft": 16384,
+		"iS": 677973,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/bulldog\/DSCF1181-RETOUCH.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/raw\/bulldog\/DSCF1181.jpg": {
+		"ft": 16384,
+		"iS": 2376845,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/bulldog\/DSCF1181.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/raw\/bulldog\/DSCF1226.jpg": {
+		"ft": 16384,
+		"iS": 1774116,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/bulldog\/DSCF1226.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/raw\/bulldog\/DSCF1261.jpg": {
+		"ft": 16384,
+		"iS": 2044246,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/bulldog\/DSCF1261.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/raw\/bulldog\/DSCF1701.jpg": {
+		"ft": 16384,
+		"iS": 1744584,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/bulldog\/DSCF1701.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/raw\/image002.jpg": {
 		"ft": 16384,
@@ -1691,6 +1855,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/locations\/index.html",
+		"oF": 0
+		},
+	"\/locations\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/locations\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
+		"oF": 0
+		},
+	"\/locations\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/locations\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html",
 		"oF": 0
 		},
 	"\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
