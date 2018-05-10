@@ -93,6 +93,13 @@
 		"oAP": "\/_data\/mainNav.yml",
 		"oF": 0
 		},
+	"\/_data\/pubNav.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pubNav.yml",
+		"oF": 0
+		},
 	"\/_includes\/featurecard-block.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -135,6 +142,20 @@
 		"oAP": "\/_includes\/promo-block.html",
 		"oF": 0
 		},
+	"\/_includes\/pubhero.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/pubhero.html",
+		"oF": 0
+		},
+	"\/_includes\/pubnav.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/pubnav.html",
+		"oF": 0
+		},
 	"\/_includes\/signup.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -168,6 +189,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/htmlbasemain.html",
+		"oF": 0
+		},
+	"\/_layouts\/htmlbasepub.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/htmlbasepub.html",
 		"oF": 0
 		},
 	"\/_layouts\/page.html": {
@@ -205,11 +233,32 @@
 		"oAP": "\/_posts\/2018-05-03-jekyll-post-test.markdown",
 		"oF": 0
 		},
-	"\/_site\/404\/index.html": {
+	"\/_posts\/2018-05-10-Bull & Dog redies for openning day.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/404\/index.html",
+		"oAP": "\/_posts\/2018-05-10-Bull & Dog redies for openning day.markdown",
+		"oF": 0
+		},
+	"\/_site\/2018\/04\/welcome-to-jekyll.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2018\/04\/welcome-to-jekyll.html",
+		"oF": 0
+		},
+	"\/_site\/2018\/05\/jekyll-post-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2018\/05\/jekyll-post-test.html",
+		"oF": 0
+		},
+	"\/_site\/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/404.html",
 		"oF": 0
 		},
 	"\/_site\/about.html": {
@@ -698,11 +747,11 @@
 		"oAP": "\/_site\/food-and-drink.html",
 		"oF": 0
 		},
-	"\/_site\/food-and-drink\/starters\/index.html": {
+	"\/_site\/food-and-drink\/starters.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/food-and-drink\/starters\/index.html",
+		"oAP": "\/_site\/food-and-drink\/starters.html",
 		"oF": 0
 		},
 	"\/_site\/index.html": {
@@ -710,13 +759,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/index.html",
-		"oF": 0
-		},
-	"\/_site\/jekyll\/update\/2018\/04\/05\/welcome-to-jekyll\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/jekyll\/update\/2018\/04\/05\/welcome-to-jekyll\/index.html",
 		"oF": 0
 		},
 	"\/_site\/locations.html": {
@@ -733,18 +775,25 @@
 		"oAP": "\/_site\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html",
 		"oF": 0
 		},
-	"\/_site\/navtest\/index.html": {
+	"\/_site\/navtest.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/navtest\/index.html",
+		"oAP": "\/_site\/navtest.html",
 		"oF": 0
 		},
-	"\/_site\/news.html": {
+	"\/_site\/news.html\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/news.html",
+		"oAP": "\/_site\/news.html\/index.html",
+		"oF": 0
+		},
+	"\/_site\/news.html\/page\/2\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/news.html\/page\/2\/index.html",
 		"oF": 0
 		},
 	"\/_site\/paralaxtest.html": {

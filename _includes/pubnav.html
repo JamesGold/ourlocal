@@ -1,0 +1,19 @@
+<div class="navcontainer">
+	<div class="badge">	
+			<h1>{{ page.title }}</h1>
+		<div class="iconcontain" id="iconContain">
+			<div class="hamicon open" id="hamIcon"></div>
+		</div>		
+
+	</div>	
+	
+	<nav class="main-nav" id="mainNav">
+		<ul  class="show contract" id="mainNavList">		
+			{% for menu in site.data.pubnNav %}
+				<li class="{% if page.url == menu.url %}active{% endif %}"><a href="{{ menu.url }}">{{ menu.title }}</a></li>	
+			{% endfor %}
+		</ul>
+	</nav>			
+</div><!-- eof navcontainer -->
+
+

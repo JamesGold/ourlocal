@@ -28,8 +28,23 @@ instagram_username: OurLocalPub
 markdown: kramdown
 theme: minima
 permalink: pretty
+
 plugins:
-  - jekyll-feed
+ - jekyll-paginate-v2
+
+
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 6
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
   
 exclude:
 - Gemfile
