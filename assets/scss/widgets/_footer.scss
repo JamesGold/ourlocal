@@ -12,7 +12,11 @@ footer{
 		}
 		
 	p {font-size: 1rem; margin: 3rem 0;
-		small { color: rgba(255, 255, 255, 0.5)}
+		small { color: rgba(255, 255, 255, 0.5);
+			a:link {color: rgba(255, 255, 255, 0.5);}
+			a:visited {color: rgba(255, 255, 255, 0.5);}
+			a:hover {color: rgba(255, 255, 255, 0.9);}
+		}
 		
 	}
 	

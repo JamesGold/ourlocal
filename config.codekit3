@@ -219,6 +219,13 @@
 		"oAP": "\/_layouts\/social_wall.html",
 		"oF": 0
 		},
+	"\/_posts\/2018-02-03-jekyll-post-test.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-02-03-jekyll-post-test.markdown",
+		"oF": 0
+		},
 	"\/_posts\/2018-04-05-welcome-to-jekyll.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -226,18 +233,18 @@
 		"oAP": "\/_posts\/2018-04-05-welcome-to-jekyll.markdown",
 		"oF": 0
 		},
-	"\/_posts\/2018-05-03-jekyll-post-test.markdown": {
+	"\/_posts\/2018-05-02-Bull & Dog readies for openning day.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_posts\/2018-05-03-jekyll-post-test.markdown",
+		"oAP": "\/_posts\/2018-05-02-Bull & Dog readies for openning day.markdown",
 		"oF": 0
 		},
-	"\/_posts\/2018-05-10-Bull & Dog redies for openning day.markdown": {
+	"\/_site\/2018\/02\/jekyll-post-test.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_posts\/2018-05-10-Bull & Dog redies for openning day.markdown",
+		"oAP": "\/_site\/2018\/02\/jekyll-post-test.html",
 		"oF": 0
 		},
 	"\/_site\/2018\/04\/welcome-to-jekyll.html": {
@@ -245,13 +252,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/2018\/04\/welcome-to-jekyll.html",
-		"oF": 0
-		},
-	"\/_site\/2018\/05\/jekyll-post-test.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/2018\/05\/jekyll-post-test.html",
 		"oF": 0
 		},
 	"\/_site\/404.html": {
@@ -634,16 +634,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/assets\/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/main-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -789,19 +779,34 @@
 		"oAP": "\/_site\/news.html\/index.html",
 		"oF": 0
 		},
-	"\/_site\/news.html\/page\/2\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/news.html\/page\/2\/index.html",
-		"oF": 0
-		},
 	"\/_site\/paralaxtest.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/paralaxtest.html",
 		"oF": 0
+		},
+	"\/_site\/postimages\/bullanddog-vintage.jpg": {
+		"ft": 16384,
+		"iS": 181243,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/postimages\/bullanddog-vintage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/postimages\/james.jpg": {
+		"ft": 16384,
+		"iS": 13923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/postimages\/james.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/_site\/robots.txt": {
 		"cB": 0,
@@ -1211,6 +1216,39 @@
 		"oAP": "\/assets\/raw\/breakfast.psd",
 		"oF": 0
 		},
+	"\/assets\/raw\/image002.jpg": {
+		"ft": 16384,
+		"iS": 103661,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/image002.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/raw\/image003.jpg": {
+		"ft": 16384,
+		"iS": 58166,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/image003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/raw\/image004.jpg": {
+		"ft": 16384,
+		"iS": 366998,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/image004.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/raw\/map.psd": {
 		"cB": 0,
 		"ft": 8192,
@@ -1425,6 +1463,19 @@
 		"oAP": "\/_site\/assets\/style.css",
 		"oF": 3,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/scss\/widgets\/_articles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/scss\/widgets\/_articles.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/assets\/scss\/widgets\/_card.scss": {
@@ -1669,6 +1720,28 @@
 		"oA": 0,
 		"oAP": "\/paralaxtest.html",
 		"oF": 0
+		},
+	"\/postimages\/bullanddog-vintage.jpg": {
+		"ft": 16384,
+		"iS": 181243,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/postimages\/bullanddog-vintage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/postimages\/james.jpg": {
+		"ft": 16384,
+		"iS": 13923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/postimages\/james.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/robots.txt": {
 		"cB": 0,

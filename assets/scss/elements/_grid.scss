@@ -24,7 +24,18 @@ body{
 	@include breakpoint(break5) {font-size:1.4rem;} 
 }
 
-.container, .footercontent, .promo-block, .socialcontainer, .text-container, .menu-header, .menu-container, .map, .section-header, .pubs, .signup-container{
+.container,
+.footercontent,
+.promo-block,
+.socialcontainer,
+.about-container,
+.news-container,
+.menu-header,
+.menu-container,
+.map,
+.section-header,
+.pubs,
+.signup-container, {
 	max-width: 96%;
 	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing	
@@ -65,18 +76,6 @@ img {max-width: 100%;
 }
 
 
- .text-container {
-	margin-bottom: 3em;
-
-	@include breakpoint(break3) {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		grid-auto-flow: dense;
-		grid-column-gap: 1.5em;
-
-		}
-	strong{font-weight: 600;}		 
- }
 
 
 .menu-header, .section-header {
