@@ -198,6 +198,13 @@
 		"oAP": "\/_layouts\/htmlbasepub.html",
 		"oF": 0
 		},
+	"\/_layouts\/htmlbasepubmain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/htmlbasepubmain.html",
+		"oF": 0
+		},
 	"\/_layouts\/page.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -781,13 +788,6 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
-	"\/_site\/find-us.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/find-us.html",
-		"oF": 0
-		},
 	"\/_site\/food-and-drink.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -816,25 +816,11 @@
 		"oAP": "\/_site\/locations.html",
 		"oF": 0
 		},
-	"\/_site\/navtest.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/navtest.html",
-		"oF": 0
-		},
 	"\/_site\/news.html\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/news.html\/index.html",
-		"oF": 0
-		},
-	"\/_site\/paralaxtest.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/paralaxtest.html",
 		"oF": 0
 		},
 	"\/_site\/postimages\/bullanddog-vintage.jpg": {
@@ -859,6 +845,66 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on.html\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on.html\/index.html",
+		"oF": 0
+		},
 	"\/_site\/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -878,20 +924,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/TestGrids.html",
-		"oF": 0
-		},
-	"\/_site\/the-bull-and-dog-ormskirk.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/the-bull-and-dog-ormskirk.html",
-		"oF": 0
-		},
-	"\/_site\/the-bull-and-dog\/about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/the-bull-and-dog\/about.html",
 		"oF": 0
 		},
 	"\/_site\/web.config": {
@@ -1424,6 +1456,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/raw\/map-with-pins.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/map-with-pins.psd",
+		"oF": 0
+		},
 	"\/assets\/raw\/map.psd": {
 		"cB": 0,
 		"ft": 8192,
@@ -1602,13 +1641,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/assets\/scss\/map-with-pins.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/scss\/map-with-pins.psd",
-		"oF": 0
 		},
 	"\/assets\/scss\/style.css": {
 		"aP": 1,
@@ -1868,46 +1900,11 @@
 		"oAP": "\/locations\/index.html",
 		"oF": 0
 		},
-	"\/locations\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/locations\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
-		"oF": 0
-		},
-	"\/locations\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/locations\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html",
-		"oF": 0
-		},
-	"\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/locations\/pubs\/the-bull-and-dog-ormskirk\/index.html",
-		"oF": 0
-		},
-	"\/navtest.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/navtest.html",
-		"oF": 0
-		},
 	"\/news\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/news\/index.html",
-		"oF": 0
-		},
-	"\/paralaxtest.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/paralaxtest.html",
 		"oF": 0
 		},
 	"\/postimages\/bullanddog-vintage.jpg": {
@@ -1931,6 +1928,66 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/index.html",
+		"oF": 0
 		},
 	"\/robots.txt": {
 		"cB": 0,

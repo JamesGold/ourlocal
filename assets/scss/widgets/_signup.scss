@@ -1,6 +1,6 @@
 .signup {
-	background: url(/assets/img/patternBlue.png);
-	background-image: url(/assets/img/menutexture-dk.jpg);
+	background: url(../assets/img/patternBlue.png);
+	background-image: url(../assets/img/menutexture-dk.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	overflow: hidden;	
@@ -8,12 +8,12 @@
 	
 	.title {
 		display: flex;
-						flex-wrap: wrap;
-				align-items: baseline;
-				justify-content: flex-start;
-				margin-bottom: 1em;
+		flex-wrap: wrap;
+		align-items: baseline;
+		justify-content: flex-start;
+		margin-bottom: 1em;
 	h2{font-size:4rem;margin: 0 1em .3em 0;display: inline-block;}
-	h3 {margin: 0 1em .3em 0;display: inline-block;}
+	h3 {margin: .3em 1em .3em 0;display: inline-block;}
 	}
 	
 	.signup-container {

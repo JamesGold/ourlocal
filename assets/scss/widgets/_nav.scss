@@ -10,7 +10,7 @@
 	@include breakpoint(break5) {
 		position: inherit;
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr  1fr 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr  1fr 1fr 1fr 1fr 1fr;
 		grid-column-gap: .625em;
 		max-width:85%;
 		width: 85%;
@@ -19,7 +19,7 @@
 
 
 	nav{
-		@include breakpoint(break5) {grid-column: 2 / 7;}
+		@include breakpoint(break5) {grid-column: 3 / 9}
 		
 		ul {			
 			display: none;
@@ -65,11 +65,11 @@
 		justify-content: space-between;	
 		align-items: center;	
 	
-		@include breakpoint(break5) {grid-column: 1 / 2;}
+		@include breakpoint(break5) {grid-column: 1 / 3;}
 
 
 		h1 {
-			font-size: 2.4em;
+			font-size: 2em;
 			color: #fff;
 			
 			@include breakpoint(break5) {
@@ -136,7 +136,7 @@
 
 
 /// utility for swithcing between word mark and logo.
-.smlscrn {display:block; @include breakpoint(break5) {display:none; } }
-.bgscrn {display:none; @include breakpoint(break5) {display:block; transform: rotate(-7deg);} }
+//.smlscrn {display:block; @include breakpoint(break5) {display:none; } }
+//.bgscrn {display:none; @include breakpoint(break5) {display:block; transform: rotate(-7deg);} }
 
 

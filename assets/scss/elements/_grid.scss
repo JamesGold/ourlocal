@@ -93,6 +93,24 @@ img {max-width: 100%;
 }
 
 
+
+.section-header.find-pub-header {
+	
+		@include breakpoint(break4) {
+		display: flex;
+		flex-wrap: wrap;
+		}
+
+	@include breakpoint(break5) {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-column-gap: 2em;
+		}						
+}
+
+
+
+
 .menu-container{
 
 	@include breakpoint(break4) {

@@ -1,0 +1,66 @@
+---
+layout: htmlbasepub
+pubname: The Bull & Dog
+
+title: Food &amp; Drink
+permalink: /pubs/the-bull-and-dog-ormskirk/whats-on.html
+pagetitle: "What's on"
+
+pagination: 
+  enabled: true
+---
+
+<div class="fullbg section article-list">
+	
+	
+	 <div class="section-header">
+		 <div>
+			 <h1>What's On at {{ page.pubname }}?</h1>
+			 <h2>See our regular and special events</h2> 
+		</div>
+		<img class="supp-image" src="{{ site.baseurl }}/assets/img/lilDog.jpg" alt="lil' Dog" />
+
+	</div>	
+	
+	<div class="news-container">
+		
+		
+  <ul class="post-list">
+    <!-- 
+        Here is the main paginator logic called.
+        All calls to site.posts should be replaced by paginator.posts 
+    -->
+    {% for post in paginator.posts %}
+    
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br />
+         <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <img class="article-list-image" src="{{ site.baseurl }}/postimages/{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
+        <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
+        
+        </li>
+    {% endfor %}
+  </ul>
+
+
+
+
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+
+	</div><!--eof text container -->
