@@ -22,8 +22,8 @@ body{
 	@include breakpoint(break3) {font-size:1.25rem;}
 	@include breakpoint(break4) {font-size:1.3rem;} 
 	@include breakpoint(break5) {font-size:1.4rem;} 
-}
-
+	}
+		
 .container,
 .footercontent,
 .promo-block,
