@@ -3,23 +3,26 @@ layout: htmlbase
 title: 404
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<div class="fullbg section">
+	
+	
+	 <div class="section-header">
+		 <div>
+			  <p> Error: {{ page.title }}</p>
+  <h1>Oops! Sorry, something appears to have gone wrong</h1>
+			 <h2>The page you wanted could not be found  :(</h2> 
+		</div>
+		<img class="supp-image" src="../assets/img/lilDog.jpg" alt="lil' Dog" />
 
-<div class="container">
-  <h1>{{ page.title }}</h1>
+	</div>	
+	
+	<div class="about-container">
+	
+		<div>
+			<p><strong>Why not try:</strong></p>
+			<p><a href="javascript:history.back()">Going Back</a></p>
+			<p><a href="{{ site.baseurl }}/index.html">Starting at the beginning</a> </p>
+			<p><a href="{{ site.baseurl }}/locations">Finding a great local pub near you</a></p>
+		</div>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found. Sorry.</p>
-</div>
+	</div>

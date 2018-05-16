@@ -1,0 +1,32 @@
+// pub home pages and specific styles
+
+.pub-home {
+	
+	.intro { }
+	.intro-img {
+		
+		img {margin-bottom: 1em;}	
+	}
+	
+	@include breakpoint(break1) {}
+	@include breakpoint(break2) {}
+	@include breakpoint(break3) {}
+	@include breakpoint(break4) {}
+	@include breakpoint(break5) {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		}	
+			
+	@include breakpoint(break6) {
+		grid-template-columns: 2fr 1fr;
+
+	}
+
+	
+	
+					
+					
+	.intro p {font-size: 1.6em;}
+	.intro p strong {font-weight: 600;}
+	
+}
