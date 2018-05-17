@@ -44,11 +44,13 @@ body{
 	@include breakpoint(break3) {max-width:85%;}
 	@include breakpoint(break4) {max-width:85%;}
 	@include breakpoint(break5) {max-width:85%;}	
-}
+	}
 
 img {max-width: 100%;
 	.content-img {height: 10vh;} 
 }
+
+
 
 
 //////// elements with grid refs
@@ -66,6 +68,7 @@ img {max-width: 100%;
 		grid-column-gap: 1.5em;
 		}						
 }
+
 .footercontent {
 		
 	@include breakpoint(break4) {

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Tuesday - Quiz Night"
+date:   2018-05-06 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Tuesday, the-bull-and-dog-ormskirk ]
+permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/tuesday.html
+
+feat-image: bullanddog-tuesday.jpg
+img-alt: Tuesday at the Bull and Dog
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

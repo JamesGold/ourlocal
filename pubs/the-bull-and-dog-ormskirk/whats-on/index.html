@@ -3,7 +3,7 @@ layout: htmlbasepub
 pubname: The Bull & Dog
 
 title: Food &amp; Drink
-permalink: /pubs/the-bull-and-dog-ormskirk/whats-on.html
+permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/
 pagetitle: "What's on"
 
 pagination: 
@@ -30,14 +30,12 @@ pagination:
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
     -->
-    {% for post in paginator.posts %}
     
+    {% for post in site.tags.the-bull-and-dog-ormskirk %}
+
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br />
-         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h2>
         <img class="article-list-image" src="{{ site.baseurl }}/postimages/{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
+	    <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
         
         </li>
@@ -48,19 +46,7 @@ pagination:
 
 
 
-{% if paginator.total_pages > 1 %}
-<ul>
-  {% if paginator.previous_page %}
-  <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+
+  
 
 	</div><!--eof text container -->

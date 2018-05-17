@@ -36,6 +36,7 @@ plugins:
 # Produces a cleaner folder structure when using categories
 permalink: /:year/:month/:title.html
 
+
 # Pagination Settings
 pagination:
   enabled: true

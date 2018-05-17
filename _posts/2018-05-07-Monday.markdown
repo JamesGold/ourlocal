@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Monday - Book Club"
+date:   2018-05-07 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Monday, the-bull-and-dog-ormskirk ]
+permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/monday.html
+
+feat-image: bullanddog-monday.jpg
+img-alt: Monday at the Bull and Dog
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

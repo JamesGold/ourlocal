@@ -29,13 +29,9 @@
 		}
 		img {width: 100%; margin-bottom: .3em;}			
 }
-	
 
 
 }
-
-
-
 
 //article list
 
@@ -55,7 +51,7 @@
 		@include breakpoint(break5) {}	
 		}
 		
-		li {background: #fff;}
+		li {background: #fff; margin-bottom: 2em;}
 		
 		a {text-decoration: none; color: rgba(143, 176, 144, 1);
 			&:hover {text-decoration:underline;}
