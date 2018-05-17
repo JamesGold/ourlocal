@@ -4,19 +4,22 @@ title:  "Bull & Dog readies for opening day"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 categories:
+tags: our-local
 author: Jake 
+
 
 feat-image: bullanddog-vintage.jpg
 img-alt: Navy at the Bull & Dog (vintage black & white) pic
 
-image2: bullanddog-vintage.jpg
+image2: default.gif
 img-alt2: Pic2
 
-image3: 
-img-alt3: 
+image3: default.gif
+img-alt3: Pic3
 
-image4: 
-img-alt4: 
+image4: default.gif
+img-alt4: Pic4
+
 ---
 
 

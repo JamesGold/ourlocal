@@ -1,14 +1,17 @@
 ---
-layout: post
+layout: rotw-post
 title:  "Friday - Board Games"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Monday, the-bull-and-dog-ormskirk ]
+back: /pubs/the-bull-and-dog-ormskirk/whats-on/
 permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/friday.html
+pubname: The Bull & Dog
 
 feat-image: bullanddog-friday.jpg
 img-alt: Friday at the Bull and Dog
-
+image2: default.gif
+img-alt2:
 
 ---
 

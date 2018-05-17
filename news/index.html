@@ -1,8 +1,8 @@
 ---
 layout: htmlbase
-title: News &amp; Offers
-permalink: /news
-pagetitle: "News &amp; Offers"
+title: News & Offers
+permalink: /news/
+pagetitle: "News & Offers"
 pagination: 
   enabled: true
 ---
@@ -23,14 +23,12 @@ pagination:
 		
 		
   <ul class="post-list">
-    <!-- 
-        Here is the main paginator logic called.
-        All calls to site.posts should be replaced by paginator.posts 
-    -->
-    {% for post in paginator.posts %}
     
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br />
+        {% for post in site.tags.our-local %}
+
+    
+           <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br />{{ page.tag }}
          <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
@@ -38,6 +36,7 @@ pagination:
         <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
         
         </li>
+
     {% endfor %}
   </ul>
 
@@ -46,7 +45,7 @@ pagination:
 
 
 {% if paginator.total_pages > 1 %}
-<ul>
+<ul class="pagination">
   {% if paginator.previous_page %}
   <li>
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>

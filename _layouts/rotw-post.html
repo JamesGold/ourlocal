@@ -1,6 +1,7 @@
 ---
-layout: "htmlbase"
+layout: "htmlbasepub"
 title: {{ page.title }}
+
 ---
 
 <div class="fullbg section article-page">
@@ -8,9 +9,10 @@ title: {{ page.title }}
 	
 	 <div class="section-header">
 		 <div>
-		 	<small class="back">Back to  <a href="{{ site.url }}/news">News &amp; Offers</a></small></p>
+		 	<small class="back">Back to  <a href="{{ page.back }}">Whats on</a></small></p>
 		 	
-			 <h1>{{ page.title }}</h1><p class="post--date"><small class="post-meta">Posted by {{ page.author }}: <strong>{{ page.date | date_to_string }}</strong> </small> 
+			 <h1>{{ page.title }}</h1>
+			 
 		</div>
 
 	</div>		
@@ -20,8 +22,7 @@ title: {{ page.title }}
 	
 		<div class="images"><img class="article-image" src="{{ site.url }}/postimages/{{ page.feat-image }}" alt="{{ page.img-alt }}"/>
 			<img class="article-image" src="{{ site.url }}/postimages/{{ page.image2 }}" alt="{{ page.img-alt2 }}"/>
-			<img class="article-image" src="{{ site.url }}/postimages/{{ page.image3 }}" alt="{{ page.img-alt3 }}"/>
-			<img class="article-image" src="{{ site.url }}/postimages/{{ page.image4 }}" alt="{{ page.img-alt4 }}"/>
+
 		</div>
 			
 			<div class="words">{{ content }}</div>
