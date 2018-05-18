@@ -18,10 +18,10 @@ title: {{ page.title }}
 	
 	<div class="news-container">
 	
-		<div class="images"><img class="article-image" src="{{ site.url }}/postimages/{{ page.feat-image }}" alt="{{ page.img-alt }}"/>
-			<img class="article-image" src="{{ site.url }}/postimages/{{ page.image2 }}" alt="{{ page.img-alt2 }}"/>
-			<img class="article-image" src="{{ site.url }}/postimages/{{ page.image3 }}" alt="{{ page.img-alt3 }}"/>
-			<img class="article-image" src="{{ site.url }}/postimages/{{ page.image4 }}" alt="{{ page.img-alt4 }}"/>
+		<div class="images"><img class="article-image" src="{{ "/postimages/" | relative_url }}{{ page.feat-image }}" alt="{{ page.img-alt }}"/>
+			<img class="article-image" src="{{ "/postimages/" | relative_url }}{{ page.image2 }}" alt="{{ page.img-alt2 }}"/>
+			<img class="article-image" src="{{ "/postimages/" | relative_url }}{{ page.image3 }}" alt="{{ page.img-alt3 }}"/>
+			<img class="article-image" src="{{ "/postimages/" | relative_url }}{{ page.image4 }}" alt="{{ page.img-alt4 }}"/>
 		</div>
 			
 			<div class="words">{{ content }}</div>

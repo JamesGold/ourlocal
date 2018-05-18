@@ -18,7 +18,7 @@ pagination:
 			 <h1>What's On at {{ page.pubname }}?</h1>
 			 <h2>See our regular and special events</h2> 
 		</div>
-		<img class="supp-image" src="{{ site.baseurl }}/assets/img/lilDog.jpg" alt="lil' Dog" />
+		<img class="supp-image" src="{{ "/assets/img/lilDog.jpg" | relative_url }}" alt="lil' Dog" />
 
 	</div>	
 	
@@ -34,7 +34,7 @@ pagination:
     {% for post in site.tags.the-bull-and-dog-ormskirk %}
 
       <li>
-        <img class="article-list-image" src="{{ site.baseurl }}/postimages/{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
+        <img class="article-list-image" src="{{ "/postimages/" | relative_url }}{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
 	    <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
         

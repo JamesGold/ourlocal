@@ -16,6 +16,13 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.htaccess",
+		"oF": 0
+		},
 	"\/.sass-cache\/96e00fd8c4772c8cfbf53f885b5a1e158c51f245\/_base.scssc": {
 		"cB": 0,
 		"ft": 8192,
@@ -252,20 +259,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/tag.html",
-		"oF": 0
-		},
-	"\/_plugins\/breadcrumbs.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_plugins\/breadcrumbs.rb",
-		"oF": 0
-		},
-	"\/_plugins\/drops\/breadcrumb_item.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_plugins\/drops\/breadcrumb_item.rb",
 		"oF": 0
 		},
 	"\/_posts\/2018-02-03-jekyll-post-test.markdown": {
@@ -872,11 +865,11 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
-	"\/_site\/food-and-drink.html": {
+	"\/_site\/food-and-drink\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/food-and-drink.html",
+		"oAP": "\/_site\/food-and-drink\/index.html",
 		"oF": 0
 		},
 	"\/_site\/food-and-drink\/starters.html": {
@@ -891,13 +884,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/index.html",
-		"oF": 0
-		},
-	"\/_site\/locations.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/locations.html",
 		"oF": 0
 		},
 	"\/_site\/news\/index.html": {
@@ -1020,6 +1006,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_site\/pubs\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/index.html",
+		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
 		"cB": 0,
@@ -1719,6 +1712,13 @@
 		"oAP": "\/assets\/raw\/mappin.psd",
 		"oF": 0
 		},
+	"\/assets\/raw\/MENU COPY.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/MENU COPY.docx",
+		"oF": 0
+		},
 	"\/assets\/raw\/Our Local News Bull and Dog.docx": {
 		"cB": 0,
 		"ft": 8192,
@@ -1759,6 +1759,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/raw\/supperclub.psd",
+		"oF": 0
+		},
+	"\/assets\/raw\/~$NU COPY.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/~$NU COPY.docx",
 		"oF": 0
 		},
 	"\/assets\/scss\/_elements.scss": {
@@ -2155,13 +2162,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/locations\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/locations\/index.html",
-		"oF": 0
-		},
 	"\/news\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2275,6 +2275,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/pubs\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/index.html",
+		"oF": 0
 		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
 		"cB": 0,

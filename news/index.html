@@ -15,7 +15,7 @@ pagination:
 			 <h1>Our Latest News </h1>
 			 <h2>Find out what's going on at your local pub</h2> 
 		</div>
-		<img class="supp-image" src="../assets/img/lilDog.jpg" alt="lil' Dog" />
+		<img class="supp-image" src="{{ "/assets/img/lilDog.jpg" | relative_url }}" alt="lil' Dog" />
 
 	</div>	
 	
@@ -32,7 +32,7 @@ pagination:
          <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
-        <img class="article-list-image" src="{{ site.baseurl }}/postimages/{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
+        <img class="article-list-image" src="{{ "/postimages/" | relative_url }}{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
         <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
         
         </li>

@@ -12,7 +12,7 @@ title: 404
   <h1>Oops! Sorry, something appears to have gone wrong</h1>
 			 <h2>The page you wanted could not be found<br />:(</h2> 
 		</div>
-		<img class="supp-image" src="../assets/img/lilDog.jpg" alt="lil' Dog" />
+		<img class="supp-image" src="{{ "/assets/img/lilDog.jpg" | relative_url }}" alt="lil' Dog" />
 
 	</div>	
 	
@@ -21,8 +21,8 @@ title: 404
 		<div>
 			<p><strong>Why not try:</strong></p>
 			<p><a href="javascript:history.back()">Going Back</a></p>
-			<p><a href="{{ site.baseurl }}/index.html">Starting at the beginning</a> </p>
-			<p><a href="{{ site.baseurl }}/locations">Finding a great local pub near you</a></p>
+			<p><a href="{{ "/" | relative_url }}">Starting at the beginning</a> </p>
+			<p><a href="{{ "/pubs/" | relative_url }}">Finding a great local pub near you</a></p>
 		</div>
 
 	</div>

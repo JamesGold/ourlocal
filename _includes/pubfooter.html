@@ -3,14 +3,14 @@
 	<div class="footercontent cols">
 		<ul class="col col1">
 			<li><a href="/signup">Signup to our list</a></li>
-			<li><a href="/social/">We're Social, follow us!</a></li>
+			<li><a href="{{ "/social/" | relative_url }}">We're Social, follow us!</a></li>
 		</ul>
 		<ul class="col col2">
-			<li><a href="{{ site.baseurl}}/locations">Find more great pubs like this</a></li>
+			<li><a href="{{ "/pubs" | relative_url }}">Find more great pubs like this</a></li>
 			<li><a href="find/index.html">Contact us</a></li>
 		</ul>
 		<ul class="col col3">
-			<li><a href="/legal" target="_blank"><li>Legal &amp; Privacy</a></li>
+			<li><a href="{{ "/legal/" | relative_url }}" target="_blank"><li>Legal &amp; Privacy</a></li>
 			<li><a href="http://www.drinkaware.co.uk"><li>drinkaware</a></li>
 		</ul>	
 	</div><!-- eof of footer cols-->

@@ -8,8 +8,7 @@ back: /pubs/the-bull-and-dog-ormskirk/whats-on/
 permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/wednesday.html
 pubname: The Bull & Dog
 
-
-feat-image: bullanddog-Wednesday.jpg
+feat-image: bullanddog-wednesday.jpg
 img-alt: Monday at the Bull and Dog
 image2: default.gif
 img-alt2:
