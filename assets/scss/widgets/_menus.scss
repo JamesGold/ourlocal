@@ -20,7 +20,7 @@
 		line-height: 100%;
 		
 	}
-	
+
 	h3 {
 		font-family: $display-font;
 		font-size: 4em;
@@ -40,6 +40,7 @@
 					
 		}
 					
+		strong{font-weight: 600;}
 		
 		.price {
 			font-family: $body-font;
@@ -53,9 +54,33 @@
 			background: rgba(143, 176, 153, 0.4);
 			padding: .3em;
 			border: 3px #8fb090 dotted; 
-			text-transform: uppercase;
-			
+			text-transform: uppercase; 			
 		}
+	
 	}
 	
+		.section-out {
+			background: rgba(143, 176, 153, 0.4);
+			padding: .3em;
+			border: 3px #8fb090 dotted;
+			h2 {text-align: center;margin: .2em;
+			}
+				.items{display: flex; flex-wrap: wrap; justify-content: space-evenly;
+					p{margin: .2em 1em 1em;text-align: center;}
+				}
+				
+			
+			}	
+
+	
+	.sixclub::after{content: "6 Club"; color: rgba(255, 255, 255, .9); padding:.2em .3em; background: rgba(143, 176, 144, 0.61);border-radius: 50%; border: 1px solid #fff;}
+	.explainer { background: rgba(84, 43, 7, 0.2);padding: .3em;border: 1px #fff solid;}
+	
+	.spanthegrid{grid-column: 1 / 3;
+		@include breakpoint(break3) {grid-column: 1 / 4;}
+		}
+		
+	h2.spanthegrid {margin-bottom: 0;}	
+		
+		
 }
