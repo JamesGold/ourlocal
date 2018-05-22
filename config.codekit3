@@ -1087,6 +1087,13 @@
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/main-menu.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1099,6 +1106,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
@@ -1831,6 +1852,13 @@
 		"oAP": "\/assets\/raw\/supperclub.psd",
 		"oF": 0
 		},
+	"\/assets\/raw\/~$NU COPY.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/~$NU COPY.docx",
+		"oF": 0
+		},
 	"\/assets\/scss\/_elements.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2412,6 +2440,13 @@
 		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html",
 		"oF": 0
 		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/main-menu.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2424,6 +2459,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html",
 		"oF": 0
 		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/index.html": {

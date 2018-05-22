@@ -1,5 +1,5 @@
 ### Light Bites
-Your choice of farmhouse, sourdough or  atbread. Served with chips. Available until 6pm
+Your choice of farmhouse, sourdough or  flatbread. Served with chips. Available until 6pm
 
 CHICKEN & BACON SANDWICH
 With lettuce and tomato
@@ -197,6 +197,118 @@ Two 6oz beef burgers, bacon, fried free-range egg, beer-battered onion rings and
 
 [BUILD YOUR BURGER - 75P EACH
 CHEDDAR, STILTON, FREE-RANGE EGG, BBQ SAUCE, PIRI PIRI SAUCE OR BACON]
+
+///////////////////
+
+Sweet Shop
+
+
+STICKY TOFFEE PUDDING (V) Date & black treacle sponge, West Country butter toffee sauce and vanilla custard
+£4.75
+
+MIXED BERRY ETON MESS SUNDAE (V) (GF)
+Berry compôte, Jude’s strawberry ice cream, whipped cream, soft meringue and strawberry sauce
+£4.45
+
+CHOCOLATE & SALTED CARAMEL ICE CREAM SUNDAE (V)
+Jude’s vanilla, salted caramel and chocolate ice creams topped with whipped cream and chocolate sauce
+£4.45
+
+BAKEWELL TART (V) (VE) (GF)
+Traditional tart with coconut ice cream
+£4.25
+
+ULTIMATE BROWNIE FUDGE CAKE (V)
+Layers of chocolate brownie, salted caramel and chocolate fudge coated in chocolate fudge icing, topped with brownie bits and salted caramel sauce. Served with Jude’s vanilla ice cream
+£4.25
+
+BRAEBURN APPLE & BLACKBERRY CRUMBLE (V) 
+Served with vanilla custard
+£4.45
+
+BRANDY SNAP BASKET
+Filled with Jude’s strawberry tease ice cream, fresh strawberries topped with whipped cream and a drizzle of strawberry sauce
+£4.75
+
+/////////////////////
+
+Supper Club
+TWO COURSES £9.25 THREE COURSES £12.45 APPLICABLE ON THE BELOW MENU. SERVED MONDAY - FRIDAY FROM 6PM
+
+
+Starters
+PRAWN COCKTAIL SOUP OF THE DAY (V)
+DOUGH STICKS (V) SOUTHERN-FRIED
+CHICKEN FILLETS
+
+
+Main Courses
+TOMATO AND MOZZARELLA SAUSAGES AND MASH (V)
+BANGERS & MASH HUNTER’S CHICKEN SCAMPI AND CHIPS ABERDEEN ANGUS LASAGNE LENTIL & CHICK PEA DAHL (V) CHICKEN CAESAR SALAD CLASSIC BURGER
+
+Desserts
+BAKEWELL TART (V) (VE) (GF) 
+ULTIMATE BROWNIE FUDGE CAKE
+MIXED BERRY ETON MESS SUNDAE (V) (GF)
+BRAEBURN APPLE & BLACKBERRY CRUMBLE (V)
+
+
+///////////////
+
+
+Kids Menu 
+2 COURSES £4.95
+
+
+
+Starters
+ALL £1.45
+
+DOUGH STICKS
+Dough sticks served with melted garlic butter (v)
+
+VEGGIE DIPPERS
+Freshly cut vegetable sticks served with a smoky humous to dip
+
+CORN ON THE COB
+Corn cobettes with a knob of butter
+
+
+Mains
+ALL £3.95
+
+PICKIN’ CHICKEN
+Battered whole chicken breast pieces and fries, served with a BBQ dip
+
+4oz BEEF BURGER
+A beef burger in a soft bun with Cheddar cheese, fries and BBQ dip
+
+FISH FINGERS
+Strips of cod fillet in freshly made batter served with peas and fries
+
+CHEESE AND TOMATO PIZZA (v)
+Hand-rolled pizza dough topped with tomato sauce along with melted mozzarella and Cheddar cheese
+
+SPAGHETTI BOLOGNAISE
+A traditional Italian dish served with garlic dough sticks
+
+CHICKEN WRAPS
+Grilled chicken breast served with a floured tortilla with a selection of goodies to make your own wraps
+
+Desserts
+ALL £1.75
+
+DOUGHNUT STICKS
+Served with chocolate dipping sauce
+
+VANILLA ICE CREAM SUNDAE
+Served with a wafer and choice of strawberry or chocolate sauce
+
+CHOCOLATE BROWNIE (gf)
+Served with vanilla ice cream
+
+
+
 
 
 
