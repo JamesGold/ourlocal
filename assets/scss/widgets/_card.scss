@@ -231,6 +231,14 @@
 			background:url(/assets/img/kids.jpg) center center no-repeat;}
 			}
 	
+	&.menu8{
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+				url(/assets/img/wine.jpg) center center no-repeat;
+		&:hover {
+			background:url(/assets/img/wine.jpg) center center no-repeat;}
+			}
+
+
 
 	&.menucard{}
 }

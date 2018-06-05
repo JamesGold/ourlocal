@@ -1129,6 +1129,13 @@
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1581,6 +1588,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/supperclub.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/wine.jpg": {
+		"ft": 16384,
+		"iS": 82725,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/wine.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
