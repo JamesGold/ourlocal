@@ -919,7 +919,7 @@
 		},
 	"\/_site\/postimages\/bullanddog-friday.jpg": {
 		"ft": 16384,
-		"iS": 93409,
+		"iS": 27553,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/postimages\/bullanddog-friday.jpg",
@@ -930,7 +930,7 @@
 		},
 	"\/_site\/postimages\/bullanddog-monday.jpg": {
 		"ft": 16384,
-		"iS": 95176,
+		"iS": 36523,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/postimages\/bullanddog-monday.jpg",
@@ -941,7 +941,7 @@
 		},
 	"\/_site\/postimages\/bullanddog-saturday.jpg": {
 		"ft": 16384,
-		"iS": 98815,
+		"iS": 31940,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/postimages\/bullanddog-saturday.jpg",
@@ -952,7 +952,7 @@
 		},
 	"\/_site\/postimages\/bullanddog-sunday.jpg": {
 		"ft": 16384,
-		"iS": 96582,
+		"iS": 39030,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/postimages\/bullanddog-sunday.jpg",
@@ -963,7 +963,7 @@
 		},
 	"\/_site\/postimages\/bullanddog-thursday.jpg": {
 		"ft": 16384,
-		"iS": 95739,
+		"iS": 30555,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/postimages\/bullanddog-thursday.jpg",
@@ -974,7 +974,7 @@
 		},
 	"\/_site\/postimages\/bullanddog-tuesday.jpg": {
 		"ft": 16384,
-		"iS": 93938,
+		"iS": 28914,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/postimages\/bullanddog-tuesday.jpg",
@@ -996,7 +996,7 @@
 		},
 	"\/_site\/postimages\/bullanddog-wednesday.jpg": {
 		"ft": 16384,
-		"iS": 95856,
+		"iS": 35130,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/postimages\/bullanddog-wednesday.jpg",
@@ -1106,6 +1106,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html": {
@@ -1852,6 +1859,31 @@
 		"oAP": "\/assets\/raw\/supperclub.psd",
 		"oF": 0
 		},
+	"\/assets\/raw\/Wine menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/Wine menu.html",
+		"oF": 0
+		},
+	"\/assets\/raw\/Wine menu.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/Wine menu.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/assets\/raw\/~$NU COPY.docx": {
 		"cB": 0,
 		"ft": 8192,
@@ -2278,7 +2310,7 @@
 		"oAP": "\/postimages\/bullanddog-friday.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/postimages\/bullanddog-monday.jpg": {
@@ -2289,7 +2321,7 @@
 		"oAP": "\/postimages\/bullanddog-monday.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/postimages\/bullanddog-saturday.jpg": {
@@ -2300,7 +2332,7 @@
 		"oAP": "\/postimages\/bullanddog-saturday.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/postimages\/bullanddog-sunday.jpg": {
@@ -2311,7 +2343,7 @@
 		"oAP": "\/postimages\/bullanddog-sunday.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/postimages\/bullanddog-thursday.jpg": {
@@ -2322,7 +2354,7 @@
 		"oAP": "\/postimages\/bullanddog-thursday.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/postimages\/bullanddog-tuesday.jpg": {
@@ -2333,7 +2365,7 @@
 		"oAP": "\/postimages\/bullanddog-tuesday.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/postimages\/bullanddog-vintage.jpg": {
@@ -2480,6 +2512,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html",
 		"oF": 0
 		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/index.html": {

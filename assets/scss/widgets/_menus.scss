@@ -13,7 +13,7 @@
 	@include breakpoint(break4) {grid-template-columns: 1fr 1fr 1fr; }
 	@include breakpoint(break5) {}				
 	}
-
+	
 	
 	h2 {
 		font-family: $body-font;
@@ -85,6 +85,7 @@
 		}
 		
 	h2.spanthegrid {margin-bottom: 0;}	
+	h3.spanthegrid {width: 100%; margin-bottom: .5em; text-align: center;}	
 		
 		
 }
