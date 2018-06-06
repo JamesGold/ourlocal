@@ -54,7 +54,7 @@ if( Cookies.get('cookienote') ==="true") {
 	
 	$("#cookieClose").click (function(){ //open and close the widget
 	$("#cookieNotes").fadeOut(500);
-	Cookies.set('cookienote', "true", { expires: 1 });
+	Cookies.set('cookienote', "true", { expires: 7 });
 	});
 
 });		

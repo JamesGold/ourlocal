@@ -794,16 +794,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/assets\/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/main-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -903,6 +893,13 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
+	"\/_site\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
 	"\/_site\/food-and-drink\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -910,11 +907,53 @@
 		"oAP": "\/_site\/food-and-drink\/index.html",
 		"oF": 0
 		},
+	"\/_site\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_site\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
 	"\/_site\/food-and-drink\/starters.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_site\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_site\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_site\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/food-and-drink\/wine.html",
 		"oF": 0
 		},
 	"\/_site\/index.html": {
@@ -1045,6 +1084,108 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/pubs\/AnotherPub\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 21015,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/find\/pub-bullanddog.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/pubs\/AnotherPub\/find\/pub-bullanddog-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/AnotherPub\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/wine.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1058,6 +1199,17 @@
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
 		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 21015,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
 		"cB": 0,
@@ -2288,6 +2440,13 @@
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
+	"\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
 	"\/food-and-drink\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2295,11 +2454,53 @@
 		"oAP": "\/food-and-drink\/index.html",
 		"oF": 0
 		},
+	"\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
 	"\/food-and-drink\/starters.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/food-and-drink\/wine.html",
 		"oF": 0
 		},
 	"\/Gemfile": {
@@ -2448,6 +2649,136 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/pubs\/AnotherPub\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/about\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 21015,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/pubs\/AnotherPub\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/find\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/find\/map-app-bullanddog-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/pubs\/AnotherPub\/find\/map-app-bullanddog.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/pubs\/AnotherPub\/find\/pub-bullanddog.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/pubs\/AnotherPub\/find\/pub-bullanddog-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/AnotherPub\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/AnotherPub\/whats-on\/index.html",
+		"oF": 0
+		},
 	"\/pubs\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2461,6 +2792,17 @@
 		"oA": 0,
 		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
 		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 21015,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
 		"cB": 0,
@@ -2618,7 +2960,7 @@
 	"creationDate": 544632308,
 	"displayValue": "ourlocal",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/apple-touch-icon-precomposed.png",
+	"iconImageName": "\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
