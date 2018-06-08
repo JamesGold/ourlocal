@@ -63,27 +63,8 @@ if( Cookies.get('cookienote') ==="true") {
 
 
 
-
-
-
-
-
-
-
-///// looking at window size
-
-/*
-$(function() {
-
-$(window).resize(function() {
-
-	if ($(window).width() > 1223 {
-		$('#mainNavList').css('display','flex');
-		}
-	else{  
+$(function(){
 	
-		}
+	
+	
 });
-
-});
-*/
