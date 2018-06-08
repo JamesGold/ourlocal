@@ -20,6 +20,13 @@
 	 	<script src="{{ '/assets/js/jquery.js' | relative_url }}"></script> 
 		<script src="{{ '/assets/js/js.cookie.js' | relative_url }}"></script>
 		<script src="{{ '/assets/js/scripts-min.js' | relative_url }}"></script>  
+		
+	  
+	  <!-- if IE then load ie css for gridsake! -->
+	  <script type="text/javascript">
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
+        document.write(' <link rel="stylesheet" href="{{ 'assets/IEstyle.css' | relative_url }}"> ');
+	</script>
 	  
 	</head>
 	<body>

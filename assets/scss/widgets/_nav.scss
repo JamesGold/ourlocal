@@ -59,13 +59,17 @@
 	}		
 
 .badge {
-		background: url(/assets/img/patternBlue.png);	
+		background: url(/assets/img/patternBlue.png);
+			
 		padding: 2rem;	
 		display: flex;
 		justify-content: space-between;	
 		align-items: center;	
 	
-		@include breakpoint(break5) {grid-column: 1 / 3;}
+		@include breakpoint(break5) {
+			
+			float: left;
+			grid-column: 1 / 3;}
 
 
 		h1 {

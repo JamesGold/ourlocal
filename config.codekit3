@@ -219,13 +219,6 @@
 		"oAP": "\/_layouts\/htmlbasepub.html",
 		"oF": 0
 		},
-	"\/_layouts\/htmlbasepubmain.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_layouts\/htmlbasepubmain.html",
-		"oF": 0
-		},
 	"\/_layouts\/page.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -736,6 +729,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/assets\/js\/grid-layout-polyfill.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/grid-layout-polyfill-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/_site\/assets\/js\/jquery.js": {
 		"ft": 64,
 		"ma": 0,
@@ -793,16 +796,6 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
-		},
-	"\/_site\/assets\/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/main-min-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,
@@ -1435,6 +1428,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/IEstyle-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/IEstyle-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/IEstyle.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/IEstyle-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/img\/680268\/680268-2.jpg": {
 		"ft": 16384,
 		"iS": 44181,
@@ -1786,6 +1799,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/assets\/js\/grid-layout-polyfill.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/grid-layout-polyfill-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/assets\/js\/jquery.js": {
 		"ft": 64,
@@ -2527,6 +2550,13 @@
 		"oAP": "\/Gemfile.lock",
 		"oF": 0
 		},
+	"\/htmlbasepubmain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/htmlbasepubmain.html",
+		"oF": 0
+		},
 	"\/index.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2979,7 +3009,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
-	"autoprefixerEnableIEGrid": 1,
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,

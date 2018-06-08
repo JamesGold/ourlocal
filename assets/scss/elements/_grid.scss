@@ -14,7 +14,6 @@ html{
 	transition: all .8s;
 	}
 
-
 body{ 
 	font-size:16px;
 	@include breakpoint(break1) {font-size:1.1rem;}
@@ -22,8 +21,7 @@ body{
 	@include breakpoint(break3) {font-size:1.25rem;}
 	@include breakpoint(break4) {font-size:1.3rem;} 
 	@include breakpoint(break5) {font-size:1.4rem;} 
-	}
-				
+	}			
 .container,
 .footercontent,
 .promo-block,
@@ -49,7 +47,6 @@ body{
 img {max-width: 100%;
 	.content-img {height: 10vh;} 
 }
-
 
 
 

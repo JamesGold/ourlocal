@@ -1,0 +1,56 @@
+body{background: aqua;}
+
+
+
+.section .supp-image{display: none;}  
+
+.map{display: none;} 
+
+.pubs .pub-card img
+	  {width: 100%; max-width: 100%; height: auto; max-height: auto;}
+	  
+.post-list img {width: 100%; max-width: 100%; height: auto; max-height: auto;}
+ 
+			.post-list li {display: inline-block; float: left; min-height: 300px;} 
+
+
+
+
+@media only screen and (min-width : 48em)  {
+	
+			.pubs .pub-card {display: inline-block; float: left; max-width: 48%; margin-right: 5px; height: auto;} 
+			.post-list li {display: inline-block; float: left; max-width: 48%; margin-right: 5px; min-height: 300px;} 
+
+	}
+
+
+
+@media only screen and (min-width : 56em)  { 
+	
+		.pubs .pub-card {	display: inline-block; float: left; max-width: 30%; }
+		.post-list li  {	display: inline-block; float: left; max-width: 30%; min-height: 300px;}
+	
+	 }
+
+
+@media only screen and (min-width : 76.5em)  { 
+
+	.featuredcard.foodcard,
+	.featuredcard.locationcard,
+	.featuredcard.newscard,
+	.pubs .pub-card
+	  {display: inline-block; width: 30%; max-width: 30%; margin-right:3%;}
+	
+	.featuredcard .featureheader,
+	.featuredcard .featurecard-home .featureheader {padding: 1em; display: block;}
+	
+	.featuredcard  featureheader h3,
+	.featuredcard-home .featureheader h3 {font-size: 2em;}
+	
+	.featuredcard .featurecard-home .featureheader p {font-size: 1em;}
+	
+	.
+	
+
+}
+
