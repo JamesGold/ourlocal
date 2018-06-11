@@ -7,10 +7,10 @@
 
 	display: grid;
 	grid-template-columns:   1fr;
-	@include breakpoint(break1) {grid-template-columns: 1fr 1fr; grid-gap:1em; text-align: left;}
+	@include breakpoint(break1) {grid-template-columns: 1fr 1fr; grid-gap:1em; }
 	@include breakpoint(break2) {grid-template-columns: 1fr 1fr;}
-	@include breakpoint(break3) {grid-template-columns: 1fr 1fr 1fr; }
-	@include breakpoint(break4) {grid-template-columns: 1fr 1fr 1fr; }
+	@include breakpoint(break3) {grid-template-columns: 1fr 1fr 1fr;}
+	@include breakpoint(break4) {}
 	@include breakpoint(break5) {}				
 	}
 	

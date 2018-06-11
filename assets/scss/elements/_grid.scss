@@ -43,6 +43,7 @@ body{
 	@include breakpoint(break4) {max-width:85%;}
 	@include breakpoint(break5) {max-width:85%;}	
 	}
+		
 
 img {max-width: 100%;
 	.content-img {height: 10vh;} 
@@ -109,7 +110,7 @@ img {max-width: 100%;
 
 
 
-
+/*
 .menu-container{
 
 	@include breakpoint(break4) {
@@ -117,6 +118,7 @@ img {max-width: 100%;
 		flex-wrap: wrap;
 		}
 }
+*/
 
 
 .section {
@@ -179,6 +181,7 @@ img {max-width: 100%;
 	
 // testing breakpoint sizes for dev
 
+/*
 
 	.sizes:before {content: "Breakpoint: 0"; background: #eee;
 		color: #222; border: 1px solid #111;border-radius: 5px; padding: 10px;margin: 1em;
@@ -190,6 +193,7 @@ img {max-width: 100%;
 	@include breakpoint(break5) {background: #cfff21; content: "Breakpoint: 5"}			
 	@include breakpoint(break6) {background: #ff00e1; content: "Breakpoint: 6"}			
 	}
+*/
 	
 
 

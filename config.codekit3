@@ -107,6 +107,13 @@
 		"oAP": "\/_data\/pubNav.yml",
 		"oF": 0
 		},
+	"\/_data\/pubNavBootInnSuttonColdfield.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pubNavBootInnSuttonColdfield.yml",
+		"oF": 0
+		},
 	"\/_includes\/featurecard-block.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -219,6 +226,13 @@
 		"oAP": "\/_layouts\/htmlbasepub.html",
 		"oF": 0
 		},
+	"\/_layouts\/htmlbasepubmain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/htmlbasepubmain.html",
+		"oF": 0
+		},
 	"\/_layouts\/page.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -324,6 +338,20 @@
 		"oAP": "\/_posts\/2018-05-07-Monday.markdown",
 		"oF": 0
 		},
+	"\/_posts\/2018-06-11-Bull & Dog Vespa Club Music Weekend.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-06-11-Bull & Dog Vespa Club Music Weekend.markdown",
+		"oF": 0
+		},
+	"\/_site.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site.zip",
+		"oF": 0
+		},
 	"\/_site\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
@@ -352,6 +380,13 @@
 		"oAP": "\/_site\/2018\/05\/Bull-&-Dog-readies-for-openning-day.html",
 		"oF": 0
 		},
+	"\/_site\/2018\/06\/Bull-&-Dog-Vespa-Club-Music-Weekend.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2018\/06\/Bull-&-Dog-Vespa-Club-Music-Weekend.html",
+		"oF": 0
+		},
 	"\/_site\/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -376,6 +411,26 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/_site\/assets\/IEstyle-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/IEstyle-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/_site\/assets\/IEstyle.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/IEstyle-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/_site\/assets\/img\/680268\/680268-2.jpg": {
 		"ft": 16384,
@@ -797,6 +852,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/_site\/assets\/main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1068,6 +1133,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/postimages\/BullAndDogDIYW3.jpg": {
+		"ft": 16384,
+		"iS": 118514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/postimages\/BullAndDogDIYW3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/postimages\/default.gif": {
 		"ft": 4194304,
 		"iS": 43,
@@ -1087,113 +1163,120 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/pubs\/AnotherPub\/about\/index.html": {
+	"\/_site\/pubs\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/about\/index.html",
+		"oAP": "\/_site\/pubs\/index.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 21015,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog-min-min.js",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog.js": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/find\/pub-bullanddog.json": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-bullanddog.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/_site\/pubs\/AnotherPub\/find\/pub-bullanddog-min.json",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-bullanddog-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/breakfast.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/breakfast.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/main-menu.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/main-menu.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/starters.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/starters.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/supper-club.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/supper-club.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/sweets.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/sweets.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/AnotherPub\/food-and-drink\/wine.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/AnotherPub\/food-and-drink\/wine.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/index.html": {
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/index.html",
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
@@ -2550,13 +2633,6 @@
 		"oAP": "\/Gemfile.lock",
 		"oF": 0
 		},
-	"\/htmlbasepubmain.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/htmlbasepubmain.html",
-		"oF": 0
-		},
 	"\/index.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2670,6 +2746,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/postimages\/BullAndDogDIYW3.jpg": {
+		"ft": 16384,
+		"iS": 118514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/postimages\/BullAndDogDIYW3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/postimages\/default.gif": {
 		"ft": 4194304,
 		"iS": 43,
@@ -2689,141 +2776,141 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/pubs\/AnotherPub\/about\/index.html": {
+	"\/pubs\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/about\/index.html",
+		"oAP": "\/pubs\/index.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html",
+		"oF": 0
+		},
+	"\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 21015,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/apple-touch-icon-precomposed.png",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/pubs\/AnotherPub\/find\/index.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/find\/index.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/find\/map-app-bullanddog-min-min.js",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/pubs\/AnotherPub\/find\/map-app-bullanddog.js": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/find\/map-app-bullanddog-min.js",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-bullanddog-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/pubs\/AnotherPub\/find\/pub-bullanddog.json": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-bullanddog.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/pubs\/AnotherPub\/find\/pub-bullanddog-min.json",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-bullanddog-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/breakfast.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/breakfast.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/index.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/index.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/index.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/kids-menu.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/main-menu.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/main-menu.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/starters.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/starters.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/sunday-lunch.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/supper-club.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/supper-club.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/sweets.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/sweets.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/food-and-drink\/wine.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/food-and-drink\/wine.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/index.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/index.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/index.html",
 		"oF": 0
 		},
-	"\/pubs\/AnotherPub\/whats-on\/index.html": {
+	"\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/AnotherPub\/whats-on\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/index.html",
+		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html",
 		"oF": 0
 		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
