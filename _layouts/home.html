@@ -1,11 +1,34 @@
 ---
 layout: "htmlbasemain"
 author: "James"
-title: Our Local
-pagetitle: "Home"
+title:
+pagetitle: "Welcome to "
+
+
 heromain: "Our Local"
 herosub: A great selection of local pubs
+heroimgpath: /assets/img/placeholder3.jpg
+
 ---
+
+<style>
+		.hero {
+		
+		background: 
+		linear-gradient( rgba(143, 176, 144, 1) 0%, 
+		rgba(143, 176, 144, 0.05) 50%, 
+		rgba(143, 176, 144, 1) 1000%),
+		url( {{ layout.heroimgpath }} );
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		background-attachment: fixed;
+		}
+	
+</style>	
+</style>	
+
+
 
 {% include featurecard-block.html %}
 {% include promo-block.html %}

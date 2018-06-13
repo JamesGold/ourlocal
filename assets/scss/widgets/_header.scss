@@ -22,6 +22,7 @@ header {
 		@include breakpoint(break4) {}
 		@include breakpoint(break5) {margin-top: -2em;}
 		
+/*
 	&.hero {
 		background: linear-gradient(
 		rgba(143, 176, 144, 1) 0%, 
@@ -44,6 +45,7 @@ header {
 		background-size: cover;
 		background-attachment: fixed;
 		}	
+*/
 				
 		
 	h2 {		

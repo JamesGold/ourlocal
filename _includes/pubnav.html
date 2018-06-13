@@ -9,11 +9,13 @@
 	
 	<nav class="main-nav" id="mainNav">
 		<ul  class="show contract" id="mainNavList">		
-			{% for menu in site.data.pubNav %}
+			{% for menu in site.data.pubnavs.[page.pubnav] %}
 				<li class="{% if page.url == menu.url %}active{% endif %}"><a href="{{ menu.url }}">{{ menu.title }}</a></li>	
 			{% endfor %}
 		</ul>
 	</nav>			
 </div><!-- eof navcontainer -->
+
+
 
 
