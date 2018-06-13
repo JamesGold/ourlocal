@@ -16,29 +16,72 @@
         "description": "A friendly welcome from the heart of the community", 
         "name": "The Bull & Dog Inn", 
         "phone": "01704 895 798",
-        "web": "<a href=\"locations.html#680268\">View this Pub</a>"
+        "web": "<a href=\"#680268\">View this Pub</a>"
 
       }
     },
-
+           
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -1.1348314,
-           50.8118576  
+          -1.8084609,
+          52.5666794
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "category": "Public House", 
         "hours": "12:00 noon - 12:00 midnight", 
-        "description": "A warm welcome, great pint and views over Portsmouth Harbour", 
-        "name": "The Jolly Roger, Gosport", 
-        "phone": "023 9258 2584",
-        "web": "<a href=\"http://www.OurLocal.pub\">OurLocal</a>"
+        "description": "Delivering the best hospitality in a friendly environment", 
+        "name": "The Boot Inn", 
+        "phone": "0121 378 3403",
+        "web": "<a href=\"#680235\">View this Pub</a>"
 
       }
-    }             
+    },
+    
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.4824066,
+          53.3391745
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 11:00pm", 
+        "description": "Enjoy relaxing in our snug whilst trying our new craft cask ales, or out on our large landscaped terrace with a refreshing bottle of prosecco after work", 
+        "name": "The Abbey", 
+        "phone": "0114 235 9396",
+        "web": "<a href=\"#680119\">View this Pub</a>"
+
+      }
+    },
+    
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.3073483,
+          51.58042
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Hawthorn Inn", 
+        "phone": "0114 235 9396",
+        "web": "<a href=\"#680178\">View this Pub</a>"
+
+      }
+    }
+    
+
+
     ]
 }
