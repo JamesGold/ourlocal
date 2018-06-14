@@ -464,6 +464,55 @@
 		"oAP": "\/_posts\/ROTW\/the-bull-and-dog-ormskirk\/2018-05-07-Monday.markdown",
 		"oF": 0
 		},
+	"\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-03-Sunday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-03-Sunday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-04-Saturday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-04-Saturday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-05-Friday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-05-Friday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-06-Thursday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-06-Thursday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-07-Wednesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-07-Wednesday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-08-Tuesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-08-Tuesday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-09-Monday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-09-Monday.markdown",
+		"oF": 0
+		},
 	"\/_site\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
@@ -1168,6 +1217,13 @@
 		"oAP": "\/_site\/news\/page\/5\/index.html",
 		"oF": 0
 		},
+	"\/_site\/news\/page\/6\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/news\/page\/6\/index.html",
+		"oF": 0
+		},
 	"\/_site\/postimages\/bullanddog-friday.jpg": {
 		"ft": 16384,
 		"iS": 27553,
@@ -1554,6 +1610,13 @@
 		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/5\/index.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/6\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/6\/index.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/saturday.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1760,6 +1823,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/5\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/6\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/6\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/saturday.html": {
@@ -1980,6 +2050,13 @@
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/5\/index.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/6\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/6\/index.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/saturday.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2008,6 +2085,13 @@
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/wednesday.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/about\/index.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 21015,
@@ -2019,20 +2103,27 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-theboot.js": {
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-theboot-min.js",
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-theboot.json": {
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-theboot-min.json",
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2042,6 +2133,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/kids-menu.html": {
@@ -2109,6 +2207,97 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/friday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/friday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/monday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/monday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/2\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/2\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/3\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/3\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/4\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/4\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/5\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/5\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/6\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/6\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/saturday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/saturday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/sunday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/sunday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/thursday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/thursday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/tuesday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/tuesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/wednesday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/wednesday.html",
 		"oF": 0
 		},
 	"\/_site\/robots.txt": {
@@ -4107,20 +4296,20 @@
 		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html",
 		"oF": 0
 		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-theboot.js": {
+	"\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-theboot-min.js",
+		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-theboot.json": {
+	"\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-theboot-min.json",
+		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1

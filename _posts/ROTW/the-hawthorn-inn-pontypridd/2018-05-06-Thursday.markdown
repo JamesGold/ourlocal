@@ -1,0 +1,19 @@
+---
+layout: rotw-post
+title:  "Thursday - Cheese & Banter"
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Thursday, the-hawthorn-inn-pontypridd  ]
+back: /pubs/the-hawthorn-inn-pontypridd/whats-on/
+permalink: /pubs/the-hawthorn-inn-pontypridd/whats-on/thursday.html
+pubname: The Hawthorn Inn
+
+feat-image: thursday.jpg
+img-alt: Thursday at the Hawthorn Inn
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

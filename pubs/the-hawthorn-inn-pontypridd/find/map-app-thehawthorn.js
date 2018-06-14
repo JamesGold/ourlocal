@@ -1,9 +1,9 @@
 ---
-lat:  52.5666794
-lng:  -1.8084609
-pubjson: "pub-theboot.json"
+lat:  51.58042
+lng:  -3.3073483
+pubjson: "pub-thehawthorn.json"
 ---
-    
+
 
 const mapStyle = [
   {
