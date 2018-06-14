@@ -1,9 +1,9 @@
 ---
-lat: 53.5878152 
-lng:  -2.8610608
-pubjson: "pub-bullanddog.json"
+lat:  52.5666794
+lng:  -1.8084609
+pubjson: "pub-theboot.json"
 ---
-
+    
 
 const mapStyle = [
   {
@@ -127,7 +127,7 @@ function initMap() {
     let position = event.feature.getGeometry().get();
     let content = `
       <h2>${name}</h2><p>${description}</p>
-      <p><strong>Open:</strong> ${hours}<br/><strong>Phone:</strong> ${phone}<br /> <strong>Website:</strong> ${web}</p>
+      <p><strong>Open:</strong> ${hours}<br/><strong>Phone:</strong> ${phone}</p>
     `
     infoWindow.setContent(content);
     infoWindow.setPosition(position);
