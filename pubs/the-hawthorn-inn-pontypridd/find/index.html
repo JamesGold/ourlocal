@@ -9,6 +9,7 @@ pagetitle: "Find us here"
 
 address: "Cardiff Road, <br />Hawthorn, <br />Pontypridd, <br />CF37 5AG."
 phonenumber:  01443 843224
+pubemail: info@hawthorninnhawthorn.co.uk
 googlemap: https://www.google.com/maps/place/Hawthorn+Inn/@51.58042,-3.3073483,17z/data=!4m5!3m4!1s0x486e1762460c0bbb:0x5dbacf317408384f!8m2!3d51.580328!4d-3.307554
 
 ---
@@ -27,11 +28,15 @@ googlemap: https://www.google.com/maps/place/Hawthorn+Inn/@51.58042,-3.3073483,1
 			 <div>
 				 <h1>{{ page.pagetitle}} :</h1>
 				 <h2>{{ page.address }}</h2>
-				 <p><strong>Call: <a href="tel:{{ page.phonenumber }}">{{ page.phonenumber }}</a></strong><br /><a href="{{ page.googlemap }}">Get map directions</a></p>
+				 <p><a href="{{ page.googlemap }}">Get map directions</a></p>
 				 
+				 <p><strong>Contact us:</strong></p>
+				 <p>Call: <a href="tel:{{ page.phonenumber }}">{{ page.phonenumber }}</a><br />
+				 <a href="mailto:{{ page.pubemail }}?subject=Website Enquiry">Email us</a></p>
 				 
-				 
+				
 			</div>
+			
 			<div class="map-pub"></div>
 
 	</div>

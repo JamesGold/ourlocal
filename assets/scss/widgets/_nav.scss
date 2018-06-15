@@ -1,4 +1,17 @@
+
+
+
+@keyframes fall {
+  0%   { margin-top:  -200%; }
+  50% { margin-top: -10%; }
+  100% { margin-top: 0; }
+	}
+
+
+
+
 .navcontainer {
+	
 	width: 100%;
 	max-width: 100%;
 	margin: 0 auto;
@@ -21,7 +34,7 @@
 	nav{
 		@include breakpoint(break5) {grid-column: 3 / 9}
 		
-		ul {			
+		ul {	
 			display: none;
 			padding: 2em;
 			margin: 0;
@@ -59,6 +72,11 @@
 	}		
 
 .badge {
+		animation-name: fall;
+	  	animation-duration: .3s;
+	  	animation-delay: .2s;
+	  	animation-timing-function: ease-in-out;
+	
 		background: url(/assets/img/patternBlue.png);
 			
 		padding: 2rem;	

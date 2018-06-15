@@ -9,6 +9,7 @@ pagetitle: "Find us here"
 
 address: "139 Rectory Road, <br />Sutton Coldfield, <br />B75 7RU."
 phonenumber:  0121 378 3403
+pubemail: info@bootinnandkitchen.co.uk
 googlemap: https://www.google.com/maps/place/The+Boot+Inn/@52.5664101,-1.8084563,17.37z/data=!4m12!1m6!3m5!1s0x4870a59bfe27e603:0xc3d525c1467bff5b!2sThe+Boot+Inn!8m2!3d52.5664707!4d-1.8069364!3m4!1s0x4870a59bfe27e603:0xc3d525c1467bff5b!8m2!3d52.5664707!4d-1.8069364
 
 ---
@@ -20,10 +21,13 @@ googlemap: https://www.google.com/maps/place/The+Boot+Inn/@52.5664101,-1.8084563
 			 <div>
 				 <h1>{{ page.pagetitle}} :</h1>
 				 <h2>{{ page.address }}</h2>
-				 <p><strong>Call: <a href="tel:{{ page.phonenumber }}">{{ page.phonenumber }}</a></strong><br /><a href="{{ page.googlemap }}">Get map directions</a></p>
+				 <p><a href="{{ page.googlemap }}">Get map directions</a></p>
 				 
+				 <p><strong>Contact us:</strong></p>
+				 <p>Call: <a href="tel:{{ page.phonenumber }}">{{ page.phonenumber }}</a><br />
+				 <a href="mailto:{{ page.pubemail }}?subject=Website Enquiry">Email us</a></p>
 				 
-				 
+				
 			</div>
 			<div class="map-pub"></div>
 
