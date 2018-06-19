@@ -238,7 +238,20 @@
 			background:url(/assets/img/wine.jpg) center center no-repeat;}
 			}
 
-
+	&.menu9{
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+				url(/assets/img/tapas.jpg) center center no-repeat;
+		&:hover {
+			background:url(/assets/img/tapas.jpg) center center no-repeat;}
+			}
+			
+			
+		&.menu10 {
+		background:linear-gradient(rgba(0, 0, 0, 0.4) 100%, rgba(0,0,0,0.4) 0%),
+				url(/assets/img/salad.jpg) right bottom no-repeat;
+		&:hover {
+			background:url(/assets/img/salad.jpg) right bottom no-repeat;}
+			}	
 
 	&.menucard{}
 }
@@ -254,12 +267,16 @@
 		.menu5 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
 		.menu6 {width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
 		.menu7 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}		
-		.menu8 {width: 100%; margin-right: 0em; margin-bottom: 2em;}	
+		.menu8 {width: 100%; margin-right: 0em; margin-bottom: 2em;}
+		.menu9 {width: calc(50% - 1em);margin-right: 0em;margin-bottom: 2em;}
+		.menu10{width: calc(50% - 1em);margin-right: 2em;margin-bottom: 2em;}
+
+	
 	}
 
 		
 	@include breakpoint(break5) {
 		.locationcard, .foodcard, .newscard {width: auto; margin: 0;}
-		.menu1, .menu2, .menu3, .menu4, .menu5, .menu6, .menu7  {width: auto; margin: 0; margin-bottom: 3em;}
+		.menu1, .menu2, .menu3, .menu4, .menu5, .menu6, .menu7, .menu9, .menu10   {width: auto; margin: 0; margin-bottom: 3em;}
 	}
 
