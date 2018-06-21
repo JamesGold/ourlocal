@@ -1324,6 +1324,13 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/_site\/contact\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/contact\/index.html",
+		"oF": 0
+		},
 	"\/_site\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -1677,6 +1684,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_site\/privacy\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/privacy\/index.html",
+		"oF": 0
 		},
 	"\/_site\/pubs\/index.html": {
 		"cB": 0,
@@ -2539,6 +2553,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/robots.txt",
+		"oF": 0
+		},
+	"\/_site\/signup\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/signup\/index.html",
 		"oF": 0
 		},
 	"\/_site\/social\/index.html": {
@@ -4003,6 +4024,13 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/contact\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/contact\/index.html",
+		"oF": 0
+		},
 	"\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -4339,6 +4367,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/privacy\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/privacy\/index.html",
+		"oF": 0
 		},
 	"\/pubs\/index.html": {
 		"cB": 0,
@@ -4874,6 +4909,13 @@
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
+	"\/signup\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/signup\/index.html",
+		"oF": 0
+		},
 	"\/social\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -5311,7 +5353,7 @@
 		},
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
-	"esLintEnvironmentsMask": 8193,
+	"esLintEnvironmentsMask": 8209,
 	"esLintRules": {
 		"accessor-pairs": {
 			"active": 0,
@@ -6373,7 +6415,7 @@
 			"flagValue": -1
 			},
 		"esnext": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"evil": {
@@ -7020,7 +7062,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -7040,7 +7082,7 @@
 			"flagValue": -1
 			},
 		"support-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {

@@ -25,7 +25,7 @@ html{
 	font-size:100%;
 	transition: all .8s;
 	}
-
+	
 
 body{ 	
 	font-size:16px;
@@ -46,7 +46,8 @@ body{
 .map,
 .section-header,
 .pubs,
-.signup-container, {
+.signup-container,
+.privacy-container, {
 	max-width: 96%;
 	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing	
