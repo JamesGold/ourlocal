@@ -1408,6 +1408,13 @@
 		"oAP": "\/_site\/food-and-drink\/wine.html",
 		"oF": 0
 		},
+	"\/_site\/google1058a8a7302af96f.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/google1058a8a7302af96f.html",
+		"oF": 0
+		},
 	"\/_site\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2168,13 +2175,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/breakfast.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2229,6 +2229,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/img\/bullanddogbar.jpg": {
@@ -4115,6 +4122,13 @@
 		"oAP": "\/Gemfile.lock",
 		"oF": 0
 		},
+	"\/google1058a8a7302af96f.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/google1058a8a7302af96f.html",
+		"oF": 0
+		},
 	"\/index.md": {
 		"cB": 0,
 		"cS": 0,
@@ -4683,13 +4697,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/breakfast.html",
-		"oF": 0
-		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4744,6 +4751,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html",
 		"oF": 0
 		},
 	"\/pubs\/the-bull-and-dog-ormskirk\/img\/bullanddogbar.jpg": {
