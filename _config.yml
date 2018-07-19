@@ -22,8 +22,6 @@ url: "https://ourlocal.pub" # the base hostname & protocol for your site, e.g. h
 twitter_username: OurLocalPub
 instagram_username: OurLocalPub
 
-
-
 # Build settings
 markdown: kramdown
 theme: minima
@@ -35,7 +33,6 @@ plugins:
 
 # Produces a cleaner folder structure when using categories
 permalink: /:year/:month/:title.html
-
 
 # Pagination Settings
 pagination:
@@ -70,3 +67,24 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# 
+# 
+# collections:
+#   pub:
+#     output: true
+#   about:
+#     output: true
+#       
+#  
+# 
+# defaults:
+#   - scope:
+#       type: pub
+#     values:
+#      layout: htmlbasepubmain2
+# 
+#   - scope:
+#       type: about
+#     values:
+#      layout: htmlbasepub2    

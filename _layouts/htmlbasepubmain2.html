@@ -30,10 +30,38 @@
 	
 	</head>
 	<body>
+		<style>
+			.hero {	
+			background: 
+			linear-gradient( rgba(143, 176, 144, 1) 0%, 
+			rgba(143, 176, 144, 0.05) 50%, 
+			rgba(143, 176, 144, 1) 1000%),
+			url( {{ page.heroimgpath }} );
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: cover;
+			background-attachment: fixed;
+			}
+		</style>
+		
+		
+		
 
 			{% include pubnav.html %}
 			{% include pubhero.html %}
+											
+		<div class="fullbg section">
+			<div class="container pub-home">	
+					
+				<div class="intro">
 				{{ content }}
+				</div>
+				
+			</div><!-- eof pub-home-->
+		</div><!-- eof full bg-->	
+				
+
+			{% include socialwall-block.html %}				
 			{% include signup.html %}		
 			{% include pubfooter.html %}
 			{% include GTM.html %}
