@@ -13,18 +13,20 @@
 
 html{
 	
+/*
 	animation-name: fader;
   	animation-duration: .2s;
   	animation-delay: 0;
   	animation-timing-function: ease-in;
 			
+	
+*/
 	box-sizing: border-box;
 	word-break: normal;
 	transition: all .5s;
 	font-size:100%;
 	transition: all .8s;
 	}
-	
 	
 body{ 	
 	font-size:16px;
@@ -33,7 +35,9 @@ body{
 	@include breakpoint(break3) {font-size:1.25rem;}
 	@include breakpoint(break4) {font-size:1.3rem;} 
 	@include breakpoint(break5) {font-size:1.4rem;} 
-	}			
+	}	
+	
+			
 .container,
 .footercontent,
 .promo-block,
@@ -122,18 +126,6 @@ img {max-width: 100%;
 }
 
 
-
-/*
-.menu-container{
-
-	@include breakpoint(break4) {
-		display: flex;
-		flex-wrap: wrap;
-		}
-}
-*/
-
-
 .section {
 	@include breakpoint(break5) {margin-top: -2em; padding-top: 2em;}
 
@@ -155,25 +147,12 @@ img {max-width: 100%;
 			}
 		@include breakpoint(break5) {}		
 
-	.pub-card{
-		
-			@include breakpoint(break4) {
-/*
-			display: flex;
-			flex-wrap: wrap;
-*/
-			}
-	
-		@include breakpoint(break5) {
-/*
-			display: grid;
-			grid-template-columns: 1fr 5fr;
-			grid-column-gap: 2em;
-*/
-			}						
+	.pub-card{		
+		@include breakpoint(break4) {}
+		@include breakpoint(break5) {}						
 		}
 				
-}
+	}
 
 //// backgrounds
 

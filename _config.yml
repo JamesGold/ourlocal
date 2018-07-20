@@ -68,23 +68,10 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# 
-# 
-# collections:
-#   pub:
-#     output: true
-#   about:
-#     output: true
-#       
-#  
-# 
-# defaults:
-#   - scope:
-#       type: pub
-#     values:
-#      layout: htmlbasepubmain2
-# 
-#   - scope:
-#       type: about
-#     values:
-#      layout: htmlbasepub2    
+
+collections:
+   tester:
+
+
+
+       

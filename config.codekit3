@@ -632,13 +632,6 @@
 		"oAP": "\/_site\/about\/index.html",
 		"oF": 0
 		},
-	"\/_site\/about\/the-test-pub.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/about\/the-test-pub.html",
-		"oF": 0
-		},
 	"\/_site\/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 21015,
@@ -1335,6 +1328,19 @@
 		"oAP": "\/_site\/assets\/scss\/style.css.map",
 		"oF": 0
 		},
+	"\/_site\/assets\/scss\/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/scss\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/_site\/assets\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1733,13 +1739,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/privacy\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pub\/the-test-pub\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pub\/the-test-pub\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/index.html": {
@@ -2739,6 +2738,13 @@
 		"oAP": "\/_site\/tag\/tag.html",
 		"oF": 0
 		},
+	"\/_site\/tester.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester.html",
+		"oF": 0
+		},
 	"\/_site\/TestGrids.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2752,6 +2758,132 @@
 		"oA": 0,
 		"oAP": "\/_site\/web.config",
 		"oF": 0
+		},
+	"\/_tester\/tester1.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/tester1.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_tester\/tester2.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/tester2.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_tester\/tester3.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/tester3.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_tester\/tester4.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/tester4.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_tester\/tester5.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/tester5.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_tester\/tester6.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/tester6.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_tester\/tester7.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/tester7.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/about\/index.html": {
 		"cB": 0,
@@ -5127,6 +5259,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/tag\/tag.html",
+		"oF": 0
+		},
+	"\/tester.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tester.html",
 		"oF": 0
 		},
 	"\/TestGrids.html": {
