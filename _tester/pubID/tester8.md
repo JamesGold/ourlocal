@@ -1,10 +1,12 @@
 ---
 outlet_id: 0123456
-permalink: https://ourlocal.pub/pubs/thispub/
-pub_url: https://ourlocal.pub/pubs/thispub/
+permalink: /pubs/pub8/
+pub_url: https://ourlocal.pub/pubs/pub8/
+layout: htmlbasepubmain
 
 
-pub_name: The Test Inn
+
+pub_name: Pub 8
 pub_nav: TheTestPub
 wall_id: 789000
 
@@ -25,7 +27,7 @@ pubimg_location: /assets/img/placeholder.jpg
 
 ---
 
-Some homepage content for the pub goes here. 
+Pub 8 in a sub directory. Some homepage content for the pub goes here. 
 
 
 

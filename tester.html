@@ -39,7 +39,7 @@ pagetitle: "Find a local pub"
 					<span itemprop="postalCode">{{ test.pub_addressPostcode }}</span>
 				</p>
 			</div>	
-			<div  class="pub-card-footer"><a href="{{ "/pubs/the-bull-and-dog-ormskirk" | relative_url }}" class="button buttoncta">Visit website</a> <a href="https://www.google.com/maps?cid=3716439044560894820&_ga=2.191120239.456725613.1525344846-379069806.1525076032" class="button button" target="_blank">View on google maps</a></div>
+			<div  class="pub-card-footer"><a href="{{ test.permalink }}" class="button buttoncta">Visit website</a> <a href="https://www.google.com/maps?cid=3716439044560894820&_ga=2.191120239.456725613.1525344846-379069806.1525076032" class="button button" target="_blank">View on google maps</a></div>
 		</article><!-- eof pub-card -->	
 		
 {% endfor %}
@@ -49,4 +49,7 @@ pagetitle: "Find a local pub"
 
 <script src="/assets/js/map-app.js"></script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB5cwhe5fvxM8WkVE9g6DHo4agKvO89qnA&callback=initMap"></script><!-- ebiz google account -->
+
+
+
 

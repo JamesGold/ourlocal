@@ -1457,6 +1457,13 @@
 		"oAP": "\/_site\/google1058a8a7302af96f.html",
 		"oF": 0
 		},
+	"\/_site\/https:\/ourlocal.pub\/pubs\/thispub\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/https:\/ourlocal.pub\/pubs\/thispub\/index.html",
+		"oF": 0
+		},
 	"\/_site\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1860,6 +1867,20 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_site\/pubs\/pub8\/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/pub8\/about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/pub8\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/pub8\/index.html",
+		"oF": 0
 		},
 	"\/_site\/pubs\/the-abbey-sheffield\/about\/index.html": {
 		"cB": 0,
@@ -2745,6 +2766,62 @@
 		"oAP": "\/_site\/tester.html",
 		"oF": 0
 		},
+	"\/_site\/tester\/pubID\/tester8.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/pubID\/tester8.html",
+		"oF": 0
+		},
+	"\/_site\/tester\/tester1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/tester1.html",
+		"oF": 0
+		},
+	"\/_site\/tester\/tester2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/tester2.html",
+		"oF": 0
+		},
+	"\/_site\/tester\/tester3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/tester3.html",
+		"oF": 0
+		},
+	"\/_site\/tester\/tester4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/tester4.html",
+		"oF": 0
+		},
+	"\/_site\/tester\/tester5.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/tester5.html",
+		"oF": 0
+		},
+	"\/_site\/tester\/tester6.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/tester6.html",
+		"oF": 0
+		},
+	"\/_site\/tester\/tester7.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/tester\/tester7.html",
+		"oF": 0
+		},
 	"\/_site\/TestGrids.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2758,6 +2835,56 @@
 		"oA": 0,
 		"oAP": "\/_site\/web.config",
 		"oF": 0
+		},
+	"\/_tester\/pubID\/tester8.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_tester\/pubID\/tester8.html",
+		"oF": 0
+		},
+	"\/_tester\/pubID\/tester8.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/pubID\/tester8.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_tester\/pubID\/testerabout.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_tester\/pubID\/testerabout.html",
+		"oF": 0
+		},
+	"\/_tester\/pubID\/testerabout.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_tester\/pubID\/testerabout.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_tester\/tester1.md": {
 		"cB": 0,
@@ -2866,6 +2993,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/_tester\/tester7.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_tester\/tester7.html",
+		"oF": 0
 		},
 	"\/_tester\/tester7.md": {
 		"cB": 0,

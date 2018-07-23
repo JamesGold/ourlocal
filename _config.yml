@@ -71,7 +71,6 @@ exclude:
 
 collections:
    tester:
-
-
+    output: true
 
        
