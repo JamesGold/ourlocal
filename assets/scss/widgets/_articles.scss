@@ -77,11 +77,30 @@
  .about-container {
 	margin-bottom: 3em;
 
-	@include breakpoint(break3) {
+	@include breakpoint(break2) {
+/*
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 		grid-auto-flow: dense;
 		grid-column-gap: 1.5em;
+*/
+
+ img {float: left; max-width: 50%; padding: 0 2em 3em 0;}
+ 
+ }
+
+
+	@include breakpoint(break4) {
+/*
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-auto-flow: dense;
+		grid-column-gap: 1.5em;
+*/
+
+ .about-img {float: left; max-width: 33%; padding: 0 2em 3em 0;}
+ 
+
 
 		}
 	strong{font-weight: 600;}

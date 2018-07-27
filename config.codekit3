@@ -219,6 +219,13 @@
 		"oAP": "\/_includes\/pubhero.html",
 		"oF": 0
 		},
+	"\/_includes\/pubmaps.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/pubmaps.html",
+		"oF": 0
+		},
 	"\/_includes\/pubnav.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -238,6 +245,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/socialwall-block.html",
+		"oF": 0
+		},
+	"\/_layouts\/AboutPub.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/AboutPub.html",
+		"oF": 0
+		},
+	"\/_layouts\/FindPub.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/FindPub.html",
 		"oF": 0
 		},
 	"\/_layouts\/home.html": {
@@ -562,12 +583,138 @@
 		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-09-Monday.markdown",
 		"oF": 0
 		},
-	"\/_pub\/the-test-pub.html": {
+	"\/_pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_pub\/the-test-pub.html",
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html",
 		"oF": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-fireplace.jpg": {
+		"ft": 16384,
+		"iS": 104320,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-fireplace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front.jpg": {
+		"ft": 16384,
+		"iS": 95889,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front2.jpg": {
+		"ft": 16384,
+		"iS": 154543,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-garden.jpg": {
+		"ft": 16384,
+		"iS": 120577,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-garden.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-team.jpg": {
+		"ft": 16384,
+		"iS": 114700,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-team.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/find\/680178_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/find\/680178_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/find\/680178_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/find\/680178_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"\/_site\/.htaccess": {
 		"cB": 0,
@@ -724,61 +871,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/680119\/The-Abbey-signage.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/680178\/Hawthorn-fireplace.jpg": {
-		"ft": 16384,
-		"iS": 104320,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/680178\/Hawthorn-fireplace.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/680178\/Hawthorn-front.jpg": {
-		"ft": 16384,
-		"iS": 95889,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/680178\/Hawthorn-front.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/680178\/Hawthorn-front2.jpg": {
-		"ft": 16384,
-		"iS": 154543,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/680178\/Hawthorn-front2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/680178\/Hawthorn-garden.jpg": {
-		"ft": 16384,
-		"iS": 120577,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/680178\/Hawthorn-garden.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/680178\/Hawthorn-team.jpg": {
-		"ft": 16384,
-		"iS": 114700,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/680178\/Hawthorn-team.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1216,42 +1308,42 @@
 	"\/_site\/assets\/js\/grid-layout-polyfill.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/_site\/assets\/js\/grid-layout-polyfill-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/_site\/assets\/js\/jquery.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/_site\/assets\/js\/jquery-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/_site\/assets\/js\/js.cookie.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/_site\/assets\/js\/js.cookie-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/_site\/assets\/js\/map-app.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/_site\/assets\/js\/map-app-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/_site\/assets\/js\/pubs.json": {
 		"ft": 524288,
@@ -1264,22 +1356,40 @@
 	"\/_site\/assets\/js\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/_site\/assets\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/_site\/assets\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/_site\/assets\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
+		},
+	"\/_site\/assets\/js\/thehawthorn.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/js\/thehawthorn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/assets\/js\/thehawthornmap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/thehawthornmap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"\/_site\/assets\/main.css": {
 		"aP": 1,
@@ -1455,13 +1565,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/google1058a8a7302af96f.html",
-		"oF": 0
-		},
-	"\/_site\/https:\/ourlocal.pub\/pubs\/thispub\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/https:\/ourlocal.pub\/pubs\/thispub\/index.html",
 		"oF": 0
 		},
 	"\/_site\/index.html": {
@@ -1748,248 +1851,90 @@
 		"oAP": "\/_site\/privacy\/index.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-fireplace.jpg": {
+		"ft": 16384,
+		"iS": 104320,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-fireplace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front.jpg": {
+		"ft": 16384,
+		"iS": 95889,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front2.jpg": {
+		"ft": 16384,
+		"iS": 154543,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-front2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-garden.jpg": {
+		"ft": 16384,
+		"iS": 120577,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-garden.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-team.jpg": {
+		"ft": 16384,
+		"iS": 114700,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-team.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/find\/680178_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/find\/680178_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"\/_site\/pubs\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/about\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/pubs\/pub-template\/find\/map-app-bullanddog-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/find\/map-app-bullanddog-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/pubs\/pub-template\/find\/map-app-bullanddog.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/find\/map-app-bullanddog-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/pubs\/pub-template\/find\/pub-bullanddog.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/_site\/pubs\/pub-template\/find\/pub-bullanddog-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/food-and-drink\/zz-breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/food-and-drink\/zz-breakfast.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub-template\/img\/bullanddogbar.jpg": {
-		"ft": 16384,
-		"iS": 198717,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub-template\/img\/bullanddogbar.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/pubs\/pub8\/about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub8\/about.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/pub8\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/pub8\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/about\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/find\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/find\/map-app-theabbey.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/find\/map-app-theabbey-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/find\/pub-theabbey.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/find\/pub-theabbey-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/nibbles-tapas.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/nibbles-tapas.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/img\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 65463,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/img\/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/friday.html": {
@@ -1999,53 +1944,11 @@
 		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/friday.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/index.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/monday.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/monday.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/2\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/2\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/3\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/3\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/4\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/4\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/5\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/5\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/6\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/page\/6\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/saturday.html": {
@@ -2083,130 +1986,6 @@
 		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/wednesday.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-theboot.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-theboot-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-theboot.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-theboot-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/img\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 65463,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/img\/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/index.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/friday.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2214,53 +1993,11 @@
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/friday.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/monday.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/monday.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/2\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/2\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/3\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/3\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/4\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/4\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/5\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/5\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/6\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/page\/6\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/saturday.html": {
@@ -2298,140 +2035,6 @@
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/wednesday.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/img\/bullanddogbar.jpg": {
-		"ft": 16384,
-		"iS": 198717,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/img\/bullanddogbar.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/index.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/friday.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2439,53 +2042,11 @@
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/friday.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/index.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/monday.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/monday.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/2\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/2\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/3\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/3\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/4\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/4\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/5\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/5\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/6\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/page\/6\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/saturday.html": {
@@ -2523,115 +2084,12 @@
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/about\/index.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html",
 		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/breakfast.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/img\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 65463,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/img\/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/index.html": {
 		"cB": 0,
@@ -2647,53 +2105,11 @@
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/friday.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/monday.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/monday.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/2\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/2\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/3\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/3\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/4\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/4\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/5\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/5\/index.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/6\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/page\/6\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/saturday.html": {
@@ -2759,69 +2175,6 @@
 		"oAP": "\/_site\/tag\/tag.html",
 		"oF": 0
 		},
-	"\/_site\/tester.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/pubID\/tester8.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/pubID\/tester8.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/tester1.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/tester1.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/tester2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/tester2.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/tester3.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/tester3.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/tester4.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/tester4.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/tester5.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/tester5.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/tester6.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/tester6.html",
-		"oF": 0
-		},
-	"\/_site\/tester\/tester7.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tester\/tester7.html",
-		"oF": 0
-		},
 	"\/_site\/TestGrids.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2835,189 +2188,6 @@
 		"oA": 0,
 		"oAP": "\/_site\/web.config",
 		"oF": 0
-		},
-	"\/_tester\/pubID\/tester8.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_tester\/pubID\/tester8.html",
-		"oF": 0
-		},
-	"\/_tester\/pubID\/tester8.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/pubID\/tester8.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/pubID\/testerabout.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_tester\/pubID\/testerabout.html",
-		"oF": 0
-		},
-	"\/_tester\/pubID\/testerabout.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/pubID\/testerabout.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/tester1.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/tester1.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/tester2.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/tester2.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/tester3.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/tester3.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/tester4.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/tester4.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/tester5.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/tester5.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/tester6.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/tester6.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_tester\/tester7.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_tester\/tester7.html",
-		"oF": 0
-		},
-	"\/_tester\/tester7.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_tester\/tester7.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/about\/index.html": {
 		"cB": 0,
@@ -3118,61 +2288,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/680119\/The-Abbey-signage.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/680178\/Hawthorn-fireplace.jpg": {
-		"ft": 16384,
-		"iS": 104320,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/assets\/img\/680178\/Hawthorn-fireplace.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/680178\/Hawthorn-front.jpg": {
-		"ft": 16384,
-		"iS": 95889,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/assets\/img\/680178\/Hawthorn-front.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/680178\/Hawthorn-front2.jpg": {
-		"ft": 16384,
-		"iS": 154543,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/assets\/img\/680178\/Hawthorn-front2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/680178\/Hawthorn-garden.jpg": {
-		"ft": 16384,
-		"iS": 120577,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/assets\/img\/680178\/Hawthorn-garden.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/680178\/Hawthorn-team.jpg": {
-		"ft": 16384,
-		"iS": 114700,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/assets\/img\/680178\/Hawthorn-team.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3610,42 +2725,42 @@
 	"\/assets\/js\/grid-layout-polyfill.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/assets\/js\/grid-layout-polyfill-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/assets\/js\/jquery.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/assets\/js\/jquery-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/assets\/js\/js.cookie.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/assets\/js\/js.cookie-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/assets\/js\/map-app.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/assets\/js\/map-app-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/assets\/js\/pubs.json": {
 		"ft": 524288,
@@ -3658,22 +2773,40 @@
 	"\/assets\/js\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/assets\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/assets\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 2,
 		"oAP": "\/assets\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
+		},
+	"\/assets\/js\/thehawthorn.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/js\/thehawthorn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/js\/thehawthornmap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/thehawthornmap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"\/assets\/raw\/120053.pdf": {
 		"cB": 0,
@@ -4706,665 +3839,11 @@
 		"oAP": "\/privacy\/index.html",
 		"oF": 0
 		},
-	"\/pubs\/index.html": {
+	"\/pubs.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pubs\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/about\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pubs\/pub-template\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/find\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/find\/map-app-bullanddog-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/find\/map-app-bullanddog-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/pubs\/pub-template\/find\/map-app-bullanddog.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/find\/map-app-bullanddog-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/pubs\/pub-template\/find\/pub-bullanddog.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pubs\/pub-template\/find\/pub-bullanddog-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/pubs\/pub-template\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/food-and-drink\/zz-breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/food-and-drink\/zz-breakfast.html",
-		"oF": 0
-		},
-	"\/pubs\/pub-template\/img\/bullanddogbar.jpg": {
-		"ft": 16384,
-		"iS": 198717,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/img\/bullanddogbar.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/pubs\/pub-template\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/pub-template\/whats-on\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/about\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pubs\/the-abbey-sheffield\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/find\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/find\/map-app-theabbey.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/find\/map-app-theabbey-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/find\/pub-theabbey.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pubs\/the-abbey-sheffield\/find\/pub-theabbey-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/pubs\/the-abbey-sheffield\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/food-and-drink\/nibbles-tapas.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/food-and-drink\/nibbles-tapas.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/img\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 65463,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/img\/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/pubs\/the-abbey-sheffield\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-abbey-sheffield\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-abbey-sheffield\/whats-on\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-theboot.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/find\/map-app-theboot-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-theboot.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/find\/pub-theboot-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/breakfast.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/img\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 65463,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/img\/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/about\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/find\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/find\/map-app-bullanddog-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/find\/pub-bullanddog-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/food-and-drink\/zz-breakfast.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/img\/bullanddogbar.jpg": {
-		"ft": 16384,
-		"iS": 198717,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/img\/bullanddogbar.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/about\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 21015,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/map-app-thehawthorn-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/find\/pub-thehawthorn-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/breakfast.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/kids-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/main-menu.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/starters.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sunday-lunch.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/supper-club.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/sweets.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/wine.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/img\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 65463,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/img\/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/index.html",
-		"oF": 0
-		},
-	"\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html",
+		"oAP": "\/pubs.html",
 		"oF": 0
 		},
 	"\/robots.txt": {
@@ -5395,13 +3874,6 @@
 		"oAP": "\/tag\/tag.html",
 		"oF": 0
 		},
-	"\/tester.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/tester.html",
-		"oF": 0
-		},
 	"\/TestGrids.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -5425,7 +3897,7 @@
 	"creationDate": 544632308,
 	"displayValue": "ourlocal",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/pubs\/the-hawthorn-inn-pontypridd\/apple-touch-icon-precomposed.png",
+	"iconImageName": "\/apple-touch-icon-precomposed.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -7233,16 +5705,16 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 2,
 		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 1,
-		"transpilerStyle": 0
+		"transpilerStyle": 1
 		},
 	"languageDefaultsJSON": {
 		"autoOutputAction": 1,
@@ -7418,7 +5890,7 @@
 			"flagValue": -1
 			},
 		"bare-returns": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"booleans": {
@@ -7502,7 +5974,7 @@
 			"flagValue": -1
 			},
 		"keep_fnames": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"loops": {
@@ -7510,7 +5982,7 @@
 			"flagValue": -1
 			},
 		"mangle": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"max-line-len": {
@@ -7554,7 +6026,7 @@
 			"flagValue": -1
 			},
 		"support-ie8": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {

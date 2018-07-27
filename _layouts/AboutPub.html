@@ -30,49 +30,31 @@
 	
 	</head>
 	<body>
-		<style>
-			.hero {	
-			background: 
-			linear-gradient( rgba(49, 99, 168, 1) 0%, 
-			rgba(49, 99, 168, 0) 50%, 
-			rgba(49, 99, 168, 1) 1000%),
-			url( "{{ page.baseurl }}{{ page.pub_assets_url }}{{ page.hero_img }}" );
-			background-repeat: no-repeat;
-			background-position: center center;
-			background-size: cover;
-			background-attachment: fixed;
-			}
-		</style>
 
 			{% include pubnav.html %}
-			{% include pubhero.html %}
 											
 			<div class="fullbg section">
-				<div class="container pub-home">
 					
-			
-					
-					<div class="intro">	
-						
-						{{ content }}	
-			
-					</div> <!-- eof intro -->	
-						
-					<div class="intro-img">
-					  {% if page.pubhomepage_image1 %}<img src="{{ page.baseurl }}{{ page.pub_assets_url }}{{ page.pubhomepage_image1 }}" alt="{{ page.pubhomepage_image1_alt_text }}">{% endif %}<br />
-					  {% if page.pubhomepage_image2 %}<img src="{{ page.baseurl }}{{ page.pub_assets_url }}{{ page.pubhomepage_image2 }}" alt="{{ page.pubhomepage_image2_alt_text }}">{% endif %}
-					</div>
-								
-						
-				</div><!-- eof pub-home-->
-			</div><!-- eof full bg-->	
-
-		  
-
-			{% if page.wall_id %}
-				{% include socialwall-block.html %}
-			{% endif %}
+					<div class="section-header">
+						 <div>
+							 <h1>About {{ page.pub_name }}</h1>
+							 <h2>Everything you’d expect from a great local pub</h2> 
+						</div>					
+					</div>	
+	
+	
+	
+					<div class="about-container">
 									
+				    {{ content }}	
+								
+									
+					</div><!-- eof about -->				
+					
+			</div><!-- eof full bg-->						
+					
+			
+
 			{% include signup.html %}
 
 			{% include pubfooter.html %}
@@ -84,7 +66,8 @@
 </html>
  
  
-
+ 
+ 
 
 <!-- blue
 		linear-gradient( rgba(49, 99, 168, 1) 0%, 

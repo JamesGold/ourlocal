@@ -1,6 +1,9 @@
+{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %}
+
+
 <div class="navcontainer">
 	<div class="badge">	
-			<h1>{{ page.pubname }}{{ post.pubname }}</h1>
+			<h1>{{ page.pub_name }}{{ post.pub_name }}{{ pub.pub_name }}</h1>
 		<div class="iconcontain" id="iconContain">
 			<div class="hamicon open" id="hamIcon"></div>
 		</div>		
@@ -9,7 +12,7 @@
 	
 	<nav class="main-nav" id="mainNav">
 		<ul  class="show contract" id="mainNavList">		
-			{% for menu in site.data.pubnavs.[page.pubnav] %}
+			{% for menu in site.data.pubnavs.[pubdetails.pub_nav] %}
 				<li class="{% if page.url == menu.url %}active{% endif %}"><a href="{{ menu.url }}">{{ menu.title }}</a></li>	
 			{% endfor %}
 		</ul>

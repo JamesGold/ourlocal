@@ -1,5 +1,4 @@
 //test breakpoint scss
-
 //$break-1: 28.125em; /* 450px / 16px = 28.125em */
 //$break-2: 35em; /* 560px / 16px = 35em */
 //$break-3: 48em; /* 768px / 16px = 48em */
@@ -12,15 +11,13 @@
 	}
 
 html{
-	
+		
 /*
 	animation-name: fader;
   	animation-duration: .2s;
   	animation-delay: 0;
   	animation-timing-function: ease-in;
 */
-
-
 	box-sizing: border-box;
 	word-break: normal;
 	transition: all .5s;
