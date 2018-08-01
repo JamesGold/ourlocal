@@ -25,6 +25,8 @@ permalink: /pubs/
 		
 	{% for pub in site.pubs %}	
 	
+	{% if pub.pub_data == 'master' %}  
+	
 		<article class="pub-card" id="{{ pub.outlet_id }}" >
 			<img src="{{ pub.baseurl }}{{ pub.pub_assets_url }}{{ pub.pubimg_location }}" alt="{{ pub.pub_name }}"/>
 			<div class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -38,7 +40,7 @@ permalink: /pubs/
 			</div>	
 			<div  class="pub-card-footer"><a href="{{ pub.permalink }}" class="button buttoncta">Visit website</a> <a href="https://www.google.com/maps?cid=3716439044560894820&_ga=2.191120239.456725613.1525344846-379069806.1525076032" class="button button" target="_blank">View on google maps</a></div>
 		</article><!-- eof pub-card -->	
-		
+{% endif %}		
 {% endfor %}
 		
 	</div><!-- end pubs-->

@@ -1,6 +1,7 @@
 ---
 
 layout: htmlbasepubmain2
+pub_data: master
 
 outlet_id: 680178
 permalink: /pubs/the-hawthorn-inn-pontypridd/
@@ -24,7 +25,7 @@ pub_phone: 01443 843224
 
 googlemap-link: https://www.google.com/maps/place/Hawthorn+Inn/@51.58042,-3.3073483,17z/data=!4m5!3m4!1s0x486e1762460c0bbb:0x5dbacf317408384f!8m2!3d51.580328!4d-3.307554
 
-food_menu: MenuOne
+food_menu: menu1
 
 pubimg_location: Hawthorn-front.jpg
 

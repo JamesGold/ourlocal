@@ -1,0 +1,72 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+	  <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+	
+	  <title>{{ page.title }} {{ page.pub_name }}. Your Local Pub. </title>
+	  <meta name="description" content="{{ site.description }}">
+	  <meta name="author" content="{{ site.author }}">
+
+	  <link href="https://fonts.googleapis.com/css?family=Lobster|PT+Sans|Rokkitt:200,300,400" rel="stylesheet">
+	  <link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}">     
+	  <link rel="apple-touch-icon-precomposed" href="{{ 'apple-touch-icon-precomposed.png' | relative_url }}"> 
+	  	
+	  <!--[if lt IE 9]>
+	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	  <![endif]-->
+	<script src="{{ '/assets/js/jquery.js' | relative_url }}"></script> 
+	<script src="{{ '/assets/js/js.cookie.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/scripts-min.js' | relative_url }}"></script>
+	 
+	 
+	  <!-- if IE then load ie css for gridsake! -->
+	  <script type="text/javascript">
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
+        document.write(' <link rel="stylesheet" href="{{ 'assets/IEstyle-min.css' | relative_url }}"> ');
+	</script>		  
+	
+	  <link rel="import" href="config.html">
+
+	</head>
+	<body class="{{ page.layout }}">
+		
+		{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %}
+		{% include pubnav.html %}
+		
+		<div class="fullbg section article-list">
+				
+			 <div class="section-header">
+				 <div>
+					 <h1>What's on at {{ page.pub_name }}?</h1>
+					 <h2>See our regular and special events</h2> 
+				</div>
+				<img class="supp-image" src="{{ "/assets/img/lilDog.jpg" | relative_url }}" alt="lil' Dog" />			
+			</div><!-- end header -->
+	
+			<div class="news-container">
+	 
+				{{ content }} <!-- used to fill in if no ROTW posts exist -->		
+		
+				<ul class="post-list">
+				 {% for post in site.tags.[page.article_tag] %}
+				  <li>
+				  	<img class="article-list-image" src="{{ "/postimages/" | relative_url }}{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
+				    <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+				    <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
+				 </li>        
+				{% endfor %}
+				</ul>
+				
+			</div><!			
+			 
+				
+		</div><!-- eof section -->
+										
+		{% include pubfooter.html %}
+		{% include GTM.html %}
+
+	</body>
+
+</html>

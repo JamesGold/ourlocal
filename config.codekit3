@@ -324,6 +324,20 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
+	"\/_layouts\/PubEvents.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/PubEvents.html",
+		"oF": 0
+		},
+	"\/_layouts\/PubFood.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/PubFood.html",
+		"oF": 0
+		},
 	"\/_layouts\/rotw-post.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -608,6 +622,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.html",
+		"oF": 0
+		},
 	"\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.md": {
 		"cB": 0,
 		"cS": 0,
@@ -715,6 +736,56 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 1
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_site\/.htaccess": {
 		"cB": 0,
@@ -1461,13 +1532,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/_site\/assets\/style.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/style.css.map",
-		"oF": 0
-		},
 	"\/_site\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -1858,6 +1922,13 @@
 		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/about\/680178_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/about\/680178_about.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-fireplace.jpg": {
 		"ft": 16384,
 		"iS": 104320,
@@ -1929,6 +2000,20 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 1
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0
 		},
 	"\/_site\/pubs\/index.html": {
 		"cB": 0,
@@ -2091,6 +2176,13 @@
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/find\/index.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2103,6 +2195,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/friday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-hawthorn-inn-pontypridd\/whats-on\/monday.html": {
@@ -3096,6 +3195,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/raw\/supperclub.psd",
+		"oF": 0
+		},
+	"\/assets\/raw\/TestMenu.numbers": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/raw\/TestMenu.numbers",
 		"oF": 0
 		},
 	"\/assets\/raw\/Wine menu.html": {
