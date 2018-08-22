@@ -28,7 +28,7 @@ googlemap-link: https://www.google.com/maps/place/The+Bull+%26+Dog+Inn/@53.58776
 
 food_menu: menu1
 
-pubimg_location: bullanddogfrontage.jpg
+pubimg_location: bullanddogfrontage-2.jpg
 
 pubhomepage_image1: bullanddogfrontage.jpg
 pubhomepage_image1_alt_text: The Bull and Dog Pub in Burscough, Ormskirk.

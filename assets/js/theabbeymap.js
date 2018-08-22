@@ -1,8 +1,9 @@
 ---
-lat:  51.58042
-lng:  -3.3073483
-pub_map_json: 'thehawthorn.json'
+lat:  53.3391745
+lng:  -1.4824066
+pub_map_json: "theabbey.json"
 ---
+
 
 
 const mapStyle = [
@@ -106,7 +107,7 @@ function initMap() {
   const map = new google.maps.Map(document.getElementsByClassName('map-pub')[0], {
     zoom: 13,
     center: {
-    lat: {{ page.lat }}, lng: {{ page.lng }} },
+    lat: 53.3391745, lng: -1.4824066 },
     styles: mapStyle
        });
 

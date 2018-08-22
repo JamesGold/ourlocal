@@ -583,6 +583,172 @@
 		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-09-Monday.markdown",
 		"oF": 0
 		},
+	"\/_pubs\/680119_the_abbey\/680119_the_abbey.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/680119_the_abbey.html",
+		"oF": 0
+		},
+	"\/_pubs\/680119_the_abbey\/680119_the_abbey.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/680119_the_abbey.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680119_the_abbey\/about\/680119_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/about\/680119_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680119_the_abbey\/about\/680119_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/about\/680119_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680119_the_abbey\/assets\/The-Abbey-back.jpg": {
+		"ft": 16384,
+		"iS": 242870,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/assets\/The-Abbey-back.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680119_the_abbey\/assets\/The-Abbey-BAR.jpg": {
+		"ft": 16384,
+		"iS": 235401,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/assets\/The-Abbey-BAR.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680119_the_abbey\/assets\/The-Abbey-frontage.jpg": {
+		"ft": 16384,
+		"iS": 240874,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/assets\/The-Abbey-frontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680119_the_abbey\/assets\/The-Abbey-frontage2.jpg": {
+		"ft": 16384,
+		"iS": 60088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/assets\/The-Abbey-frontage2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680119_the_abbey\/assets\/The-Abbey-serve.jpg": {
+		"ft": 16384,
+		"iS": 244942,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/assets\/The-Abbey-serve.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680119_the_abbey\/assets\/The-Abbey-signage.jpg": {
+		"ft": 16384,
+		"iS": 113512,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/assets\/The-Abbey-signage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680119_the_abbey\/find\/680119_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/find\/680119_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680119_the_abbey\/find\/680119_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/find\/680119_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680119_the_abbey\/whats-on\/680119_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/whats-on\/680119_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680119_the_abbey\/whats-on\/680119_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680119_the_abbey\/whats-on\/680119_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -607,13 +773,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.html",
-		"oF": 0
 		},
 	"\/_pubs\/680178_the_hawthorn_inn\/about\/680178_about.md": {
 		"cB": 0,
@@ -688,13 +847,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_pubs\/680178_the_hawthorn_inn\/find\/680178_find.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/find\/680178_find.html",
-		"oF": 0
-		},
 	"\/_pubs\/680178_the_hawthorn_inn\/find\/680178_find.md": {
 		"cB": 0,
 		"cS": 0,
@@ -755,6 +907,172 @@
 		"ft": 4096,
 		"oA": 0,
 		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/680235_the_boot_inn.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/680235_the_boot_inn.html",
+		"oF": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/680235_the_boot_inn.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/680235_the_boot_inn.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/about\/680235_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/about\/680235_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/about\/680235_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/about\/680235_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/assets\/Boot-front.jpg": {
+		"ft": 16384,
+		"iS": 138909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/assets\/Boot-front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680235_the_boot_inn\/assets\/Boot-front2.jpg": {
+		"ft": 16384,
+		"iS": 67143,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/assets\/Boot-front2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680235_the_boot_inn\/assets\/Boot-interior.jpg": {
+		"ft": 16384,
+		"iS": 64909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/assets\/Boot-interior.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680235_the_boot_inn\/assets\/boot-play.jpg": {
+		"ft": 16384,
+		"iS": 97441,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/assets\/boot-play.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680235_the_boot_inn\/assets\/boot-spirits.jpg": {
+		"ft": 16384,
+		"iS": 65729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/assets\/boot-spirits.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680235_the_boot_inn\/assets\/FishChips-SS-2018.jpg": {
+		"ft": 16384,
+		"iS": 46568,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/assets\/FishChips-SS-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680235_the_boot_inn\/find\/680235_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/find\/680235_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/find\/680235_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/find\/680235_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/whats-on\/680235_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/whats-on\/680235_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680235_the_boot_inn\/whats-on\/680235_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680235_the_boot_inn\/whats-on\/680235_whatson.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -892,6 +1210,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/680178_main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/680178_main-menu.html",
+		"oF": 0
 		},
 	"\/_pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/680178_main-menu.md": {
 		"cB": 0,
@@ -1610,6 +1935,62 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"\/_site\/assets\/js\/theabbey.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/js\/theabbey-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/assets\/js\/theabbeymap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/theabbeymap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/_site\/assets\/js\/theabbeymap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/theabbeymap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/_site\/assets\/js\/thebootinn.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/js\/thebootinn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/assets\/js\/thebootinnmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/thebootinnmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/_site\/assets\/js\/thebootinnmap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/thebootinnmap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"\/_site\/assets\/js\/thehawthorn.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -2098,18 +2479,105 @@
 		"oAP": "\/_site\/privacy\/index.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/680119_the_abbey\/680119_the_abbey.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/680119_the_abbey.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680119_the_abbey\/about\/680119_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/about\/680119_about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-back.jpg": {
+		"ft": 16384,
+		"iS": 242870,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-back.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-BAR.jpg": {
+		"ft": 16384,
+		"iS": 235401,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-BAR.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-frontage.jpg": {
+		"ft": 16384,
+		"iS": 240874,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-frontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-frontage2.jpg": {
+		"ft": 16384,
+		"iS": 60088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-frontage2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-serve.jpg": {
+		"ft": 16384,
+		"iS": 244942,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-serve.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-signage.jpg": {
+		"ft": 16384,
+		"iS": 113512,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/assets\/The-Abbey-signage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680119_the_abbey\/find\/680119_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/find\/680119_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680119_the_abbey\/whats-on\/680119_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680119_the_abbey\/whats-on\/680119_whatson.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html",
-		"oF": 0
-		},
-	"\/_site\/pubs\/680178_the_hawthorn_inn\/about\/680178_about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/about\/680178_about.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-fireplace.jpg": {
@@ -2167,13 +2635,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/pubs\/680178_the_hawthorn_inn\/find\/680178_find.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/find\/680178_find.html",
-		"oF": 0
-		},
 	"\/_site\/pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2186,6 +2647,100 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/680235_the_boot_inn.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/680235_the_boot_inn.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/about\/680235_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/about\/680235_about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/assets\/Boot-front.jpg": {
+		"ft": 16384,
+		"iS": 138909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/assets\/Boot-front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/assets\/Boot-front2.jpg": {
+		"ft": 16384,
+		"iS": 67143,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/assets\/Boot-front2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/assets\/Boot-interior.jpg": {
+		"ft": 16384,
+		"iS": 64909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/assets\/Boot-interior.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/assets\/boot-play.jpg": {
+		"ft": 16384,
+		"iS": 97441,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/assets\/boot-play.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/assets\/boot-spirits.jpg": {
+		"ft": 16384,
+		"iS": 65729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/assets\/boot-spirits.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/assets\/FishChips-SS-2018.jpg": {
+		"ft": 16384,
+		"iS": 46568,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/assets\/FishChips-SS-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/find\/680235_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/find\/680235_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/whats-on\/680235_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/whats-on\/680235_whatson.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/680268_the_bull_and_dog_inn.html": {
@@ -2264,6 +2819,20 @@
 		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/680178_main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/680178_main-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2271,11 +2840,39 @@
 		"oAP": "\/_site\/pubs\/index.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-abbey-sheffield\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-abbey-sheffield\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-abbey-sheffield\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/index.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/friday.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/friday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-abbey-sheffield\/whats-on\/monday.html": {
@@ -2320,11 +2917,39 @@
 		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/wednesday.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/index.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/friday.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/friday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/monday.html": {
@@ -2381,6 +3006,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/food-and-drink\/main-menu.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/index.html": {
@@ -3172,6 +3804,62 @@
 		"mi": 0,
 		"oA": 2,
 		"oAP": "\/assets\/js\/scripts-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/assets\/js\/theabbey.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/js\/theabbey-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/js\/theabbeymap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/theabbeymap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/assets\/js\/theabbeymap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/theabbeymap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/assets\/js\/thebootinn.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/js\/thebootinn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/js\/thebootinnmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/thebootinnmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/assets\/js\/thebootinnmap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/thebootinnmap-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 1

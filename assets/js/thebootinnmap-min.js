@@ -1,9 +1,9 @@
 ---
-lat:  51.58042
-lng:  -3.3073483
-pub_map_json: 'thehawthorn.json'
+lat:  52.5666794
+lng:  -1.8084609
+pub_map_json: "thebootinn.json"
 ---
-
+    
 
 const mapStyle = [
   {

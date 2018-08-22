@@ -1,7 +1,7 @@
 ---
 lat:  51.58042
 lng:  -3.3073483
-pubjson: "thehawthorn.json"
+pub_map_json: 'thehawthorn.json'
 ---
 
 
@@ -112,7 +112,7 @@ function initMap() {
 
 
 // Load the stores GeoJSON onto the map.
-  map.data.loadGeoJson('{{ page.pubjson }}');
+  map.data.loadGeoJson("/assets/js/{{ page.pub_map_json }}");
 
   const infoWindow = new google.maps.InfoWindow();
 

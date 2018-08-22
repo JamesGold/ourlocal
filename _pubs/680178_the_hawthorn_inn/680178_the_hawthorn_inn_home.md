@@ -27,7 +27,7 @@ googlemap-link: https://www.google.com/maps/place/Hawthorn+Inn/@51.58042,-3.3073
 
 food_menu: menu1
 
-pubimg_location: Hawthorn-front.jpg
+pubimg_location: Hawthorn-front2.jpg
 
 pubhomepage_image1: Hawthorn-team.jpg
 pubhomepage_image1_alt_text: The Hawthorn pub team waiting to greet you
