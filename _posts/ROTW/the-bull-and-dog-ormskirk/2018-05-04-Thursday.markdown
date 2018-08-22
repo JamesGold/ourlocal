@@ -4,7 +4,7 @@ title:  "Thursday - Tea Time Tipple"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Monday, the-bull-and-dog-ormskirk ]
-back: /pubs/the-bull-and-dog-ormskirk/whats-on/
+back: /pubs/the-bull-and-dog-inn-ormskirk/whats-on/
 permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/thursday.html
 pubname: The Bull & Dog
 

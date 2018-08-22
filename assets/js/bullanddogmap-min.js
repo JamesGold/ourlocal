@@ -1,7 +1,8 @@
 ---
-lat:  51.58042
-lng:  -3.3073483
-pubjson: "thehawthorn.json"
+lat: 53.5878152 
+lng:  -2.8610608
+pub_map_json: bullanddog.json
+
 ---
 
 
@@ -112,8 +113,7 @@ function initMap() {
 
 
 // Load the stores GeoJSON onto the map.
-  map.data.loadGeoJson('{{ page.pubjson }}');
-
+  map.data.loadGeoJson("/assets/js/{{ page.pub_map_json }}");
   const infoWindow = new google.maps.InfoWindow();
 
   // Show the information for a store when its marker is clicked.

@@ -100,18 +100,18 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_data\/foodmenu\/menu1.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/foodmenu\/menu1.csv",
+		"oF": 0
+		},
 	"\/_data\/mainNav.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_data\/mainNav.yml",
-		"oF": 0
-		},
-	"\/_data\/pubNav.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_data\/pubNav.yml",
 		"oF": 0
 		},
 	"\/_data\/pubnavs\/BootInnSuttonColdfield.yml": {
@@ -140,20 +140,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_data\/pubnavs\/TheBullAndDogOrmskirk.yml",
-		"oF": 0
-		},
-	"\/_data\/pubnavs\/TheTestPub.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_data\/pubnavs\/TheTestPub.yml",
-		"oF": 0
-		},
-	"\/_data\/pubnavs\/TheTestPubcsv.csv": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_data\/pubnavs\/TheTestPubcsv.csv",
 		"oF": 0
 		},
 	"\/_includes\/featurecard-block.html": {
@@ -727,16 +713,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
-		},
 	"\/_pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -779,6 +755,179 @@
 		"ft": 4096,
 		"oA": 0,
 		"oAP": "\/_pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/680268_the_bull_and_dog_inn.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/680268_the_bull_and_dog_inn.html",
+		"oF": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/680268_the_bull_and_dog_inn.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/680268_the_bull_and_dog_inn.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/about\/680268_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/about\/680268_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/about\/680268_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/about\/680268_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogbar.jpg": {
+		"ft": 16384,
+		"iS": 198717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogbar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage-2.jpg": {
+		"ft": 16384,
+		"iS": 44181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage.jpg": {
+		"ft": 16384,
+		"iS": 141154,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddoghistory.jpg": {
+		"ft": 16384,
+		"iS": 172815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddoghistory.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogteam.jpg": {
+		"ft": 16384,
+		"iS": 115180,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogteam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/680178_main-menu.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/680178_main-menu.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1008,17 +1157,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/img\/680235\/FishChips-SS-2018.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/assets\/img\/680268\/680268-2.jpg": {
-		"ft": 16384,
-		"iS": 44181,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/680268\/680268-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1376,6 +1514,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/assets\/js\/bullanddog.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/js\/bullanddog-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/assets\/js\/bullanddogmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/bullanddogmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/_site\/assets\/js\/bullanddogmap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/bullanddogmap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"\/_site\/assets\/js\/grid-layout-polyfill.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1451,6 +1617,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/_site\/assets\/js\/thehawthornmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/thehawthornmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"\/_site\/assets\/js\/thehawthornmap.js": {
 		"ft": 64,
@@ -1531,6 +1707,13 @@
 		"oAP": "\/_site\/assets\/style-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/_site\/assets\/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/style.css.map",
+		"oF": 0
 		},
 	"\/_site\/bower.json": {
 		"ft": 524288,
@@ -1991,16 +2174,6 @@
 		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/find\/680178_find.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/find\/thehawthornmap-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
-		},
 	"\/_site\/pubs\/680178_the_hawthorn_inn\/food-and-drink\/680178_main-menu.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2013,6 +2186,82 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/680268_the_bull_and_dog_inn.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/680268_the_bull_and_dog_inn.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/about\/680268_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/about\/680268_about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogbar.jpg": {
+		"ft": 16384,
+		"iS": 198717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogbar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage-2.jpg": {
+		"ft": 16384,
+		"iS": 44181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage.jpg": {
+		"ft": 16384,
+		"iS": 141154,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogfrontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddoghistory.jpg": {
+		"ft": 16384,
+		"iS": 172815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddoghistory.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogteam.jpg": {
+		"ft": 16384,
+		"iS": 115180,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/assets\/bullanddogteam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/index.html": {
@@ -2118,6 +2367,34 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/wednesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/whats-on\/index.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-ormskirk\/whats-on\/friday.html": {
@@ -2272,13 +2549,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/tag\/tag.html",
-		"oF": 0
-		},
-	"\/_site\/TestGrids.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/TestGrids.html",
 		"oF": 0
 		},
 	"\/_site\/web.config": {
@@ -2453,17 +2723,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/680235\/FishChips-SS-2018.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/680268\/680268-2.jpg": {
-		"ft": 16384,
-		"iS": 44181,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/assets\/img\/680268\/680268-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2821,6 +3080,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/js\/bullanddog.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/js\/bullanddog-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/js\/bullanddogmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/bullanddogmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/assets\/js\/bullanddogmap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/bullanddogmap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"\/assets\/js\/grid-layout-polyfill.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2896,6 +3183,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/assets\/js\/thehawthornmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/assets\/js\/thehawthornmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"\/assets\/js\/thehawthornmap.js": {
 		"ft": 64,
@@ -3978,13 +4275,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/tag\/tag.html",
-		"oF": 0
-		},
-	"\/TestGrids.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/TestGrids.html",
 		"oF": 0
 		},
 	"\/web.config": {

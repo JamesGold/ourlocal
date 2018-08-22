@@ -50,7 +50,7 @@
 				{{ content }} <!-- used to fill in if no ROTW posts exist -->		
 		
 				<ul class="post-list">
-				 {% for post in site.tags.[page.article_tag] %}
+				 {% for post in site.tags[page.article_tag] %}
 				  <li>
 				  	<img class="article-list-image" src="{{ "/postimages/" | relative_url }}{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
 				    <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
