@@ -8,22 +8,23 @@
 @keyframes fader {
   0%   { opacity: 0; }
   100% { opacity: 1; }
-	}
-
+  	}
+  	
 html{	
 /*
-	animation-name: fader;
+	
+		animation-name: fader;
   	animation-duration: .2s;
   	animation-delay: 0;
   	animation-timing-function: ease-in;
 */
-
 	box-sizing: border-box;
 	word-break: normal;
 	transition: all .5s;
 	font-size:100%;
 	transition: all .8s;
 	}
+	
 	
 body{ 	
 	font-size:16px;
@@ -33,6 +34,7 @@ body{
 	@include breakpoint(break4) {font-size:1.3rem;} 
 	@include breakpoint(break5) {font-size:1.4rem;} 
 	}	
+				
 				
 .container,
 .footercontent,

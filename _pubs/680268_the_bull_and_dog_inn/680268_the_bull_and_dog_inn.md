@@ -26,7 +26,6 @@ pub_phone: 01704 895798
 
 googlemap-link: https://www.google.com/maps/place/The+Bull+%26+Dog+Inn/@53.5877643,-2.8637967,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x3393719ed871bb64!8m2!3d53.5877643!4d-2.861608
 
-food_menu: menu1
 
 pubimg_location: bullanddogfrontage-2.jpg
 

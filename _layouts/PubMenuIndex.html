@@ -32,58 +32,41 @@
 	</head>
 	<body class="{{ page.layout }}">
 		
-		{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %} <!--match up outlet ids -->
+		{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %}
 		{% include pubnav.html %}
-			
-	
-	<div class="fullbg section">
 		
-		 <div class="menu-header">
-			 <div>
-				 <small class="back">Back to <a href="../food-and-drink/">Our Menu</a></small></p>
+		<div class="fullbg section article-list">
+				
+			 <div class="section-header">
+				 <div>
+					 <h1>Our Menu:</h1>
+					 <h2>Simply great food & drinks, no messing!</h2> 
+				</div>
+		<img class="supp-image" src="{{ '/assets/img/roastdinner2.jpg' | relative_url }}" alt="Tasty Roast Dinners" />
+			</div><!-- end header -->
 	
+			<div class="container">
+	 
+				{{ content }} <!-- used to fill in if no MENU posts exist -->	
+				
+			{% for post in site.tags[page.article_tag] %}
+
+					
+		<a href="/pubs/the-bull-and-dog-ormskirk/food-and-drink/starters.html" class="featuredcard menucard menu2">	
+			<div class="featureheader">
+				<h3>{{ page.title }}</h3>
+				<p>Served daily 12 noon - 9pm</p>
 			</div>
-	
-		</div><!-- end menu header -->
-			
-			
-			
-		<div class="menu-container">
-			
-			<div class="menuitems">
+		</a><!-- eof card -->
 		
-
-
-		{% for food in site.data.foodmenu[page.food_menu] %} 	
-
-		
-		{% if food.Course or food.Menusection or food.MenuSectionDescription %}
-			<div class="spanthegrid">
-				{% if food.Course %}<h3>{{ food.Course }}</h3><br />{% endif%} 			
-				{% if food.MenuSection %}<hr /><h2>{{ food.MenuSection }}</h2>{% endif%}
-				{% if food.MenuSectionDescription %}<p class="explainer">{{ food.MenuSectionDescription }}</p>{% endif%}	
-			</div>{% endif %}	
-
-			
-			{% if food.DishName or food.Options-why-not-add %}
-			<div class="dish">
-				<p><span class="dishhead {{ food.AdditionalClass }}">{{ food.DishName }}</span><br />		
-				{{ food.DishDescription }}<br />		
-				<span class="price">{{ food.Price }}</span></p>
-				{% if food.Options-why-not-add %}<p class="dish-highlight">{{ food.Options-why-not-add }}</p>{% endif %}
-			</div>
-			{% endif %} 
-
-
 		
 			{% endfor %}
-			
-		</div><!-- end menu items-->
-
-		
-		</div><!-- end menu-container -->
-		
-	</div><!-- end fullbg -->
+					
+					
+	</div><!--eof container  -->
+	
+</div><!-- eof full bg-->						
+					
 										
 		{% include pubfooter.html %}
 		{% include GTM.html %}
@@ -91,3 +74,16 @@
 	</body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+

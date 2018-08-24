@@ -40,7 +40,7 @@
 		
 		 <div class="menu-header">
 			 <div>
-				 <small class="back">Back to <a href="../food-and-drink/">Our Menu</a></small></p>
+				 <small class="back">Back to <a href="/pubs/the-hawthorn-inn-pontypridd/food-and-drink/">Our Menu</a></small></p>
 	
 			</div>
 	
@@ -52,10 +52,7 @@
 			
 			<div class="menuitems">
 		
-
-
-		{% for food in site.data.foodmenu[page.food_menu] %} 	
-
+			{% for food in site.data.foodmenu[pubdetails.food_menu] %} 				
 		
 		{% if food.Course or food.Menusection or food.MenuSectionDescription %}
 			<div class="spanthegrid">
@@ -91,3 +88,4 @@
 	</body>
 
 </html>
+
