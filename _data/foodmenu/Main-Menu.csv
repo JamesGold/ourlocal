@@ -1,4 +1,4 @@
-Course,MenuSection,MenuSectionDescription,DishName,DishDescription,Options-why-not-add,Price,HighlightYN,AdditionalClass
+Course,MenuSection,MenuSectionDescription,DishName,DishDescription,Options-why-not-add,Price,HighlightYes,AdditionalClass
 Main Menu,,,,,,,,
 ,,,"MEXICAN BEEF CHILLI
 ","Pulled beef chilli served with rice in a tortilla basket and a side of nachos, salsa, 6 sour cream and guacamole",,£8.75,,
@@ -32,7 +32,7 @@ PEPPERCORN, BÉARNAISE, STILTON OR WHOLEGRAIN MUSTARD £1.95",,,
 ,,,PIRI PIRI CHICKEN BREAST,With piri piri mayo,,£8.45,,
 ,,,FALAFEL BURGER (v),With garlic mayo,,£7.75,,
 ,,,CHEESE & BACON BBQ,"6oz beef burger, bacon, Cheddar, Mozzarella, beer-battered onion rings and BBQ sauce",,£9.45,,
-,,,THE BIG ONE,"Two 6oz beef burgers, bacon, fried free-range egg, beer-battered onion rings and BBQ sauce",,£10.95,,
+,,,THE BIG ONE,"Two 6oz beef burgers, bacon, fried free-range egg, beer-battered onion rings and BBQ sauce",,£10.95,,highlight
 ,,,"Build your own burger, add:","CHEDDAR, STILTON, FREE-RANGE EGG, BBQ SAUCE, PIRI PIRI SAUCE OR BACON",,75p each topping,Y,
 ,Kebabs,"Served on freshly made atbread with tabbouleh, seasonal salad, smoked houmous and tzatziki with a chilli, lime and coriander drizzle",,,,,,
 ,,,,,,,,

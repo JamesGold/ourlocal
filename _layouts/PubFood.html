@@ -41,11 +41,13 @@
 		 <div class="menu-header">
 			 <div>
 				 <small class="back">Back to <a href="../food-and-drink/">Our Menu</a></small></p>
-	
+				
+				
+				{{ content }}
+
 			</div>
-	
+
 		</div><!-- end menu header -->
-			
 			
 			
 		<div class="menu-container">
@@ -57,8 +59,8 @@
 		{% for food in site.data.foodmenu[page.food_menu] %} 	
 
 		
-		{% if food.Course or food.Menusection or food.MenuSectionDescription %}
-			<div class="spanthegrid">
+		{% if food.Course or food.MenuSection or food.MenuSectionDescription %}
+			<div class="spanthegrid {{ food.HighlightYes }}">
 				{% if food.Course %}<h3>{{ food.Course }}</h3><br />{% endif%} 			
 				{% if food.MenuSection %}<hr /><h2>{{ food.MenuSection }}</h2>{% endif%}
 				{% if food.MenuSectionDescription %}<p class="explainer">{{ food.MenuSectionDescription }}</p>{% endif%}	
@@ -66,7 +68,7 @@
 
 			
 			{% if food.DishName or food.Options-why-not-add %}
-			<div class="dish">
+			<div class="dish  {{ food.HighlightYes }} {{ food.AdditionalClass }}">
 				<p><span class="dishhead {{ food.AdditionalClass }}">{{ food.DishName }}</span><br />		
 				{{ food.DishDescription }}<br />		
 				<span class="price">{{ food.Price }}</span></p>
