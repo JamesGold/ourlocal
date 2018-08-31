@@ -27,8 +27,6 @@ pub_phone: 0121 378 3403
 
 googlemap-link: https://www.google.com/maps/place/The+Boot+Inn/@52.5664101,-1.8084563,17.37z/data=!4m12!1m6!3m5!1s0x4870a59bfe27e603:0xc3d525c1467bff5b!2sThe+Boot+Inn!8m2!3d52.5664707!4d-1.8069364!3m4!1s0x4870a59bfe27e603:0xc3d525c1467bff5b!8m2!3d52.5664707!4d-1.8069364
 
-food_menu: menu1
-
 pubimg_location: boot-front2.jpg
 
 pubhomepage_image1: Boot-interior.jpg
