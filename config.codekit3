@@ -450,6 +450,20 @@
 		"oAP": "\/_posts\/2018-06-20-Hawthorn Inn quiz night raises £570 for drama school.markdown",
 		"oF": 0
 		},
+	"\/_posts\/2018-08-14-Bull & Dog WW2 Fly Past": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-14-Bull & Dog WW2 Fly Past",
+		"oF": 0
+		},
+	"\/_posts\/2018-08-14-Bull & Dog WW2 Fly Past.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-08-14-Bull & Dog WW2 Fly Past.markdown",
+		"oF": 0
+		},
 	"\/_posts\/ROTW\/the-abbey-sheffield\/2018-05-03-Sunday.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1533,6 +1547,13 @@
 		"oAP": "\/_site\/2018\/06\/Hawthorn-Inn-quiz-night-raises-570-for-drama-school.html",
 		"oF": 0
 		},
+	"\/_site\/2018\/08\/Bull-&-Dog-WW2-Fly-Past.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2018\/08\/Bull-&-Dog-WW2-Fly-Past.html",
+		"oF": 0
+		},
 	"\/_site\/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2070,6 +2091,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/_site\/assets\/js\/bullanddogmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/bullanddogmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"\/_site\/assets\/js\/bullanddogmap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2156,6 +2187,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/_site\/assets\/js\/theabbeymap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/theabbeymap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"\/_site\/assets\/js\/theabbeymap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2174,6 +2215,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/_site\/assets\/js\/thebootinnmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/thebootinnmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"\/_site\/assets\/js\/thebootinnmap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2191,6 +2242,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/_site\/assets\/js\/thehawthornmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/js\/thehawthornmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"\/_site\/assets\/js\/thehawthornmap.js": {
 		"ft": 64,
@@ -2526,6 +2587,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/postimages\/BullAndDogSwordfishPlane.jpg": {
+		"ft": 16384,
+		"iS": 29982,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/postimages\/BullAndDogSwordfishPlane.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/postimages\/Bustawaistband.jpg": {
 		"ft": 16384,
 		"iS": 78728,
@@ -2756,6 +2828,13 @@
 		"oAP": "\/_site\/pubs\/680119_the_abbey\/whats-on\/680119_whatson.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/680178_the_hawthorn_inn\/assets\/Hawthorn-fireplace.jpg": {
 		"ft": 16384,
 		"iS": 104320,
@@ -2816,6 +2895,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/680178_the_hawthorn_inn\/whats-on\/680178_whatson.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680235_the_boot_inn\/680235_the_boot_inn.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680235_the_boot_inn\/680235_the_boot_inn.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/680235_the_boot_inn\/about\/680235_about.html": {
@@ -5285,6 +5371,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/postimages\/BullAndDogDIYW3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/postimages\/BullAndDogSwordfishPlane.jpg": {
+		"ft": 16384,
+		"iS": 29982,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/postimages\/BullAndDogSwordfishPlane.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
