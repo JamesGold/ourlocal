@@ -26,6 +26,8 @@ instagram_username: OurLocalPub
 markdown: kramdown
 theme: minima
 permalink: pretty
+# for quick cache busting 
+build_version: 20180727
 
 plugins:
  - jekyll-paginate-v2
@@ -70,7 +72,12 @@ exclude:
 
 
 collections:
-   tester:
+   pubs:
     output: true
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
        

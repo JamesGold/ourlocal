@@ -18,3 +18,4 @@ img-alt2:
 ---
 
 <h2>Join us for {{ page.title }}</h2>
+

@@ -1,32 +1,31 @@
 //test breakpoint scss
-
 //$break-1: 28.125em; /* 450px / 16px = 28.125em */
 //$break-2: 35em; /* 560px / 16px = 35em */
 //$break-3: 48em; /* 768px / 16px = 48em */
 //$break-4: 56em; /* 896px  / 16px = 56em */
 //$break-5: 76.5em; /* 1224px / 16px = 76.5em */
 
+
 @keyframes fader {
   0%   { opacity: 0; }
   100% { opacity: 1; }
-	}
-
-html{
-	
+  	}  	
+  	
+html{	
 /*
+	
 	animation-name: fader;
   	animation-duration: .2s;
   	animation-delay: 0;
   	animation-timing-function: ease-in;
 */
-
-
 	box-sizing: border-box;
 	word-break: normal;
 	transition: all .5s;
 	font-size:100%;
 	transition: all .8s;
 	}
+	
 	
 body{ 	
 	font-size:16px;
@@ -36,14 +35,15 @@ body{
 	@include breakpoint(break4) {font-size:1.3rem;} 
 	@include breakpoint(break5) {font-size:1.4rem;} 
 	}	
-	
-			
+				
+				
 .container,
 .footercontent,
 .promo-block,
 .socialcontainer,
 .about-container,
 .news-container,
+.events-container,
 .menu-header,
 .menu-container,
 .map,
@@ -59,13 +59,11 @@ body{
 	@include breakpoint(break3) {max-width:85%;}
 	@include breakpoint(break4) {max-width:85%;}
 	@include breakpoint(break5) {max-width:85%;}	
-	}
-		
+	}	
 
 img {max-width: 100%;
 	.content-img {height: 10vh;} 
 }
-
 
 
 //////// elements with grid refs
@@ -153,7 +151,6 @@ img {max-width: 100%;
 		}
 				
 	}
-
 //// backgrounds
 
 .fullbg{ 

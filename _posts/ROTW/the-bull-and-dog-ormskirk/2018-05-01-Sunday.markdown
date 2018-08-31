@@ -1,0 +1,19 @@
+---
+layout: rotw-post
+title:  "Sunday - Roast Dinner"
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Sunday, the-bull-and-dog-ormskirk ]
+back: /pubs/the-bull-and-dog-ormskirk/whats-on/
+permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/saturday.html
+pubname: The Bull & Dog
+
+
+feat-image: bullanddog-sunday.jpg
+img-alt: Sunday at the Bull and Dog
+image2: default.gif
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

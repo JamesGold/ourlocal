@@ -1,0 +1,89 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+	  <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+	
+	  <title>{{ page.title }} {{ page.pub_name }}. Your Local Pub. </title>
+	  <meta name="description" content="{{ site.description }}">
+	  <meta name="author" content="{{ site.author }}">
+
+	  <link href="https://fonts.googleapis.com/css?family=Lobster|PT+Sans|Rokkitt:200,300,400" rel="stylesheet">
+	  <link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}">     
+	  <link rel="apple-touch-icon-precomposed" href="{{ 'apple-touch-icon-precomposed.png' | relative_url }}"> 
+	  	
+	  <!--[if lt IE 9]>
+	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	  <![endif]-->
+	<script src="{{ '/assets/js/jquery.js' | relative_url }}"></script> 
+	<script src="{{ '/assets/js/js.cookie.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/scripts-min.js' | relative_url }}"></script>
+	 
+	 
+	  <!-- if IE then load ie css for gridsake! -->
+	  <script type="text/javascript">
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
+        document.write(' <link rel="stylesheet" href="{{ 'assets/IEstyle-min.css' | relative_url }}"> ');
+	</script>		  
+	
+	  <link rel="import" href="config.html">
+
+	</head>
+	<body>
+		
+		
+		
+		{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %}
+
+
+			{% include pubnav.html %}
+			
+
+			<div class="fullbg section">
+				
+				<div class="section-header find-pub-header" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+						 <div>
+							 <h1>Find us here :</h1>
+							 <h2>
+								<span itemprop="name">{{ pubdetails.pub_name }}</span><br />
+								<span itemprop="streetAddress">{{ pubdetails.pub_addressStreet  }}</span>, <br />
+								<span itemprop="addressLocality">{{ pubdetails.pub_addressLocality }}</span>,<br /> 
+								<span itemprop="addressRegion">{{ pubdetails.pub_addressRegion }}</span>, 
+								<span itemprop="postalCode">{{ pubdetails.pub_addressPostcode }}</span>								 
+							</h2>
+							 
+							 <p><a href="{{ pubdetails.googlemap-link }}">Get map directions</a></p>
+							 
+							 <p><strong>Contact us:</strong></p>
+							 <p>Call: <a href="tel:{{ pubdetails.pub_phone }}">{{ pubdetails.pub_phone }}</a><br />
+							 <a href="mailto:{{ pubdetails.pub_email }}?subject=Website Enquiry">Email us</a></p>
+						</div>
+						
+						<div class="map-pub"></div>
+				</div>
+			 
+				
+			</div><!-- eof section -->
+			
+			<script src="/assets/js/{{ page.pub_map | relativeurl }}"></script>
+		
+
+			<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB5cwhe5fvxM8WkVE9g6DHo4agKvO89qnA&callback=initMap"></script><!-- ebiz google account -->			
+
+
+					
+			
+			{% include pubfooter.html %}
+			{% include GTM.html %}
+
+	</body>
+
+</html>
+
+ 
+
+
+
+
+
