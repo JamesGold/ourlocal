@@ -27,7 +27,7 @@ markdown: kramdown
 theme: minima
 permalink: pretty
 # for quick cache busting 
-build_version: 20180727
+build_version: 20180919
 
 plugins:
  - jekyll-paginate-v2

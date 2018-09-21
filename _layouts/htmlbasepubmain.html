@@ -10,7 +10,7 @@
 	  <meta name="author" content="{{ site.author }}">
 
 	  <link href="https://fonts.googleapis.com/css?family=Lobster|PT+Sans|Rokkitt:200,300,400" rel="stylesheet">
-	  <link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}">      <!-- was: {{ site.baseurl }}/assets/style.css -->
+	  <link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}?{{ site.build_version }}">      <!-- was: {{ site.baseurl }}/assets/style.css -->
 	  <link rel="apple-touch-icon-precomposed" href="{{ 'apple-touch-icon-precomposed.png' | relative_url }}">    <!-- {{ site.baseurl }}/apple-touch-icon-precomposed.png -->
 	
 	  <!--[if lt IE 9]>

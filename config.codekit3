@@ -205,6 +205,20 @@
 		"oAP": "\/_data\/pubnavs\/TheAbbeySheffield.yml",
 		"oF": 0
 		},
+	"\/_data\/pubnavs\/TheBalfourArms.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pubnavs\/TheBalfourArms.yml",
+		"oF": 0
+		},
+	"\/_data\/pubnavs\/TheBristolInn.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pubnavs\/TheBristolInn.yml",
+		"oF": 0
+		},
 	"\/_data\/pubnavs\/TheBullAndDogOrmskirk.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -464,6 +478,13 @@
 		"oAP": "\/_posts\/2018-08-14-Bull & Dog WW2 Fly Past.markdown",
 		"oF": 0
 		},
+	"\/_posts\/2018-09-04-Boot Inn Charity Weekend.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-09-04-Boot Inn Charity Weekend.markdown",
+		"oF": 0
+		},
 	"\/_posts\/ROTW\/the-abbey-sheffield\/2018-05-03-Sunday.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -513,6 +534,27 @@
 		"oAP": "\/_posts\/ROTW\/the-abbey-sheffield\/2018-05-09-Monday.markdown",
 		"oF": 0
 		},
+	"\/_posts\/ROTW\/the-balfour-arms-sidmouth\/2018-05-03-Friday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-balfour-arms-sidmouth\/2018-05-03-Friday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-balfour-arms-sidmouth\/2018-05-04-Thursday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-balfour-arms-sidmouth\/2018-05-04-Thursday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-balfour-arms-sidmouth\/2018-05-05-Wednesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-balfour-arms-sidmouth\/2018-05-05-Wednesday.markdown",
+		"oF": 0
+		},
 	"\/_posts\/ROTW\/the-boot-inn-sutton-coldfield\/2018-05-03-Sunday.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -560,6 +602,41 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_posts\/ROTW\/the-boot-inn-sutton-coldfield\/2018-05-09-Monday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-04-Saturday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-04-Saturday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-05-Friday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-05-Friday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-07-Wednesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-07-Wednesday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-08-Tuesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-08-Tuesday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-09-Monday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-09-Monday.markdown",
 		"oF": 0
 		},
 	"\/_posts\/ROTW\/the-bull-and-dog-ormskirk\/2018-05-01-Sunday.markdown": {
@@ -659,6 +736,405 @@
 		"oA": 0,
 		"oAP": "\/_posts\/ROTW\/the-hawthorn-inn-pontypridd\/2018-05-09-Monday.markdown",
 		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/680036_the_bristol_inn.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/680036_the_bristol_inn.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/680036_the_bristol_inn.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/680036_the_bristol_inn.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/about\/680036_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/about\/680036_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/about\/680036_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/about\/680036_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/find\/680036_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/find\/680036_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/find\/680036_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/find\/680036_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/whats-on\/680036_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/whats-on\/680036_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680036_the_bristol_inn\/whats-on\/680036_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680036_the_bristol_inn\/whats-on\/680036_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/680044_the_balfour_arms.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/680044_the_balfour_arms.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/680044_the_balfour_arms.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/680044_the_balfour_arms.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/about\/680044_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/about\/680044_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/about\/680044_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/about\/680044_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/assets\/balfour-bar-1200x639.jpg": {
+		"ft": 16384,
+		"iS": 92630,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/assets\/balfour-bar-1200x639.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680044_the_balfour_arms\/assets\/dining-1200x563.jpg": {
+		"ft": 16384,
+		"iS": 70368,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/assets\/dining-1200x563.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680044_the_balfour_arms\/assets\/frontage-1000x563.jpg": {
+		"ft": 16384,
+		"iS": 79340,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/assets\/frontage-1000x563.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680044_the_balfour_arms\/assets\/frontage-1200.jpg": {
+		"ft": 16384,
+		"iS": 110507,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/assets\/frontage-1200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680044_the_balfour_arms\/assets\/frontage-1200x700.jpg": {
+		"ft": 16384,
+		"iS": 109765,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/assets\/frontage-1200x700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680044_the_balfour_arms\/assets\/garden-1000x563.jpg": {
+		"ft": 16384,
+		"iS": 82234,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/assets\/garden-1000x563.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680044_the_balfour_arms\/find\/680036_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/find\/680036_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/find\/680044_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/find\/680044_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/find\/680044_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/find\/680044_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/whats-on\/680088_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/whats-on\/680088_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680044_the_balfour_arms\/whats-on\/680088_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680044_the_balfour_arms\/whats-on\/680088_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_pubs\/680119_the_abbey\/680119_the_abbey.html": {
 		"cB": 0,
@@ -1487,14 +1963,14 @@
 		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/food-and-drink\/wine.html",
 		"oF": 0
 		},
-	"\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html": {
+	"\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680268_whatson.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html",
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680268_whatson.html",
 		"oF": 0
 		},
-	"\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.md": {
+	"\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680268_whatson.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1503,7 +1979,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html",
+		"oAP": "\/_pubs\/680268_the_bull_and_dog_inn\/whats-on\/680268_whatson.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1552,6 +2028,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/2018\/08\/Bull-&-Dog-WW2-Fly-Past.html",
+		"oF": 0
+		},
+	"\/_site\/2018\/09\/Boot-Inn-Charity-Weekend.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/2018\/09\/Boot-Inn-Charity-Weekend.html",
 		"oF": 0
 		},
 	"\/_site\/404.html": {
@@ -2488,6 +2971,24 @@
 		"oAP": "\/_site\/news\/page\/6\/index.html",
 		"oF": 0
 		},
+	"\/_site\/news\/page\/7\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/news\/page\/7\/index.html",
+		"oF": 0
+		},
+	"\/_site\/postimages\/BootInnFancyDress.jpg": {
+		"ft": 16384,
+		"iS": 85844,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/postimages\/BootInnFancyDress.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/postimages\/bullanddog-friday.jpg": {
 		"ft": 16384,
 		"iS": 27553,
@@ -2732,6 +3233,135 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/privacy\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680036_the_bristol_inn\/680036_the_bristol_inn.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680036_the_bristol_inn\/680036_the_bristol_inn.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680036_the_bristol_inn\/about\/680036_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680036_the_bristol_inn\/about\/680036_about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680036_the_bristol_inn\/find\/680036_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680036_the_bristol_inn\/find\/680036_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680036_the_bristol_inn\/whats-on\/680036_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680036_the_bristol_inn\/whats-on\/680036_whatson.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/680044_the_balfour_arms.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/680044_the_balfour_arms.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/about\/680044_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/about\/680044_about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/assets\/balfour-bar-1200x639.jpg": {
+		"ft": 16384,
+		"iS": 92630,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/assets\/balfour-bar-1200x639.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/assets\/dining-1200x563.jpg": {
+		"ft": 16384,
+		"iS": 70368,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/assets\/dining-1200x563.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/assets\/frontage-1000x563.jpg": {
+		"ft": 16384,
+		"iS": 79340,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/assets\/frontage-1000x563.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/assets\/frontage-1200.jpg": {
+		"ft": 16384,
+		"iS": 110507,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/assets\/frontage-1200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/assets\/frontage-1200x700.jpg": {
+		"ft": 16384,
+		"iS": 109765,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/assets\/frontage-1200x700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/assets\/garden-1000x563.jpg": {
+		"ft": 16384,
+		"iS": 82234,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/assets\/garden-1000x563.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/find\/680036_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/find\/680036_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/find\/680044_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/find\/680044_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680044_the_balfour_arms\/whats-on\/680088_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/whats-on\/680088_whatson.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/680119_the_abbey\/680119_the_abbey.html": {
@@ -3067,11 +3697,11 @@
 		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/find\/680268_find.html",
 		"oF": 0
 		},
-	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html": {
+	"\/_site\/pubs\/680268_the_bull_and_dog_inn\/whats-on\/680268_whatson.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/whats-on\/680178_whatson.html",
+		"oAP": "\/_site\/pubs\/680268_the_bull_and_dog_inn\/whats-on\/680268_whatson.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/index.html": {
@@ -3191,6 +3821,118 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-abbey-sheffield\/whats-on\/wednesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/friday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/friday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/thursday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/thursday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/wednesday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-balfour-arms-sidmouth\/whats-on\/wednesday.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-boot-inn-sutton-coldfield\/about\/index.html": {
@@ -3331,6 +4073,132 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/wednesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/friday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/friday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/monday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/monday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/saturday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/saturday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/tuesday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/tuesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/wednesday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-bristol-inn-clevedon\/whats-on\/wednesday.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-bull-and-dog-inn-ormskirk\/about\/index.html": {
@@ -5276,6 +6144,17 @@
 		"oA": 0,
 		"oAP": "\/news\/index.html",
 		"oF": 0
+		},
+	"\/postimages\/BootInnFancyDress.jpg": {
+		"ft": 16384,
+		"iS": 85844,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/postimages\/BootInnFancyDress.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/postimages\/bullanddog-friday.jpg": {
 		"ft": 16384,

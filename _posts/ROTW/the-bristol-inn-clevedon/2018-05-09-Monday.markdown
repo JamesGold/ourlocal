@@ -1,0 +1,20 @@
+---
+layout: rotw-post
+title:  Monday - Pool, Darts &amp; Sport
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Monday, the-bristol-inn-clevedon ]
+back: /pubs/the-bristol-inn-clevedon/whats-on/
+permalink: /pubs/the-bristol-inn-clevedon/whats-on/monday.html
+pubname: The Bristol Inn
+
+
+feat-image: monday.jpg
+img-alt: Monday at the Bristol Inn
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

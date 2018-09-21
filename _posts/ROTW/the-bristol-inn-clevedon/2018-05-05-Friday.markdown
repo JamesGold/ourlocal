@@ -1,0 +1,19 @@
+---
+layout: rotw-post
+title:  Friday - Live Entertainment
+date:   2018-05-02
+excerpt_separator: <!--more-->
+tags: [ ROTW, Friday, the-bristol-inn-clevedon ]
+back: /pubs/the-bristol-inn-clevedon/whats-on/
+permalink: /pubs/the-bristol-inn-clevedon/whats-on/friday.html
+pubname: The Bristol Inn
+
+feat-image: friday.jpg
+img-alt: Friday at the {{ page.pub_name }}
+image2: default.gif
+img-alt2: Friday at the {{ page.pub_name }}
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

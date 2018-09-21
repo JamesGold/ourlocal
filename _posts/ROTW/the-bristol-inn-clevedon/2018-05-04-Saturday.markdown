@@ -1,0 +1,19 @@
+---
+layout: rotw-post
+title:  Saturday - Live Entertainment
+date:   2018-05-01
+excerpt_separator: <!--more-->
+tags: [ ROTW, Saturday, the-bristol-inn-clevedon ]
+back: /pubs/the-bristol-inn-clevedon/whats-on/
+permalink: /pubs/the-bristol-inn-clevedon/whats-on/saturday.html
+pubname: The Bristol Inn
+
+feat-image: saturday.jpg
+img-alt: Saturday at the {{ page.pub_name }}
+image2: default.gif
+img-alt2: Saturday at the {{ page.pub_name }}
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
