@@ -14,7 +14,7 @@ pub_nav: BootInnSuttonColdfield
 
 pub_map: thebootinnmap.js
 pub_map_json: thebootinn.json
-wall_id: ''
+wall_id:
 
 
 pub_addressStreet: 139 Rectory Road

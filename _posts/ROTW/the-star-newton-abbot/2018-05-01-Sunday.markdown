@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title: Sunday - Quiz Night
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Sunday, the-star-newton-abbot ]
+back: /pubs/the-star-newton-abbot/whats-on/
+permalink: /pubs/the-star-newton-abbot/whats-on/saturday.html
+pub_name: The Star
+
+
+feat-image: sunday.jpg
+img-alt: Sunday at The Star
+image2: default.gif
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+
+

@@ -1,3 +1,4 @@
+
 //test breakpoint scss
 //$break-1: 28.125em; /* 450px / 16px = 28.125em */
 //$break-2: 35em; /* 560px / 16px = 35em */
@@ -122,12 +123,10 @@ img {max-width: 100%;
 		}						
 }
 
-
 .section {
 	@include breakpoint(break5) {margin-top: -2em; padding-top: 2em;}
 
 }
-
 
 
 .pubs { 
@@ -166,23 +165,6 @@ img {max-width: 100%;
 		overflow: hidden;		
 	}
 }		
-	
-// testing breakpoint sizes for dev
-
-/*
-
-	.sizes:before {content: "Breakpoint: 0"; background: #eee;
-		color: #222; border: 1px solid #111;border-radius: 5px; padding: 10px;margin: 1em;
-		
-	@include breakpoint(break1) {background: #ffe8e8; content: "Breakpoint: 1"}
-	@include breakpoint(break2) {background: #e4c6f8; content: "Breakpoint: 2"}
-	@include breakpoint(break3) {background: #c6cef8; content: "Breakpoint: 3"}
-	@include breakpoint(break4) {background: #c3ffd9; content: "Breakpoint: 4"}
-	@include breakpoint(break5) {background: #cfff21; content: "Breakpoint: 5"}			
-	@include breakpoint(break6) {background: #ff00e1; content: "Breakpoint: 6"}			
-	}
-*/
-	
 
 
 

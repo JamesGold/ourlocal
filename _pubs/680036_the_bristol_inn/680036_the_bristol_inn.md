@@ -14,7 +14,7 @@ pub_nav: TheBristolInn
 
 pub_map: xxxxx.js
 pub_map_json: xxxxx.json
-wall_id: ‘111111’
+wall_id: 
 
 pub_addressStreet: Chapel Hill
 pub_addressLocality: Clevedon
@@ -27,7 +27,7 @@ pub_phone: 01275 877647
 googlemap-link: https://www.google.com/maps/place/Bristol+Inn/@51.437033,-2.851754,16z/data=!4m5!3m4!1s0x0:0x718e75e243cc992!8m2!3d51.437033!4d-2.851754?hl=en-GB
 
 
-pubimg_location: 
+pubimg_location: placeholder3-sm.jpg
 
 pubhomepage_image1: 
 pubhomepage_image1_alt_text:
@@ -37,7 +37,7 @@ pubhomepage_image2_alt_text:
 
 heromain: Welcome
 herosub: to the Bristol Inn
-hero_img: 
+hero_img: placeholder3.jpg
 
 ---
 

@@ -13,7 +13,7 @@ pub_nav: TheBalfourArms
 
 pub_map: xxxxx.js
 pub_map_json: xxxxx.json
-wall_id: ‘111111’
+wall_id:
 
 pub_addressStreet: 26 Woolbrook Road
 pub_addressLocality: Sidmouth

@@ -38,7 +38,7 @@ permalink: /pubs/
 					<span itemprop="postalCode">{{ pub.pub_addressPostcode }}</span>
 				</p>
 			</div>	
-			<div  class="pub-card-footer"><a href="{{ pub.permalink }}" class="button buttoncta">Visit website</a> <a href="pub.googlemap-link" class="button button" target="_blank">View on google maps</a></div>
+			<div  class="pub-card-footer"><a href="{{ pub.permalink }}" class="button buttoncta">Visit website</a> <a href="{{ pub.googlemap-link }}" class="button button" target="_blank">View on google maps</a></div>
 		</article><!-- eof pub-card -->	
 {% endif %}		
 {% endfor %}

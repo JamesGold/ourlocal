@@ -1,0 +1,21 @@
+---
+layout: rotw-post
+title: Friday - Fizz Friday
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Friday, the-jolly-roger-gosport ]
+back: /pubs/the-jolly-roger-gosport/whats-on/
+permalink: /pubs/the-jolly-roger-gosport/whats-on/friday.html
+pub_name: The Jolly Roger
+
+
+feat-image: friday.jpg
+img-alt: Friday at the Jolly Roger
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>It’s Friday, the start of the weekend. Join us and get your fizz on!</p>

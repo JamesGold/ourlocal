@@ -1,0 +1,21 @@
+---
+layout: rotw-post
+title:  Saturday - Brunch &amp; Live Entertainment
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Saturday, the-jolly-roger-gosport ]
+back: /pubs/the-jolly-roger-gosport/whats-on/
+permalink: /pubs/the-jolly-roger-gosport/whats-on/saturday.html
+pubname: The Jolly Roger
+
+
+feat-image: saturday.jpg
+img-alt: Saturday at The Jolly Roger
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>Start the weekend with a relaxing brunch and move it up a gear in the evening with some great live entertainment</p>

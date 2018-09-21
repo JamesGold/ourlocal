@@ -14,7 +14,7 @@ pub_nav: TheAbbeySheffield
 
 pub_map: theabbeymap.js
 pub_map_json: theabbey.json
-wall_id: ''
+wall_id: 
 
 pub_addressStreet: 944 Chesterfield Rd
 pub_addressLocality: Sheffield

@@ -1,0 +1,21 @@
+---
+layout: rotw-post
+title: Thursday - Quiz Night
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Thursday, the-jolly-roger-gosport ]
+back: /pubs/the-jolly-roger-gosport/whats-on/
+permalink: /pubs/the-jolly-roger-gosport/whats-on/thursday.html
+pub_name: the Jolly Roger
+
+
+feat-image: thursday.jpg
+img-alt: Thursday at the Jolly Roger
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>Come down and join the fun. Starting from 7pm</p>
