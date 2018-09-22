@@ -1,0 +1,20 @@
+---
+layout: rotw-post
+title: Sunday - Funday!
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Sunday, the-boot-northop ]
+back: /pubs/the-boot-northop/whats-on/
+permalink: /pubs/the-boot-northop/whats-on/sunday.html
+pub_name: The Boot
+
+feat-image: sunday.jpg
+img-alt: Sunday at the Boot
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>Traditional Pub Games from 8pm</p>

@@ -1,0 +1,20 @@
+---
+layout: rotw-post
+title: Monday - Pub Quiz
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Monday, the-boot-northop ]
+back: /pubs/the-boot-northop/whats-on/
+permalink: /pubs/the-boot-northop/whats-on/monday.html
+pub_name: The Boot
+
+feat-image: monday.jpg
+img-alt: Monday at the Boot
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>Monday night is pub quiz night with cash prizes. Starting 9pm</p>

@@ -205,6 +205,13 @@
 		"oAP": "\/_data\/pubnavs\/TheBalfourArms.yml",
 		"oF": 0
 		},
+	"\/_data\/pubnavs\/TheBoot.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pubnavs\/TheBoot.yml",
+		"oF": 0
+		},
 	"\/_data\/pubnavs\/TheBristolInn.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -231,6 +238,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_data\/pubnavs\/TheJollySportsman.yml",
+		"oF": 0
+		},
+	"\/_data\/pubnavs\/TheRailwayTavern.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pubnavs\/TheRailwayTavern.yml",
+		"oF": 0
+		},
+	"\/_data\/pubnavs\/TheRedLion.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pubnavs\/TheRedLion.yml",
 		"oF": 0
 		},
 	"\/_data\/pubnavs\/TheStar.yml": {
@@ -632,6 +653,20 @@
 		"oAP": "\/_posts\/ROTW\/the-boot-inn-sutton-coldfield\/2018-05-09-Monday.markdown",
 		"oF": 0
 		},
+	"\/_posts\/ROTW\/the-boot-northop\/2018-05-03-Sunday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-boot-northop\/2018-05-03-Sunday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-boot-northop\/2018-05-09-Monday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-boot-northop\/2018-05-09-Monday.markdown",
+		"oF": 0
+		},
 	"\/_posts\/ROTW\/the-bristol-inn-clevedon\/2018-05-04-Saturday.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -854,6 +889,48 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_posts\/ROTW\/the-jolly-sportsman-chesham\/2018-05-07-Monday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-04-Saturday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-04-Saturday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-07-Wednesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-07-Wednesday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-08-Tuesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-08-Tuesday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-09-Monday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-railway-tavern-charfield\/2018-05-09-Monday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-red-lion-bozeat\/2018-05-03-Saturday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-red-lion-bozeat\/2018-05-03-Saturday.markdown",
+		"oF": 0
+		},
+	"\/_posts\/ROTW\/the-red-lion-bozeat\/2018-05-09-Wednesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_posts\/ROTW\/the-red-lion-bozeat\/2018-05-09-Wednesday.markdown",
 		"oF": 0
 		},
 	"\/_posts\/ROTW\/the-star-newton-abbot\/2018-05-01-Sunday.markdown": {
@@ -1319,6 +1396,431 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_pubs\/680045_the_boot\/680045_the_boot.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/680045_the_boot.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/680045_the_boot.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/680045_the_boot.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680045_the_boot\/about\/680045_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/about\/680045_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/about\/680045_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/about\/680045_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680045_the_boot\/assets\/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/assets\/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680045_the_boot\/assets\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/assets\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680045_the_boot\/find\/680045_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/find\/680045_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/find\/680045_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/find\/680045_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/whats-on\/680045_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/whats-on\/680045_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680045_the_boot\/whats-on\/680045_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680045_the_boot\/whats-on\/680045_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/680086_railway_tavern.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/680086_railway_tavern.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/680086_railway_tavern.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/680086_railway_tavern.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/about\/680086_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/about\/680086_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/about\/680086_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/about\/680086_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/assets\/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/assets\/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680086_railway_tavern\/assets\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/assets\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680086_railway_tavern\/assets\/railway-bar-area.jpg": {
+		"ft": 16384,
+		"iS": 111599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/assets\/railway-bar-area.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680086_railway_tavern\/assets\/railway-bar.jpg": {
+		"ft": 16384,
+		"iS": 115427,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/assets\/railway-bar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680086_railway_tavern\/assets\/railway-rear.jpg": {
+		"ft": 16384,
+		"iS": 106071,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/assets\/railway-rear.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680086_railway_tavern\/assets\/railway_frontage-sm.jpg": {
+		"ft": 16384,
+		"iS": 84933,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/assets\/railway_frontage-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680086_railway_tavern\/assets\/railway_frontage.jpg": {
+		"ft": 16384,
+		"iS": 100603,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/assets\/railway_frontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680086_railway_tavern\/find\/680086_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/find\/680086_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/find\/680086_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/find\/680086_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/whats-on\/680086_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/whats-on\/680086_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680086_railway_tavern\/whats-on\/680086_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680086_railway_tavern\/whats-on\/680086_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_pubs\/680119_the_abbey\/680119_the_abbey.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1512,6 +2014,128 @@
 		"ft": 4096,
 		"oA": 0,
 		"oAP": "\/_pubs\/680119_the_abbey\/whats-on\/680119_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/680124_the_red_lion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/680124_the_red_lion.html",
+		"oF": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/680124_the_red_lion.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/680124_the_red_lion.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/about\/680124_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/about\/680124_about.html",
+		"oF": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/about\/680124_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/about\/680124_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/assets\/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/assets\/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680124_the_red_lion\/assets\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/assets\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_pubs\/680124_the_red_lion\/find\/680124_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/find\/680124_find.html",
+		"oF": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/find\/680124_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/find\/680124_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/whats-on\/680124_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/whats-on\/680124_whatson.html",
+		"oF": 0
+		},
+	"\/_pubs\/680124_the_red_lion\/whats-on\/680124_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pubs\/680124_the_red_lion\/whats-on\/680124_whatson.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3752,16 +4376,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_site\/assets\/js\/bullanddogmap-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/js\/bullanddogmap-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
-		},
 	"\/_site\/assets\/js\/bullanddogmap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -3848,16 +4462,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_site\/assets\/js\/theabbeymap-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/js\/theabbeymap-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
-		},
 	"\/_site\/assets\/js\/theabbeymap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -3876,16 +4480,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_site\/assets\/js\/thebootinnmap-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/js\/thebootinnmap-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
-		},
 	"\/_site\/assets\/js\/thebootinnmap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -3903,16 +4497,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/_site\/assets\/js\/thehawthornmap-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/js\/thehawthornmap-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
 		},
 	"\/_site\/assets\/js\/thehawthornmap.js": {
 		"ft": 64,
@@ -4126,6 +4710,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/news\/page\/11\/index.html",
+		"oF": 0
+		},
+	"\/_site\/news\/page\/12\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/news\/page\/12\/index.html",
 		"oF": 0
 		},
 	"\/_site\/news\/page\/2\/index.html": {
@@ -4592,6 +5183,140 @@
 		"oAP": "\/_site\/pubs\/680044_the_balfour_arms\/whats-on\/680088_whatson.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/680045_the_boot\/680045_the_boot.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680045_the_boot\/680045_the_boot.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680045_the_boot\/about\/680045_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680045_the_boot\/about\/680045_about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680045_the_boot\/assets\/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680045_the_boot\/assets\/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680045_the_boot\/assets\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680045_the_boot\/assets\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680045_the_boot\/find\/680045_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680045_the_boot\/find\/680045_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680045_the_boot\/whats-on\/680045_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680045_the_boot\/whats-on\/680045_whatson.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/assets\/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/assets\/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/assets\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/assets\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/assets\/railway-bar-area.jpg": {
+		"ft": 16384,
+		"iS": 111599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/assets\/railway-bar-area.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/assets\/railway-bar.jpg": {
+		"ft": 16384,
+		"iS": 115427,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/assets\/railway-bar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/assets\/railway-rear.jpg": {
+		"ft": 16384,
+		"iS": 106071,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/assets\/railway-rear.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/assets\/railway_frontage-sm.jpg": {
+		"ft": 16384,
+		"iS": 84933,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/assets\/railway_frontage-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/assets\/railway_frontage.jpg": {
+		"ft": 16384,
+		"iS": 100603,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/assets\/railway_frontage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680086_railway_tavern\/find\/680086_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680086_railway_tavern\/find\/680086_find.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/680119_the_abbey\/680119_the_abbey.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4684,6 +5409,56 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/680119_the_abbey\/whats-on\/680119_whatson.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680124_the_red_lion\/680124_the_red_lion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680124_the_red_lion\/680124_the_red_lion.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680124_the_red_lion\/about\/680124_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680124_the_red_lion\/about\/680124_about.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680124_the_red_lion\/assets\/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680124_the_red_lion\/assets\/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680124_the_red_lion\/assets\/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680124_the_red_lion\/assets\/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/pubs\/680124_the_red_lion\/find\/680124_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680124_the_red_lion\/find\/680124_find.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/680124_the_red_lion\/whats-on\/680124_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/680124_the_red_lion\/whats-on\/680124_whatson.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/680178_the_hawthorn_inn\/680178_the_hawthorn_inn_home.html": {
@@ -5612,6 +6387,111 @@
 		"oAP": "\/_site\/pubs\/the-boot-inn-sutton-coldfield\/whats-on\/wednesday.html",
 		"oF": 0
 		},
+	"\/_site\/pubs\/the-boot-northop\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/whats-on\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/whats-on\/monday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/whats-on\/monday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-boot-northop\/whats-on\/sunday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-boot-northop\/whats-on\/sunday.html",
+		"oF": 0
+		},
 	"\/_site\/pubs\/the-bristol-inn-clevedon\/about\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6282,6 +7162,167 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/pubs\/the-jolly-sportsman-chesham\/whats-on\/wednesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/breakfast.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/kids-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/main-menu.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/starters.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/sunday-lunch.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/supper-club.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/sweets.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/food-and-drink\/wine.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/monday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/monday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/saturday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/saturday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/tuesday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/tuesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/wednesday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-railway-tavern-charfield\/whats-on\/wednesday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-red-lion-bozeat\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-red-lion-bozeat\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-red-lion-bozeat\/find\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-red-lion-bozeat\/find\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-red-lion-bozeat\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-red-lion-bozeat\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-red-lion-bozeat\/whats-on\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-red-lion-bozeat\/whats-on\/index.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-red-lion-bozeat\/whats-on\/monday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-red-lion-bozeat\/whats-on\/monday.html",
+		"oF": 0
+		},
+	"\/_site\/pubs\/the-red-lion-bozeat\/whats-on\/sunday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/pubs\/the-red-lion-bozeat\/whats-on\/sunday.html",
 		"oF": 0
 		},
 	"\/_site\/pubs\/the-star-newton-abbot\/about\/index.html": {

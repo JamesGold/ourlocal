@@ -1,0 +1,20 @@
+---
+layout: rotw-post
+title: Saturday - Live Entertainment
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Saturday, the-red-lion-bozeat ]
+back: /pubs/the-red-lion-bozeat/whats-on/
+permalink: /pubs/the-red-lion-bozeat/whats-on/sunday.html
+pub_name: The Red Lion
+
+feat-image: saturday.jpg
+img-alt: Sunday at The Red Lion
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>Great fun for all, starting at 8pm</p>
