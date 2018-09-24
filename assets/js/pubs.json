@@ -16,7 +16,7 @@
         "description": "A friendly welcome from the heart of the community", 
         "name": "The Bull & Dog Inn", 
         "phone": "01704 895 798",
-        "web": "<a href=\"#680268\">View this Pub</a>"
+        "web": "<a href=\"#680268\" class=\"viewit\">View this Pub</a>"
 
       }
     },
@@ -36,7 +36,7 @@
         "description": "Delivering the best hospitality in a friendly environment", 
         "name": "The Boot Inn", 
         "phone": "0121 378 3403",
-        "web": "<a href=\"#680235\">View this Pub</a>"
+        "web": "<a href=\"#680235\" class=\"viewit\">View this Pub</a>"
 
       }
     },
@@ -56,7 +56,7 @@
         "description": "Enjoy relaxing in our snug whilst trying our new craft cask ales, or out on our large landscaped terrace with a refreshing bottle of prosecco after work", 
         "name": "The Abbey", 
         "phone": "0114 235 9396",
-        "web": "<a href=\"#680119\">View this Pub</a>"
+        "web": "<a href=\"#680119\" class=\"viewit\">View this Pub</a>"
 
       }
     },
@@ -72,14 +72,237 @@
       "type": "Feature", 
       "properties": {
         "category": "Public House", 
-        "hours": "11:00am - 11:00pm", 
+        "hours": "12:00 noon - 11:00pm", 
         "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
         "name": "The Hawthorn Inn", 
         "phone": "0114 235 9396",
-        "web": "<a href=\"#680178\">View this Pub</a>"
+        "web": "<a href=\"#680178\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+    
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.0677336,
+        50.8021929
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Jolly Roger", 
+        "phone": "0239 307 6584",
+        "web": "<a href=\"#680288\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-3.240542,
+		50.694138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Balfour Arms", 
+        "phone": "01395 513443",
+        "web": "<a href=\"#680044\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+ 
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-3.133275, 
+		53.206941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Boot", 
+        "phone": "01352 840462",
+        "web": "<a href=\"#680045\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+    
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.396817,
+		51.629687
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Railway Tavern", 
+        "phone": "01453 843192",
+        "web": "<a href=\"#680086\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+ 
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-0.676629,
+		52.221841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Red Lion", 
+        "phone": "01933 667620",
+        "web": "<a href=\"#680124\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+    
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.916967,
+		52.635792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Shire Oak", 
+        "phone": "01543 370939",
+        "web": "<a href=\"#680152\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+    
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-3.6737236,
+		50.5624172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 23:00 (midnight Fri/Sat)", 
+        "description": "We look forward to serving you with our great range of drinks, offers, delicious menu.", 
+        "name": "The Star", 
+        "phone": "01626 824857",
+        "web": "<a href=\"#680216\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-0.6083623,
+		51.7112817
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 23:00 (midnight Fri/Sat)", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The Jolly Sportsman", 
+        "phone": "0149 477 4904",
+        "web": "<a href=\"#680238\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+    
+        {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-0.9939457,
+		50.79198
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00 - 23:00 (Mon - Thur), 11:00 - 00:00 (Fri - Sat), 12:00 - 22:30 (Sun)  ", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The West Town Inn", 
+        "phone": "0149 477 4904",
+        "web": "<a href=\"#680262\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+    
+          {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.851754,
+		51.437033
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 23:30 (Mon - Thur), 11:00 - 00:00 (Fri - Sat), 12:00 - 23:00 (Sun)  ", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The Bristol Inn", 
+        "phone": "01275 877647",
+        "web": "<a href=\"#680036\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
+                             
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.395978,
+		53.21486
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 23:30 (Mon - Thur), 11:00 - 00:00 (Fri - Sat), 12:00 - 22:30 (Sun)  ", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The Three Cottages", 
+        "phone": "01246 769857",
+        "web": "<a href=\"#680276\" class=\"viewit\">View this Pub</a>"
 
       }
     }
+        
+    
+    
     
 
 

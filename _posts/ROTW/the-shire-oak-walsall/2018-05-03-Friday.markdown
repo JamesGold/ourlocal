@@ -1,0 +1,18 @@
+---
+layout: rotw-post
+title: Friday - Live Entertainment 
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Monday, the-shire-oak-walsall ]
+back: /pubs/the-shire-oak-walsall/whats-on/
+permalink: /pubs/the-shire-oak-walsall/whats-on/friday.html
+pub_name: The Shire Oak
+
+feat-image: friday.jpg
+img-alt: Friday at The Shire Oak
+image2: default.gif
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

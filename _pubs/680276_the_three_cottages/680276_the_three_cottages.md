@@ -3,7 +3,7 @@
 layout: htmlbasepubmain2
 pub_data: master
 
-outlet_id: 680288
+outlet_id: 680276
 permalink: /pubs/the-three-cottages-hasland/
 pub_assets_url: /pubs/680276_the_three_cottages/assets/
 

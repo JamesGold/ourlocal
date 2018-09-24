@@ -8,7 +8,7 @@ layout: PubEvents
 pub_nav: TheJollyRoger
 pub_name: the Jolly Roger
 
-wall_id: ''
+wall_id:
 article_tag: the-jolly-roger-gosport
 
 ---
