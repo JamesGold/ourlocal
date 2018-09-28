@@ -12,8 +12,8 @@ title: Welcome to the Jolly Roger
 pub_name: the Jolly Roger
 pub_nav: TheJollyRoger
 
-pub_map: xxxxx.js
-pub_map_json: xxxxx.json
+pub_map: jollyroger.js
+pub_map_json: jollyroger.json
 wall_id:
 
 pub_addressStreet: 156 Priory Rd

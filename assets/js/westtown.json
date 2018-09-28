@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-0.9939457,
+		50.79198
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00 - 23:00 (Mon - Thur), 11:00 - 00:00 (Fri - Sat), 12:00 - 22:30 (Sun)  ", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The West Town Inn", 
+        "phone": "0149 477 4904",
+        "web": "<a href=\"#680262\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+
+
+
+
+

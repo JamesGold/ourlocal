@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+          {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.916967,
+		52.635792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Shire Oak", 
+        "phone": "01543 370939",
+        "web": "<a href=\"#680152\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+
+
+
+
+

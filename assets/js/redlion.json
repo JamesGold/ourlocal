@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+           {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-0.676629,
+		52.221841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Red Lion", 
+        "phone": "01933 667620",
+        "web": "<a href=\"#680124\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+
+
+
+
+

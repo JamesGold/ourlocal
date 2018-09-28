@@ -12,8 +12,8 @@ title: Welcome to The Boot
 pub_name: The Boot
 pub_nav: TheBoot
 
-pub_map: xxxxx.js
-pub_map_json: xxxxx.json
+pub_map: bootinn.js
+pub_map_json: bootinn.json
 wall_id:
 
 pub_addressStreet: High Street
@@ -26,10 +26,10 @@ pub_phone: 01352 840462
 
 googlemap-link: https://www.google.com/maps/place/The+Boot/@53.206941,-3.133275,16z/data=!4m8!1m2!2m1!1zVGhlIEJvb3QNCkhpZ2ggU3RyZWV0LCANCk5vcnRob3AsIA0KTW9sZCwgQ0g3IDZCUQ!3m4!1s0x0:0x4e569d995e9e84e8!8m2!3d53.2068342!4d-3.1338394?hl=en-GB
 
-pubimg_location: placeholder3-sm.jpg
+pubimg_location: the-boot-inn-sm.jpg
 
-pubhomepage_image1: 
-pubhomepage_image1_alt_text:
+pubhomepage_image1: the-boot-inn-sm.jpg
+pubhomepage_image1_alt_text: The beautiful Boot Inn, Northop
  
 pubhomepage_image2: 
 pubhomepage_image2_alt_text: 
@@ -40,7 +40,10 @@ hero_img: placeholder3.jpg
 
 ---
 
+**At the Boot pub in Northop, we pride ourselves on being the very best local that caters for all your needs in a warm and welcoming environment.**
 
-<p><strong>Here at the Boot, we pride ourselves on delivering a great customer experience within our recently refurbished pub. Our staff are looking forward to serving you with our new fantastic range of drinks and substantial new menu of great quality pub classics.</strong></p>
+Our friendly staff will make you feel at home and look forward to serving you with our fantastic range of drinks, great offers and delicious menu.
 
-<p>We have everything covered. Enjoy relaxing in the bar trying our new cask ales whilst watching the live sports events, out in the new landscaped beer garden with a refreshing bottle of prosecco, or have a fabulous meal in the restaurant. Our new menu will certainly not disappoint and our various food offers will ensure you come back throughout the week. The little ones are catered for also with a children’s menu to keep them full.</p>
+If it’s live sport you’re looking for, we’ve got that covered too. It’s the perfect place to enjoy a great pint whilst watching the best in live sport.
+
+*We look forward to seeing you soon!*

@@ -12,8 +12,8 @@ title: Welcome to The Railway Tavern
 pub_name: The Railway Tavern
 pub_nav: TheRailwayTavern
 
-pub_map: xxxxx.js
-pub_map_json: xxxxx.json
+pub_map: railwaytavern.js
+pub_map_json: railwaytavern.json
 wall_id:
 
 pub_addressStreet: 56 Wotton Road
@@ -28,19 +28,27 @@ googlemap-link: https://www.google.com/maps/place/Railway+Tavern/@51.629687,-2.3
 
 pubimg_location: railway_frontage-sm.jpg 
 
-pubhomepage_image1: railway-bar.jpg
+pubhomepage_image1: railway-bar-area.jpg
 pubhomepage_image1_alt_text: the bar at the Railway Tavern, Charfield
  
-pubhomepage_image2: railway-rear.jpg
+pubhomepage_image2: railway_frontage-sm.jpg
 pubhomepage_image2_alt_text: our outside area at the Railway Tavern, perfect when the sun shines
 
 heromain: Welcome
 herosub: to The Railway Tavern
-hero_img: railway_frontage.jpg
+hero_img: railway-bar.jpg
 
 ---
 
 
-<p><strong>The Railway Tavern has had a fantastic refurbishment and our brand new team are looking forward to serving you with our new range of drinks and substantial great new menu of pub classics.</strong></p>
+**The Railway Tavern in Charfield is everything you’d expect from a real community pub.**
 
-<p>We have everything covered. Enjoy relaxing in our bar trying our new cask ales whilst watching the live sports events, or out on the large refreshed outside drinking area with a refreshing bottle of prosecco. Our new menu will certainly not disappoint and our various food offers will ensure you come back throughout the week. The little ones are catered for also with a children’s menu to keep them full and free crayons to colour in pictures and keep them entertained.</p>
+We pride ourselves on creating an experience that offers you a friendly environment with staff whose only aim is proving you with the best hospitality.
+
+Our team are looking forward to serving you with our great drinks range and our delicious menu.
+
+We have everything covered for you. Enjoy relaxing in our bar trying our new cask ales whilst watching the live sports events or chill out in our large outdoor area.
+
+Here at the Railway Tavern, everyone is welcome. We want this to be your home from home. So kick back, relax and enjoy your time spent with us.
+
+*We look forward to welcoming you soon*

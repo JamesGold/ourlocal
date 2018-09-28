@@ -12,8 +12,8 @@ title: Welcome to the West Town Inn
 pub_name: the West Town Inn
 pub_nav: WestTownInn
 
-pub_map: xxxxx.js
-pub_map_json: xxxxx.json
+pub_map: westtown.js
+pub_map_json: westtown.json
 wall_id: 
 
 pub_addressStreet: 52 Station Road
@@ -26,18 +26,25 @@ pub_phone: 0239 246 1938
 
 googlemap-link: https://www.google.com/maps/place/The+West+Town+Inn/@50.79198,-0.9939457,17z/data=!3m1!4b1!4m7!3m6!1s0x48745ba27bfb3ec9:0x1c822c227c660c0f!5m1!1s2018-09-23!8m2!3d50.79198!4d-0.991757
 
-pubimg_location: placeholder3-sm.jpg
+pubimg_location: west-town-inn-frontage-sm.jpg
 
-pubhomepage_image1: 
-pubhomepage_image1_alt_text:
+pubhomepage_image1: west-town-inn-seating.jpg
+pubhomepage_image1_alt_text: West Town Inn - a warm and welcoming place to relax
  
-pubhomepage_image2: 
-pubhomepage_image2_alt_text: 
+pubhomepage_image2: west-town-inn-frontage-sm.jpg
+pubhomepage_image2_alt_text: Have fun with us at the West Town Inn 
 
 heromain: Welcome
 herosub: to the West Town Inn
-hero_img: placeholder3.jpg
+hero_img: west-town-inn-frontage-2.jpg
 
 ---
 
-Garden , childrens play area , TV sports
+**At the West Town Inn on Hayling Island, we pride ourselves on being the very best local that caters for all your needs in a warm and welcoming environment.**
+
+Our friendly staff will make you feel at home and look forward to serving you with our fantastic range of drinks, great offers and delicious menu.
+
+If it’s live sport you’re looking for, we’ve got that covered too. So come & enjoy a great pint whilst watching the best sport in a friendly surrounding and experience our great customer service.
+
+*See you soon!*
+

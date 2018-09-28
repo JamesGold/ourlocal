@@ -14,3 +14,4 @@ article_tag: the-three-cottages-hasland
 ---
 
 
+**Events coming soon, please check back later...**

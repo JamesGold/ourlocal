@@ -12,8 +12,8 @@ title: Welcome to The Star
 pub_name: The Star
 pub_nav: TheStar
 
-pub_map: xxxxx.js
-pub_map_json: xxxxx.json
+pub_map: thestar.js
+pub_map_json: thestar.json
 wall_id:
 
 pub_addressStreet: Old Liverton Road
@@ -32,18 +32,22 @@ pubimg_location: StarInn-frontage-sm.jpg
 pubhomepage_image1: StarInn-frontage-sm.jpg 
 pubhomepage_image1_alt_text:
  
-pubhomepage_image2: StarInn-mezzanine.jpg
+pubhomepage_image2: StarInn-bar-2.jpg
 pubhomepage_image2_alt_text: 
 
 heromain: Welcome
 herosub: to The Star
-hero_img: StarInn-bar.jpg
+hero_img: StarInn-frontage-2.jpg
 
 ---
 
 
 **We welcome you to The Star, Liverton, Newton Abbot**
 
-Here at The Star pub in Newton Abbot we provide ourselves on delivering the best hospitality in a friendly environment. We are committed to welcoming customers old and new with the upmost professionalism and great customer service. Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.
+Here at The Star pub in Newton Abbot we provide ourselves on delivering the best hospitality in a friendly environment. 
 
-We are proud of our new menus we serve. Whether it’s a business lunch or an evening meal out with friends and family, there are plenty of pleasant surprises to try and enjoy. Please see our [menu section](/pubs/the-star-newton-abbot/food-and-drink/) for our current menus available here at The Star.
+We are committed to welcoming customers old and new with the upmost professionalism and great customer service. Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menus and events.
+
+Whether you’re visiting for a business lunch, an evening meal out with loved ones or simply want a fantastic pint, there are plenty of pleasant surprises to try and enjoy. Please see our [menu section](/pubs/the-star-newton-abbot/food-and-drink/) for our current menus available here at The Star.
+
+*We look forward to seeing you soon!*

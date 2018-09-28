@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.0677336,
+        50.8021929
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Jolly Roger", 
+        "phone": "0239 307 6584",
+        "web": "<a href=\"#680288\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+
+
+
+
+

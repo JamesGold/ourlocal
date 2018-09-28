@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+     	{
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.851754,
+		51.437033
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 23:30 (Mon - Thur), 11:00 - 00:00 (Fri - Sat), 12:00 - 23:00 (Sun)  ", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The Bristol Inn", 
+        "phone": "01275 877647",
+        "web": "<a href=\"#680036\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+    
+
+
+
+
+
