@@ -7,7 +7,7 @@
 		"uuidString": "A12AF89E-1879-4AD4-850B-97C503818077"
 		}
 	],
-"creatorBuild": "28795",
+"creatorBuild": "28901",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -128,6 +128,20 @@
 		"oAP": "/_data/foodmenu/ChildrensMenu.csv",
 		"oF": 0
 		},
+	"/_data/foodmenu/ChristmasDay2018.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/ChristmasDay2018.csv",
+		"oF": 0
+		},
+	"/_data/foodmenu/ChristmasFayre2018.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/ChristmasFayre2018.csv",
+		"oF": 0
+		},
 	"/_data/foodmenu/Main-Menu.csv": {
 		"cB": 0,
 		"ft": 8192,
@@ -189,6 +203,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_data/pubnavs/HawthornInnPontypridd.yml",
+		"oF": 0
+		},
+	"/_data/pubnavs/mainNav.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/mainNav.yml",
 		"oF": 0
 		},
 	"/_data/pubnavs/TheAbbeySheffield.yml": {
@@ -280,6 +301,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_data/pubnavs/WestTownInn.yml",
+		"oF": 0
+		},
+	"/_includes/featurecard-block-christmas2018.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_includes/featurecard-block-christmas2018.html",
 		"oF": 0
 		},
 	"/_includes/featurecard-block.html": {
@@ -380,6 +408,13 @@
 		"oAP": "/_layouts/AboutPub.html",
 		"oF": 0
 		},
+	"/_layouts/christmas2018.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_layouts/christmas2018.html",
+		"oF": 0
+		},
 	"/_layouts/FindPub.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -462,6 +497,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_layouts/PubFood.html",
+		"oF": 0
+		},
+	"/_layouts/PubFoodXmas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_layouts/PubFoodXmas.html",
 		"oF": 0
 		},
 	"/_layouts/PubMenuIndex.html": {
@@ -4195,191 +4237,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_pubs/680288_the_jolly_roger/680288_the_jolly_roger.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "/_pubs/new/680288_the_jolly_roger/680288_the_bristol_inn.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/_pubs/680288_the_jolly_roger/about/680288_about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/about/680288_about.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/about/680288_about.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/about/680288_about.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/_pubs/680288_the_jolly_roger/assets/placeholder3-sm.jpg": {
-		"ft": 16384,
-		"iS": 74386,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/assets/placeholder3-sm.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_pubs/680288_the_jolly_roger/assets/placeholder3.jpg": {
-		"ft": 16384,
-		"iS": 74668,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/assets/placeholder3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_pubs/680288_the_jolly_roger/find/680288_find.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/find/680288_find.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/find/680288_find.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/find/680288_find.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/breakfast.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/index.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/kids-menu.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/main-menu.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/starters.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/sunday-lunch.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/supper-club.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/sweets.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/food-and-drink/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/food-and-drink/wine.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/whats-on/680288_whatson.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/whats-on/680288_whatson.html",
-		"oF": 0
-		},
-	"/_pubs/680288_the_jolly_roger/whats-on/680288_whatson.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "/_pubs/680288_the_jolly_roger/whats-on/680288_whatson.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/_pubs/new/680288_the_jolly_roger/680288_the_bristol_inn.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/new/680288_the_jolly_roger/680288_the_bristol_inn.html",
-		"oF": 0
-		},
 	"/_site/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
@@ -4683,6 +4540,83 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/assets/img/Christmas2018-backdrop.jpg": {
+		"ft": 16384,
+		"iS": 85454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/Christmas2018-backdrop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/Christmas2018dessert-hover.jpg": {
+		"ft": 16384,
+		"iS": 38041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/Christmas2018dessert-hover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/Christmas2018dessert.jpg": {
+		"ft": 16384,
+		"iS": 62259,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/Christmas2018dessert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/Christmas2018main-hover.jpg": {
+		"ft": 16384,
+		"iS": 45018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/Christmas2018main-hover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/Christmas2018main.jpg": {
+		"ft": 16384,
+		"iS": 72655,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/Christmas2018main.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/Christmas2018Start-hover.jpg": {
+		"ft": 16384,
+		"iS": 37632,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/Christmas2018Start-hover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/Christmas2018Start.jpg": {
+		"ft": 16384,
+		"iS": 61595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/Christmas2018Start.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/assets/img/dessert-LG.jpg": {
 		"ft": 16384,
 		"iS": 128027,
@@ -4837,6 +4771,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_site/assets/img/patternWarmBrown.png": {
+		"ft": 32768,
+		"iS": 60965,
+		"oA": 0,
+		"oAP": "/_site/assets/img/patternWarmBrown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_site/assets/img/pie.jpg": {
 		"ft": 16384,
 		"iS": 29077,
@@ -4969,6 +4914,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/assets/js/balfourarms-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/balfourarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/balfourarms.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4986,6 +4941,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/bootinn-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/bootinn-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/bootinn.js": {
 		"ft": 64,
@@ -5013,6 +4978,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/bristolinnmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/bristolinnmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/bristolinnmap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5030,6 +5005,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/bullanddogmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/bullanddogmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/bullanddogmap.js": {
 		"ft": 64,
@@ -5051,6 +5036,16 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"/_site/assets/js/jollyroger-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/jollyroger-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/jollyroger.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5068,6 +5063,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/jollysportsman-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/jollysportsman-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/jollysportsman.js": {
 		"ft": 64,
@@ -5125,6 +5130,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/railwaytavern-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/railwaytavern-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/railwaytavern.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5142,6 +5157,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/redlion-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/redlion-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/redlion.js": {
 		"ft": 64,
@@ -5181,6 +5206,16 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"/_site/assets/js/shireoak-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/shireoak-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/shireoak.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5207,6 +5242,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/theabbeymap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/theabbeymap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/theabbeymap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5224,6 +5269,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/thebootinnmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/thebootinnmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/thebootinnmap.js": {
 		"ft": 64,
@@ -5243,12 +5298,32 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/thehawthornmap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/thehawthornmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/thehawthornmap.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/_site/assets/js/thehawthornmap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/thestar-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/thestar-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 1
@@ -5271,6 +5346,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/threecottages-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/threecottages-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/threecottages.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5288,6 +5373,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/westtown-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/westtown-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/westtown.js": {
 		"ft": 64,
@@ -5391,6 +5486,13 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/christmas/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/christmas/index.html",
+		"oF": 0
 		},
 	"/_site/contact/index.html": {
 		"cB": 0,
@@ -6576,6 +6678,20 @@
 		"oAP": "/_site/pubs/680178_the_hawthorn_inn/whats-on/680178_whatson.html",
 		"oF": 0
 		},
+	"/_site/pubs/680216_the_star/680216_the_star.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680216_the_star/680216_the_star.html",
+		"oF": 0
+		},
+	"/_site/pubs/680216_the_star/about/680216_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680216_the_star/about/680216_about.html",
+		"oF": 0
+		},
 	"/_site/pubs/680216_the_star/assets/placeholder3-sm.jpg": {
 		"ft": 16384,
 		"iS": 74386,
@@ -7203,61 +7319,11 @@
 		"oAP": "/_site/pubs/680276_the_three_cottages/whats-on/680276_whatson.html",
 		"oF": 0
 		},
-	"/_site/pubs/680288_the_jolly_roger/about/680288_about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/680288_the_jolly_roger/about/680288_about.html",
-		"oF": 0
-		},
-	"/_site/pubs/680288_the_jolly_roger/assets/placeholder3-sm.jpg": {
-		"ft": 16384,
-		"iS": 74386,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_site/pubs/680288_the_jolly_roger/assets/placeholder3-sm.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_site/pubs/680288_the_jolly_roger/assets/placeholder3.jpg": {
-		"ft": 16384,
-		"iS": 74668,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_site/pubs/680288_the_jolly_roger/assets/placeholder3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_site/pubs/680288_the_jolly_roger/find/680288_find.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/680288_the_jolly_roger/find/680288_find.html",
-		"oF": 0
-		},
-	"/_site/pubs/680288_the_jolly_roger/whats-on/680288_whatson.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/680288_the_jolly_roger/whats-on/680288_whatson.html",
-		"oF": 0
-		},
 	"/_site/pubs/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/index.html",
-		"oF": 0
-		},
-	"/_site/pubs/new/680288_the_jolly_roger/680288_the_bristol_inn.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/new/680288_the_jolly_roger/680288_the_bristol_inn.html",
 		"oF": 0
 		},
 	"/_site/pubs/the-abbey-sheffield/about/index.html": {
@@ -8135,102 +8201,11 @@
 		"oAP": "/_site/pubs/the-hawthorn-inn-pontypridd/whats-on/wednesday.html",
 		"oF": 0
 		},
-	"/_site/pubs/the-jolly-roger-gosport/about/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/about/index.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/find/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/find/index.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/breakfast.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/breakfast.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/index.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/kids-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/kids-menu.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/main-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/main-menu.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/starters.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/starters.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/sunday-lunch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/sunday-lunch.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/supper-club.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/supper-club.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/sweets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/sweets.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/food-and-drink/wine.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/food-and-drink/wine.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/index.html",
-		"oF": 0
-		},
 	"/_site/pubs/the-jolly-roger-gosport/whats-on/friday.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/the-jolly-roger-gosport/whats-on/friday.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-jolly-roger-gosport/whats-on/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-jolly-roger-gosport/whats-on/index.html",
 		"oF": 0
 		},
 	"/_site/pubs/the-jolly-roger-gosport/whats-on/monday.html": {
@@ -9271,6 +9246,83 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/Christmas2018-backdrop.jpg": {
+		"ft": 16384,
+		"iS": 85454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Christmas2018-backdrop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/Christmas2018dessert-hover.jpg": {
+		"ft": 16384,
+		"iS": 37632,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Christmas2018dessert-hover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/img/Christmas2018dessert.jpg": {
+		"ft": 16384,
+		"iS": 62259,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Christmas2018dessert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/Christmas2018main-hover.jpg": {
+		"ft": 16384,
+		"iS": 45018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Christmas2018main-hover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/img/Christmas2018main.jpg": {
+		"ft": 16384,
+		"iS": 72655,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Christmas2018main.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/Christmas2018Start-hover.jpg": {
+		"ft": 16384,
+		"iS": 37632,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Christmas2018Start-hover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/Christmas2018Start.jpg": {
+		"ft": 16384,
+		"iS": 61595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Christmas2018Start.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/dessert-LG.jpg": {
 		"ft": 16384,
 		"iS": 128027,
@@ -9422,6 +9474,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/patternWarmBrown.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "/assets/img/patternWarmBrown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -10134,6 +10197,20 @@
 		"oAP": "/assets/raw/-MenuNumbers/ChildrensMenu.numbers",
 		"oF": 0
 		},
+	"/assets/raw/-MenuNumbers/ChristmasDay2018.numbers": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/raw/-MenuNumbers/ChristmasDay2018.numbers",
+		"oF": 0
+		},
+	"/assets/raw/-MenuNumbers/ChristmasFayre2018.numbers": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/raw/-MenuNumbers/ChristmasFayre2018.numbers",
+		"oF": 0
+		},
 	"/assets/raw/-MenuNumbers/Main-Menu.numbers": {
 		"cB": 0,
 		"ft": 8192,
@@ -10687,6 +10764,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/assets/scss/widgets/_christmas.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/scss/widgets/_christmas.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/assets/scss/widgets/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -10841,6 +10931,63 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/christmas/christmas-day-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/christmas/christmas-day-menu.html",
+		"oF": 0
+		},
+	"/christmas/christmas-day-menu.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/christmas/christmas-day-menu.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/christmas/christmas-fayre-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/christmas/christmas-fayre-menu.html",
+		"oF": 0
+		},
+	"/christmas/christmas-fayre-menu.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/christmas/christmas-fayre-menu.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/christmas/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/christmas/index.html",
+		"oF": 0
 		},
 	"/contact/index.html": {
 		"cB": 0,

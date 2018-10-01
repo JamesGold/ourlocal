@@ -1,0 +1,122 @@
+//christmas
+
+
+body.christmas {
+	background-image: url(/assets/img/menutexture-dk.jpg);
+	
+	.navcontainer {
+		background: none;
+		}
+	
+	
+	.signup {
+	background: url(/assets/img/patternWarmBrown.png);
+	COLOR: #FFF;}
+	
+	.signupform-outer {
+		background: #27180c;
+		}
+	
+}
+
+.christmas .badge {
+		background: url(/assets/img/patternWarmBrown.png);
+}
+
+
+
+
+
+.container.christmastext{
+
+
+
+	@include breakpoint(break4) {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-column-gap: 1.5em;
+		}						
+}
+
+
+
+//// cards - eg for menus
+
+.featuredcard-christmas {
+	display: flex;
+	justify-content: center;
+	height: 22em;
+	margin-bottom: 3em;
+	text-decoration: none;	
+	
+	
+	&.christmas-day{
+		background: url(/assets/img/Christmas2018main.jpg) center center no-repeat;
+		background-size: cover;
+		transition: all .5s;
+		
+		&:before {background: url(/assets/img/Christmas2018main-hover.jpg) center center no-repeat; // hack to preload hover image so no nastly flash on first use
+			}
+
+	
+			&:hover{
+			background: url(/assets/img/Christmas2018main-hover.jpg) center center no-repeat;
+			background-size: cover;	
+			
+			}
+		
+		}
+
+	
+	&.christmas-fayre{
+		background: url(/assets/img/Christmas2018dessert.jpg) center center no-repeat;
+		background-size: cover;
+		transition: all .5s;
+
+		&:before {background: url(/assets/img/Christmas2018dessert-hover.jpg) center center no-repeat; // hack to preload hover image so no nastly flash on first use
+			}
+
+			&:hover{
+			background: url(/assets/img/Christmas2018dessert-hover.jpg) center center no-repeat;
+			background-size: cover;	
+			}
+		
+		}
+
+		
+	@include breakpoint(break5) {
+		.christmas-fayre, .christmas-day {width: auto; margin: 0;}
+		
+	}
+
+
+
+
+
+
+.featureheader {
+	
+	
+		h3 {background: rgba(0, 0, 0, 0.5);
+			color: #fff;;
+		}
+	}
+
+
+
+
+
+
+
+
+
+}		
+
+
+
+.christmastext p {
+	font-size: 1.3em;
+	
+}
+
+
