@@ -7,10 +7,11 @@ tags: [ ROTW, Sunday, the-boot-northop ]
 back: /pubs/the-boot-northop/whats-on/
 permalink: /pubs/the-boot-northop/whats-on/sunday.html
 pub_name: The Boot
+outlet_id: 680045
 
 feat-image: sunday.jpg
 img-alt: Sunday at the Boot
-image2: default.gif
+image2:
 img-alt2:
 
 

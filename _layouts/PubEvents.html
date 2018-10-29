@@ -32,7 +32,7 @@
 	</head>
 	<body class="{{ page.layout }}">
 		
-		{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %}
+		{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id | first %}
 		{% include pubnav.html %}
 		
 		<div class="fullbg section article-list">
@@ -52,7 +52,7 @@
 				<ul class="post-list">
 				 {% for post in site.tags[page.article_tag] %}
 				  <li>
-				  	<img class="article-list-image" src="{{ "/postimages/" | relative_url }}{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
+				   <img class="article-list-image" src="{{ "/postimages/" | relative_url }}{{ post.feat-image }}" alt="{{ page.img-alt }}"/> 
 				    <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 				    <p class="linktoarticle"><a class="post-link" href="{{ post.url | relative_url }}">[read more...]</a></p>
 				 </li>        

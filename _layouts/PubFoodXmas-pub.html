@@ -1,0 +1,102 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+	  <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+	
+	  <title>{{ page.title }} {{ page.pub_name }}. Your Local Pub. </title>
+	  <meta name="description" content="{{ site.description }}">
+	  <meta name="author" content="{{ site.author }}">
+
+	  <link href="https://fonts.googleapis.com/css?family=Lobster|PT+Sans|Rokkitt:200,300,400" rel="stylesheet">
+	  <link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}">     
+	  <link rel="apple-touch-icon-precomposed" href="{{ 'apple-touch-icon-precomposed.png' | relative_url }}"> 
+	  	
+	  <!--[if lt IE 9]>
+	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	  <![endif]-->
+	<script src="{{ '/assets/js/jquery.js' | relative_url }}"></script> 
+	<script src="{{ '/assets/js/js.cookie.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/scripts-min.js' | relative_url }}"></script>
+	 
+	 
+	  <!-- if IE then load ie css for gridsake! -->
+	  <script type="text/javascript">
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
+        document.write(' <link rel="stylesheet" href="{{ 'assets/IEstyle-min.css' | relative_url }}"> ');
+	</script>		  
+	
+	  <link rel="import" href="config.html">
+
+	</head>
+		{% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %}
+
+	
+	<body class="{{ page.layout }} christmas">
+		
+
+<!-- change this for individual outlets -->
+		{% include pubnav.html %}
+
+	
+	<div class="fullbg section">
+		
+		 <div class="menu-header">
+			 <div>
+				 <small class="back">Back to <a href="../christmas/">Christmas</a></small></p>
+				
+				
+				{{ content }}
+
+			</div>
+
+		</div><!-- end menu header -->
+			
+			
+		<div class="menu-container">
+			
+			<div class="menuitems">
+		
+
+
+		{% for food in site.data.foodmenu[page.food_menu] %} 	
+
+		
+		{% if food.Course or food.MenuSection or food.MenuSectionDescription %}
+			<div class="spanthegrid {{ food.HighlightYes }}">
+				{% if food.Course %}<h3>{{ food.Course }}</h3><br />{% endif%} 			
+				{% if food.MenuSection %}<hr /><h2>{{ food.MenuSection }}</h2>{% endif%}
+				{% if food.MenuSectionDescription %}<p class="explainer">{{ food.MenuSectionDescription }}</p>{% endif%}	
+			</div>{% endif %}	
+
+			
+			{% if food.DishName or food.Options-why-not-add %}
+			<div class="dish  {{ food.HighlightYes }}">
+				<p><span class="dishhead {{ food.AdditionalClass }}">{{ food.DishName }}</span><br />		
+				{{ food.DishDescription }}<br />		
+				<span class="price">{{ food.Price }}</span></p>
+				{% if food.Options-why-not-add %}<p class="dish-highlight">{{ food.Options-why-not-add }}</p>{% endif %}
+			</div>
+			{% endif %} 
+
+
+		
+			{% endfor %}
+			
+		</div><!-- end menu items-->
+
+		
+		</div><!-- end menu-container -->
+		
+	</div><!-- end fullbg -->
+	
+				{% include book-event.html %}	
+
+										
+		{% include pubfooter.html %}
+		{% include GTM.html %}
+
+	</body>
+
+</html>

@@ -38,13 +38,21 @@ heromain: Welcome
 herosub: to the West Town Inn
 hero_img: west-town-inn-frontage-2.jpg
 
+xmas-menu-link: /pubs/the-west-town-inn-hayling-island/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-west-town-inn-hayling-island/christmas/christmas-fayre-menu.html
+
+promo-block-1: new-menu
+
 ---
 
 **At the West Town Inn on Hayling Island, we pride ourselves on being the very best local that caters for all your needs in a warm and welcoming environment.**
 
-Our friendly staff will make you feel at home and look forward to serving you with our fantastic range of drinks, great offers and delicious menu.
+Our friendly staff will make you feel at home and look forward to serving you with our fantastic range of drinks, great offers and delicious menu. 
 
-If it’s live sport you’re looking for, we’ve got that covered too. So come & enjoy a great pint whilst watching the best sport in a friendly surrounding and experience our great customer service.
+If it’s live sport you’re looking for, we’ve got that covered too. We’ve got **Sky Sports** and **BT Sport** showing on our HD screens, making sure you never miss a minute of action! **Whether it’s football, rugby or even golf – we’ll show it all!**
+
+So come & enjoy a great pint whilst watching the best sport in a friendly surrounding and experience our great customer service.
 
 *See you soon!*
 
+![Sky Sport, BT Sport, Racing UK](/pubs/680262_west_town_inn/assets/SkyBTRaceUK.png){:class="small-sport"}

@@ -7,10 +7,11 @@ tags: [ ROTW, Wednesday, the-jolly-sportsman-chesham ]
 back: /pubs/the-jolly-sportsman-chesham/whats-on/
 permalink: /pubs/the-jolly-sportsman-chesham/whats-on/wednesday.html
 pub_name: the Jolly Sportsman
+outlet_id: 680238
 
 feat-image: wednesday.jpg
 img-alt: Monday at the Jolly Sportsman
-image2: default.gif
+image2:
 img-alt2:
 
 ---

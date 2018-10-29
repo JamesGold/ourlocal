@@ -1,5 +1,4 @@
 ---
-
 layout: htmlbasepubmain2
 pub_data: master
 
@@ -26,6 +25,8 @@ pub_phone: 01453 843192
 
 googlemap-link: https://www.google.com/maps/place/Railway+Tavern/@51.629687,-2.396817,16z/data=!4m5!3m4!1s0x48719f3b0c15e613:0x356bde9dbc766463!8m2!3d51.629248!4d-2.399119?hl=en-GB
 
+food_menu: menu1
+
 pubimg_location: railway_frontage-sm.jpg 
 
 pubhomepage_image1: railway-bar-area.jpg
@@ -38,8 +39,12 @@ heromain: Welcome
 herosub: to The Railway Tavern
 hero_img: railway-bar.jpg
 
----
+xmas-menu-link: /pubs/the-railway-tavern-charfield/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-railway-tavern-charfield/christmas/christmas-fayre-menu.html
 
+promo-block-1: new-menu
+
+---
 
 **The Railway Tavern in Charfield is everything you’d expect from a real community pub.**
 

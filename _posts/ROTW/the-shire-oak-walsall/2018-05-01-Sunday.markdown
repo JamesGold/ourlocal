@@ -5,13 +5,13 @@ date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Sunday, the-shire-oak-walsall ]
 back: /pubs/the-shire-oak-walsall/whats-on/
-permalink: /pubs/the-shire-oak-walsall/whats-on/saturday.html
+permalink: /pubs/the-shire-oak-walsall/whats-on/sunday.html
 pub_name: The Shire Oak
-
+outlet_id: 680152
 
 feat-image: sunday.jpg
 img-alt: Sunday at The Shire Oak
-image2: default.gif
+image2:
 img-alt2:
 
 ---

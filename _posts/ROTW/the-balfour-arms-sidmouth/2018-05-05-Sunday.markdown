@@ -1,0 +1,26 @@
+---
+
+layout: rotw-post
+title: Sunday - Our famous Sunday lunch
+date: 2018-05-01
+
+excerpt_separator: <!--more-->
+
+tags: [ ROTW, Sunday, the-balfour-arms-sidmouth ]
+
+back: /pubs/the-balfour-arms-sidmouth/whats-on/
+
+permalink: /pubs/the-balfour-arms-sidmouth/whats-on/sunday.html
+
+pub_name: The Balfour Arms
+outlet_id: 680044
+
+feat-image: sunday.jpg
+img-alt: Sunday at The Balfour Arms
+image2:
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>Join us for our famous Sunday lunch. Check out what's on the <a href="/pubs/the-balfour-arms-sidmouth/food-and-drink/sunday-lunch.html">Sunday Menu</a></p>

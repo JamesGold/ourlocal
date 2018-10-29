@@ -40,6 +40,11 @@ heromain: Welcome
 herosub: to The Boot Inn
 hero_img: Boot-front.jpg
 
+xmas-menu-link: /pubs/the-boot-inn-sutton-coldfield/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-boot-inn-sutton-coldfield/christmas/christmas-fayre-menu.html
+
+promo-block-1: new-menu
+
 ---
 
 

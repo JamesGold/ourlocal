@@ -38,6 +38,10 @@ heromain: Welcome
 herosub: to The Boot
 hero_img: placeholder3.jpg
 
+xmas-menu-link: /pubs/the-boot-northop/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-boot-northop/christmas/christmas-fayre-menu.html
+
+promo-block-1: new-menu
 ---
 
 **At the Boot pub in Northop, we pride ourselves on being the very best local that caters for all your needs in a warm and welcoming environment.**

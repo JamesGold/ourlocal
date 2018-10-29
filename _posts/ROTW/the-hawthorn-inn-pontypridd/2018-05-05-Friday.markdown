@@ -6,11 +6,12 @@ excerpt_separator: <!--more-->
 tags: [ ROTW, Friday, the-hawthorn-inn-pontypridd ]
 back: /pubs/the-hawthorn-inn-pontypridd/whats-on/
 permalink: /pubs/the-hawthorn-inn-pontypridd/whats-on/friday.html
-pubname: The Hawthorn Inn
+pub_name: The Hawthorn Inn
+outlet_id: 680178
 
 feat-image: friday.jpg
 img-alt: Friday at the Hawthorn Inn
-image2: default.gif
+image2:
 img-alt2:
 
 

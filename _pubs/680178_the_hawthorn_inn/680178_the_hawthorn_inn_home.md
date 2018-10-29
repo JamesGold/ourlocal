@@ -39,6 +39,10 @@ heromain: Welcome
 herosub: to The Hawthorn Inn
 hero_img: Hawthorn-front.jpg
 
+xmas-menu-link: /pubs/the-hawthorn-inn-pontypridd/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-hawthorn-inn-pontypridd/christmas/christmas-fayre-menu.html
+
+promo-block-1: new-menu
 ---
 
 

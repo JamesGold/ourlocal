@@ -6,12 +6,12 @@ excerpt_separator: <!--more-->
 tags: [ ROTW, Wednesday, the-hawthorn-inn-pontypridd ]
 back: /pubs/the-hawthorn-inn-pontypridd/whats-on/
 permalink: /pubs/the-hawthorn-inn-pontypridd/whats-on/wednesday.html
-pubname: The Hawthorn Inn
-
+pub_name: The Hawthorn Inn
+outlet_id: 680178
 
 feat-image: wednesday.jpg
 img-alt: Wednesday at the Abbey
-image2: default.gif
+image2:
 img-alt2:
 
 

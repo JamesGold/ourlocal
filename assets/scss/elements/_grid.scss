@@ -5,27 +5,20 @@
 //$break-4: 56em; /* 896px  / 16px = 56em */
 //$break-5: 76.5em; /* 1224px / 16px = 76.5em */
 
+
+
 @keyframes fader {
   0%   { opacity: 0; }
   100% { opacity: 1; }
-  	}  	
-  	
+  	}  	  	
 html{	
-/*
-	
-	animation-name: fader;
-  	animation-duration: .2s;
-  	animation-delay: 0;
-  	animation-timing-function: ease-in;
-*/
 	box-sizing: border-box;
 	word-break: normal;
 	transition: all .5s;
 	font-size:100%;
 	transition: all .8s;
 	}
-	
-	
+		
 body{ 	
 	font-size:16px;
 	@include breakpoint(break1) {font-size:1.1rem;}
@@ -34,8 +27,8 @@ body{
 	@include breakpoint(break4) {font-size:1.3rem;} 
 	@include breakpoint(break5) {font-size:1.4rem;} 
 	}	
-				
-				
+	
+								
 .container,
 .footercontent,
 .promo-block,
@@ -49,7 +42,8 @@ body{
 .section-header,
 .pubs,
 .signup-container,
-.privacy-container, {
+.privacy-container
+	{
 	max-width: 96%;
 	margin: 3em auto 0;
 	//border: 1px solid #eee; //for testing	
@@ -157,20 +151,19 @@ img {max-width: 100%;
 	&.bggreen {background: #8fb090;}
 	&.bgblue {background: rgba(31, 60, 74, 0.98);}
 	&.bluepattern {background: url(/assets/img/patternBlue.png);}	
+	
 	&.section{
-		background-image: url(/assets/img/menutexture-dk.jpg);
+		background: #f4f1ed;
 		background-attachment: fixed;
 		background-size: cover;
-		overflow: hidden;		
+		overflow: hidden;	
+	
+		@include breakpoint(break3) {
+			background-image: url(/assets/img/menutexture-dk.jpg);
+
+			}		
 	}
 }		
 
 
-
 	
-	
-
-
-
-		
-

@@ -7,11 +7,11 @@ tags: [ ROTW, Saturday, the-west-town-inn-hayling-island ]
 back: /pubs/the-west-town-inn-hayling-island/whats-on/
 permalink: /pubs/the-west-town-inn-hayling-island/whats-on/saturday.html
 pubname: the West Town Inn
-
+outlet_id: 680262
 
 feat-image: saturday.jpg
 img-alt: Saturday at the West Town Inn
-image2: default.gif
+image2:
 img-alt2:
 
 

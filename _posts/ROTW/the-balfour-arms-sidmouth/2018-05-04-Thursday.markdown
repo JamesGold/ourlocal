@@ -7,10 +7,11 @@ tags: [ ROTW, Thursday, the-balfour-arms-sidmouth ]
 back: /pubs/the-balfour-arms-sidmouth/whats-on/
 permalink: /pubs/the-balfour-arms-sidmouth/whats-on/thursday.html
 pub_name: The Balfour Arms
+outlet_id: 680044
 
 feat-image: thursday.jpg
 img-alt: Thursday at The Balfour Arms
-image2: default.gif
+image2:
 img-alt2:
 
 ---

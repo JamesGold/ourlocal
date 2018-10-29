@@ -1,0 +1,21 @@
+---
+layout: rotw-post
+title:  "Great music this weekend"
+date: 2018-05-02
+excerpt_separator: <!--more-->
+tags: [ ROTW, Weekend, the-balfour-arms-sidmouth ]
+back: /pubs/the-balfour-arms-sidmouth/whats-on/
+permalink: /pubs/the-balfour-arms-sidmouth/whats-on/saturday.html
+pub_name: The Balfour Arms
+outlet_id: 680044
+
+feat-image: saturday.jpg
+img-alt: Saturday at The Balfour Arms
+image2:
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+<p>We have a great selection of Music every weekend - Check our Facebook page for details</p>

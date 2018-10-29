@@ -38,6 +38,11 @@ heromain: Welcome
 herosub: to The Shire Oak
 hero_img: Shire-Oak-frontage-2.jpg
 
+xmas-menu-link: /pubs/the-shire-oak-walsall/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-shire-oak-walsall/christmas/christmas-fayre-menu.html
+
+promo-block-1: new-menu
+
 ---
 
 

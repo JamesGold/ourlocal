@@ -6,12 +6,13 @@ excerpt_separator: <!--more-->
 tags: [ ROTW, Tuesday, the-boot-inn-sutton-coldfield ]
 back: /pubs/the-boot-inn-sutton-coldfield/whats-on/
 permalink: /pubs/the-boot-inn-sutton-coldfield/whats-on/tuesday.html
-pubname: The Boot Inn
+pub_name: The Boot Inn
+outlet_id: 680235
 
 
 feat-image: tuesday.jpg
 img-alt: Tuesday at the Boot
-image2: default.gif
+image2:
 img-alt2:
 
 

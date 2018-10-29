@@ -20,8 +20,9 @@ title: {{ page.title }}
 	
 	<div class="news-container">
 	
-		<div class="images"><img class="article-image" src="{{ site.url }}/postimages/{{ page.feat-image }}" alt="{{ page.img-alt }}"/>
-			<img class="article-image" src="{{ site.url }}/postimages/{{ page.image2 }}" alt="{{ page.img-alt2 }}"/>
+		<div class="images">
+			{% if page.feat-image %}<img class="article-image" src="{{ site.baseurl }}/postimages/{{ page.feat-image }}" alt="{{ page.img-alt }}"/>{% endif %}
+			{% if page.image2 %}<img class="article-image" src="{{ site.baseurl }}/postimages/{{ page.image2 }}" alt="{{ page.img-alt2 }}"/>{% endif %}
 
 		</div>
 			
@@ -38,3 +39,7 @@ title: {{ page.title }}
 
 
 </div>
+
+
+
+

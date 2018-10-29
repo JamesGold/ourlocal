@@ -1,4 +1,4 @@
----
+W---
 layout: rotw-post
 title: Friday - Live Entertainment
 date:   2018-05-02 12:14:30 +0100
@@ -7,11 +7,11 @@ tags: [ ROTW, Friday, the-west-town-inn-hayling-island ]
 back: /pubs/the-west-town-inn-hayling-island/whats-on/
 permalink: /pubs/the-west-town-inn-hayling-island/whats-on/friday.html
 pub_name: the West Town Inn
-
+outlet_id: 680262
 
 feat-image: friday.jpg
 img-alt: Friday at the West Town Inn
-image2: default.gif
+image2:
 img-alt2:
 
 

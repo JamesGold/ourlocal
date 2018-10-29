@@ -8,7 +8,6 @@ layout: PubEvents
 pub_nav: TheJollySportsman
 pub_name: the Jolly Sportsman
 
-wall_id:
 article_tag: the-jolly-sportsman-chesham
 
 ---

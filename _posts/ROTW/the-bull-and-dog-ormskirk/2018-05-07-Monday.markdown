@@ -3,14 +3,15 @@ layout: rotw-post
 title:  "Monday - Book Club"
 date:   2018-05-07 12:14:30 +0100
 excerpt_separator: <!--more-->
-tags: [ ROTW, Monday, the-bull-and-dog-ormskirk ]
+tags: [ ROTW, Monday, the-bull-and-dog-inn-ormskirk ]
 back: /pubs/the-bull-and-dog-inn-ormskirk/whats-on/
-permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/monday.html
-pubname: The Bull & Dog
+permalink: /pubs/the-bull-and-dog-inn-ormskirk/whats-on/monday.html
+pub_name: The Bull & Dog
+outlet_id: 680268
 
 feat-image: bullanddog-monday.jpg
 img-alt: Monday at the Bull and Dog
-image2: default.gif
+image2:
 img-alt2:
 
 ---

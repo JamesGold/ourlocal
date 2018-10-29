@@ -39,6 +39,12 @@ heromain: Welcome
 herosub: to the Bristol Inn
 hero_img: Bristol-inn-bar.jpg
 
+
+xmas-menu-link: /pubs/the-bristol-inn-clevedon/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-bristol-inn-clevedon/christmas/christmas-fayre-menu.html
+
+promo-block-1: new-menu
+
 ---
 
 **The Bristol Inn in Clevedon is everything you’d want from a traditional village pub. It’s more than just a pint with us, it’s an experience.**

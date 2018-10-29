@@ -31,7 +31,24 @@
 	</head>
 	<body>
 		<style>
+			.hero {		
+			background: 
+				linear-gradient(
+				rgba(0, 0, 0, 0.45), 
+				rgba(0, 0, 0, 0.45)
+				),
+			url( "{{ page.baseurl }}{{ page.pub_assets_url }}{{ page.hero_img }}" );
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: cover;
+			background-attachment: scroll;	
+			}
+			
+			
+		@media only screen and (min-width : 48em)  { 
+					
 			.hero {	
+/*
 			background: 
 			linear-gradient( rgba(49, 99, 168, 1) 0%, 
 			rgba(49, 99, 168, 0) 50%, 
@@ -40,9 +57,20 @@
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover;
+*/
 			background-attachment: fixed;
-			}
+			}		
+					
+					
+		}		
+
+			
+			
+			
+			
+			
 		</style>
+
 
 			{% include pubnav.html %}
 			{% include pubhero.html %}
@@ -66,12 +94,26 @@
 						
 				</div><!-- eof pub-home-->
 			</div><!-- eof full bg-->	
+			
+			
+			{% if pubdetails.promo-block-1 %}   
+			{% include promo-block.html %}  
+			{% endif %} 			
+			
+			
+			
+			
 
-		  
+			<!-- just for Christmas -->
+			{% if pubdetails.xmas-menu-link %}   
+			{% include promo-block-xmas.html %}  
+			{% endif %} 
+					  
 
 			{% if page.wall_id %}
 				{% include socialwall-block.html %}
 			{% endif %}
+	
 									
 			{% include signup.html %}
 

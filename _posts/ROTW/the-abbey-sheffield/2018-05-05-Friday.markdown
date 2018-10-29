@@ -7,11 +7,11 @@ tags: [ ROTW, Friday, the-abbey-sheffield ]
 back: /pubs/the-abbey-sheffield/whats-on/
 permalink: /pubs/the-abbey-sheffield/whats-on/friday.html
 pubname: The Abbey
-
+outlet_id: 680119
 
 feat-image: friday.jpg
 img-alt: Friday at the Abbey
-image2: default.gif
+image2:
 img-alt2:
 
 

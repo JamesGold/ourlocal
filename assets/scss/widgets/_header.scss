@@ -13,12 +13,11 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height:70vh;
+	height:50vh;
 	
-	//margin-top: 4em;
 		@include breakpoint(break1) {}
 		@include breakpoint(break2) {}
-		@include breakpoint(break3) {}
+		@include breakpoint(break3) {height:70vh;}
 		@include breakpoint(break4) {}
 		@include breakpoint(break5) {margin-top: -2em;}
 		
@@ -58,8 +57,8 @@ header {
 		text-align: center;
 		font-size: 2rem;
 		@include breakpoint(break1) {font-size: 2.6rem;line-height: calc(100% + 20%);}
-		@include breakpoint(break2) {font-size: 4.4rem;}
-		@include breakpoint(break3) {font-size: 5.4rem;}
+		@include breakpoint(break2) {font-size: 3rem;}
+		@include breakpoint(break3) {font-size: 5rem;}
 		@include breakpoint(break4) {font-size: 6rem;}
 		@include breakpoint(break5) {font-size: 6.4rem; line-height: 5rem;}
 		@include breakpoint(break6) {font-size: 8rem; line-height: 6rem;}

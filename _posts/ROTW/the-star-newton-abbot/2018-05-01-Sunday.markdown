@@ -1,22 +1,23 @@
 ---
 layout: rotw-post
-title: Sunday - Quiz Night
+title: Sunday - Sunday Lunch
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Sunday, the-star-newton-abbot ]
 back: /pubs/the-star-newton-abbot/whats-on/
-permalink: /pubs/the-star-newton-abbot/whats-on/saturday.html
+permalink: /pubs/the-star-newton-abbot/whats-on/sunday.html
 pub_name: The Star
-
+outlet_id: 680216
 
 feat-image: sunday.jpg
 img-alt: Sunday at The Star
-image2: default.gif
+image2:
 img-alt2:
 
 ---
 
 <h2>Join us for {{ page.title }}</h2>
+<p>See our <a href="https://ourlocal.pub/pubs/the-star-newton-abbot/food-and-drink/sunday-lunch.html">Sunday menu</a> for details.
 
 
 

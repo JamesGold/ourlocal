@@ -1,17 +1,16 @@
 ---
 layout: rotw-post
-title: Sunday - Traditional Pub Games
-date:   2018-05-02 12:14:30 +0100
-excerpt_separator: <!--more-->
+title: "Sunday - Traditional Pub Games"
+date: 2018-05-02 12:14:30 +0100
 tags: [ ROTW, Sunday, the-jolly-sportsman-chesham ]
 back: /pubs/the-jolly-sportsman-chesham/whats-on/
-permalink: /pubs/the-jolly-sportsman-chesham/whats-on/saturday.html
+permalink: /pubs/the-jolly-sportsman-chesham/whats-on/sunday.html
 pub_name: the Jolly Sportsman
-
+outlet_id: 680238
 
 feat-image: sunday.jpg
 img-alt: Sunday at the Jolly Sportsman
-image2: default.gif
+image2: 
 img-alt2:
 
 ---

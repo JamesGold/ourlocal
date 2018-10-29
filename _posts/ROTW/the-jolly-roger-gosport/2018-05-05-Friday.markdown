@@ -7,6 +7,7 @@ tags: [ ROTW, Friday, the-jolly-roger-gosport ]
 back: /pubs/the-jolly-roger-gosport/whats-on/
 permalink: /pubs/the-jolly-roger-gosport/whats-on/friday.html
 pub_name: The Jolly Roger
+outlet_id: 680288
 
 
 feat-image: friday.jpg

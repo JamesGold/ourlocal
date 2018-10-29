@@ -2,8 +2,11 @@
 
 
 body.christmas {
-	background-image: url(/assets/img/menutexture-dk.jpg);
-	
+	background: url(/assets/img/menutexture-dk.jpg) left top;
+	background-size: 97%;
+	background-repeat:repeat;
+	background-attachment:fixed;
+
 	.navcontainer {
 		background: none;
 		}
@@ -16,8 +19,9 @@ body.christmas {
 	.signupform-outer {
 		background: #27180c;
 		}
-	
-}
+	}
+
+
 
 .christmas .badge {
 		background: url(/assets/img/patternWarmBrown.png);
@@ -26,10 +30,7 @@ body.christmas {
 
 
 
-
 .container.christmastext{
-
-
 
 	@include breakpoint(break4) {
 		display: grid;
@@ -37,6 +38,12 @@ body.christmas {
 		grid-column-gap: 1.5em;
 		}						
 }
+
+
+
+.christmastext p {
+	font-size: 1.3em;
+	}
 
 
 
@@ -48,75 +55,169 @@ body.christmas {
 	height: 22em;
 	margin-bottom: 3em;
 	text-decoration: none;	
+	transition: all 1s;
+
 	
 	
 	&.christmas-day{
-		background: url(/assets/img/Christmas2018main.jpg) center center no-repeat;
+		background: 
+			linear-gradient(
+				rgba(0, 0, 0, 0.0), 
+				rgba(0, 0, 0, 0.0)
+				),				
+		url(/assets/img/Christmas2018main.jpg) center top no-repeat;
 		background-size: cover;
-		transition: all .5s;
-		
-		&:before {background: url(/assets/img/Christmas2018main-hover.jpg) center center no-repeat; // hack to preload hover image so no nastly flash on first use
+		transition: all 1s;
 			}
-
-	
-			&:hover{
-			background: url(/assets/img/Christmas2018main-hover.jpg) center center no-repeat;
-			background-size: cover;	
 			
+			&:hover{
+			background: 
+			linear-gradient(
+				rgba(0, 0, 0, 0.7), 
+				rgba(0, 0, 0, 0.1)
+				),
+			url(/assets/img/Christmas2018main.jpg) center top no-repeat;
+			background-size: cover;	
 			}
 		
-		}
-
-	
 	&.christmas-fayre{
-		background: url(/assets/img/Christmas2018dessert.jpg) center center no-repeat;
+		background: 
+			linear-gradient(
+				rgba(0, 0, 0, 0.0), 
+				rgba(0, 0, 0, 0.0)
+				),			
+		url(/assets/img/Christmas2018dessert.jpg) center top no-repeat;
 		background-size: cover;
-		transition: all .5s;
+		transition: all 1s;
 
-		&:before {background: url(/assets/img/Christmas2018dessert-hover.jpg) center center no-repeat; // hack to preload hover image so no nastly flash on first use
-			}
 
 			&:hover{
-			background: url(/assets/img/Christmas2018dessert-hover.jpg) center center no-repeat;
+			background: 
+				linear-gradient(
+				rgba(0, 0, 0, 0.7), 
+				rgba(0, 0, 0, 0.1)
+				),
+			url(/assets/img/Christmas2018dessert.jpg) center top no-repeat;
 			background-size: cover;	
 			}
 		
 		}
+		
+		
+	.featureheader {
+	
+	
+		h3 {background: rgba(0, 0, 0, 0.5);
+			color: #fff;;
+		}
+	}	
 
 		
 	@include breakpoint(break5) {
 		.christmas-fayre, .christmas-day {width: auto; margin: 0;}
 		
 	}
+}	
 
-
-
-
-
-
-.featureheader {
+.xmaspromo {
+	background: url(/assets/img/patternWarmBrown.png);
+	color: #FFF;
 	
+
+	.promo-block {
+		
+		a {color: #fffbe6;}
+		
+		.textarea {padding: 2em 2em 2em 0;}
 	
-		h3 {background: rgba(0, 0, 0, 0.5);
-			color: #fff;;
+		.bgimg {
+			background: url(/assets/img/ChristmasChocBasket.jpg) center center;
+			background-size:cover;
+			width:100%;
+			height: 12em;
+			
+			@include breakpoint(break3) {
+			height: auto;
+			}
 		}
 	}
+}	
+
+///////////////// MENU PAGES
 
 
 
-
-
-
-
-
-
-}		
-
-
-
-.christmastext p {
-	font-size: 1.3em;
+.PubFoodXmas {
 	
+	h3 {color: #27180c; }
+	
+	.section .Y, .section .y {
+		background: rgba(39, 24, 12, 0.2);
+		padding: .3em;
+		border: 3px #27180c dotted;
+	}
+		
+		
+	.section .explainer {
+		background: rgba(39, 24, 12, 0.2);
+		padding: .3em;
+		border: 1px #fff solid;
+	}
 }
+
+
+.book4xmas {
+	background: rgba(255, 255, 255, 0.41);
+	text-align: center;
+	max-width: 96%;
+	margin: 2em auto 3em;;
+	border: 1px solid rgba(255, 255, 255, 0.9);
+	padding: 0 2em 2em;
+
+	@include breakpoint(break1) {max-width:96%;}
+	@include breakpoint(break2) {max-width:90%;}
+	@include breakpoint(break3) {max-width:85%;}
+	@include breakpoint(break4) {max-width:85%;}
+	@include breakpoint(break5) {max-width:85%;}
+	
+	
+	h2 {
+		line-height: 1em;
+		font-size: 2.4em;
+		padding: 0;
+		margin: .4em;
+		
+			@include breakpoint(break3) {font-size: 4em;}
+
+		}
+	
+	.book4xmas-actions {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content:center;
+		margin-bottom: 0;
+		text-decoration: none;	
+		transition: all 1s;
+		}
+		
+		p {
+			padding-bottom: 0;
+			margin-bottom: .2em;
+			}
+		
+		.book4xmas-email h3,
+		.book4xmas-phone h3 {
+			margin: 0em .2em .2em;
+			background: black;
+			padding: .4em 2em;
+			color: #fff;
+			font-size: 2em;
+			
+			a {color: #fff; text-decoration: none; line-height: 1em;}
+		}
+}
+
+
 
 

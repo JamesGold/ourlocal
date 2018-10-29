@@ -7,10 +7,11 @@ tags: [ ROTW, Wednesday, the-shire-oak-walsall ]
 back: /pubs/the-shire-oak-walsall/whats-on/
 permalink: /pubs/the-shire-oak-walsall/whats-on/wednesday.html
 pub_name: The Shire Oak
+outlet_id: 680152
 
 feat-image: wednesday.jpg
 img-alt: Wednesday at The Shire Oak
-image2: default.gif
+image2:
 img-alt2:
 
 ---

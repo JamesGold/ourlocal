@@ -1,20 +1,21 @@
 ---
 layout: rotw-post
-title:  "Friday - Steak Night and Karaoke"
+title:  "Friday - Fish Friday"
 date: 2018-05-03
 excerpt_separator: <!--more-->
 tags: [ ROTW, Friday, the-balfour-arms-sidmouth ]
 back: /pubs/the-balfour-arms-sidmouth/whats-on/
 permalink: /pubs/the-balfour-arms-sidmouth/whats-on/friday.html
 pub_name: The Balfour Arms
+outlet_id: 680044
 
 feat-image: friday.jpg
 img-alt: Friday at The Balfour Arms
-image2: default.gif
+image2:
 img-alt2:
 
 ---
 
 <h2>Join us for {{ page.title }}</h2>
 
-<p>Steak night every Friday and every last Friday of the month we move it up a gear with our famous Karaoke,<strong> come and sing your heart out</strong>
+<p>Friday means Fish. Come and check out our Fish Friday specials board or grab a a classic dish from our <a href="/pubs/the-balfour-arms-sidmouth/food-and-drink/">regular menu</a>

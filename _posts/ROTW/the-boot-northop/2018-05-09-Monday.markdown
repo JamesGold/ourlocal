@@ -7,10 +7,11 @@ tags: [ ROTW, Monday, the-boot-northop ]
 back: /pubs/the-boot-northop/whats-on/
 permalink: /pubs/the-boot-northop/whats-on/monday.html
 pub_name: The Boot
+outlet_id: 680045
 
 feat-image: monday.jpg
 img-alt: Monday at the Boot
-image2: default.gif
+image2:
 img-alt2:
 
 

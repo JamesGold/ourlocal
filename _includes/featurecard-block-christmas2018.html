@@ -1,5 +1,24 @@
 
 	
+{% if pubdetails.xmas-menu-link %}
+	<div class="featuredcard-christmas christmas-day">
+		<a href="{{ pubdetails.xmas-menu-link }}" class="featuredcard">
+			<div class="featureheader">
+				<h3>Christmas Day</h3>
+			</div>
+		</a>
+	</div><!-- eof card -->	
+	
+	<div class="featuredcard-christmas  christmas-fayre">
+		<a href="{{ pubdetails.xmas-fayre-menu-link }}" class="featuredcard">
+			<div class="featureheader">
+				<h3>Christmas Fayre</h3>
+			</div>	
+		</a>
+	</div><!-- eof card -->
+</div><!--eof container -  -->
+
+{% else %} 
 
 	<div class="featuredcard-christmas christmas-day">
 		<a href="/christmas/christmas-day-menu.html" class="featuredcard">
@@ -16,9 +35,15 @@
 			</div>	
 		</a>
 	</div><!-- eof card -->
-		
-	
-
-
-
 </div><!--eof container -  -->
+
+{% endif %}	
+
+
+
+
+
+
+
+
+	

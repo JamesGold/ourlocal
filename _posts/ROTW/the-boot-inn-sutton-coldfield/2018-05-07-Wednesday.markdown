@@ -6,12 +6,13 @@ excerpt_separator: <!--more-->
 tags: [ ROTW, Wednesday, the-boot-inn-sutton-coldfield ]
 back: /pubs/the-boot-inn-sutton-coldfield/whats-on/
 permalink: /pubs/the-boot-inn-sutton-coldfield/whats-on/wednesday.html
-pubname: The Boot Inn
+pub_name: The Boot Inn
+outlet_id: 680235
 
 
 feat-image: wednesday.jpg
 img-alt: Wednesday at the Abbey
-image2: default.gif
+image2:
 img-alt2:
 
 

@@ -12,8 +12,26 @@ heroimgpath: /assets/img/placeholder3.jpg
 ---
 
 <style>
-		.hero {
+	.hero {
+		background: 
+		linear-gradient(
+		rgba(0, 0, 0, 0.45), 
+		rgba(0, 0, 0, 0.45)
+		),	
+		url( "{{ layout.heroimgpath }}" );
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		background-attachment: scroll;	
+		}
 		
+		
+		
+	@media only screen and (min-width : 48em)  { 
+			
+		
+		.hero {	
+/*
 		background: 
 		linear-gradient( rgba(143, 176, 144, 1) 0%, 
 		rgba(143, 176, 144, 0.05) 50%, 
@@ -22,8 +40,14 @@ heroimgpath: /assets/img/placeholder3.jpg
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
+*/
 		background-attachment: fixed;
-		}
+		}	
+			
+	}
+		
+		
+		
 	
 </style>	
 	
@@ -31,5 +55,5 @@ heroimgpath: /assets/img/placeholder3.jpg
 
 
 {% include featurecard-block.html %}
-{% include promo-block.html %}
+{% include promo-block-xmas.html %}
 {% include signup.html %}

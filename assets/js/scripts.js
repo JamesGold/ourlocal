@@ -39,10 +39,6 @@ $(window).resize(function() {
 
 
 
-
-
-
-
 //cookie function to show show and hide the cookie notice
 
 $(function() {
@@ -58,13 +54,3 @@ if( Cookies.get('cookienote') ==="true") {
 	});
 
 });		
- 
-
-
-
-
-$(function(){
-	
-	
-	
-});

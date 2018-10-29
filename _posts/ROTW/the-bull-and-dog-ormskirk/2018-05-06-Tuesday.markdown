@@ -3,14 +3,15 @@ layout: rotw-post
 title:  "Tuesday - Quiz Night"
 date:   2018-05-06 12:14:30 +0100
 excerpt_separator: <!--more-->
-tags: [ ROTW, Tuesday, the-bull-and-dog-ormskirk ]
+tags: [ ROTW, Tuesday, the-bull-and-dog-inn-ormskirk ]
 back: /pubs/the-bull-and-dog-inn-ormskirk/whats-on/
-permalink: /pubs/the-bull-and-dog-ormskirk/whats-on/tuesday.html
-pubname: The Bull & Dog
+permalink: /pubs/the-bull-and-dog-inn-ormskirk/whats-on/tuesday.html
+pub_name: The Bull & Dog
+outlet_id: 680268
 
 feat-image: bullanddog-tuesday.jpg
 img-alt: Tuesday at the Bull and Dog
-image2: default.gif
+image2:
 img-alt2:
 
 ---

@@ -28,15 +28,20 @@ googlemap-link: https://www.google.com/maps/place/Balfour+Arms,+26+Woolbrook+Rd,
 
 pubimg_location: frontage-1200x700.jpg 
 
-pubhomepage_image1: frontage-1000x563.jpg 
-pubhomepage_image1_alt_text: The welcoming Balfour, Sidmouth.
+pubhomepage_image1: Balfour-colin&karen1000x563.jpg 
+pubhomepage_image1_alt_text: The welcoming Balfour, Sidmouth. with Colin and Karen
  
 pubhomepage_image2: garden-1000x563.jpg
 pubhomepage_image2_alt_text: Our large beer garden at the Balfour, Sidmouth
 
 heromain: The Balfour Arms
 herosub: welcomes you
-hero_img: balfour-bar-1200x639.jpg
+hero_img: frontage-1200x639.jpg
+
+xmas-menu-link: /pubs/the-balfour-arms-sidmouth/christmas/christmas-day-menu.html
+xmas-fayre-menu-link: /pubs/the-balfour-arms-sidmouth/christmas/christmas-fayre-menu.html
+
+promo-block-1: new-menu
 
 ---
 

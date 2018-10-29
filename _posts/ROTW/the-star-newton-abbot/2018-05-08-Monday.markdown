@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title: Monday - Steak Night
+date:   2018-05-08 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Monday, the-star-newton-abbot ]
+back: /pubs/the-star-newton-abbot/whats-on/
+permalink: /pubs/the-star-newton-abbot/whats-on/monday.html
+pub_name: The Star
+outlet_id: 680216
+
+feat-image: monday.jpg
+img-alt: Monday at The Star
+image2:
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+
+

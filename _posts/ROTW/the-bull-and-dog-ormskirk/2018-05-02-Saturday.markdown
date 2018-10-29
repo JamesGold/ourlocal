@@ -3,15 +3,15 @@ layout: rotw-post
 title:  "Saturday - Cheese & Banter"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
-tags: [ ROTW, Saturday, the-bull-and-dog-ormskirk ]
+tags: [ ROTW, Saturday, the-bull-and-dog-inn-ormskirk ]
 back: /pubs/the-bull-and-dog-inn-ormskirk/whats-on/
 permalink: /pubs/the-bull-and-dog-inn-ormskirk/whats-on/saturday.html
-pubname: The Bull & Dog
-
+pub_name: The Bull & Dog
+outlet_id: 680268
 
 feat-image: bullanddog-saturday.jpg
 img-alt: Saturday at the Bull and Dog
-image2: default.gif
+image2:
 img-alt2:
 
 

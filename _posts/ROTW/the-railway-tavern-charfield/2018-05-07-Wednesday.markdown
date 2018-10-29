@@ -7,11 +7,11 @@ tags: [ ROTW, Wednesday, the-railway-tavern-charfield ]
 back: /pubs/the-railway-tavern-charfield/whats-on/
 permalink: /pubs/the-railway-tavern-charfield/whats-on/wednesday.html
 pub_name: The Railway Tavern
-
+outlet_id: 680086
 
 feat-image: wednesday.jpg
 img-alt: Wednesday at The Railway Tavern
-image2: default.gif
+image2:
 img-alt2:
 
 
