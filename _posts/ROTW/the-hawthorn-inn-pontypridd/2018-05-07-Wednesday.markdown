@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title:  "Wednesday - Cheese & Banter"
+title:  "Wednesday - Darts"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Wednesday, the-hawthorn-inn-pontypridd ]

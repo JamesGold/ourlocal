@@ -3,10 +3,7 @@
 //$break-2: 35em; /* 560px / 16px = 35em */
 //$break-3: 48em; /* 768px / 16px = 48em */
 //$break-4: 56em; /* 896px  / 16px = 56em */
-//$break-5: 76.5em; /* 1224px / 16px = 76.5em */
-
-
-
+//$break-5: 76.5em; /* 1224px / 16px = 76.5em */ 
 @keyframes fader {
   0%   { opacity: 0; }
   100% { opacity: 1; }
@@ -149,6 +146,8 @@ img {max-width: 100%;
 	
 		
 	&.bggreen {background: #8fb090;}
+	&.bglavender {background: #7c6c84;}
+
 	&.bgblue {background: rgba(31, 60, 74, 0.98);}
 	&.bluepattern {background: url(/assets/img/patternBlue.png);}	
 	

@@ -216,7 +216,7 @@
         "description": "We look forward to serving you with our great range of drinks, offers, delicious menu.", 
         "name": "The Star", 
         "phone": "01626 824857",
-        "web": "<a href=\"#680216\" class=\"viewit\">View this Pub</a>"
+        "web": "<a href=\"#680022\" class=\"viewit\">View this Pub</a>"
 
       }
     },
@@ -299,9 +299,47 @@
         "web": "<a href=\"#680276\" class=\"viewit\">View this Pub</a>"
 
       }
-    }
-        
+    },
+
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-3.1143288,
+		53.1660548
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 23:30 (Mon - Thur), 11:00 - 00:00 (Fri - Sat), 12:00 - 22:30 (Sun)  ", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The Griffin", 
+        "phone": "01352 759 848",
+        "web": "<a href=\"#680214\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },
     
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.186826,
+		53.165143
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00am - 23:30 (Mon - Thur), 11:00 - 00:00 (Fri - Sat), 12:00 - 22:30 (Sun)  ", 
+        "description": "The best hospitality in a friendly environment", 
+        "name": "The Star", 
+        "phone": "01623 652 397",
+        "web": "<a href=\"#680022\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }        
     
     
 
