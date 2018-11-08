@@ -1,7 +1,7 @@
 ---
 
 outlet_id: 680288
-food_menu: ChristmasFayre2018-price-band-1
+food_menu: ChristmasFayre2018-price-band-2
 
 layout: PubFoodXmas-pub
 

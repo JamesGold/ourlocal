@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Saturday Night - Food and drink combo
+tags: [ ROTW, the-clousden-hill-killingworth ]
+
+back: /pubs/the-clousden-hill-killingworth/whats-on/
+permalink: /pubs/the-clousden-hill-killingworth/whats-on/saturday.html
+
+pub_name: The Clousden Hill
+outlet_id: 680277
+
+feat-image: saturday.jpg
+img-alt: saturday at the The Clousden Hill
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+
+

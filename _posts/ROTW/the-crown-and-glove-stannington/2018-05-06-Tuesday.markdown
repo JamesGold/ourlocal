@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Tuesday - Acoustic Night
+tags: [ ROTW, the-crown-and-glove-stannington ]
+
+back: /pubs/the-crown-and-glove-stannington/whats-on/
+permalink: /pubs/the-crown-and-glove-stannington/whats-on/tuesday.html
+
+pub_name: The Crown & Glove
+outlet_id: 680279 
+
+feat-image: tuesday.jpg
+img-alt: Tuesday at the The Crown & Glove
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+
+

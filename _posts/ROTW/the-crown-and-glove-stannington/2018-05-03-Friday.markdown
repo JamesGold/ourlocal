@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title: Friday - Fish & Chip Night
+tags: [ ROTW, the-crown-and-glove-stannington ]
+
+back: /pubs/the-crown-and-glove-stannington/whats-on/
+permalink: /pubs/the-crown-and-glove-stannington/whats-on/friday.html
+
+pub_name: The Crown & Glove
+outlet_id: 680279 
+
+feat-image: friday.jpg
+img-alt: Friday at the The Crown & Glove
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+

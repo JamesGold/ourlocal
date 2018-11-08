@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Monday - Book & Board Games
+tags: [ ROTW, the-clousden-hill-killingworth ]
+
+back: /pubs/the-clousden-hill-killingworth/whats-on/
+permalink: /pubs/the-clousden-hill-killingworth/whats-on/monday.html
+
+pub_name: The Clousden Hill
+outlet_id: 680277
+
+feat-image: monday.jpg
+img-alt: Monday at the The Clousden Hill
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+
+

@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Friday Night Live and Acoustic
+tags: [ ROTW, the-clousden-hill-killingworth ]
+
+back: /pubs/the-clousden-hill-killingworth/whats-on/
+permalink: /pubs/the-clousden-hill-killingworth/whats-on/friday.html
+
+pub_name: The Clousden Hill
+outlet_id: 680277
+
+feat-image: friday.jpg
+img-alt: friday at the The Clousden Hill
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+
+

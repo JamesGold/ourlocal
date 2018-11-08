@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Monday - Quiz Night
+tags: [ ROTW, the-johnson-arms-nottingham ]
+
+back: /pubs/the-johnson-arms-nottingham/whats-on/
+permalink: /pubs/the-johnson-arms-nottingham/whats-on/monday.html
+
+pub_name: The Johnson Arms
+outlet_id: 680266
+
+feat-image: monday.jpg
+img-alt: Monday at the The Johnson Arms
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+
+
