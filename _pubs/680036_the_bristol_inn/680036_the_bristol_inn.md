@@ -40,8 +40,9 @@ herosub: to the Bristol Inn
 hero_img: Bristol-inn-bar.jpg
 
 
-xmas-menu-link: /pubs/the-bristol-inn-clevedon/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-bristol-inn-clevedon/christmas/christmas-fayre-menu.html
+promo-menu-link:
+
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

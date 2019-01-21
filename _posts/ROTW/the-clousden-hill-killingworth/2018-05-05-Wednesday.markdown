@@ -19,6 +19,8 @@ img-alt2:
 
 <h2>Join us for our {{ page.title }}</h2>
 
+Join us for Steak night. Two steaks and a bottle of wine for just £25
+
 
 
 

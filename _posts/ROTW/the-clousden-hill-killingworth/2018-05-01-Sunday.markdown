@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title: Sunday Lunch and Sunday Sessions
+title: Sunday Lunch and Sunday Social
 tags: [ ROTW, the-clousden-hill-killingworth ]
 
 back: /pubs/the-clousden-hill-killingworth/whats-on/
@@ -18,8 +18,8 @@ img-alt2:
 ---
 
 <h2>Join us for our {{ page.title }}</h2>
-Bring your own vinyl for our Sunday sessions!
 
+Sunday lunch 12:00 - 17:00. Sunday Sessions 18:00 - 21:00 
 
 
 

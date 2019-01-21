@@ -39,8 +39,8 @@ herosub: to The Johnson Arms
 hero_img: placeholder3.jpg
 
 
-xmas-menu-link: /pubs/the-johnson-arms-nottingham/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-johnson-arms-nottingham/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

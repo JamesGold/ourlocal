@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title: Friday Night Live and Acoustic
+title: Friday Night - Fish and Fizz
 tags: [ ROTW, the-clousden-hill-killingworth ]
 
 back: /pubs/the-clousden-hill-killingworth/whats-on/
@@ -20,6 +20,7 @@ img-alt2:
 <h2>Join us for our {{ page.title }}</h2>
 
 
+Join us for Fish and Fizz. Two fish and chips with a bottle of house wine or Prosecco for just £25
 
 
 

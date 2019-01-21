@@ -39,8 +39,8 @@ herosub: to The Woolpack
 hero_img: DA_THE_WOOLPACK_LEEDS.jpg
 
 
-xmas-menu-link: /pubs/the-woolpack-yeadon/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-woolpack-yeadon/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

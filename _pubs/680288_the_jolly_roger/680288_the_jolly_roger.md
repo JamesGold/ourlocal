@@ -39,8 +39,8 @@ herosub: to The Jolly Roger
 hero_img: Punch-TheJollyRoger-106.jpg
 
 
-xmas-menu-link: /pubs/the-jolly-roger-gosport/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-jolly-roger-gosport/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

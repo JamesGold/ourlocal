@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title:  "Thursday - Supper Club"
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Thursday, the-royal-oak-kinnerton ]
+back: /pubs/the-royal-oak-kinnerton/whats-on/
+permalink: /pubs/the-royal-oak-kinnerton/whats-on/thursday.html
+pubname: The Royal Oak
+outlet_id: 680273
+
+feat-image: thursday.jpg
+img-alt: Thursday at The Royal Oak
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+<p>2 Steaks & Bottle of Wine £30</p>

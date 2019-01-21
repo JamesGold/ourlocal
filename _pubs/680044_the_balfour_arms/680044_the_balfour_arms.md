@@ -38,8 +38,8 @@ heromain: The Balfour Arms
 herosub: welcomes you
 hero_img: frontage-1200x639.jpg
 
-xmas-menu-link: /pubs/the-balfour-arms-sidmouth/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-balfour-arms-sidmouth/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

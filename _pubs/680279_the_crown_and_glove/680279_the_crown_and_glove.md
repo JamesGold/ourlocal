@@ -39,8 +39,8 @@ herosub: to The Crown & Glove
 hero_img: crown1.jpg
 
 
-xmas-menu-link: /pubs/the-crown-and-glove-stannington/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-crown-and-glove-stannington/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

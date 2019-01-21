@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+     {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.6217105,
+		53.7411233
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00 - 23:00", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Oak", 
+        "phone": "01254 490892",
+        "web": "<a href=\"#680306\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+

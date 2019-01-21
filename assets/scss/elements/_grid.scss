@@ -1,33 +1,24 @@
-//test breakpoint scss
-//$break-1: 28.125em; /* 450px / 16px = 28.125em */
-//$break-2: 35em; /* 560px / 16px = 35em */
-//$break-3: 48em; /* 768px / 16px = 48em */
-//$break-4: 56em; /* 896px  / 16px = 56em */
-//$break-5: 76.5em; /* 1224px / 16px = 76.5em */ 
-
-
-@keyframes fader {
-  0%   { opacity: 0; }
-  100% { opacity: 1; }
-  	}  	  	
 html{	
 	box-sizing: border-box;
 	word-break: normal;
 	transition: all .5s;
 	font-size:100%;
 	transition: all .8s;
-	}
-		
-body{ 	
-	font-size:16px;
-	@include breakpoint(break1) {font-size:1.1rem;}
-	@include breakpoint(break2) {font-size:1.2rem;}
-	@include breakpoint(break3) {font-size:1.25rem;}
-	@include breakpoint(break4) {font-size:1.3rem;} 
-	@include breakpoint(break5) {font-size:1.4rem;} 
 	}	
-	
-								
+@keyframes fader {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+  	}		
+  	
+ 
+ body{ 	
+	font-size:16px;
+	@include breakpoint(break1) {font-size:1.1em;}
+	@include breakpoint(break2) {font-size:1.2em; }
+	@include breakpoint(break3) {font-size:1.25em; }
+	@include breakpoint(break4) {font-size:1.3em; } 
+	@include breakpoint(break5) {font-size:1.4em; } 
+	}								
 .container,
 .footercontent,
 .promo-block,
@@ -43,12 +34,13 @@ body{
 .signup-container,
 .privacy-container
 	{
+	width: 96%;
 	max-width: 96%;
 	margin: 3em auto 0;
-	//border: 1px solid #eee; //for testing	
+	//border: 1px solid #ff009e; //for testing	
 	@include breakpoint(break1) {max-width:96%;}
 	@include breakpoint(break2) {max-width:90%;}
-	@include breakpoint(break3) {max-width:85%;}
+	@include breakpoint(break3) {width: 85%; max-width:85%; }
 	@include breakpoint(break4) {max-width:85%;}
 	@include breakpoint(break5) {max-width:85%;}	
 	}	
@@ -72,18 +64,16 @@ img {max-width: 100%;
 		grid-template-columns: 1fr 1fr 1fr;
 		grid-column-gap: 1.5em;
 		}						
-}
-.footercontent {
-		
+	}
+	
+	
+.footercontent {		
 	@include breakpoint(break4) {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
 		grid-column-gap: 1.5em;
 		}						
-}
-
-
-
+	}
 
 .menu-header, .section-header {
 	
@@ -97,9 +87,7 @@ img {max-width: 100%;
 		grid-template-columns: 2fr 1fr;
 		grid-column-gap: 2em;
 		}						
-}
-
-
+	}
 
 .section-header.find-pub-header {
 	
@@ -113,12 +101,11 @@ img {max-width: 100%;
 		grid-template-columns: 1fr 1fr;
 		grid-column-gap: 2em;
 		}						
-}
+	}
 
 .section {
 	@include breakpoint(break5) {margin-top: -2em; padding-top: 2em;}
-
-}
+	}
 
 
 .pubs { 
@@ -141,7 +128,7 @@ img {max-width: 100%;
 		}
 				
 	}
-//// backgrounds
+
 
 .fullbg{ 
 	width: 100%;
@@ -164,7 +151,4 @@ img {max-width: 100%;
 
 			}		
 	}
-}		
-
-
-	
+}

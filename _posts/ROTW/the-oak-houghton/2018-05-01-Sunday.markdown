@@ -1,0 +1,23 @@
+---
+layout: rotw-post
+title: Sunday Lunch and Our Sunday Evening Quiz
+tags: [ ROTW, the-oak-hoghton ]
+
+back: /pubs/the-oak-hoghton/whats-on/
+permalink: /pubs/the-oak-hoghton/whats-on/sunday.html
+
+pub_name: The Oak
+outlet_id: 680306
+
+feat-image: sunday.jpg
+img-alt: sunday at the The Oak
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+<p>Sunday Lunch available from 12 noon</p>
+<p>Sunday Night Quiz from 8.00pm</p>

@@ -39,8 +39,8 @@ herosub: to The Masons Arms
 hero_img: Masons_frontage.jpg
 
 
-xmas-menu-link: /pubs/the-masons-arms-frome/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-masons-arms-frome/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

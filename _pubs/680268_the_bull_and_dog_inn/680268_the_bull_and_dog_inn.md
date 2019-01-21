@@ -38,8 +38,8 @@ heromain: Welcome
 herosub: to The Bull &amp; Dog
 hero_img: bullanddogbar.jpg
 
-xmas-menu-link: /pubs/the-bull-and-dog-inn-ormskirk/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-bull-and-dog-inn-ormskirk/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

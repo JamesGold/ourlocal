@@ -39,8 +39,8 @@ herosub: to The Griffin
 hero_img: Punch-TheGriffin-106.jpg
 
 
-xmas-menu-link: /pubs/the-griffin-mynydd-isa/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-griffin-mynydd-isa/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

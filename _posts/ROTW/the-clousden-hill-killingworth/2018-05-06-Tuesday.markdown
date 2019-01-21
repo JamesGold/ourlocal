@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title: Tuesday - Quiz Night
+title: Tuesday - Buskers Night
 tags: [ ROTW, the-clousden-hill-killingworth ]
 
 back: /pubs/the-clousden-hill-killingworth/whats-on/

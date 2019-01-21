@@ -1,3 +1,4 @@
+,,,,,,,,
 Course,MenuSection,MenuSectionDescription,DishName,DishDescription,Options-why-not-add,Price,HighlightYes,AdditionalClass
 Our Sunday Roast,,,,,,,,
 ,,1 course for <strong>£10.45</strong> | 2 courses for <strong>£12.45</strong>  | 3 courses for <strong>£14.45</strong> ,,,,,,
@@ -7,10 +8,12 @@ Our Sunday Roast,,,,,,,,
 ,,,BRUSCHETTA (v),"With a topping of chopped beef tomato,
 red onion and a drizzle of basil oil",,,,
 ,Mains,,,,,,,
-,,,PLEASE ASK YOUR SERVER FOR TODAY’S ROAST MEATS AND VEGETARIAN OPTIONS.  ,"Served with all the trimmings - Yorkshire pudding, seasonal vegetables, roast and mashed potatoes and gravy",WHY NOT TRY OUR MAIN COURSE SUNDAY LUNCH PLATTER FOR TWO  £21.95,,Y,spanthegrid
-,,,,,Pigs in blankets £2.45,,,
-,,,,,Yorkshire pudding 75p,,,
-,,,,,Cauliflower cheese £3.25,,,
+,,PLEASE ASK YOUR SERVER FOR TODAY’S ROAST MEATS AND VEGETARIAN OPTIONS.  ,,,,,,
+,,,SUNDAY LUNCH,"Served with all the trimmings - Yorkshire pudding, seasonal vegetables, roast and mashed potatoes and gravy",,,Y,spanthegrid
+,,,SUNDAY LUNCH PLATTER FOR TWO ,,,£21.95,,spanthegrid
+,,,,,Add: Pigs in blankets £2.45,,,
+,,,,,Add: Yorkshire pudding 75p,,,
+,,,,,Add: Cauliflower cheese £3.25,,,
 ,Desserts,,,,,,,
 ,,,BAKEWELL TART (v) (ve) (gf),Traditional tart with coconut ice cream,,,,
 ,,,ULTIMATE BROWNIE FUDGE CAKE (v),"Chocolate brownie, salted caramel and chocolate fudge,

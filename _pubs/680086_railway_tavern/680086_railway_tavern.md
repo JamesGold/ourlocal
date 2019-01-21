@@ -39,8 +39,8 @@ heromain: Welcome
 herosub: to The Railway Tavern
 hero_img: railway-bar.jpg
 
-xmas-menu-link: /pubs/the-railway-tavern-charfield/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-railway-tavern-charfield/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

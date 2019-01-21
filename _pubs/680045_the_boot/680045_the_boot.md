@@ -38,8 +38,8 @@ heromain: Welcome
 herosub: to The Boot
 hero_img: placeholder3.jpg
 
-xmas-menu-link: /pubs/the-boot-northop/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-boot-northop/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 ---

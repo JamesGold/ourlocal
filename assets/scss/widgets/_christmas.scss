@@ -1,5 +1,3 @@
-//christmas
-
 
 body.christmas {
 	background: url(/assets/img/menutexture-dk.jpg) left top;
@@ -38,6 +36,19 @@ body.christmas {
 		grid-column-gap: 1.5em;
 		}						
 }
+
+
+
+
+.container.christmastext{
+
+	@include breakpoint(break4) {
+		display: flex;
+		justify-content:  space-around;
+
+		}						
+}
+
 
 
 

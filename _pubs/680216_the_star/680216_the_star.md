@@ -39,8 +39,8 @@ heromain: Welcome
 herosub: to The Star
 hero_img: StarInn-frontage-2.jpg
 
-xmas-menu-link: /pubs/the-star-newton-abbot/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-star-newton-abbot/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 

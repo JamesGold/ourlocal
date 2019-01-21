@@ -41,8 +41,8 @@ heromain: Welcome
 herosub: to The Abbey
 hero_img: The-Abbey-BAR.jpg
 
-xmas-menu-link: /pubs/the-abbey-sheffield/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-abbey-sheffield/christmas/christmas-fayre-menu.html
+promo-menu-link: sunday.html
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 ---

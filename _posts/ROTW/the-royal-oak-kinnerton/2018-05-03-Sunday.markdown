@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title:  "Sunday - Sunday Lunch"
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Sunday, the-royal-oak-kinnerton ]
+back: /pubs/the-royal-oak-kinnerton/whats-on/
+permalink: /pubs/the-royal-oak-kinnerton/whats-on/sunday.html
+pubname: The Royal Oak
+outlet_id: 680273
+
+feat-image: sunday.jpg
+img-alt: Sunday at The Royal Oak
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+<p>Available from 12 noon</p>

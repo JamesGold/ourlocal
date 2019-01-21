@@ -38,13 +38,12 @@ heromain: Welcome
 herosub: to The Star
 hero_img: Star-front.jpg
 
-xmas-menu-link: /pubs/the-star-mansfield-woodhouse/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-star-mansfield-woodhouse/christmas/christmas-fayre-menu.html
+promo-menu-link: sunday.html
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
 
 ---
-
 
 **At the Star in Mansfield Woodhouse, we pride ourselves on being the very best local that caters for all your needs in a warm and relaxed environment.**
 

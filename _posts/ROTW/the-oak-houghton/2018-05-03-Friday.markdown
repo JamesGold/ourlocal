@@ -1,0 +1,24 @@
+---
+layout: rotw-post
+title: Friday Night - Fish and Fizz
+tags: [ ROTW, the-oak-hoghton ]
+
+back: /pubs/the-oak-hoghton/whats-on/
+permalink: /pubs/the-oak-hoghton/whats-on/friday.html
+
+pub_name: The Oak
+outlet_id: 680306
+
+feat-image: friday.jpg
+img-alt: friday at the The Oak
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+<p>Join us for Fish and Fizz. Two fish and chips with a bottle of house wine or Prosecco for just £30</p>
+
+
+
