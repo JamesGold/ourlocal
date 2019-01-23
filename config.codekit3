@@ -10054,13 +10054,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/_site/assets/style.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/assets/style.css.map",
-		"oF": 0
-		},
 	"/_site/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -12509,6 +12502,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/680268_the_bull_and_dog_inn/whats-on/680268_whatson.html",
+		"oF": 0
+		},
+	"/_site/pubs/680273_the_royal_oak/680273_the_royal_oak.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680273_the_royal_oak/680273_the_royal_oak.html",
 		"oF": 0
 		},
 	"/_site/pubs/680273_the_royal_oak/about/680273_about.html": {
