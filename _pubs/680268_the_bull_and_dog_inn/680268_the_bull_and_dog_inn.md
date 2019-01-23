@@ -39,9 +39,13 @@ herosub: to The Bull &amp; Dog
 hero_img: bullanddogbar.jpg
 
 promo-menu-link:
-secondary-promo-menu-link:
+secondary-promo-menu-link: 
 
 promo-block-1: new-menu
+promo-block-2: valentine25
+promo-block-3: 
+
+
 
 ---
 

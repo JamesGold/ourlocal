@@ -14,7 +14,7 @@ pub_nav: TheClousdenHill
 
 pub_map: clousdenhill.js
 pub_map_json: clousdenhill.json
-wall_id:
+wall_id: 36822
 
 pub_addressStreet: Killingworth Road
 pub_addressLocality: Killingworth
@@ -43,6 +43,9 @@ promo-menu-link:
 secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: valentine25
+promo-block-3: 
+
 
 
 ---

@@ -96,18 +96,19 @@
 			</div><!-- eof full bg-->	
 			
 			
+			{% if pubdetails.promo-block-3 %}   
+			{% include promo-block-3.html %}  
+			{% endif %}
+			{% if pubdetails.promo-block-2 %}   
+			{% include promo-block-2.html %}  
+			{% endif %}
 			{% if pubdetails.promo-block-1 %}   
 			{% include promo-block.html %}  
-			{% endif %} 			
-			
-					 
+			{% endif %} 						
 			{% if page.wall_id %}
 				{% include socialwall-block.html %}
 			{% endif %}
-	
-									
 			{% include signup.html %}
-
 			{% include pubfooter.html %}
 			{% include GTM.html %}
 

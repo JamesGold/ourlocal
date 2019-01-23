@@ -38,6 +38,13 @@ heromain: Welcome
 herosub: to the Jolly Sportsman
 hero_img: TheJollySportsman-front.jpg
 
+promo-block-1:
+promo-block-2: 
+promo-block-3: 
+
+
+
+
 ---
 
 

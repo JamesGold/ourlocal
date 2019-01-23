@@ -67,7 +67,7 @@
 			
 			{% if food.DishName or food.Options-why-not-add %}
 			<div class="dish {{ food.HighlightYes }} {{ food.AdditionalClass }}">
-				<p><span class="dishhead {{ food.AdditionalClass }}">{{ food.DishName }}</span><br />		
+				<p><span class="dishhead ">{{ food.DishName }}</span><br />		
 				{{ food.DishDescription }}<br />		
 				<span class="price">{{ food.Price }}</span></p>
 				{% if food.Options-why-not-add %}<p class="dish-highlight">{{ food.Options-why-not-add }}</p>{% endif %}

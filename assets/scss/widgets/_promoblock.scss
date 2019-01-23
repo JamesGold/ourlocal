@@ -1,18 +1,18 @@
 .promo-block{
-	
+		
 		display: flex;
 		flex-direction: column-reverse;
 		flex-wrap: wrap;
 		justify-content: space-between;
-
+		margin-top: 0em;
+		
 		@include breakpoint(break1) {}
 		@include breakpoint(break2) {}
 		@include breakpoint(break3) {flex-direction: row;flex-wrap: nowrap;}
 		@include breakpoint(break4) {}
 		@include breakpoint(break5) {}
 		@include breakpoint(break6) {}
-		
-		
+			
 	
 	.textarea {
 			color: #fff;
@@ -24,9 +24,7 @@
 		@include breakpoint(break2) {}
 		@include breakpoint(break3) {padding: 1em 1em 1em 0em; max-width: calc(60% - 2em);}
 		@include breakpoint(break4) {}
-		@include breakpoint(break5) {
-			max-width:calc(50% - 2em);
-			}
+		@include breakpoint(break5) {max-width:calc(50% - 2em);}
 		@include breakpoint(break6) {}
 
 		
@@ -51,11 +49,119 @@
 		width:100%;
 		height: 12em;
 		
+		
+		
 		@include breakpoint(break3) {
-		height: auto;
-			
-		}
+		height: auto;}		
 	}
 }	
 
+
+
 	
+.fullbg.valentine19 {
+			background-image:
+			url(/assets/img/valentineBG.jpg);
+			
+			background-position:
+			 left top; 
+			background-repeat:
+			repeat;
+			background-size: contain,
+			40%;
+			
+			@include breakpoint(break4) {
+			background-image:
+			url(/assets/img/valentine19.png),
+			url(/assets/img/valentineBG.jpg);
+			
+			background-position:
+			 right center, 
+			 left top; 
+			background-repeat:
+			no-repeat, 
+			repeat;
+			background-size:
+			contain,			
+			40%;
+			}
+			
+					
+		.promo-block{
+	
+		display: flex;
+		flex-direction: column-reverse;
+		flex-wrap: wrap;
+		justify-content: space-between;
+
+		@include breakpoint(break1) {}
+		@include breakpoint(break2) {}
+		@include breakpoint(break3) {flex-direction: row;flex-wrap: nowrap;}
+		@include breakpoint(break4) {}
+		@include breakpoint(break5) {}
+		@include breakpoint(break6) {}
+		
+		
+		
+		.bgimg.valentine {
+			display: none;
+			}
+			
+	
+	.textarea {
+			color: #fff;
+			margin: 0 0 0 0em;
+			padding: 1em 0em;
+			font-size: 1.4em;
+			max-width: 100%;
+			width: 100%;
+			text-align: center;
+
+
+		@include breakpoint(break1) {}
+		@include breakpoint(break2) {}
+		@include breakpoint(break3) {padding: 1em 1em 1em 0em; }
+		@include breakpoint(break4) {text-align: left;}
+		@include breakpoint(break5) {text-align: center; max-width: 80%;}
+		@include breakpoint(break6) {}
+		
+		a {color: #fff;}
+
+		
+		h2{ 
+			font-family: $display-font;
+			font-size: 4rem;
+			font-weight: 200;	
+			line-height:1em;
+			padding: 0;
+			margin:0 0 .325em;
+			
+			 span.pink {display: block;			 			
+				 	@include breakpoint(break6) {display: inline;}
+			 }
+			 
+			 
+			 @include breakpoint(break4) {font-size: 5rem;}
+			 @include breakpoint(break5) {font-size: 6rem;}
+			 
+			 
+			
+			}
+			
+			
+		.pink {color: #f27682;}	
+		
+		p{margin: 0 0 .625rem;
+			&:last-of-type {margin-bottom: 0;}
+			}
+		
+		
+		button.buttoncta {background: #f27682; padding: 1em 2em; color: black; margin: 1em 0;
+			a {color: #333;}
+		}
+		
+		
+		}
+	
+	}			
+}		

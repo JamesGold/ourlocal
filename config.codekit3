@@ -835,6 +835,13 @@
 		"oAP": "/_includes/promo-block-2.html",
 		"oF": 0
 		},
+	"/_includes/promo-block-3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_includes/promo-block-3.html",
+		"oF": 0
+		},
 	"/_includes/promo-block-xmas.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -945,13 +952,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_layouts/htmlbasepub.html",
-		"oF": 0
-		},
-	"/_layouts/htmlbasepub2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_layouts/htmlbasepub2.html",
 		"oF": 0
 		},
 	"/_layouts/htmlbasepubmain2.html": {
@@ -1379,13 +1379,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_posts/ROTW/the-crown-and-glove-stannington/2018-05-02-Saturday.markdown",
-		"oF": 0
-		},
-	"/_posts/ROTW/the-crown-and-glove-stannington/2018-05-03-Friday.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_posts/ROTW/the-crown-and-glove-stannington/2018-05-03-Friday.markdown",
 		"oF": 0
 		},
 	"/_posts/ROTW/the-crown-and-glove-stannington/2018-05-04-Thursday.markdown": {
@@ -4108,14 +4101,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn_home.html": {
+	"/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn_home.html",
+		"oAP": "/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn.html",
 		"oF": 0
 		},
-	"/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn_home.md": {
+	"/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -4124,7 +4117,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn_home.html",
+		"oAP": "/_pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -9185,6 +9178,61 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/assets/img/valentine.jpg": {
+		"ft": 16384,
+		"iS": 69428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/valentine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/valentine19-flip.png": {
+		"ft": 32768,
+		"iS": 830318,
+		"oA": 0,
+		"oAP": "/_site/assets/img/valentine19-flip.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/img/valentine19.jpg": {
+		"ft": 16384,
+		"iS": 69428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/valentine19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/img/valentine19.png": {
+		"ft": 32768,
+		"iS": 662341,
+		"oA": 0,
+		"oAP": "/_site/assets/img/valentine19.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/img/valentineBG.jpg": {
+		"ft": 16384,
+		"iS": 20627,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/valentineBG.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/assets/img/wine.jpg": {
 		"ft": 16384,
 		"iS": 82725,
@@ -9936,16 +9984,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/_site/assets/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_site/assets/main-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/_site/assets/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -10015,6 +10053,13 @@
 		"oAP": "/_site/assets/style-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/_site/assets/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/assets/style.css.map",
+		"oF": 0
 		},
 	"/_site/bower.json": {
 		"ft": 524288,
@@ -11412,11 +11457,11 @@
 		"oAP": "/_site/pubs/680152_the_shire_oak/whats-on/680152_whatson.html",
 		"oF": 0
 		},
-	"/_site/pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn_home.html": {
+	"/_site/pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/_site/pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn_home.html",
+		"oAP": "/_site/pubs/680178_the_hawthorn_inn/680178_the_hawthorn_inn.html",
 		"oF": 0
 		},
 	"/_site/pubs/680178_the_hawthorn_inn/assets/Hawthorn-fireplace.jpg": {
@@ -12464,13 +12509,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/680268_the_bull_and_dog_inn/whats-on/680268_whatson.html",
-		"oF": 0
-		},
-	"/_site/pubs/680273_the_royal_oak/680273_the_royal_oak.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/680273_the_royal_oak/680273_the_royal_oak.html",
 		"oF": 0
 		},
 	"/_site/pubs/680273_the_royal_oak/about/680273_about.html": {
@@ -14286,13 +14324,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/the-crown-and-glove-stannington/index.html",
-		"oF": 0
-		},
-	"/_site/pubs/the-crown-and-glove-stannington/whats-on/friday.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/the-crown-and-glove-stannington/whats-on/friday.html",
 		"oF": 0
 		},
 	"/_site/pubs/the-crown-and-glove-stannington/whats-on/index.html": {
@@ -17106,6 +17137,61 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/valentine.jpg": {
+		"ft": 16384,
+		"iS": 69428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/valentine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/valentine19-flip.png": {
+		"ft": 32768,
+		"iS": 830318,
+		"oA": 0,
+		"oAP": "/assets/img/valentine19-flip.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/valentine19.jpg": {
+		"ft": 16384,
+		"iS": 69428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/valentine19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/valentine19.png": {
+		"ft": 32768,
+		"iS": 662341,
+		"oA": 0,
+		"oAP": "/assets/img/valentine19.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/valentineBG.jpg": {
+		"ft": 16384,
+		"iS": 20627,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/valentineBG.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/wine.jpg": {
 		"ft": 16384,
 		"iS": 82725,
@@ -17969,6 +18055,13 @@
 		"oAP": "/assets/raw/-MenuNumbers/AW18/PB2/ChildrensMenu-priceband2.numbers",
 		"oF": 0
 		},
+	"/assets/raw/-MenuNumbers/AW18/PB2/Main-Menu-priceband2.numbers": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/raw/-MenuNumbers/AW18/PB2/Main-Menu-priceband2.numbers",
+		"oF": 0
+		},
 	"/assets/raw/-MenuNumbers/AW18/PB2/MainMenu-priceband2.numbers": {
 		"cB": 0,
 		"ft": 8192,
@@ -18612,6 +18705,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/assets/raw/supperclub.psd",
+		"oF": 0
+		},
+	"/assets/raw/valentine19.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/raw/valentine19.psd",
+		"oF": 0
+		},
+	"/assets/raw/valentineBG.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/assets/raw/valentineBG.psd",
 		"oF": 0
 		},
 	"/assets/raw/Wine menu.html": {
