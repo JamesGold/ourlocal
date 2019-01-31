@@ -10,7 +10,7 @@ pub_assets_url: /pubs/680124_the_red_lion/assets/
 title: Welcome to The Red Lion
 
 pub_name: The Red Lion
-pub_nav: TheRedLion
+pub_nav: RedLionBurley
 
 pub_map: redlion.js
 pub_map_json: redlion.json

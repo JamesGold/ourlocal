@@ -439,9 +439,82 @@
         "web": "<a href=\"#680191\" class=\"viewit\">View this Pub</a>"
 
       }
-    },   
+    }, 
+ 
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.7485133,
+		53.9139379
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Red Lion", 
+        "web": "<a href=\"#680323\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },     
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-3.489983,
+		50.675424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Royal Oak", 
+        "web": "<a href=\"#680310\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },      
     
       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.0238267,
+		55.7864215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "Meadow House", 
+        "web": "<a href=\"#680319\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },  
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.9115274,
+		55.3101546
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Queens Head", 
+        "web": "<a href=\"#680320\" class=\"viewit\">View this Pub</a>"
+
+      }
+    },        
+     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
@@ -460,9 +533,7 @@
 
       }
     }
-
-
-
+    
     ]
 }
 
