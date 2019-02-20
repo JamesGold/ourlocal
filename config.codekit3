@@ -1927,13 +1927,6 @@
 		"oAP": "/_posts/ROTW/the-woolpack-yeadon/2018-05-04-Thursday.markdown",
 		"oF": 0
 		},
-	"/_pubs/680022_the_star/680022_the_star.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680022_the_star/680022_the_star.html",
-		"oF": 0
-		},
 	"/_pubs/680022_the_star/680022_the_star.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2219,13 +2212,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/_pubs/680036_the_bristol_inn/680036_the_bristol_inn.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_pubs/680036_the_bristol_inn/680036_the_bristol_inn.html",
-		"oF": 0
 		},
 	"/_pubs/680036_the_bristol_inn/680036_the_bristol_inn.md": {
 		"cB": 0,
@@ -10942,6 +10928,20 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/christmas/christmas-day-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/christmas/christmas-day-menu.html",
+		"oF": 0
+		},
+	"/_site/christmas/christmas-fayre-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/christmas/christmas-fayre-menu.html",
+		"oF": 0
+		},
 	"/_site/christmas/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -11461,13 +11461,6 @@
 		"oAP": "/_site/privacy/index.html",
 		"oF": 0
 		},
-	"/_site/pubs/680022_the_star/680022_the_star.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/680022_the_star/680022_the_star.html",
-		"oF": 0
-		},
 	"/_site/pubs/680022_the_star/about/680216_about.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -11563,13 +11556,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/680022_the_star/whats-on/680216_whatson.html",
-		"oF": 0
-		},
-	"/_site/pubs/680036_the_bristol_inn/680036_the_bristol_inn.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_site/pubs/680036_the_bristol_inn/680036_the_bristol_inn.html",
 		"oF": 0
 		},
 	"/_site/pubs/680036_the_bristol_inn/about/680036_about.html": {

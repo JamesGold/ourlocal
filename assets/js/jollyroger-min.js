@@ -1,9 +1,10 @@
 ---
-lat: 50.8021929
-lng: -1.0677336
+lat: 50.8118571
+lng: -1.1327795
 pub_map_json: jollyroger.json
 
 ---
+
 
 const mapStyle = [
   {
