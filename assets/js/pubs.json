@@ -513,7 +513,27 @@
         "web": "<a href=\"#680320\" class=\"viewit\">View this Pub</a>"
 
       }
-    },        
+    }, 
+    
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.761491,
+		52.697922
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "Red Barn", 
+        "web": "<a href=\"#680072\" class=\"viewit\">View this Pub</a>"
+
+      }
+     },
+           
      {
       "geometry": {
         "type": "Point", 
@@ -532,13 +552,29 @@
         "web": "<a href=\"#680306\" class=\"viewit\">View this Pub</a>"
 
       }
+    },
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.1571025,
+		51.9937363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "11:00 - 23:00", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "Nottingham Arms", 
+        "phone": "01684 276346",
+        "web": "<a href=\"#680318\" class=\"viewit\">View this Pub</a>"
+
+      }
     }
     
     ]
 }
-
-
-
 
 
 

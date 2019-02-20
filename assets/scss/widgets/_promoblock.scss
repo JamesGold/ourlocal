@@ -164,4 +164,145 @@
 		}
 	
 	}			
-}		
+}
+
+
+
+
+.fullbg.pieweek19 {
+			background-image:
+			url(/assets/img/adverts/nearblack50x50.jpg);
+			
+			
+			@include breakpoint(break4) {
+			background-image:
+			url(/assets/img/adverts/piewkpie.jpg),
+			url(/assets/img/adverts/nearblack50x50.jpg);
+			
+			background-position:
+			 right bottom, 
+			 left top; 
+			background-repeat:
+			no-repeat, 
+			repeat;
+			background-size:
+			50%,			
+			100%;
+			}
+			
+					
+		.promo-block{
+	
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		justify-content: space-between;
+
+		@include breakpoint(break1) {}
+		@include breakpoint(break2) {}
+		@include breakpoint(break3) {flex-direction: row;flex-wrap: nowrap;}
+		@include breakpoint(break4) {}
+		@include breakpoint(break5) {}
+		@include breakpoint(break6) {}
+		
+		
+		
+		.draw{
+			display: flex;
+			flex-direction: column;
+			justify-content: space-around;
+			padding: 1.4em;
+			margin: 1em 1em;
+			border: 6px solid #592f7d;
+			background: rgba(89, 47, 126, 0.3);
+			
+			h3 {
+				font-family: $display-font;
+				font-size: 4rem;
+				font-weight: 200;	
+				line-height:1em;
+				padding: 0;
+				margin:0 0 .325em;
+				color: #ffff; // #592f7d;
+				}
+			
+			p {background: rgba(255, 255, 255, 0.7); padding: .3em 1em;
+				
+				&:last-child {padding-bottom: 0; margin-bottom: 0;}
+				}
+			
+			
+			}
+			
+			
+		
+	
+	.textarea {
+			color: #fff;
+			margin: 0 0 0 0em;
+			padding: 1em 0em;
+			font-size: 1.4em;
+			max-width: 100%;
+			width: 100%;
+			text-align: center;
+			
+			
+
+
+
+		@include breakpoint(break1) {}
+		@include breakpoint(break2) {}
+		@include breakpoint(break3) {padding: 1em 1em 1em 0em; }
+		@include breakpoint(break4) {text-align: left; max-width: 55%;}
+// 		@include breakpoint(break5) {text-align: center; max-width: 80%;}
+		@include breakpoint(break6) {}
+		
+		a {color: #fff;}
+		
+		button.showmepies {border-radius: 3px; border: solid 1px #d7aaff; margin-left:.0em; margin-right:.0em;} 
+		
+		button.showmepies:hover { background: rgba(215, 170, 255, 0.66); }
+
+		
+		h2{ 
+			font-family: $display-font;
+			font-size: 4rem;
+			font-weight: 200;	
+			line-height:1em;
+			padding: 0;
+			margin:0 0 .325em;
+			}
+			 
+/*
+			 
+			 @include breakpoint(break4) {font-size: 5em;}
+			 @include breakpoint(break5) {font-size: 6em;}
+*/
+			 
+			 
+			
+			}
+			
+			
+		
+		p{margin: 0 0 .625rem;
+			&:last-of-type {margin-bottom: 0;}
+			}
+		
+		
+		button.buttoncta {background: #592f7d; padding: 1em 2em; color: #eee; margin: 1em 0;
+			a {color: #fff;}
+		}
+		
+		
+		}
+	
+	}
+
+
+
+
+
+
+
+		
