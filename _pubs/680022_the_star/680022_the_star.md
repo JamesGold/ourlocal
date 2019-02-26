@@ -15,6 +15,7 @@ pub_nav: TheStarMansfield
 pub_map: thestarmansfield.js
 pub_map_json: thestarmansfield.json
 wall_id:
+matchpint_id: 16803
 
 pub_addressStreet: Warsop Road
 pub_addressLocality: Mansfield Woodhouse

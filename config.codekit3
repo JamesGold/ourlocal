@@ -611,6 +611,13 @@
 		"oAP": "/_data/pubnavs/680072RedBarn.yml",
 		"oF": 0
 		},
+	"/_data/pubnavs/680281KingsArms.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680281kingsarms.yml",
+		"oF": 0
+		},
 	"/_data/pubnavs/680310royaloak.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -868,6 +875,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_includes/mainnav.html",
+		"oF": 0
+		},
+	"/_includes/matchpint.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_includes/matchpint.html",
+		"oF": 0
+		},
+	"/_includes/opening-date.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_includes/opening-date.html",
 		"oF": 0
 		},
 	"/_includes/promo-block-2.html": {
@@ -3568,6 +3589,13 @@
 		"oAP": "/_pubs/680086_railway_tavern/food-and-drink/wine.html",
 		"oF": 0
 		},
+	"/_pubs/680086_railway_tavern/whats-on/680086_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680086_railway_tavern/whats-on/680086_whatson.html",
+		"oF": 0
+		},
 	"/_pubs/680086_railway_tavern/whats-on/680086_whatson.md": {
 		"cB": 0,
 		"cS": 0,
@@ -6223,6 +6251,13 @@
 		"oAP": "/_pubs/680261_the_masons_arms/food-and-drink/wine.html",
 		"oF": 0
 		},
+	"/_pubs/680261_the_masons_arms/whats-on/680261_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680261_the_masons_arms/whats-on/680261_whatson.html",
+		"oF": 0
+		},
 	"/_pubs/680261_the_masons_arms/whats-on/680261_whatson.md": {
 		"cB": 0,
 		"cS": 0,
@@ -6722,6 +6757,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_pubs/680266_the_johnson_arms/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680266_the_johnson_arms/whats-on/680266_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680266_the_johnson_arms/whats-on/680266_whatson.html",
 		"oF": 0
 		},
 	"/_pubs/680266_the_johnson_arms/whats-on/680266_whatson.md": {
@@ -8179,6 +8221,224 @@
 		"ft": 4096,
 		"oA": 0,
 		"oAP": "/_pubs/680279_the_crown_and_glove/whats-on/680279_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680281_the_kings_arms/680281_the_kings_arms.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/680281_the_kings_arms.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/680281_the_kings_arms.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/680281_the_kings_arms.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680281_the_kings_arms/about/680281_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/about/680281_about.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/about/680281_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/about/680281_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680281_the_kings_arms/assets/kingsarms1.jpg": {
+		"ft": 16384,
+		"iS": 109360,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/assets/kingsarms1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680281_the_kings_arms/assets/kingsarms2.jpg": {
+		"ft": 16384,
+		"iS": 88500,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/assets/kingsarms2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680281_the_kings_arms/assets/kingsarms3.jpg": {
+		"ft": 16384,
+		"iS": 115023,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/assets/kingsarms3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680281_the_kings_arms/assets/kingsarms4.jpg": {
+		"ft": 16384,
+		"iS": 65619,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/assets/kingsarms4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680281_the_kings_arms/assets/kingsarmsfrontsm.jpg": {
+		"ft": 16384,
+		"iS": 109929,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/assets/kingsarmsfrontsm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680281_the_kings_arms/find/680281_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/find/680281_find.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/find/680281_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/find/680281_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/breakfast.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/whats-on/680281_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/whats-on/680281_whatson.html",
+		"oF": 0
+		},
+	"/_pubs/680281_the_kings_arms/whats-on/680281_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/_pubs/680281_the_kings_arms/whats-on/680281_whatson.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -10454,6 +10714,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/assets/js/680281kingsarms-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680281kingsarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680281kingsarms.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680281kingsarms-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/680310royaloak-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -12568,6 +12848,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/pubs/680086_railway_tavern/whats-on/680086_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680086_railway_tavern/whats-on/680086_whatson.html",
+		"oF": 0
+		},
 	"/_site/pubs/680119_the_abbey/680119_the_abbey.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -13662,6 +13949,13 @@
 		"oAP": "/_site/pubs/680261_the_masons_arms/christmas/christmas-fayre-menu.html",
 		"oF": 0
 		},
+	"/_site/pubs/680261_the_masons_arms/whats-on/680261_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680261_the_masons_arms/whats-on/680261_whatson.html",
+		"oF": 0
+		},
 	"/_site/pubs/680262_west_town_inn/680262_the_west_town_inn.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -13855,6 +14149,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/680266_the_johnson_arms/find/680266_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680266_the_johnson_arms/whats-on/680266_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680266_the_johnson_arms/whats-on/680266_whatson.html",
 		"oF": 0
 		},
 	"/_site/pubs/680268_the_bull_and_dog_inn/680268_the_bull_and_dog_inn.html": {
@@ -14424,6 +14725,89 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/680279_the_crown_and_glove/whats-on/680279_whatson.html",
+		"oF": 0
+		},
+	"/_site/pubs/680281_the_kings_arms/680281_the_kings_arms.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/680281_the_kings_arms.html",
+		"oF": 0
+		},
+	"/_site/pubs/680281_the_kings_arms/about/680281_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/about/680281_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680281_the_kings_arms/assets/kingsarms1.jpg": {
+		"ft": 16384,
+		"iS": 109360,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/assets/kingsarms1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680281_the_kings_arms/assets/kingsarms2.jpg": {
+		"ft": 16384,
+		"iS": 88500,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/assets/kingsarms2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680281_the_kings_arms/assets/kingsarms3.jpg": {
+		"ft": 16384,
+		"iS": 115023,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/assets/kingsarms3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680281_the_kings_arms/assets/kingsarms4.jpg": {
+		"ft": 16384,
+		"iS": 65619,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/assets/kingsarms4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680281_the_kings_arms/assets/kingsarmsfrontsm.jpg": {
+		"ft": 16384,
+		"iS": 109929,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/assets/kingsarmsfrontsm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680281_the_kings_arms/find/680281_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/find/680281_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680281_the_kings_arms/whats-on/680281_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/680281_the_kings_arms/whats-on/680281_whatson.html",
 		"oF": 0
 		},
 	"/_site/pubs/680288_the_jolly_roger/680288_the_jolly_roger.html": {
@@ -16878,6 +17262,97 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_site/pubs/the-jolly-sportsman-chesham/whats-on/wednesday.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/about/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/about/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/find/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/find/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/breakfast.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-kings-arms-bradford-on-avon/whats-on/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-kings-arms-bradford-on-avon/whats-on/index.html",
 		"oF": 0
 		},
 	"/_site/pubs/the-masons-arms-frome/about/index.html": {
@@ -19471,6 +19946,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/js/680281kingsarms-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680281kingsarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680281kingsarms.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680281kingsarms-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680281kingsarms.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/js/680281kingsarms-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/assets/js/680310royaloak-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -21426,6 +21929,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/scss/widgets/_map.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/scss/widgets/_matchpint.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/scss/widgets/_matchpint.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

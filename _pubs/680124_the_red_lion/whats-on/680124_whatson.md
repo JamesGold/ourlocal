@@ -8,7 +8,9 @@ layout: PubEvents
 pub_nav: RedLionBurley
 pub_name: The Red Lion
 
-wall_id: ''
+wall_id:
+matchpint_id: 16844
+
 article_tag: the-red-lion-bozeat
 
 ---

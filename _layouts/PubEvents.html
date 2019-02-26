@@ -59,10 +59,17 @@
 				{% endfor %}
 				</ul>
 				
-			</div><!			
+				
+	
+			</div>			
 			 
 				
 		</div><!-- eof section -->
+	
+			{% if page.matchpint_id %}
+				{% include matchpint.html %}
+			{% endif %}
+				
 										
 		{% include pubfooter.html %}
 		{% include GTM.html %}

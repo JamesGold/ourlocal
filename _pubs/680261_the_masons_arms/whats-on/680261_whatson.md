@@ -9,6 +9,8 @@ pub_nav: TheMasonsArms
 pub_name: The Masons Arms
 
 wall_id:
+matchpint_id: 16867
+
 article_tag: the-masons-arms-frome
 
 ---

@@ -8,7 +8,8 @@ layout: PubEvents
 pub_nav: 680318NottinghamArms
 pub_name: The Nottingham Arms
 
-wall_id: 
+wall_id:
+matchpint_id: 
 article_tag: the-nottingham-arms-tewkesbury
 
 ---

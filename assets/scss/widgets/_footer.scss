@@ -26,10 +26,10 @@ footer{
 .cookie-notes {
 position: fixed;
 bottom:0;
-	padding: 1.4em 1.4em 1em 1.4em;
+	padding: 1.4em 1.4em 0 1.4em;
 	background: rgba(0,0,0,0.8);
-	p {color: #fff; margin-bottom: 0;}
-	button {float: right;}	
+	p {color: #fff; margin-bottom: 0; font-size:0.8em;}
+	button {float: right; margin-bottom: .2em;}	
 	
 }
 

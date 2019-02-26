@@ -15,6 +15,7 @@ pub_nav: TheGriffin
 pub_map: griffin.js
 pub_map_json: griffin.json
 wall_id:
+matchpint_id: 6449
 
 pub_addressStreet: 102 Mold Road
 pub_addressLocality: Mynydd Isa

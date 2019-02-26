@@ -9,6 +9,7 @@ pub_nav: TheJohnsonArms
 pub_name: The Johnson Arms
 
 wall_id:
+matchpint_id: 16805
 article_tag: the-johnson-arms-nottingham
 
 ---

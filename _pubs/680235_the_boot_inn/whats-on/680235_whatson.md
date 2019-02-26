@@ -9,6 +9,9 @@ pub_name: The Boot Inn
 pub_nav: BootInnSuttonColdfield
 
 article_tag: the-boot-inn-sutton-coldfield
+matchpint_id: 16779
+
+
 
 ---
 

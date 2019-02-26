@@ -8,10 +8,11 @@ layout: PubEvents
 pub_nav: 680072RedBarn
 pub_name: Red Barn
 
-wall_id: 
+wall_id:
+matchpint_id: 5443
+ 
 article_tag: red-barn-shrewsbury
 
 ---
 
-
-<p>Information coming soon, please check back later</p>
+<p>Events information coming soon, please check back later</p>

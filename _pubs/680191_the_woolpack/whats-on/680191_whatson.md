@@ -9,6 +9,8 @@ pub_nav: TheWoolpack
 pub_name: The Woolpack
 
 wall_id:
+matchpint_id: 16866
+
 article_tag: the-woolpack-yeadon
 
 ---

@@ -14,7 +14,8 @@ pub_nav: WestTownInn
 
 pub_map: westtown.js
 pub_map_json: westtown.json
-wall_id: 
+wall_id:
+matchpint_id: 16815
 
 pub_addressStreet: 52 Station Road
 pub_addressLocality: Hayling Island

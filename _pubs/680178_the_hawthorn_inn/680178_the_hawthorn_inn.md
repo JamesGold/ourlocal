@@ -13,7 +13,8 @@ pub_name: The Hawthorn Inn
 pub_nav: HawthornInnPontypridd
 pub_map: thehawthornmap.js
 pub_map_json: thehawthorn.json
-wall_id: 
+wall_id: 789000
+matchpint_id: 17030
 
 pub_addressStreet: Cardiff Road
 pub_addressLocality: Hawthorn

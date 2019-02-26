@@ -7,7 +7,9 @@ layout: PubEvents
 
 pub_name: The Hawthorn Inn
 pub_nav: HawthornInnPontypridd
-wall_id: 789000
+wall_id:
+matchpint_id: 17030
+
 article_tag: the-hawthorn-inn-pontypridd
 
 ---

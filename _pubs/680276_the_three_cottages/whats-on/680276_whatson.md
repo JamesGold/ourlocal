@@ -8,7 +8,8 @@ layout: PubEvents
 pub_nav: ThreeCottages
 pub_name: The Three Cottages
 
-wall_id: ''
+wall_id:
+matchpint_id:
 article_tag: the-three-cottages-hasland
 
 ---

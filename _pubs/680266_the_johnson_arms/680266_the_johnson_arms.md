@@ -15,6 +15,7 @@ pub_nav: TheJohnsonArms
 pub_map: johnsonarms.js
 pub_map_json: johnsonarms.json
 wall_id:
+matchpint_id: 16805
 
 pub_addressStreet: 59 Abby Street
 pub_addressLocality: Nottingham

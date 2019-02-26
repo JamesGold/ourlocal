@@ -9,6 +9,7 @@ pub_nav: TheGriffin
 pub_name: The Griffin
 
 wall_id:
+matchpint_id: 6449
 article_tag: the-griffin-mynydd-isa
 ---
 
