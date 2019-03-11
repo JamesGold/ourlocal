@@ -1,0 +1,19 @@
+<style>
+	.room-booking {background: rgba(255, 255, 255, 0.54); padding: .4em 1em; margin: 0 0 .4em 1em;  border: 1px solid rgba(0, 0, 0, 0.57); text-align: center; float: right;}
+	.room-booking p {font-family: "Rokkitt", serif; margin: 0; padding: 0; font-size: 1.4em; }
+	
+	@media only screen and (min-width : 76.5em)  { 
+			.room-booking { display: block; width: 100%; margin: 0 0 .8em 0;}
+			.room-booking p {display: inline;}
+
+		
+	} /* 1224px / 16px = 76.5em */
+  		
+
+	
+</style>	
+
+	
+		<div class="room-booking">
+			 <p>Stay with us:</p><p> <a class="button buttoncta" href="{{ pubdetails.room_booking_url }}" target="_blank">Book your room</a></p>	
+		</div>						

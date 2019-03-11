@@ -16,10 +16,10 @@ pub_map: 680281kingsarms.js
 pub_map_json: 680281kingsarms.json
 wall_id:
 
-pub_addressStreet: Farleigh Rise
-pub_addressLocality: Monkton Farleigh 
-pub_addressRegion: Bradford-on-Avon
-pub_addressPostcode: BA15 2QP
+pub_addressStreet: 42 Monkton Farleigh
+pub_addressLocality: Bradford-on-Avon 
+pub_addressRegion: UK
+pub_addressPostcode: BA15 2QH
 
 pub_email: info@kingsarmsbradford-on-avon.co.uk
 pub_phone: 01225 858705
@@ -46,9 +46,9 @@ promo-block-1: new-menu
 promo-block-2: 
 promo-block-3: 
 
-opening: March 28th
+opening: 
 
-room_booking_url: 
+room_booking_url: https://via.eviivo.com/KingsArmsBA15
 
 
 ---
@@ -64,7 +64,4 @@ We’ll make sure that the Kings Arms is somewhere you’re always relaxed, whet
 Come and visit us, drop in, feel at home… 
 
 *We look forward to seeing you soon.*
-
-
-
 

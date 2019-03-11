@@ -74,19 +74,30 @@
 
 			{% include pubnav.html %}
 			{% include pubhero.html %}
+			
+			
 											
 			<div class="fullbg section">
-				<div class="container pub-home">
+				
+				
+				
+				<div class="container pub-home">	
 					
-			
+
+							
 					
-					<div class="intro">							
+					<div class="intro">	
+						
+														{% if pubdetails.room_booking_url %} {% include room-booking.html %} {% endif %}	
+
 						
 						{{ content }}	
 			
 					</div> <!-- eof intro -->	
 						
 					<div class="intro-img">
+						
+						
 					  {% if page.pubhomepage_image1 %}<img src="{{ page.baseurl }}{{ page.pub_assets_url }}{{ page.pubhomepage_image1 }}" alt="{{ page.pubhomepage_image1_alt_text }}">{% endif %}<br />
 					  {% if page.pubhomepage_image2 %}<img src="{{ page.baseurl }}{{ page.pub_assets_url }}{{ page.pubhomepage_image2 }}" alt="{{ page.pubhomepage_image2_alt_text }}">{% endif %}
 					</div>
