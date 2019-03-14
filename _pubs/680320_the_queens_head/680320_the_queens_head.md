@@ -22,8 +22,8 @@ pub_addressRegion: Morpeth
 pub_addressPostcode: NE65 7SR
 
 
-pub_email: 
-pub_phone: 
+pub_email: info@queensheadrothbury.pub
+pub_phone: 01669 620470
 
 googlemap-link: https://www.google.com/maps/place/The+Queens+Head+Rothbury/@55.3101546,-1.9115274,17z/data=!4m12!1m6!3m5!1s0x487dfb2f63872835:0xdceb5e68a1e3967f!2sThe+Queens+Head+Rothbury!8m2!3d55.3101546!4d-1.9093334!3m4!1s0x487dfb2f63872835:0xdceb5e68a1e3967f!8m2!3d55.3101546!4d-1.9093334?hl=en-GB
 
@@ -45,7 +45,7 @@ secondary-promo-menu-link:
 
 promo-block-1: new-menu
 promo-block-2: 
-promo-block-3: 
+promo-block-3: mothersday3
 
 room_booking_url: http://securebooking.eviivo.com/mywebsite/queens_head_rothbury
 

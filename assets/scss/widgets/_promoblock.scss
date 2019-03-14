@@ -22,7 +22,7 @@
 			max-width: 100%;	
 		@include breakpoint(break1) {}
 		@include breakpoint(break2) {}
-		@include breakpoint(break3) {padding: 1em 1em 1em 0em; max-width: calc(60% - 2em);}
+		@include breakpoint(break3) {padding: 1em 1em 1em 0em; max-width: 100%;}
 		@include breakpoint(break4) {}
 		@include breakpoint(break5) {max-width:calc(50% - 2em);}
 		@include breakpoint(break6) {}
@@ -59,31 +59,32 @@
 
 
 	
-.fullbg.valentine19 {
-			background-image:
-			url(/assets/img/valentineBG.jpg);
+.fullbg.mothersday {
+		background:
+		    url(/assets/img/MothersDayRose.gif),
+	       linear-gradient(
+	       rgba(113, 163, 164, 1), 
+	       rgba(113, 163, 164, 1)
+		   );
+
 			
 			background-position:
-			 left top; 
+			bottom right,
+			bottom right;
+			
 			background-repeat:
-			repeat;
-			background-size: contain,
-			40%;
+			no-repeat;
+			
+			background-size:
+			30%,
+			contain;
 			
 			@include breakpoint(break4) {
-			background-image:
-			url(/assets/img/valentine19.png),
-			url(/assets/img/valentineBG.jpg);
-			
-			background-position:
-			 right center, 
-			 left top; 
-			background-repeat:
-			no-repeat, 
-			repeat;
-			background-size:
-			contain,			
-			40%;
+				
+				background-size:
+			20%,
+			contain;
+		
 			}
 			
 					
@@ -103,9 +104,7 @@
 		
 		
 		
-		.bgimg.valentine {
-			display: none;
-			}
+
 			
 	
 	.textarea {
@@ -120,9 +119,9 @@
 
 		@include breakpoint(break1) {}
 		@include breakpoint(break2) {}
-		@include breakpoint(break3) {padding: 1em 1em 1em 0em; }
-		@include breakpoint(break4) {text-align: left;}
-		@include breakpoint(break5) {text-align: center; max-width: 80%;}
+		@include breakpoint(break3) {padding: 1em 1em 1em 1em; max-width: 100%;}
+		@include breakpoint(break4) {}
+		@include breakpoint(break5) {text-align: center; max-width: 100%;}
 		@include breakpoint(break6) {}
 		
 		a {color: #fff;}
@@ -156,7 +155,7 @@
 			}
 		
 		
-		button.buttoncta {background: #f27682; padding: 1em 2em; color: black; margin: 1em 0;
+		button.buttoncta {background: #ffacb4; padding: 1em 2em; color: black; margin: 1em 0;
 			a {color: #333;}
 		}
 		
