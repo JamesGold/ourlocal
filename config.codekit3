@@ -11900,6 +11900,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/assets/js/680281kingsarms-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680281kingsarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/680281kingsarms.js": {
 		"bF": 0,
 		"ft": 64,
@@ -11918,6 +11929,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/680310royaloak-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680310royaloak-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/680310royaloak.js": {
 		"bF": 0,
@@ -11957,6 +11979,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/680320queenshead-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680320queenshead-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/680320queenshead.js": {
 		"bF": 0,
 		"ft": 64,
@@ -11976,6 +12009,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/balfourarms-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/balfourarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/balfourarms.js": {
 		"bF": 0,
 		"ft": 64,
@@ -11994,6 +12038,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/bootinn-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/bootinn-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/bootinn.js": {
 		"bF": 0,
@@ -12022,6 +12077,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/bristolinnmap-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/bristolinnmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/bristolinnmap.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12041,6 +12107,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/bullanddogmap-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/bullanddogmap-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/bullanddogmap.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12048,6 +12125,17 @@
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/_site/assets/js/bullanddogmap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/clousdenhill-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/clousdenhill-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 1
@@ -12070,6 +12158,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/crownglove-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/crownglove-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/crownglove.js": {
 		"bF": 0,
@@ -12101,6 +12200,17 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"/_site/assets/js/griffin-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/griffin-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/griffin.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12119,6 +12229,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/johnsonarms-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/johnsonarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/johnsonarms.js": {
 		"bF": 0,
@@ -12139,6 +12260,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/jollyroger-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/jollyroger-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/jollyroger.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12157,6 +12289,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/jollysportsman-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/jollysportsman-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/jollysportsman.js": {
 		"bF": 0,
@@ -12221,6 +12364,17 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"/_site/assets/js/masonsarms-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/masonsarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/masonsarms.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12239,6 +12393,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/nottinghamarms-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/nottinghamarms-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/nottinghamarms.js": {
 		"bF": 0,
@@ -12267,6 +12432,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/railwaytavern-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/railwaytavern-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/railwaytavern.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12286,6 +12462,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/redbarn-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/redbarn-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/redbarn.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12304,6 +12491,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/redlion-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/redlion-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/redlion.js": {
 		"bF": 0,
@@ -12346,6 +12544,17 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"/_site/assets/js/shireoak-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/shireoak-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
 	"/_site/assets/js/shireoak.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12364,6 +12573,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/_site/assets/js/starmansfield-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/starmansfield-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
 		},
 	"/_site/assets/js/starmansfield.js": {
 		"bF": 0,
@@ -18036,6 +18256,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/the-crown-and-glove-stannington/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/the-crown-and-glove-stannington/food-and-drink/mothers-day.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/the-crown-and-glove-stannington/food-and-drink/mothers-day.html",
 		"oF": 0
 		},
 	"/_site/pubs/the-crown-and-glove-stannington/food-and-drink/starters.html": {

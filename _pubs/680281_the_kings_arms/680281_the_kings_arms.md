@@ -22,7 +22,7 @@ pub_addressRegion: UK
 pub_addressPostcode: BA15 2QH
 
 pub_email: info@kingsarmsbradford-on-avon.co.uk
-pub_phone: 01225 858705
+pub_phone: 01225 858761
 
 googlemap-link: https://www.google.com/maps/place/Kings+Arms/@51.388286,-2.2824158,267m/data=!3m1!1e3!4m12!1m6!3m5!1s0x48717f42aef3335f:0xd28c2d36516a7a4a!2sKings+Arms!8m2!3d51.388256!4d-2.2824185!3m4!1s0x48717f42aef3335f:0xd28c2d36516a7a4a!8m2!3d51.388256!4d-2.2824185?hl=en-GB
 

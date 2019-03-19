@@ -49,7 +49,6 @@ promo-block-3:
 opening: Late March
 
 
-
 ---
 
 **At the Meadow House in Berwick-upon-Tweed, we pride ourselves on being the very best local that caters for all your needs in a warm and welcoming environment.**

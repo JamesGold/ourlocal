@@ -47,6 +47,8 @@ promo-block-1: new-menu
 promo-block-2: 
 promo-block-3: mothersday3
 
+opening: 11th April
+
 room_booking_url: http://securebooking.eviivo.com/mywebsite/queens_head_rothbury
 
 ---
