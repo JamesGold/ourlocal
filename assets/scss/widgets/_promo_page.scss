@@ -1,0 +1,152 @@
+body.promo-page {
+	background: url(/assets/img/menutexture-dk.jpg) left top;
+	background-size: 97%;
+	background-repeat:repeat;
+	background-attachment:fixed;
+
+	.navcontainer {
+		background: none;
+		}
+}	
+	
+
+
+.container.promopage{
+
+	@include breakpoint(break4) {
+		display: flex;
+		justify-content:  space-around;
+
+		}						
+}
+
+
+
+
+
+
+.promopage p {
+	font-size: 1.3em;
+	}
+
+
+
+
+///// menu
+
+.menu-container.promomenu { 
+	background: rgba(255, 255, 255, 0.41); 
+	border: 1px solid rgba(255, 255, 255, 0.70);
+	margin-top: 1em;
+	font-size: 1.3em;
+	line-height: .9em;
+	padding: 1em;
+	text-align: center;
+		  
+	header { padding: 1em;}			
+	.menu-title {margin-bottom: 0;}
+	.menu-subhead {margin: 0;}
+	.menu-section {padding: 1em;margin-bottom:1em; 
+
+		&.highlighted {border: 5px solid #000;}
+	}
+	
+	h2 {color: #8fb090; font-size: 3em; line-height: normal; margin: .2em;}
+	
+	button h1 {font-size: 2.2em; padding: .4em 1.2em;}
+	
+}	
+	
+	.menu-section-name {padding:.3em;}
+	
+	.promomenu .menuitemspromo {display: none;}
+	
+	.menuitems.show  {
+		display: block;
+		background: rgba(255, 255, 255, 0.80); 
+		
+		@include breakpoint(break3) { 
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+			}
+			
+	h2.spanthegrid {margin-bottom: 0;}	
+	h3.spanthegrid {width: 100%; margin-bottom: .5em; text-align: center;}		
+	
+	.spanthegrid{
+		width: 100%;
+		min-width: 100%;
+		
+		@include breakpoint(break3) {flex-basis: 100%;}
+		@include breakpoint(break5) {flex-basis: 100%;}				
+		@include breakpoint(break6) {flex-basis: 100%;}			
+
+		
+		}
+	
+	.Y, .y {
+		background: rgba(143, 176, 144, 0.41);
+		width: 100%;
+		min-width: 100%;
+		
+		@include breakpoint(break3) {flex-basis: 100%;}
+		@include breakpoint(break5) {flex-basis: 100%;}				
+		@include breakpoint(break6) {flex-basis: 100%;}			
+
+		
+		}	
+	
+	
+		.dish {
+			padding: 1em;
+		
+			&.highlighted {margin: 2px; vertical-align: center;}
+			&.menu-hero {width: 100%; min-width: 100%; max-width: 100%;}
+		
+				@include breakpoint(break3) {
+					max-width: calc(50% - 0em);
+				}
+
+				@include breakpoint(break5) {
+					max-width: calc(33.3% - 0em);
+				}
+				
+			p { line-height: 1.2em; margin-bottom: 0; padding-bottom: 0;}
+			
+			.dishhead {font-weight: bold; text-transform: uppercase; line-height: 1em; margin-bottom: 1em; margin-bottom:0;}
+			.price { font-weight: bold;}
+			
+			
+		
+		
+		} //eof dish
+
+	} // eof menu-items
+
+
+
+
+
+
+
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

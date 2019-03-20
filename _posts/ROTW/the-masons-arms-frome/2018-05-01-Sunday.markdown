@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title: Sunday Roast
+tags: [ ROTW, the-masons-arms-frome ]
+
+back: /pubs/the-masons-arms-frome/whats-on/
+permalink: /pubs/the-masons-arms-frome/whats-on/sunday.html
+
+pub_name: The Masons Arms
+outlet_id: 680261
+
+feat-image: sunday.jpg
+img-alt: Sunday at the The Masons Arms
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+ 

@@ -1,0 +1,21 @@
+---
+layout: rotw-post
+title: Sunday - Breakfast Starting from 10am. Live Sport.
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Sunday, the-griffin-mynydd-isa ]
+back: /pubs/the-griffin-mynydd-isa/whats-on/
+permalink: /pubs/the-griffin-mynydd-isa/whats-on/sunday.html
+pub_name: The Griffin
+outlet_id: 680214
+
+
+feat-image: sunday.jpg
+img-alt: Sunday at The Griffin
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>

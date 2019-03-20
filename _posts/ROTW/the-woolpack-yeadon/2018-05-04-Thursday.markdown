@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Thursday - Quiz Night
+tags: [ ROTW, the-woolpack-yeadon ]
+
+back: /pubs/the-woolpack-yeadon/whats-on/
+permalink: /pubs/the-woolpack-yeadon/whats-on/thursday.html
+
+pub_name: The Woolpack
+outlet_id: 680191
+
+feat-image: thursday.jpg
+img-alt: thursday at the The Woolpack
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+
+

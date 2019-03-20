@@ -14,6 +14,7 @@ pub_nav: TheRailwayTavern
 pub_map: railwaytavern.js
 pub_map_json: railwaytavern.json
 wall_id:
+matchpint_id: 16799
 
 pub_addressStreet: 56 Wotton Road
 pub_addressLocality: Charfield
@@ -39,10 +40,14 @@ heromain: Welcome
 herosub: to The Railway Tavern
 hero_img: railway-bar.jpg
 
-xmas-menu-link: /pubs/the-railway-tavern-charfield/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-railway-tavern-charfield/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: mothers1
+promo-block-3: 
+
+
 
 ---
 

@@ -15,6 +15,7 @@ pub_nav: TheStar
 pub_map: thestar.js
 pub_map_json: thestar.json
 wall_id:
+matchpint_id: 17031
 
 pub_addressStreet: Old Liverton Road
 pub_addressLocality: Liverton
@@ -39,10 +40,15 @@ heromain: Welcome
 herosub: to The Star
 hero_img: StarInn-frontage-2.jpg
 
-xmas-menu-link: /pubs/the-star-newton-abbot/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-star-newton-abbot/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: mothers2
+promo-block-3: 
+
+
+
 
 ---
 

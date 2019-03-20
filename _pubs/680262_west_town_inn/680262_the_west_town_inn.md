@@ -14,14 +14,15 @@ pub_nav: WestTownInn
 
 pub_map: westtown.js
 pub_map_json: westtown.json
-wall_id: 
+wall_id:
+matchpint_id: 16815
 
 pub_addressStreet: 52 Station Road
 pub_addressLocality: Hayling Island
 pub_addressRegion: UK
 pub_addressPostcode: PO11 0EL
 
-pub_email: info@westtowninnhaylingisland.co.uk
+pub_email: info@thewesttownhayling.com
 pub_phone: 0239 246 1938
 
 googlemap-link: https://www.google.com/maps/place/The+West+Town+Inn/@50.79198,-0.9939457,17z/data=!3m1!4b1!4m7!3m6!1s0x48745ba27bfb3ec9:0x1c822c227c660c0f!5m1!1s2018-09-23!8m2!3d50.79198!4d-0.991757
@@ -38,10 +39,14 @@ heromain: Welcome
 herosub: to the West Town Inn
 hero_img: west-town-inn-frontage-2.jpg
 
-xmas-menu-link: /pubs/the-west-town-inn-hayling-island/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-west-town-inn-hayling-island/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: 
+promo-block-3: 
+
+
 
 ---
 

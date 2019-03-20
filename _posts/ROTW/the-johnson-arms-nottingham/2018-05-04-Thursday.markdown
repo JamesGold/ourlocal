@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Thursday - Film Night (coming soon)
+tags: [ ROTW, the-johnson-arms-nottingham ]
+
+back: /pubs/the-johnson-arms-nottingham/whats-on/
+permalink: /pubs/the-johnson-arms-nottingham/whats-on/thursday.html
+
+pub_name: The Johnson Arms
+outlet_id: 680266
+
+feat-image: thursday.jpg
+img-alt: thursday at the The Johnson Arms
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+
+

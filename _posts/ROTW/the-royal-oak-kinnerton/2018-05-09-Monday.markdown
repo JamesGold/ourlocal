@@ -1,0 +1,23 @@
+---
+layout: rotw-post
+title:  "Monday - Quiz Night"
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Monday, the-royal-oak-kinnerton ]
+back: /pubs/the-royal-oak-kinnerton/whats-on/
+permalink: /pubs/the-royal-oak-kinnerton/whats-on/monday.html
+pubname: The Royal Oak
+outlet_id: 680273
+
+feat-image: monday.jpg
+img-alt: Monday at The Royal Oak
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+
+Quiz Night starts at 9pm. £1 per person. Jackpot Cash Prize

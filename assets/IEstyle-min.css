@@ -1,1 +1,520 @@
-.section .supp-image{display:none}.map{display:none}.pubs .pub-card img{width:100%;max-width:100%;height:auto;max-height:auto}.post-list img{width:100%;max-width:100%;height:auto;max-height:auto}.post-list li{display:inline-block;float:left;min-height:300px}.featuredcard .featureheader,.featuredcard-home .featureheader{text-align:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-ms-flex-line-pack:center;align-content:center;margin-left:1em;margin-right:1em}.featuredcard .featureheader h3,.featuredcard-home .featureheader h3{font-size:2em;padding:.5em .4em .3em;margin:0;font-weight:200;line-height:80%;background:rgba(255,255,255,0.9)}.featuredcard .featureheader p,.featuredcard-home .featureheader p{background:rgba(31,60,74,0.9);padding:.6em;color:#fff;font-size:1em}.section .menu-container .menuitems{text-align:center;display:block}* .spanthegrid{display:block;width:100%;max-width:100%}header h2{max-width:90%;margin:0}header h2 span.highlight{font-size:1em}.pub-home .intro{width:90%;margin:1em;margin-left:5%;margin-right:5%}.pub-home .intro-img{width:90%;max-width:90%;margin:1em;margin-left:5%;margin-right:5%}.news-container ul.post-list{display:block;width:100%}.article-list .news-contaier li{display:inline-block;float:left}@media only screen and (min-width: 35em){.article-list .news-container .post-list{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-line-pack:distribute;align-content:space-around;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.news-container .post-list li{width:48%;max-width:48%;margin:1% 2%;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}}@media only screen and (min-width: 48em){.pubs .pub-card{display:inline-block;float:left;max-width:48%;margin-right:5px;height:auto}.pub-home .intro{width:58%;margin:1em;margin-left:0;margin-right:2%;float:left;display:inline-block}.pub-home .intro-img{width:38%;margin:1em;margin-left:0;margin-right:0;float:right;display:inline-block}.article-list .news-container .post-list{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-line-pack:distribute;align-content:space-around;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.news-container .post-list li{width:29%;max-width:29%;margin:1% 2%;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}}@media only screen and (min-width: 56em){.pubs .pub-card{display:inline-block;float:left;max-width:30%}.section .menu-container .menuitems{text-align:center;display:block}.section .menu-container .menuitems .dish{text-align:center;display:block}.article-list .news-container .post-list{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-line-pack:distribute;align-content:space-around;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.news-container .post-list li{width:29%;max-width:29%;margin:1% 2%;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}}@media only screen and (min-width: 76.5em){.pubs .pub-card{display:inline-block;width:30%;max-width:30%;margin-right:3%}.featuredcard featureheader h3,.featuredcard-home .featureheader h3{font-size:2em}.featuredcard .featurecard-home .featureheader p{font-size:1em}.locationcard{width:100%;margin-bottom:2em}.foodcard{width:calc(50% - 1em);margin-right:2em;margin-bottom:0}.newscard{width:calc(50% - 1em);margin-right:0em;margin-bottom:0}.menu1{width:calc(50% - 1em);margin-right:2em;margin-bottom:2em}.menu2{width:calc(50% - 1em);margin-right:0em;margin-bottom:2em}.menu3{width:100%;margin-right:0em;margin-bottom:2em}.menu4{width:calc(50% - 1em);margin-right:2em;margin-bottom:2em}.menu5{width:calc(50% - 1em);margin-right:0em;margin-bottom:2em}.menu6{width:calc(50% - 1em);margin-right:2em;margin-bottom:2em}.menu7{width:calc(50% - 1em);margin-right:0em;margin-bottom:2em}.menu8{width:100%;margin-right:0em;margin-bottom:2em}.article-list .news-container .post-list{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-line-pack:distribute;align-content:space-around;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.news-container .post-list li{width:29%;max-width:29%;margin:0 2%;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}}
+/* line 34, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.section .supp-image {
+  display: none;
+}
+
+/* line 36, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.map {
+  display: none;
+}
+
+/* line 38, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.pubs .pub-card img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* line 42, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.pubs {
+  /* 450px / 16px = 28.125em */
+  /* 560px / 16px = 35em */
+  /* 768px / 16px = 48em */
+  /* 896px  / 16px = 56em */
+  /* 1224px / 16px = 76.5em */
+}
+
+@media only screen and (min-width: 35.001em) {
+  /* line 42, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .pubs {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  /* line 50, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .pubs .pub-card {
+    margin-right: 2%;
+  }
+}
+
+/* line 60, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.post-list img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: auto;
+}
+
+/* line 62, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.post-list li {
+  display: inline-block;
+  float: left;
+  min-height: 300px;
+}
+
+/* line 65, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard .featureheader,
+.featuredcard-home .featureheader {
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+/* line 76, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard .featureheader h3,
+.featuredcard-home .featureheader h3 {
+  font-size: 2em;
+  padding: .5em .4em .3em;
+  margin: 0;
+  font-weight: 200;
+  line-height: 80%;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+/* line 86, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard .featureheader p,
+.featuredcard-home .featureheader p {
+  background: rgba(31, 60, 74, 0.9);
+  padding: .6em;
+  color: #fff;
+  font-size: 1em;
+}
+
+/* line 94, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.section .menu-container .menuitems {
+  text-align: center;
+  display: block;
+}
+
+/* line 100, Users/james/Development/ourlocal/assets/IEstyle.scss */
+* .spanthegrid {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+/* line 102, Users/james/Development/ourlocal/assets/IEstyle.scss */
+header h2 {
+  max-width: 90%;
+  margin: 0;
+}
+
+/* line 103, Users/james/Development/ourlocal/assets/IEstyle.scss */
+header h2 span.highlight {
+  font-size: 1em;
+}
+
+/* line 106, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.pub-home .intro {
+  width: 90%;
+  margin: 1em;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/* line 113, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.pub-home .intro-img {
+  width: 90%;
+  max-width: 90%;
+  margin: 1em;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/* line 122, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.news-container ul.post-list {
+  display: block;
+  width: 100%;
+}
+
+/* line 127, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.article-list .news-contaier li {
+  display: inline-block;
+  float: left;
+}
+
+/* line 133, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard, .featuredcard-home {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 22em;
+  margin-bottom: 3em;
+  text-decoration: none;
+}
+
+/* line 140, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu1, .featuredcard-home.menu1 {
+  background: url(/assets/img/breakfast.jpg) right bottom no-repeat;
+}
+
+/* line 142, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu2, .featuredcard-home.menu2 {
+  background: url(/assets/img/salad.jpg) right bottom no-repeat;
+}
+
+/* line 144, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu3, .featuredcard-home.menu3 {
+  background: url(/assets/img/roastchicken.jpg) center center no-repeat;
+}
+
+/* line 146, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu4, .featuredcard-home.menu4 {
+  background: url(/assets/img/dessert.jpg) center center no-repeat;
+}
+
+/* line 148, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu5, .featuredcard-home.menu5 {
+  background: url(/assets/img/supperclub.jpg) center center no-repeat;
+}
+
+/* line 150, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu6, .featuredcard-home.menu6 {
+  background: url(/assets/img/RoastDinner.jpg) center bottom no-repeat;
+}
+
+/* line 152, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu7, .featuredcard-home.menu7 {
+  background: url(/assets/img/kids.jpg) center center no-repeat;
+}
+
+/* line 154, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu8, .featuredcard-home.menu8 {
+  background: url(/assets/img/wine.jpg) center center no-repeat;
+}
+
+/* line 156, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu9, .featuredcard-home.menu9 {
+  background: url(/assets/img/tapas.jpg) center center no-repeat;
+}
+
+/* line 158, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard.menu10, .featuredcard-home.menu10 {
+  background: url(/assets/img/salad.jpg) right bottom no-repeat;
+}
+
+@media only screen and (min-width: 35em) {
+  /* line 167, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .article-list .news-container .post-list, .container, .christmas.container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-line-pack: distribute;
+        align-content: space-around;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  /* line 175, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .news-container .post-list li {
+    width: 46%;
+    max-width: 47%;
+    margin: 1% 2%;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    background: #fff;
+  }
+  /* line 185, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .container .menucard {
+    width: 46%;
+    max-width: 47%;
+    margin: 1% 2%;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+  }
+}
+
+@media only screen and (min-width: 48em) {
+  /* line 200, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .pubs .pub-card {
+    display: inline-block;
+    float: left;
+    max-width: 48%;
+    margin-right: 5px;
+    height: auto;
+  }
+  /* 			.post-list li {display: inline-block; float: left; max-width: 48%; margin-right: 5px; min-height: 300px;}  */
+  /* line 203, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .pub-home .intro {
+    width: 58%;
+    margin: 1em;
+    margin-left: 0;
+    margin-right: 2%;
+    float: left;
+    display: inline-block;
+  }
+  /* line 212, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .pub-home .intro-img {
+    width: 38%;
+    margin: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    float: right;
+    display: inline-block;
+  }
+  /* line 221, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .article-list .news-container .post-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-line-pack: distribute;
+        align-content: space-around;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  /* line 229, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .news-container .post-list li {
+    width: 29%;
+    max-width: 29%;
+    margin: 1% 2%;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+  }
+}
+
+@media only screen and (min-width: 56em) {
+  /* line 240, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .pubs .pub-card {
+    display: inline-block;
+    float: left;
+    max-width: 30%;
+  }
+  /* line 241, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .section .menu-container .menuitems {
+    text-align: center;
+    display: block;
+  }
+  /* line 242, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .section .menu-container .menuitems .dish {
+    text-align: center;
+    display: block;
+  }
+  /* line 244, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .article-list .news-container .post-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-line-pack: distribute;
+        align-content: space-around;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  /* line 252, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .news-container .post-list li {
+    width: 29%;
+    max-width: 29%;
+    margin: 1% 2%;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+  }
+  /* line 261, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .container .menucard {
+    width: 29%;
+    max-width: 29%;
+    margin: 1% 2%;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+  }
+}
+
+@media only screen and (min-width: 76.5em) {
+  /* line 281, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .pubs .pub-card {
+    margin-right: 3%;
+  }
+  /* line 291, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .featuredcard featureheader h3,
+  .featuredcard-home .featureheader h3 {
+    font-size: 2em;
+  }
+  /* line 294, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .featuredcard .featurecard-home .featureheader p {
+    font-size: 1em;
+  }
+  /* line 298, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .locationcard {
+    width: 100%;
+    margin-bottom: 2em;
+  }
+  /* line 299, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .foodcard {
+    width: calc(50% - 1em);
+    margin-right: 2em;
+    margin-bottom: 0;
+  }
+  /* line 300, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .newscard {
+    width: calc(50% - 1em);
+    margin-right: 0em;
+    margin-bottom: 0;
+  }
+  /* line 301, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu1 {
+    width: calc(50% - 1em);
+    margin-right: 2em;
+    margin-bottom: 2em;
+  }
+  /* line 302, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu2 {
+    width: calc(50% - 1em);
+    margin-right: 0em;
+    margin-bottom: 2em;
+  }
+  /* line 303, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu3 {
+    width: 100%;
+    margin-right: 0em;
+    margin-bottom: 2em;
+  }
+  /* line 304, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu4 {
+    width: calc(50% - 1em);
+    margin-right: 2em;
+    margin-bottom: 2em;
+  }
+  /* line 305, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu5 {
+    width: calc(50% - 1em);
+    margin-right: 0em;
+    margin-bottom: 2em;
+  }
+  /* line 306, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu6 {
+    width: calc(50% - 1em);
+    margin-right: 2em;
+    margin-bottom: 2em;
+  }
+  /* line 307, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu7 {
+    width: calc(50% - 1em);
+    margin-right: 0em;
+    margin-bottom: 2em;
+  }
+  /* line 308, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .menu8 {
+    width: 100%;
+    margin-right: 0em;
+    margin-bottom: 2em;
+  }
+  /* line 310, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .article-list .news-container .post-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-line-pack: distribute;
+        align-content: space-around;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  /* line 318, Users/james/Development/ourlocal/assets/IEstyle.scss */
+  .news-container .post-list li {
+    width: 29%;
+    max-width: 29%;
+    margin: 0 2%;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+  }
+}
+
+/* line 331, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.christmastext p {
+  font-size: 1.3em;
+}
+
+/* line 339, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard-christmas {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 22em;
+  margin-bottom: 3em;
+  text-decoration: none;
+  -webkit-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+}
+
+/* line 349, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard-christmas.christmas-day {
+  background: url(/assets/img/Christmas2018main.jpg) center top no-repeat;
+  background-size: cover;
+  -webkit-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+}
+
+/* line 355, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard-christmas:hover {
+  background: url(/assets/img/Christmas2018main.jpg) center top no-repeat;
+  background-size: cover;
+}
+
+/* line 360, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard-christmas.christmas-fayre {
+  background: url(/assets/img/Christmas2018dessert.jpg) center top no-repeat;
+  background-size: cover;
+  -webkit-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+}
+
+/* line 366, Users/james/Development/ourlocal/assets/IEstyle.scss */
+.featuredcard-christmas.christmas-fayre:hover {
+  background: url(/assets/img/Christmas2018dessert.jpg) center top no-repeat;
+  background-size: cover;
+}

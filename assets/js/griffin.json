@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+     {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-3.1143288,
+		53.1660548
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Griffin", 
+        "phone": "01352 759 848",
+        "web": "<a href=\"#680214\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+    
+
+

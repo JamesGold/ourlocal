@@ -1,0 +1,24 @@
+---
+layout: rotw-post
+title: Saturday Night - Cheese and Banter
+tags: [ ROTW, the-oak-hoghton ]
+
+back: /pubs/the-oak-hoghton/whats-on/
+permalink: /pubs/the-oak-hoghton/whats-on/saturday.html
+
+pub_name: The Oak
+outlet_id: 680306
+
+feat-image: saturday.jpg
+img-alt: saturday at the The Oak
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+

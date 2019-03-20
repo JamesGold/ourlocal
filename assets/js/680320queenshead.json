@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+     {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.9115274,
+		55.3101546
+		]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Queens Head", 
+        "web": "<a href=\"#680323\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}

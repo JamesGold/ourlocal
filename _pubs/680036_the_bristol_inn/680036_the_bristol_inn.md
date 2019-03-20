@@ -14,7 +14,8 @@ pub_nav: TheBristolInn
 
 pub_map: bristolinnmap.js
 pub_map_json: bristolinn.json
-wall_id: 
+wall_id:
+matchpint_id: 5436
 
 pub_addressStreet: Chapel Hill
 pub_addressLocality: Clevedon
@@ -40,10 +41,13 @@ herosub: to the Bristol Inn
 hero_img: Bristol-inn-bar.jpg
 
 
-xmas-menu-link: /pubs/the-bristol-inn-clevedon/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-bristol-inn-clevedon/christmas/christmas-fayre-menu.html
+promo-menu-link:
+
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: mothers2
+promo-block-3: 
 
 ---
 

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+     {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-3.0003886,
+		53.1474803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 - 23:00", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Royal Oak", 
+        "phone": "01244 660871",
+        "web": "<a href=\"#680273\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+    

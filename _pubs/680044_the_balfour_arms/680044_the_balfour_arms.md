@@ -14,6 +14,7 @@ pub_nav: TheBalfourArms
 pub_map: balfourarms.js
 pub_map_json: balfourarms.json
 wall_id:
+matchpint_id: 17111
 
 pub_addressStreet: 26 Woolbrook Road
 pub_addressLocality: Sidmouth
@@ -38,10 +39,12 @@ heromain: The Balfour Arms
 herosub: welcomes you
 hero_img: frontage-1200x639.jpg
 
-xmas-menu-link: /pubs/the-balfour-arms-sidmouth/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-balfour-arms-sidmouth/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: mothers2
+promo-block-3: 
 
 ---
 

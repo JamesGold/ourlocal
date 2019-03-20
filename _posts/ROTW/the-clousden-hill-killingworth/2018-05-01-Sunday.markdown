@@ -1,0 +1,25 @@
+---
+layout: rotw-post
+title: Sunday Lunch and Sunday Social
+tags: [ ROTW, the-clousden-hill-killingworth ]
+
+back: /pubs/the-clousden-hill-killingworth/whats-on/
+permalink: /pubs/the-clousden-hill-killingworth/whats-on/sunday.html
+
+pub_name: The Clousden Hill
+outlet_id: 680277
+
+feat-image: sunday.jpg
+img-alt: sunday at the The Clousden Hill
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+Sunday lunch 12:00 - 17:00. Sunday Sessions 18:00 - 21:00 
+
+
+

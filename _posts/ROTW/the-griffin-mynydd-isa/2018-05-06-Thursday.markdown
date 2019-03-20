@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title: Thursday - Quiz Night (from 9pm)
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Thursday, the-griffin-mynydd-isa ]
+back: /pubs/the-griffin-mynydd-isa/whats-on/
+permalink: /pubs/the-griffin-mynydd-isa/whats-on/thursday.html
+pub_name: the Griffin
+outlet_id: 680214
+
+
+feat-image: thursday.jpg
+img-alt: Thursday at the Griffin
+image2: default.gif
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+<p>Come down and join the fun. Starting from 9pm</p>
