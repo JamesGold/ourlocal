@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title:  "Saturday - Cheese & Banter"
+title:  "Saturday - Live Bands"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Saturday, the-boot-inn-sutton-coldfield ]

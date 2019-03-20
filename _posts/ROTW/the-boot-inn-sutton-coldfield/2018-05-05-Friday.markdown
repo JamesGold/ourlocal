@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title:  "Friday - Cheese & Banter"
+title:  "Friday - Karaoke or 70/80/90's Disco"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Friday, the-boot-inn-sutton-coldfield ]

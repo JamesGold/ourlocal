@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title: Monday - Quiz Night
+tags: [ ROTW, the-masons-arms-frome ]
+
+back: /pubs/the-masons-arms-frome/whats-on/
+permalink: /pubs/the-masons-arms-frome/whats-on/monday.html
+
+pub_name: The Masons Arms
+outlet_id: 680261
+
+feat-image: monday.jpg
+img-alt: Monday at the The Masons Arms
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+

@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title:  "Wednesday - Cheese & Banter"
+title:  "Wednesday - Wine Wednesday"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Wednesday, the-boot-inn-sutton-coldfield ]

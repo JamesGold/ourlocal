@@ -1,0 +1,24 @@
+---
+layout: rotw-post
+title: Saturday - Live Entertainment
+date:   2018-05-03 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Saturday, the-star-mansfield-woodhouse ]
+back: /pubs/the-star-mansfield-woodhouse/whats-on/
+permalink: /pubs/the-star-mansfield-woodhouse/whats-on/saturday.html
+pub_name: The Star
+outlet_id: 680022
+
+feat-image: saturday.jpg
+img-alt: Saturday at The Star
+image2:
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+<p>Every second Saturday of the month</p>
+
+
+

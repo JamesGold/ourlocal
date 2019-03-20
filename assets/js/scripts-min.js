@@ -54,13 +54,25 @@ if( Cookies.get('cookienote') ==="true") {
 	});
 
 });		
- 
 
 
 
+// promopage menu show button 
 
-$(function(){
+
+//site js here
+$(function() {
+
+
+	$('#promoMenu').removeClass('show');
+
+	// if javascript works, we want to hide the nav list so it we can toggle it	});
+	});
 	
 	
+$(function() {
+$("#showMenu").click (function(){ //open and close the widget
+	$("#promoMenu").toggleClass('show');
 	
-});
+	});
+});	

@@ -15,9 +15,9 @@ pub_nav: BootInnSuttonColdfield
 pub_map: thebootinnmap.js
 pub_map_json: thebootinn.json
 wall_id:
+matchpint_id: 16779
 
-
-pub_addressStreet: 139 Rectory Road
+pub_addressStreet: Rectory Road
 pub_addressLocality: Sutton Coldfield
 pub_addressRegion: Birmingham
 pub_addressPostcode: B75 7RU
@@ -40,10 +40,13 @@ heromain: Welcome
 herosub: to The Boot Inn
 hero_img: Boot-front.jpg
 
-xmas-menu-link: /pubs/the-boot-inn-sutton-coldfield/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-boot-inn-sutton-coldfield/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: mothers1
+promo-block-3:  
+
 
 ---
 

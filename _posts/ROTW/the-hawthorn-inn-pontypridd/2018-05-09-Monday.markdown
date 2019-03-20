@@ -1,6 +1,6 @@
 ---
 layout: rotw-post
-title:  "Monday - Cheese & Banter"
+title:  "Monday - Quiz Night"
 date:   2018-05-02 12:14:30 +0100
 excerpt_separator: <!--more-->
 tags: [ ROTW, Monday, the-hawthorn-inn-pontypridd ]

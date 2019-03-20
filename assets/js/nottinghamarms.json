@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.1571025,
+        51.9937363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "Nottingham Arms",
+        "phone": "01684 276346",
+        "web": "<a href=\"#680318\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+
+

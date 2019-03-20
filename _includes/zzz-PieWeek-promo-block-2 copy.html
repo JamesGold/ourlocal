@@ -1,0 +1,51 @@
+<div class="fullbg pieweek19">
+	<div class="promo-block">	
+		<div class="textarea">
+			<h3>Join us between 4th - 10th March for</h3>
+			<h2>British Pie Week</h2>
+			<p><strong>For one week only we're serving a <button class="showmepies" id="ShowMePies">mouthwatering selection of pies,</button> served with classic pub-style chips, peas and gravy</strong></p>
+			<h2>Only £8.95</h2> 
+			
+			<button class="buttoncta"><a href="tel:{{ page.pub_phone }}">Call us to book</a></button>
+			<p><a href="tel:{{ page.pub_phone }}">Call: {{ page.pub_phone }}</a> or <a href="mailto:{{ page.pub_email }}?subject=Valetines-Enquiry">Email us</a></p>
+			
+		</div>
+		
+		<div class="draw show-it" id="draw">
+			
+			<h3>Choose from:</h3>
+			<p>Steak &amp; Ale Pie</p>
+			<p>Chicken, Ham Hock &amp; Leek Pie</p>
+			<p>Steak &amp; Devon Blue Pie</p>
+			<p>Chicken &amp; Wild Mushroom Pie</p>
+			<p>Butternut Squash, Mixed Bean &amp; Cheese Pie (V)</p>
+			
+		<button class="showmepies" id="HidePies">Hide the Pies</button>
+
+<script>
+	
+	$(function() {
+		
+	$("#draw").hide();	
+		
+	$("#ShowMePies").click (function(){ //open and close the widget
+		$("#draw").slideToggle();
+		});
+	
+	
+	$("#HidePies").click (function(){ //open and close the widget
+		$("#draw").slideToggle();	
+		});	
+			
+	});
+	
+</script>	
+			
+			
+		</div><!-- end of draw -->	
+		
+		
+	</div>
+</div>		
+
+

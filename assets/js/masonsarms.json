@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+     {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.3392223,
+		51.215378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Masons Arms", 
+        "phone": "01373 461400",
+        "web": "<a href=\"#680261\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+    
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+     {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.1824457,
+		52.942328
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - Midnight", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Johnson Arms", 
+        "phone": "01159 786 355",
+        "web": "<a href=\"#680266\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+    

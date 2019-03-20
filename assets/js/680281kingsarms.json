@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.2824158,
+        51.388286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Kings Arms",
+        "phone": "01225 858705",
+        "web": "<a href=\"#680281\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}

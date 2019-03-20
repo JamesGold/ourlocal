@@ -1,0 +1,22 @@
+---
+layout: rotw-post
+title: Friday - Live Sport
+date:   2018-05-04 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Friday, the-star-mansfield-woodhouse ]
+back: /pubs/the-star-mansfield-woodhouse/whats-on/
+permalink: /pubs/the-star-mansfield-woodhouse/whats-on/friday.html
+pub_name: The Star
+outlet_id: 680022
+
+feat-image: friday.jpg
+img-alt: Friday at The Star
+image2:
+img-alt2:
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+
+

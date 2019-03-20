@@ -1,0 +1,24 @@
+---
+layout: rotw-post
+title:  "Friday - Fizz & Fish"
+date:   2018-05-02 12:14:30 +0100
+excerpt_separator: <!--more-->
+tags: [ ROTW, Friday, the-royal-oak-kinnerton ]
+back: /pubs/the-royal-oak-kinnerton/whats-on/
+permalink: /pubs/the-royal-oak-kinnerton/whats-on/friday.html
+pubname: The Royal Oak
+outlet_id: 680273
+
+feat-image: friday.jpg
+img-alt: Friday at The Royal Oak
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for {{ page.title }}</h2>
+
+<pPJoin us to celebrate the weekend. £30 per person.<p>
+
+<p>If you're around earlier, then join us for Coffee & Cake morning (£4.50 per person) or drop in for a relaxing afternoon tea.</p>

@@ -5,7 +5,7 @@
 	  <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
 	
-	  <title>{{ page.title }} {{ page.pub_name }}. Your Local Pub. </title>
+	  <title>{{ page.title }} at {{ page.pub_name }}. Your Local Pub. </title>
 	  <meta name="description" content="{{ site.description }}">
 	  <meta name="author" content="{{ site.author }}">
 
@@ -66,8 +66,8 @@
 
 			
 			{% if food.DishName or food.Options-why-not-add %}
-			<div class="dish  {{ food.HighlightYes }}">
-				<p><span class="dishhead {{ food.AdditionalClass }}">{{ food.DishName }}</span><br />		
+			<div class="dish {{ food.HighlightYes }} {{ food.AdditionalClass }}">
+				<p><span class="dishhead ">{{ food.DishName }}</span><br />		
 				{{ food.DishDescription }}<br />		
 				<span class="price">{{ food.Price }}</span></p>
 				{% if food.Options-why-not-add %}<p class="dish-highlight">{{ food.Options-why-not-add }}</p>{% endif %}

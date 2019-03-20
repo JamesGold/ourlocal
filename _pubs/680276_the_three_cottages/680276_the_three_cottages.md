@@ -38,10 +38,15 @@ heromain: Welcome
 herosub: to The Three Cottages
 hero_img: three-cottages-frontage2.jpg
 
-xmas-menu-link: /pubs/the-three-cottages-hasland/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-three-cottages-hasland/christmas/christmas-fayre-menu.html
+promo-menu-link: sunday.html
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2:
+promo-block-3: mothers3
+
+
+
 
 ---
 

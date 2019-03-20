@@ -15,6 +15,7 @@ pub_nav: TheShireOak
 pub_map: shireoak.js
 pub_map_json: shireoak.json
 wall_id:
+matchpint_id: 14511
 
 pub_addressStreet: 261 Lichfield Road
 pub_addressLocality: Walsall Wood
@@ -38,10 +39,14 @@ heromain: Welcome
 herosub: to The Shire Oak
 hero_img: Shire-Oak-frontage-2.jpg
 
-xmas-menu-link: /pubs/the-shire-oak-walsall/christmas/christmas-day-menu.html
-xmas-fayre-menu-link: /pubs/the-shire-oak-walsall/christmas/christmas-fayre-menu.html
+promo-menu-link:
+secondary-promo-menu-link:
 
 promo-block-1: new-menu
+promo-block-2: mothers1
+promo-block-3: 
+
+
 
 ---
 

@@ -8,7 +8,8 @@ layout: PubEvents
 pub_nav: WestTownInn
 pub_name: the West Town Inn
 
-wall_id: ''
+wall_id:
+matchpint_id: 16815
 article_tag: the-west-town-inn-hayling-island
 
 ---

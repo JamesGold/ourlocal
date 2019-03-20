@@ -1,0 +1,24 @@
+---
+layout: rotw-post
+title: Sunday Lunch
+tags: [ ROTW, the-woolpack-yeadon ]
+
+back: /pubs/the-woolpack-yeadon/whats-on/
+permalink: /pubs/the-woolpack-yeadon/whats-on/sunday.html
+
+pub_name: The Woolpack
+outlet_id: 680191
+
+feat-image: sunday.jpg
+img-alt: sunday at the The Woolpack
+image2:
+img-alt2:
+
+
+---
+
+<h2>Join us for our {{ page.title }}</h2>
+
+
+
+

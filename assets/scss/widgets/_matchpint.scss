@@ -1,0 +1,17 @@
+.section.matchpintcontainer .section-header { padding-top: 0; margin-top: 0;}	
+.section.matchpintcontainer .section-header .sport-heading h1{ padding-top: 0; margin-top: 0;}
+
+.matchpint1 {margin-left: auto; margin-right: auto;}
+
+.matchpintcontainer{
+	padding-top: 0; 
+	margin-top: 0;
+	 
+	.matchpint-iframe {display: block; margin: 1em auto; max-width:300px;}
+
+	.matchpint2, .matchpint3, .matchpint4 {display: none;}
+	
+	@include breakpoint(break1) { .matchpint2 {display: block;}    	.matchpint1, .matchpint3, .matchpint4 {display: none;}   .matchpint-iframe {max-width: 400px; }  }		
+	@include breakpoint(break2) { .matchpint3 {display: block;} 	.matchpint1, .matchpint2, .matchpint4 {display: none;}   .matchpint-iframe {max-width: 600px; }  }
+	@include breakpoint(break3) { .matchpint4 {display: block;} 	.matchpint1, .matchpint2, .matchpint3 {display: none;}   .matchpint-iframe {max-width: 800px; }  }
+	}
