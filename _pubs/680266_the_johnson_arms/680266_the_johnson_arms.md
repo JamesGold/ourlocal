@@ -23,7 +23,7 @@ pub_addressRegion: Notts
 pub_addressPostcode: NG7 2NZ
 
 pub_email: info@johnsonarmsnottingham.com
-pub_phone: 01159 786 355
+pub_phone: 0115 8749 810
 
 googlemap-link: https://www.google.com/maps/place/The+Johnson+Arms/@52.942328,-1.1824457,17z/data=!3m1!4b1!4m5!3m4!1s0x4879c2174ef23997:0x148cad741463535!8m2!3d52.942328!4d-1.180257
 

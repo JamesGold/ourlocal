@@ -35,7 +35,7 @@ body{
 	{
 	width: 96%;
 	max-width: 96%;
-	margin: 3em auto 0;
+	margin: 2em auto 0;
 	//border: 1px solid #ff009e; //for testing	
 	@include breakpoint(break1) {max-width:96%;}
 	@include breakpoint(break2) {max-width:90%;}

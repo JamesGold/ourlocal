@@ -74,6 +74,8 @@
 
 .about-container {
 	margin-bottom: 3em;
+	
+	p {font-size: 1em;}
 
 	@include breakpoint(break2) {
 		img {float: left; max-width: 50%; padding: 0 2em 3em 0;}
@@ -89,10 +91,10 @@
 strong{font-weight: 600;}
 		
 	@include breakpoint(break5) {
-			p {font-size: 1.1em;}
+			p {font-size: 1em;}
 		}	
 	@include breakpoint(break6) {
-			p {font-size: 1.2em;}
+			p {font-size: 1em}
 		}	
 			 
  }

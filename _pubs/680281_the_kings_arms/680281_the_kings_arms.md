@@ -51,6 +51,15 @@ opening:
 room_booking_url: https://via.eviivo.com/KingsArmsBA15
 
 
+rotw-mon: <strong>Pop-up Post Office</strong> 10.30am - 12.30pm <em>(from May 2019)</em>
+rotw-tue: <strong>Bingo</strong> 2pm - 4pm
+rotw-wed: <strong>Steak Night</strong>
+rotw-thu: <strong>Pop-up Post Office</strong> 10.30am - 12.30pm <em>(from May 2019)</em>
+rotw-fri: <strong>Live Music</strong> <em>twice per month</em>
+rotw-sat:
+rotw:sun: <strong>Quiz Night</strong> 7pm onweards
+
+
 ---
 
 **At the Kings Arms in Bradford-on-Avon, we pride ourselves on catering for all your needs in a warm and welcoming environment**
