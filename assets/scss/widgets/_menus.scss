@@ -12,11 +12,11 @@
 
 .menuitems {
 	
-	* {text-align: center;}
+	text-align: center;
 
 	@include breakpoint(break1) {}
 	@include breakpoint(break2) {}
-	@include breakpoint(break3) { display: grid; grid-template-columns:1fr 1fr; grid-gap:2em;}
+	@include breakpoint(break3) { display: grid; grid-template-columns:1fr 1fr; grid-gap:1em; text-align: left; }
 	@include breakpoint(break4) {}
 	@include breakpoint(break5) {grid-template-columns: 1fr 1fr 1fr;}				
 	@include breakpoint(break6) {grid-template-columns: 1fr 1fr 1fr 1fr;}				
@@ -39,14 +39,15 @@
 	h2 {
 		font-family: $body-font;
 		//text-transform: uppercase;
-		font-size: 3em;
+		font-size: 2em;
 		line-height: 100%;
+		margin-bottom: 1em;
 		
 	}
 
 	h3 {
 		font-family: $display-font;
-		font-size: 4em;
+		font-size: 3em;
 		margin: 0;
 		line-height: 1.4em;
 		padding-bottom: .3em;
@@ -56,6 +57,8 @@
 	p {
 		font-family: $utility-font;
 		font-weight: 100;
+		line-height: 1.3em;
+		font-size: 1.1rem;
 		
 		.dishhead{
 			font-weight: 600;
@@ -77,7 +80,8 @@
 			background: rgba(143, 176, 153, 0.4);
 			padding: .3em;
 			border: 3px #8fb090 dotted; 
-			text-transform: uppercase; 			
+			text-transform: uppercase; 
+			margin-bottom: .3em;			
 		}
 	
 	}
@@ -98,9 +102,9 @@
 		.standout {text-align: center;
 		}
 	
-	.sixclub::before{content: "6 Club"; color: rgba(255, 255, 255, .9); padding:.2em .3em; background: rgba(143, 176, 144, 0.61);border-radius: 50%; border: 1px solid #fff; margin-right: .4em;}
+	.sixclub::before{content: "6 Club"; color: rgba(255, 255, 255, .9); padding:.2em .3em; background: rgba(143, 176, 144, 0.61);border-radius: 50%; border: 1px solid #fff; margin-right: .4em; float: right;}
 	.Y, .y {background: rgba(143, 176, 153, 0.4); padding: .3em; border: 3px #8fb090 dotted;}
-	.explainer { background: rgba(84, 43, 7, 0.2);padding: .3em;border: 1px #fff solid;}
+	.explainer { margin: 1em 0 1em; background: rgba(84, 43, 7, 0.2); padding: 1em;}
 	
 	.spanthegrid{
 		@include breakpoint(break3) {grid-column: 1 / 3;}
