@@ -27,7 +27,7 @@ pub_phone: 01623 652 397
 
 googlemap-link: https://www.google.com/maps/place/Star/@53.165143,-1.186826,18z/data=!4m12!1m6!3m5!1s0x0:0x616273edd11a46f3!2sStar!8m2!3d53.164963!4d-1.186826!3m4!1s0x0:0x616273edd11a46f3!8m2!3d53.164963!4d-1.186826?hl=en-GB
 
-pubimg_location: placeholder3-sm.jpg
+pubimg_location: Star-front_sm.jpg
 
 pubhomepage_image1: Star-3.jpg
 pubhomepage_image1_alt_text: The Star in Mansfield Woodhouse
@@ -43,7 +43,7 @@ promo-menu-link: sunday.html
 secondary-promo-menu-link:
 
 promo-block-1: new-menu
-promo-block-2: mothers1
+promo-block-2: 
 promo-block-3: 
 
 ---

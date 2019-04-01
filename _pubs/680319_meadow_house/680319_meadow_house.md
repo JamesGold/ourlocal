@@ -46,7 +46,7 @@ promo-block-1: new-menu
 promo-block-2: 
 promo-block-3: 
 
-opening: Late March
+opening: 
 
 
 ---

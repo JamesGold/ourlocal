@@ -15,4 +15,3 @@ article_tag: the-red-lion-burley
 
 ---
 	
-We're busy getting our regular events finalised. Please pop back soon. 	

@@ -2502,6 +2502,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_pubs/680022_the_star/assets/Star-front_sm.jpg": {
+		"ft": 16384,
+		"iS": 86780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680022_the_star/assets/Star-front_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_pubs/680022_the_star/christmas/christmas-day-menu.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -10153,6 +10164,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_hero.jpg": {
+		"ft": 16384,
+		"iS": 321355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg": {
+		"ft": 16384,
+		"iS": 67566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg": {
+		"ft": 16384,
+		"iS": 73956,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_sm.jpg": {
+		"ft": 16384,
+		"iS": 111665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_pubs/680310_the_royal_oak/find/680310_find.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -11127,6 +11182,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/_pubs/680323_the_red_lion/680323_the_red_lion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/680323_the_red_lion.html",
+		"oF": 0
+		},
 	"/_pubs/680323_the_red_lion/680323_the_red_lion.md": {
 		"cB": 0,
 		"cS": 0,
@@ -11146,6 +11209,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/_pubs/680323_the_red_lion/about/680323_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/about/680323_about.html",
+		"oF": 0
+		},
 	"/_pubs/680323_the_red_lion/about/680323_about.md": {
 		"cB": 0,
 		"cS": 0,
@@ -11164,6 +11235,72 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_hero.jpg": {
+		"ft": 16384,
+		"iS": 316959,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg": {
+		"ft": 16384,
+		"iS": 71120,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg": {
+		"ft": 16384,
+		"iS": 74271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg": {
+		"ft": 16384,
+		"iS": 82689,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_sm.jpg": {
+		"ft": 16384,
+		"iS": 137667,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg": {
+		"ft": 16384,
+		"iS": 150412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_pubs/680323_the_red_lion/assets/placeholder3-sm.jpg": {
 		"ft": 16384,
@@ -12952,6 +13089,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/pubs.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/_site/assets/js/pubs-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/_site/assets/js/railwaytavern-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -14141,6 +14286,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/680022_the_star/assets/Star-front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680022_the_star/assets/Star-front_sm.jpg": {
+		"ft": 16384,
+		"iS": 86780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680022_the_star/assets/Star-front_sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -17002,6 +17158,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_hero.jpg": {
+		"ft": 16384,
+		"iS": 321355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg": {
+		"ft": 16384,
+		"iS": 67566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg": {
+		"ft": 16384,
+		"iS": 73956,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_sm.jpg": {
+		"ft": 16384,
+		"iS": 111665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/pubs/680310_the_royal_oak/find/680310_find.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -17233,6 +17433,88 @@
 		"oA": 0,
 		"oAP": "/_site/pubs/680321_the_red_lion/whats-on/680321_whatson.html",
 		"oF": 0
+		},
+	"/_site/pubs/680323_the_red_lion/680323_the_red_lion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/680323_the_red_lion.html",
+		"oF": 0
+		},
+	"/_site/pubs/680323_the_red_lion/about/680323_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/about/680323_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_hero.jpg": {
+		"ft": 16384,
+		"iS": 316959,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg": {
+		"ft": 16384,
+		"iS": 71120,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg": {
+		"ft": 16384,
+		"iS": 74271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg": {
+		"ft": 16384,
+		"iS": 82689,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_sm.jpg": {
+		"ft": 16384,
+		"iS": 137667,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg": {
+		"ft": 16384,
+		"iS": 150412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_site/pubs/680323_the_red_lion/assets/placeholder3-sm.jpg": {
 		"ft": 16384,

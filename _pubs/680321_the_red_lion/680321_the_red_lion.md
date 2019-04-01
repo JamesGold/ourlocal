@@ -18,7 +18,7 @@ pub_addressRegion: Suffolk
 pub_addressPostcode: IP12 1AL
 
 pub_email: info@redlionwoodbridge.co.uk
-pub_phone: 
+pub_phone: 01394 548327
 
 googlemap-link: https://www.google.com/maps/place/The+Red+Lion/@52.0942239,1.3178877,16z/data=!4m12!1m6!3m5!1s0x0:0xcc1db29e5b8fc6e0!2sThe+Red+Lion!8m2!3d52.094435!4d1.3210849!3m4!1s0x0:0xcc1db29e5b8fc6e0!8m2!3d52.094435!4d1.3210849
 
@@ -26,7 +26,7 @@ pub_map: 680321redlion.js
 pub_map_json: 680321redlion.json
 
 wall_id:
-matchpint_id: 
+matchpint_id:
 
 
 pubimg_location: placeholder3-sm.jpg
