@@ -21,7 +21,7 @@ pub_addressLocality: Higher Kinnerton
 pub_addressRegion: Chester
 pub_addressPostcode: CH4 9BE
 
-pub_email: rokinnerton@aol.com
+pub_email: kate@stowfordpubs.com
 pub_phone: 01244 748747
 
 googlemap-link: https://www.google.com/maps/place/The+Royal+Oak/@53.1474803,-3.0003886,15z/data=!4m2!3m1!1s0x0:0x79be0679eab8bd9a?ved=2ahUKEwjA1azk4OreAhUCAsAKHT7qAnMQ_BIwCnoECAUQCA
@@ -44,7 +44,7 @@ secondary-promo-menu-link:
 
 promo-block-1: new-menu
 promo-block-2: 
-promo-block-3: mothers3
+promo-block-3: 
 
 
 

@@ -7,9 +7,9 @@ outlet_id: 680262
 permalink: /pubs/the-west-town-inn-hayling-island/
 pub_assets_url: /pubs/680262_west_town_inn/assets/
 
-title: Welcome to the West Town Inn
+title: Welcome to The West Town Inn
 
-pub_name: the West Town Inn
+pub_name: The West Town Inn
 pub_nav: WestTownInn
 
 pub_map: westtown.js
@@ -36,7 +36,7 @@ pubhomepage_image2: west-town-inn-frontage-sm.jpg
 pubhomepage_image2_alt_text: Have fun with us at the West Town Inn 
 
 heromain: Welcome
-herosub: to the West Town Inn
+herosub: to The West Town Inn
 hero_img: west-town-inn-frontage-2.jpg
 
 promo-menu-link:

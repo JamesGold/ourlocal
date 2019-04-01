@@ -337,6 +337,62 @@
 		"oAP": "/_data/foodmenu/680178Sunday.csv",
 		"oF": 0
 		},
+	"/_data/foodmenu/680333-childrens.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/680333-childrens.csv",
+		"oF": 0
+		},
+	"/_data/foodmenu/680333-dessert.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/680333-dessert.csv",
+		"oF": 0
+		},
+	"/_data/foodmenu/680333-main.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/680333-main.csv",
+		"oF": 0
+		},
+	"/_data/foodmenu/680333-sixclub.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/680333-sixclub.csv",
+		"oF": 0
+		},
+	"/_data/foodmenu/680333-starter.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/680333-starter.csv",
+		"oF": 0
+		},
+	"/_data/foodmenu/680333-sunday.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/680333-sunday.csv",
+		"oF": 0
+		},
+	"/_data/foodmenu/680333-supper.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/foodmenu/680333-supper.csv",
+		"oF": 0
+		},
 	"/_data/foodmenu/Breakfast-noprice.csv": {
 		"cB": 0,
 		"ft": 8192,
@@ -759,6 +815,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_data/pubnavs/680320queenshead.yml",
+		"oF": 0
+		},
+	"/_data/pubnavs/680321redlion.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680321redlion.yml",
+		"oF": 0
+		},
+	"/_data/pubnavs/680333cockinn.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680333cockinn.yml",
 		"oF": 0
 		},
 	"/_data/pubnavs/BootInnSuttonColdfield.yml": {
@@ -2425,6 +2497,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_pubs/680022_the_star/assets/Star-front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680022_the_star/assets/Star-front_sm.jpg": {
+		"ft": 16384,
+		"iS": 86780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680022_the_star/assets/Star-front_sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10081,6 +10164,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_hero.jpg": {
+		"ft": 16384,
+		"iS": 321355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg": {
+		"ft": 16384,
+		"iS": 67566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg": {
+		"ft": 16384,
+		"iS": 73956,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680310_the_royal_oak/assets/royaloak_sm.jpg": {
+		"ft": 16384,
+		"iS": 111665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680310_the_royal_oak/assets/royaloak_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_pubs/680310_the_royal_oak/find/680310_find.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -10845,6 +10972,216 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/_pubs/680321_the_red_lion/680321_the_red_lion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/680321_the_red_lion.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/680321_the_red_lion.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/680321_the_red_lion.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680321_the_red_lion/about/680321_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/about/680321_about.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/about/680321_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/about/680321_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680321_the_red_lion/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680321_the_red_lion/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680321_the_red_lion/find/680321_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/find/680321_find.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/find/680321_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/find/680321_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/breakfast.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/mothers-day.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/mothers-day.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/whats-on/680321_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/whats-on/680321_whatson.html",
+		"oF": 0
+		},
+	"/_pubs/680321_the_red_lion/whats-on/680321_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680321_the_red_lion/whats-on/680321_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/_pubs/680323_the_red_lion/680323_the_red_lion.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -10899,6 +11236,72 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_hero.jpg": {
+		"ft": 16384,
+		"iS": 316959,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg": {
+		"ft": 16384,
+		"iS": 71120,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg": {
+		"ft": 16384,
+		"iS": 74271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg": {
+		"ft": 16384,
+		"iS": 82689,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_sm.jpg": {
+		"ft": 16384,
+		"iS": 137667,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg": {
+		"ft": 16384,
+		"iS": 150412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_pubs/680323_the_red_lion/assets/placeholder3-sm.jpg": {
 		"ft": 16384,
 		"iS": 74386,
@@ -10920,14 +11323,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"/_pubs/680323_the_red_lion/find/680323_find.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_pubs/680323_the_red_lion/find/680323_find.html",
-		"oF": 0
 		},
 	"/_pubs/680323_the_red_lion/find/680323_find.md": {
 		"cB": 0,
@@ -11028,14 +11423,6 @@
 		"oAP": "/_pubs/680323_the_red_lion/food-and-drink/wine.html",
 		"oF": 0
 		},
-	"/_pubs/680323_the_red_lion/whats-on/680323_whatson.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_pubs/680323_the_red_lion/whats-on/680323_whatson.html",
-		"oF": 0
-		},
 	"/_pubs/680323_the_red_lion/whats-on/680323_whatson.md": {
 		"cB": 0,
 		"cS": 0,
@@ -11047,6 +11434,216 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_pubs/680323_the_red_lion/whats-on/680323_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680333_cock/680333_cock.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/680333_cock.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/680333_cock.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/680333_cock.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680333_cock/about/680333_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/about/680333_about.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/about/680333_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/about/680333_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680333_cock/assets/cock_sm.jpg": {
+		"ft": 16384,
+		"iS": 160149,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/assets/cock_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680333_cock/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680333_cock/find/680333_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/find/680333_find.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/find/680333_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/find/680333_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/breakfast.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/mothers-day.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/mothers-day.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/whats-on/680333_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/whats-on/680333_whatson.html",
+		"oF": 0
+		},
+	"/_pubs/680333_cock/whats-on/680333_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680333_cock/whats-on/680333_whatson.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -12013,6 +12610,66 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/_site/assets/js/680320queenshead-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/_site/assets/js/680321redlion-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680321redlion-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680321redlion.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680321redlion-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680321redlion.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/_site/assets/js/680321redlion-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/_site/assets/js/680333cockinn-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680333cockinn-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680333cockinn.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680333cockinn-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680333cockinn.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/_site/assets/js/680333cockinn-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -13629,6 +14286,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/680022_the_star/assets/Star-front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680022_the_star/assets/Star-front_sm.jpg": {
+		"ft": 16384,
+		"iS": 86780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680022_the_star/assets/Star-front_sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -16490,6 +17158,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_hero.jpg": {
+		"ft": 16384,
+		"iS": 321355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg": {
+		"ft": 16384,
+		"iS": 67566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg": {
+		"ft": 16384,
+		"iS": 73956,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680310_the_royal_oak/assets/royaloak_sm.jpg": {
+		"ft": 16384,
+		"iS": 111665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680310_the_royal_oak/assets/royaloak_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/pubs/680310_the_royal_oak/find/680310_find.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -16668,6 +17380,60 @@
 		"oAP": "/_site/pubs/680320_the_queens_head/whats-on/680320_whatson.html",
 		"oF": 0
 		},
+	"/_site/pubs/680321_the_red_lion/680321_the_red_lion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680321_the_red_lion/680321_the_red_lion.html",
+		"oF": 0
+		},
+	"/_site/pubs/680321_the_red_lion/about/680321_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680321_the_red_lion/about/680321_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680321_the_red_lion/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680321_the_red_lion/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680321_the_red_lion/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680321_the_red_lion/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680321_the_red_lion/find/680321_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680321_the_red_lion/find/680321_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680321_the_red_lion/whats-on/680321_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680321_the_red_lion/whats-on/680321_whatson.html",
+		"oF": 0
+		},
 	"/_site/pubs/680323_the_red_lion/680323_the_red_lion.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -16683,6 +17449,72 @@
 		"oA": 0,
 		"oAP": "/_site/pubs/680323_the_red_lion/about/680323_about.html",
 		"oF": 0
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_hero.jpg": {
+		"ft": 16384,
+		"iS": 316959,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg": {
+		"ft": 16384,
+		"iS": 71120,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_internal1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg": {
+		"ft": 16384,
+		"iS": 74271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_internal2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg": {
+		"ft": 16384,
+		"iS": 82689,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_internal3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_sm.jpg": {
+		"ft": 16384,
+		"iS": 137667,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg": {
+		"ft": 16384,
+		"iS": 150412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680323_the_red_lion/assets/680323redlion_sm2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_site/pubs/680323_the_red_lion/assets/placeholder3-sm.jpg": {
 		"ft": 16384,
@@ -16706,20 +17538,170 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/pubs/680323_the_red_lion/find/680323_find.html": {
+	"/_site/pubs/680333_cock/680333_cock.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/pubs/680323_the_red_lion/find/680323_find.html",
+		"oAP": "/_site/pubs/680333_cock/680333_cock.html",
 		"oF": 0
 		},
-	"/_site/pubs/680323_the_red_lion/whats-on/680323_whatson.html": {
+	"/_site/pubs/680333_cock/about/680333_about.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/pubs/680323_the_red_lion/whats-on/680323_whatson.html",
+		"oAP": "/_site/pubs/680333_cock/about/680333_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680333_cock/assets/cock_sm.jpg": {
+		"ft": 16384,
+		"iS": 160149,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680333_cock/assets/cock_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680333_cock/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680333_cock/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680333_cock/find/680333_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680333_cock/find/680333_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680333_cock/whats-on/680333_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680333_cock/whats-on/680333_whatson.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/about/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/about/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/find/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/find/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/breakfast.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/mothers-day.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/mothers-day.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/cock-inn-oughtibridge/whats-on/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/cock-inn-oughtibridge/whats-on/index.html",
 		"oF": 0
 		},
 	"/_site/pubs/index.html": {
@@ -16944,6 +17926,118 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/red-barn-shrewsbury/whats-on/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/about/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/about/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/find/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/find/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/breakfast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/breakfast.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/mothers-day.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/mothers-day.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/red-lion-woodbridge/whats-on/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/red-lion-woodbridge/whats-on/index.html",
 		"oF": 0
 		},
 	"/_site/pubs/the-abbey-sheffield/about/index.html": {
@@ -22292,6 +23386,66 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/assets/js/680321redlion-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680321redlion-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680321redlion.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680321redlion-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680321redlion.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/js/680321redlion-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/assets/js/680333cockinn-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680333cockinn-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680333cockinn.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680333cockinn-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680333cockinn.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/js/680333cockinn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/assets/js/balfourarms-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -23821,6 +24975,78 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-childrens.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-childrens.csv",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-dessert.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-dessert.csv",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-main.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-main.csv",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-sixclub.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-sixclub.csv",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-starter.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-starter.csv",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-sunday.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-sunday.csv",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-sunday.numbers": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-sunday.numbers",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-supper.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-supper.csv",
+		"oF": 0
+		},
+	"/assets/raw/food6803333/Menu-680333/680333-supper.numbers": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/raw/food6803333/Menu-680333/680333-supper.numbers",
+		"oF": 0
 		},
 	"/assets/raw/FrontMatter-template.html": {
 		"cB": 0,

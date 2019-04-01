@@ -27,17 +27,17 @@ pub_phone:
 
 googlemap-link: https://www.google.com/maps/place/The+Red+Lion/@53.9139379,-1.7485133,17z/data=!4m12!1m6!3m5!1s0x0:0xe2cb9a6c322839c!2sThe+Red+Lion!8m2!3d53.9138025!4d-1.7488033!3m4!1s0x0:0xe2cb9a6c322839c!8m2!3d53.9138025!4d-1.7488033?hl=en-GB
 
-pubimg_location: placeholder3-sm.jpg
+pubimg_location: 680323redlion_sm2.jpg
 
-pubhomepage_image1: 
-pubhomepage_image1_alt_text: 
+pubhomepage_image1: 680323redlion_internal3.jpg
+pubhomepage_image1_alt_text: great local pub The Red Lion
  
-pubhomepage_image2: 
-pubhomepage_image2_alt_text: 
+pubhomepage_image2: 680323redlion_internal2.jpg
+pubhomepage_image2_alt_text: The Red Lion, the perfect place to relax
 
 heromain: Welcome
 herosub: to The Red Lion
-hero_img: placeholder3.jpg
+hero_img: 680323redlion_hero.jpg
 
 
 promo-menu-link:

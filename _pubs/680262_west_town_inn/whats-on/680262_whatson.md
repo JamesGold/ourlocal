@@ -6,7 +6,7 @@ pub_assets_url: /pubs/680262_the_west_town_inn/assets/
 layout: PubEvents
 
 pub_nav: WestTownInn
-pub_name: the West Town Inn
+pub_name: The West Town Inn
 
 wall_id:
 matchpint_id: 16815
