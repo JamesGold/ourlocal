@@ -38,7 +38,7 @@ heromain: Welcome
 herosub: to The Three Cottages
 hero_img: three-cottages-frontage2.jpg
 
-promo-menu-link: sunday.html
+promo-menu-link: 
 secondary-promo-menu-link:
 
 promo-block-1: new-menu
