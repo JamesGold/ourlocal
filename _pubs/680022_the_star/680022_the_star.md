@@ -39,7 +39,7 @@ heromain: Welcome
 herosub: to The Star
 hero_img: Star-front.jpg
 
-promo-menu-link: sunday.html
+promo-menu-link: 
 secondary-promo-menu-link:
 
 promo-block-1: new-menu

@@ -42,7 +42,7 @@ heromain: Welcome
 herosub: to The Abbey
 hero_img: The-Abbey-BAR.jpg
 
-promo-menu-link: sunday.html
+promo-menu-link: 
 secondary-promo-menu-link:
 
 promo-block-1: new-menu
