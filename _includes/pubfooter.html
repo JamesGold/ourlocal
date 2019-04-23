@@ -2,16 +2,26 @@
 <footer>
 	<div class="footercontent cols">
 		<ul class="col col1">
+			<li><a href="{{ '/pubs' | relative_url }}">Find more great pubs like this</a></li>
 			<li><a href="/signup">Signup to our list</a></li>
 			<li><a href="{{ "/social/" | relative_url }}">We're Social, follow us!</a></li>
 		</ul>
 		<ul class="col col2">
-			<li><a href="{{ '/pubs' | relative_url }}">Find more great pubs like this</a></li>
 			<li><a href="{{ pubdetails.permalink }}find/index.html">Contact us</a></li> 
-		</ul>
-		<ul class="col col3">
 			<li><a href="{{ '/privacy/' | relative_url }}" target="_blank"><li>Legal &amp; Privacy</a></li>
 			<li><a href="http://www.drinkaware.co.uk"><li>Drinkaware</a></li>
+		</ul>
+		<ul class="col col3">
+			 {% assign pubdetails = site.pubs | where:"outlet_id", page.outlet_id  | first %}				 
+			<li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="name">{{ pubdetails.pub_name }}</span><br />
+				<span itemprop="streetAddress">{{ pubdetails.pub_addressStreet  }}</span>, <br />
+				<span itemprop="addressLocality">{{ pubdetails.pub_addressLocality }}</span>,<br /> 
+				<span itemprop="addressRegion">{{ pubdetails.pub_addressRegion }}</span>, 
+				<span itemprop="postalCode">{{ pubdetails.pub_addressPostcode }}</span>	<br />						 
+				<a href="{{ pubdetails.googlemap-link }}">[ Get directions here ]</a>
+			</li>						
+			
 		</ul>	
 	</div><!-- eof of footer cols-->
 		
@@ -22,3 +32,15 @@
 
 </div><!-- eof container, which starts in header includes -->
 <div class="cookie-notes" id="cookieNotes"><p>This website like most, uses cookies. Cookies allow us to see how our site is used. This information allows us to improve both yours and future visitors experience. By using this website you acknowledge and agree to our use of cookies for analytics and marketing - <strong>we do not sell your information to third parties</strong>. To find out more about the cookies we use and how to remove them, please see our legal & privacy section.<button id="cookieClose" class="cookie-close">Close</button></p></div><!-- eof cookies -->
+
+
+
+
+
+
+
+
+
+				
+						 
+			

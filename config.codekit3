@@ -1257,6 +1257,14 @@
 		"oAP": "/_data/pubnavs/680333cockinn.yml",
 		"oF": 0
 		},
+	"/_data/pubnavs/680340whitehart.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680340whitehart.yml",
+		"oF": 0
+		},
 	"/_data/pubnavs/BootInnSuttonColdfield.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -1623,6 +1631,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_includes/socialwall-block.html",
+		"oF": 0
+		},
+	"/_includes/z-pubfooter.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/z-pubfooter.html",
 		"oF": 0
 		},
 	"/_includes/zzz-PieWeek-promo-block-2 copy.html": {
@@ -11660,6 +11676,211 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/_pubs/680340_white_hart/680340_white_hart.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/680340_white_hart.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/680340_white_hart.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/680340_white_hart.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680340_white_hart/about/680340_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/about/680340_about.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/about/680340_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/about/680340_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680340_white_hart/assets/cock_sm.jpg": {
+		"ft": 16384,
+		"iS": 160149,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/assets/cock_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680340_white_hart/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680340_white_hart/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680340_white_hart/find/680340_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/find/680340_find.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/find/680340_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/find/680340_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/whats-on/680340_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/whats-on/680340_whatson.html",
+		"oF": 0
+		},
+	"/_pubs/680340_white_hart/whats-on/680340_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680340_white_hart/whats-on/680340_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/_site/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
@@ -12414,6 +12635,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_site/assets/img/SS19.gif": {
+		"ft": 4194304,
+		"iS": 2558755,
+		"oA": 0,
+		"oAP": "/_site/assets/img/SS19.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"/_site/assets/img/SundayPromoHero.jpg": {
 		"ft": 16384,
 		"iS": 452713,
@@ -12678,6 +12907,36 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/_site/assets/js/680333cockinn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/_site/assets/js/680340whitehart-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680340whitehart-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680340whitehart.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680340whitehart-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680340whitehart.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/_site/assets/js/680340whitehart-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -17600,6 +17859,71 @@
 		"oAP": "/_site/pubs/680333_cock/whats-on/680333_whatson.html",
 		"oF": 0
 		},
+	"/_site/pubs/680340_white_hart/680340_white_hart.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680340_white_hart/680340_white_hart.html",
+		"oF": 0
+		},
+	"/_site/pubs/680340_white_hart/about/680340_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680340_white_hart/about/680340_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680340_white_hart/assets/cock_sm.jpg": {
+		"ft": 16384,
+		"iS": 160149,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680340_white_hart/assets/cock_sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680340_white_hart/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680340_white_hart/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680340_white_hart/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680340_white_hart/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680340_white_hart/find/680340_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680340_white_hart/find/680340_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680340_white_hart/whats-on/680340_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680340_white_hart/whats-on/680340_whatson.html",
+		"oF": 0
+		},
 	"/_site/pubs/cock-inn-oughtibridge/about/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -22064,6 +22388,102 @@
 		"oAP": "/_site/pubs/the-woolpack-yeadon/whats-on/thursday.html",
 		"oF": 0
 		},
+	"/_site/pubs/white-hart-hough/about/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/about/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/find/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/find/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/white-hart-hough/whats-on/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/white-hart-hough/whats-on/index.html",
+		"oF": 0
+		},
 	"/_site/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -22786,6 +23206,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/img/SS19.gif": {
+		"ft": 4194304,
+		"iS": 2558755,
+		"oA": 0,
+		"oAP": "/assets/img/SS19.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"/assets/img/SundayPromoHero.jpg": {
 		"ft": 16384,
 		"iS": 452713,
@@ -23050,6 +23478,36 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/assets/js/680333cockinn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/assets/js/680340whitehart-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680340whitehart-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680340whitehart.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680340whitehart-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680340whitehart.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/js/680340whitehart-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
