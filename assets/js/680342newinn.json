@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.0305419,
+        53.6015292        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The New Inn",
+        "phone": "01302 841614",
+        "web": "<a href=\"#680342\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}

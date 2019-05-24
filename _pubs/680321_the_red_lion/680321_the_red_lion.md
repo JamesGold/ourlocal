@@ -25,21 +25,21 @@ googlemap-link: https://www.google.com/maps/place/The+Red+Lion/@52.0942239,1.317
 pub_map: 680321redlion.js
 pub_map_json: 680321redlion.json
 
-wall_id:
+wall_id: 47202
 matchpint_id:
 
 
-pubimg_location: placeholder3-sm.jpg
-pubhomepage_image1: 
-pubhomepage_image1_alt_text: The Red Lion. A Great local pub in Woodbridge
+pubimg_location: TheRedLionWoodbridge1200x700.jpg
+pubhomepage_image1: TheRedLionWoodbridge1000x666-3.jpg
+pubhomepage_image1_alt_text: The Red Lion. A Great local pub in Woodbridge with a fantastic beer garden.
  
-pubhomepage_image2: 
-pubhomepage_image2_alt_text: 
+pubhomepage_image2: TheRedLionWoodbridge1000x666-5.jpg
+pubhomepage_image2_alt_text: The Red Lion. A welcoming local pub in Woodbridge
 
 heromain: The Red Lion
 herosub: welcomes you
 
-hero_img: placeholder3.jpg
+hero_img: TheRedLionWoodbridge1200x720.jpg
 
 
 promo-menu-link:

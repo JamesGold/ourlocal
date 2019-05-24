@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-0.7709859,
+        50.8366237        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "the Four Chesnuts",
+        "phone": "01243 786855",
+        "web": "<a href=\"#680211\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}

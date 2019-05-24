@@ -4,3 +4,4 @@ _site
 /sass/.sass-cache
 .idea/
 web.config
+config.codekit3

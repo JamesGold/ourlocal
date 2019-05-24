@@ -14,15 +14,15 @@ pub_nav: 680318NottinghamArms
 
 pub_map: nottinghamarms.js
 pub_map_json: nottinghamarms.json
-wall_id:
+wall_id: 47338
 
 pub_addressStreet: 130A High St
 pub_addressLocality: Tewkesbury
 pub_addressRegion: UK
-pub_addressPostcode: GL20 5JR
+pub_addressPostcode: GL20 5JU
 
 pub_email: info@nottinghamarms-tewkesbury.co.uk
-pub_phone: 01684 276346
+pub_phone: 01684 491514
 
 googlemap-link: https://www.google.com/maps/place/The+Nottingham+Arms/@51.9937363,-2.1571025,21z/data=!4m5!3m4!1s0x0:0xc7fc49572fbb0803!8m2!3d51.9937652!4d-2.1569952
 
@@ -42,7 +42,16 @@ secondary-promo-menu-link:
 
 promo-block-1: new-menu
 promo-block-2: 
-promo-block-3: 
+promo-block-3:
+
+
+rotw-mon:
+rotw-tue:
+rotw-wed:
+rotw-thu: <strong>Quiz Night</strong> from 8:30pm
+rotw-fri:
+rotw-sat:
+rotw-sun: <strong>Live Entertainment</strong> from 8:30pm
 
 ---
 

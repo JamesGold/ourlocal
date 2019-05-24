@@ -47,7 +47,7 @@ promo-block-1: new-menu
 promo-block-2: 
 promo-block-3:
 
-opening: 20th April
+opening: 
 
 room_booking_url: http://securebooking.eviivo.com/mywebsite/queens_head_rothbury
 

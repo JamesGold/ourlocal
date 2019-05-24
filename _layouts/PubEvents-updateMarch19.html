@@ -47,7 +47,6 @@
 	
 			<div class="news-container">
 	 
-				{{ content }} <!-- used to fill in if no ROTW posts exist -->		
 		
 				{% if pubdetails.rotw-mon %}
 					<p>Monday:<br /> {{ pubdetails.rotw-mon }}<hr/></p>
@@ -73,9 +72,13 @@
 					<p>Saturday:<br />  {{ pubdetails.rotw-sat }}<hr/></p>
 				{% endif %}
 				
-				{% if pubdetails.rotw-sun3 %}
+				{% if pubdetails.rotw-sun %}
 					<p>Sunday:<br />  {{ pubdetails.rotw-sun }}<hr/></p>
-				{% endif %}					
+				{% endif %}	
+				
+				{{ content }} <!-- used to fill in if no ROTW posts exist -->		
+
+								
 			</div>			
 			 
 				

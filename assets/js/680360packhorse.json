@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-2.1621998,
+        53.2593622        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Pack Horse",
+        "phone": "01625 123456",
+        "web": "<a href=\"#680360\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}
+
