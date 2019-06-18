@@ -37,7 +37,7 @@ pubhomepage_image2:
 pubhomepage_image2_alt_text: 
 heromain: The Pack Horse
 herosub: welcomes you
-hero_img: placeholder3.jpg
+hero_img: placeholder4.jpg
 
 
 promo-menu-link:
@@ -63,7 +63,7 @@ rotw-sun:
 
 **At the Pack Horse in Macclesfield, we pride ourselves on catering for all your needs in a warm and welcoming environment.**
 
-Our friendly staff will ensure the Pack Horse feels like your home from home – serving you with our fantastic range of drinks and tasty food from our seasonal menu.
+Our friendly staff will ensure the Pack Horse feels like your home from home – serving you with our fantastic range of drinks.
 
 We’ll ensure that the Pack Horse is somewhere you’re always able to relax, whether by yourself, with friends or with family. 
 

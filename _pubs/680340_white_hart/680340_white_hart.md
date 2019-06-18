@@ -18,7 +18,7 @@ pub_addressRegion: Crewe
 pub_addressPostcode: CW2 5JS
 
 pub_email: info@TheWhiteHartHough
-pub_phone: 01270 841467
+pub_phone: 01270 381353
 
 googlemap-link: https://www.google.com/maps/place/The+White+Hart+at+Hough/@53.0567593,-2.4287149,19z/data=!4m12!1m6!3m5!1s0x0:0xb63afcb6fd23fc6f!2sThe+White+Hart+at+Hough!8m2!3d53.056814!4d-2.428735!3m4!1s0x0:0xb63afcb6fd23fc6f!8m2!3d53.056814!4d-2.428735?hl=en-GB
 
@@ -29,15 +29,15 @@ wall_id:
 matchpint_id: 
 
 
-pubimg_location: placeholder3-sm.jpg
-pubhomepage_image1: 
+pubimg_location: Frontage-SM.jpg
+pubhomepage_image1: home-montage.jpg
 pubhomepage_image1_alt_text: The White Hart. A Great local pub in Hough, Crewe 
  
 pubhomepage_image2: 
 pubhomepage_image2_alt_text: The White Hart. A Great local pub in Hough, Crewe
 heromain: The White Hart
 herosub: welcomes you
-hero_img: placeholder3.jpg
+hero_img: Home.jpg
 
 
 promo-menu-link:
