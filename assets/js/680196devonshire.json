@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+       {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+		-1.810487,
+        53.1409087
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "category": "Public House", 
+        "hours": "12:00 noon - 11:00pm", 
+        "description": "Our staff are looking forward to serving you with our new fantastic range of drinks, great offers, delicious menu and events.", 
+        "name": "The Devonshire Arms",
+        "web": "<a href=\"#680196\" class=\"viewit\">View this Pub</a>"
+
+      }
+    }
+    
+    ]
+}

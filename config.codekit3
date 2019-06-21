@@ -1209,6 +1209,22 @@
 		"oAP": "/_data/pubnavs/680192westriding.yml",
 		"oF": 0
 		},
+	"/_data/pubnavs/680196devonshire": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680196devonshire",
+		"oF": 0
+		},
+	"/_data/pubnavs/680196devonshire.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680196devonshire.yml",
+		"oF": 0
+		},
 	"/_data/pubnavs/680211fourchesnuts.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -1297,6 +1313,14 @@
 		"oAP": "/_data/pubnavs/680333cockinn.yml",
 		"oF": 0
 		},
+	"/_data/pubnavs/680338bedeslea.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680338bedeslea.yml",
+		"oF": 0
+		},
 	"/_data/pubnavs/680340whitehart.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -1319,6 +1343,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_data/pubnavs/680342newinn.yml",
+		"oF": 0
+		},
+	"/_data/pubnavs/680352pegparrot.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_data/pubnavs/680352pegparrot.yml",
 		"oF": 0
 		},
 	"/_data/pubnavs/680356turnpike.yml": {
@@ -6234,6 +6266,266 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_pubs/680192_west_riding/whats-on/680192_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680196_devonshire_arms/680196_devonshire_arms.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/680196_devonshire_arms.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/680196_devonshire_arms.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/680196_devonshire_arms.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680196_devonshire_arms/about/680196_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/about/680196_about.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/about/680196_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/about/680196_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680196_devonshire_arms/assets/devonshire-arms-sm.jpg": {
+		"ft": 16384,
+		"iS": 100027,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/devonshire-arms-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/assets/devonshire-arms.jpg": {
+		"ft": 16384,
+		"iS": 108186,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/devonshire-arms.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/assets/PLACEHOLDER-HERO.jpg": {
+		"ft": 16384,
+		"iS": 122477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/PLACEHOLDER-HERO.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/assets/placeholder-oldercouple.jpg": {
+		"ft": 16384,
+		"iS": 90225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/placeholder-oldercouple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/assets/placeholder-wine.jpg": {
+		"ft": 16384,
+		"iS": 54557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/placeholder-wine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/assets/placeholder3-sm 2.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/placeholder3-sm 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680196_devonshire_arms/find/680196_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/find/680196_find.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/find/680196_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/find/680196_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/whats-on/680196_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/whats-on/680196_whatson.html",
+		"oF": 0
+		},
+	"/_pubs/680196_devonshire_arms/whats-on/680196_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680196_devonshire_arms/whats-on/680196_whatson.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -12971,6 +13263,288 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/_pubs/680338_bedes_lea/680338_bedes_lea.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/680338_bedes_lea.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/680338_bedes_lea.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/680338_bedes_lea.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680338_bedes_lea/about/680338_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/about/680338_about.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/about/680338_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/about/680338_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680338_bedes_lea/assets/BedesBack-Internal.jpg": {
+		"ft": 16384,
+		"iS": 263565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/BedesBack-Internal.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/bedesbar.jpg": {
+		"ft": 16384,
+		"iS": 119761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/bedesbar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/BedesLeaSm.jpg": {
+		"ft": 16384,
+		"iS": 152348,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/BedesLeaSm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/BedesPool.jpg": {
+		"ft": 16384,
+		"iS": 87871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/BedesPool.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/PLACEHOLDER-HERO.jpg": {
+		"ft": 16384,
+		"iS": 122477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/PLACEHOLDER-HERO.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/placeholder-oldercouple.jpg": {
+		"ft": 16384,
+		"iS": 90225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/placeholder-oldercouple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/placeholder-wine.jpg": {
+		"ft": 16384,
+		"iS": 54557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/placeholder-wine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/placeholder3-sm 2.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/placeholder3-sm 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680338_bedes_lea/find/680338_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/find/680338_find.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/find/680338_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/find/680338_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/whats-on/680338_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/whats-on/680338_whatson.html",
+		"oF": 0
+		},
+	"/_pubs/680338_bedes_lea/whats-on/680338_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680338_bedes_lea/whats-on/680338_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/_pubs/680340_white_hart/680340_white_hart.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -13622,6 +14196,244 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/_pubs/680352_peg_parrot/680352_peg_parrot.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/680352_peg_parrot.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/680352_peg_parrot.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/680352_peg_parrot.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680352_peg_parrot/about/680352_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/about/680352_about.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/about/680352_about.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/about/680352_about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680352_peg_parrot/assets/PLACEHOLDER-HERO.jpg": {
+		"ft": 16384,
+		"iS": 122477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/assets/PLACEHOLDER-HERO.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680352_peg_parrot/assets/placeholder-oldercouple.jpg": {
+		"ft": 16384,
+		"iS": 90225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/assets/placeholder-oldercouple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680352_peg_parrot/assets/placeholder-wine.jpg": {
+		"ft": 16384,
+		"iS": 54557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/assets/placeholder-wine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680352_peg_parrot/assets/placeholder3-sm 2.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/assets/placeholder3-sm 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680352_peg_parrot/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680352_peg_parrot/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_pubs/680352_peg_parrot/find/680352_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/find/680352_find.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/find/680352_find.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/find/680352_find.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/whats-on/680352_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/whats-on/680352_whatson.html",
+		"oF": 0
+		},
+	"/_pubs/680352_peg_parrot/whats-on/680352_whatson.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_pubs/680352_peg_parrot/whats-on/680352_whatson.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/_pubs/680356_turnpike/680356_turnpike.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -13742,15 +14554,7 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_pubs/680356_turnpike/find/680307_find.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_pubs/680356_turnpike/find/680307_find.html",
-		"oF": 0
-		},
-	"/_pubs/680356_turnpike/find/680307_find.md": {
+	"/_pubs/680356_turnpike/find/680356_find.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -13760,7 +14564,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_pubs/680356_turnpike/find/680307_find.html",
+		"oAP": "/_pubs/680356_turnpike/find/680356_find.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -14163,17 +14967,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"/_site/assets/680340whitehart-min-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/_site/assets/680340whitehart-min-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
 		},
 	"/_site/assets/680340whitehart-min.js": {
 		"bF": 0,
@@ -14978,6 +15771,36 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/_site/assets/js/680196devonshire-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680196devonshire-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680196devonshire.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680196devonshire-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680196devonshire.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/_site/assets/js/680196devonshire-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/_site/assets/js/680211fourchesnuts-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -15128,17 +15951,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/_site/assets/js/680319meadowhouse-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/_site/assets/js/680319meadowhouse-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
-		},
 	"/_site/assets/js/680319meadowhouse.js": {
 		"bF": 0,
 		"ft": 64,
@@ -15278,16 +16090,35 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/_site/assets/js/680340whitehart-min.js": {
+	"/_site/assets/js/680338bedeslea-min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
 		"oA": 2,
-		"oAP": "/_site/assets/js/680340whitehart-min-min.js",
+		"oAP": "/_site/assets/js/680338bedeslea-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 1
+		},
+	"/_site/assets/js/680338bedeslea.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680338bedeslea-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680338bedeslea.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/_site/assets/js/680338bedeslea-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"/_site/assets/js/680340whitehart.js": {
 		"bF": 0,
@@ -15364,6 +16195,36 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/_site/assets/js/680342newinn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/_site/assets/js/680352pegparrot-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680352pegparrot-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680352pegparrot.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/js/680352pegparrot-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/_site/assets/js/680352pegparrot.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/_site/assets/js/680352pegparrot-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -16330,16 +17191,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"/_site/assets/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_site/assets/main-min-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"/_site/assets/main.css": {
 		"aP": 1,
@@ -18259,6 +19110,126 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/680192_west_riding/whats-on/680192_whatson.html",
+		"oF": 0
+		},
+	"/_site/pubs/680196_devonshire_arms/680196_devonshire_arms.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/680196_devonshire_arms.html",
+		"oF": 0
+		},
+	"/_site/pubs/680196_devonshire_arms/about/680196_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/about/680196_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/devonshire-arms-sm.jpg": {
+		"ft": 16384,
+		"iS": 100027,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/devonshire-arms-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/devonshire-arms.jpg": {
+		"ft": 16384,
+		"iS": 108186,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/devonshire-arms.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/PLACEHOLDER-HERO.jpg": {
+		"ft": 16384,
+		"iS": 122477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/PLACEHOLDER-HERO.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/placeholder-oldercouple.jpg": {
+		"ft": 16384,
+		"iS": 90225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/placeholder-oldercouple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/placeholder-wine.jpg": {
+		"ft": 16384,
+		"iS": 54557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/placeholder-wine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/placeholder3-sm 2.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/placeholder3-sm 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680196_devonshire_arms/find/680196_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/find/680196_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680196_devonshire_arms/whats-on/680196_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680196_devonshire_arms/whats-on/680196_whatson.html",
 		"oF": 0
 		},
 	"/_site/pubs/680211_four_chesnuts/680211_four_chesnuts.html": {
@@ -20887,6 +21858,148 @@
 		"oAP": "/_site/pubs/680333_cock/whats-on/680333_whatson.html",
 		"oF": 0
 		},
+	"/_site/pubs/680338_bedes_lea/680338_bedes_lea.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/680338_bedes_lea.html",
+		"oF": 0
+		},
+	"/_site/pubs/680338_bedes_lea/about/680338_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/about/680338_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680338_bedes_lea/assets/BedesBack-Internal.jpg": {
+		"ft": 16384,
+		"iS": 263565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/BedesBack-Internal.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/bedesbar.jpg": {
+		"ft": 16384,
+		"iS": 119761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/bedesbar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/BedesLeaSm.jpg": {
+		"ft": 16384,
+		"iS": 152348,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/BedesLeaSm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/BedesPool.jpg": {
+		"ft": 16384,
+		"iS": 87871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/BedesPool.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/PLACEHOLDER-HERO.jpg": {
+		"ft": 16384,
+		"iS": 122477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/PLACEHOLDER-HERO.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/placeholder-oldercouple.jpg": {
+		"ft": 16384,
+		"iS": 90225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/placeholder-oldercouple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/placeholder-wine.jpg": {
+		"ft": 16384,
+		"iS": 54557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/placeholder-wine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/placeholder3-sm 2.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/placeholder3-sm 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680338_bedes_lea/find/680338_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/find/680338_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680338_bedes_lea/whats-on/680338_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680338_bedes_lea/whats-on/680338_whatson.html",
+		"oF": 0
+		},
 	"/_site/pubs/680340_white_hart/680340_white_hart.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -21118,6 +22231,104 @@
 		"oAP": "/_site/pubs/680342_new_inn/whats-on/680342_whatson.html",
 		"oF": 0
 		},
+	"/_site/pubs/680352_peg_parrot/680352_peg_parrot.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/680352_peg_parrot.html",
+		"oF": 0
+		},
+	"/_site/pubs/680352_peg_parrot/about/680352_about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/about/680352_about.html",
+		"oF": 0
+		},
+	"/_site/pubs/680352_peg_parrot/assets/PLACEHOLDER-HERO.jpg": {
+		"ft": 16384,
+		"iS": 122477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/assets/PLACEHOLDER-HERO.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680352_peg_parrot/assets/placeholder-oldercouple.jpg": {
+		"ft": 16384,
+		"iS": 90225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/assets/placeholder-oldercouple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680352_peg_parrot/assets/placeholder-wine.jpg": {
+		"ft": 16384,
+		"iS": 54557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/assets/placeholder-wine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680352_peg_parrot/assets/placeholder3-sm 2.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/assets/placeholder3-sm 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680352_peg_parrot/assets/placeholder3-sm.jpg": {
+		"ft": 16384,
+		"iS": 74386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/assets/placeholder3-sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680352_peg_parrot/assets/placeholder3.jpg": {
+		"ft": 16384,
+		"iS": 74668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/assets/placeholder3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/pubs/680352_peg_parrot/find/680352_find.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/find/680352_find.html",
+		"oF": 0
+		},
+	"/_site/pubs/680352_peg_parrot/whats-on/680352_whatson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/680352_peg_parrot/whats-on/680352_whatson.html",
+		"oF": 0
+		},
 	"/_site/pubs/680356_turnpike/680356_turnpike.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -21199,14 +22410,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"/_site/pubs/680356_turnpike/find/680307_find.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/pubs/680356_turnpike/find/680307_find.html",
-		"oF": 0
 		},
 	"/_site/pubs/680356_turnpike/whats-on/680356_whatson.html": {
 		"cB": 0,
@@ -21375,6 +22578,102 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/bakers-arms-alton/whats-on/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/about/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/about/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/find/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/find/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/bedes-lea-north-baddesley/whats-on/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/bedes-lea-north-baddesley/whats-on/index.html",
 		"oF": 0
 		},
 	"/_site/pubs/boars-head-poynton/about/index.html": {
@@ -21567,6 +22866,102 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/cock-inn-oughtibridge/whats-on/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/about/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/about/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/find/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/find/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/devonshire-arms-hartington-buxton/whats-on/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/devonshire-arms-hartington-buxton/whats-on/index.html",
 		"oF": 0
 		},
 	"/_site/pubs/four-chesnuts-chichester/about/index.html": {
@@ -22055,6 +23450,102 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/pubs/pack-horse-macclesfield/whats-on/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/about/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/about/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/find/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/find/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/kids-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/kids-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/main-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/main-menu.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/starters.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/starters.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/sunday-lunch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/sunday-lunch.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/supper-club.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/supper-club.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/sweets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/sweets.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/food-and-drink/wine.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/food-and-drink/wine.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/index.html",
+		"oF": 0
+		},
+	"/_site/pubs/peg-and-parrot-totton/whats-on/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pubs/peg-and-parrot-totton/whats-on/index.html",
 		"oF": 0
 		},
 	"/_site/pubs/railway-ramsbottom/about/index.html": {
@@ -27575,6 +29066,36 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/assets/js/680196devonshire-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680196devonshire-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680196devonshire.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680196devonshire-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680196devonshire.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/js/680196devonshire-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/assets/js/680211fourchesnuts-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -27864,6 +29385,36 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/assets/js/680338bedeslea-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680338bedeslea-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680338bedeslea.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680338bedeslea-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680338bedeslea.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/js/680338bedeslea-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/assets/js/680340whitehart.js": {
 		"bF": 0,
 		"ft": 64,
@@ -27939,6 +29490,36 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/assets/js/680342newinn-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/assets/js/680352pegparrot-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680352pegparrot-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680352pegparrot.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/assets/js/680352pegparrot-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/680352pegparrot.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/js/680352pegparrot-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
